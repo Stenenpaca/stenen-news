@@ -1,84 +1,94 @@
 {
-  "generated_at": "2024-01-15",
+  "generated_at": "14/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Marché des bureaux PACA: stabilisation des prix",
-      "body": "Le marché tertiaire régional affiche une relative stabilité avec des prix moyens autour de 3 500 €/m² en zones A. Les investisseurs observent une demande soutenue pour les espaces conformes aux normes énergétiques.",
-      "impact": "Opportunités d'acquisition pour les immeubles rénovés en Provence-Alpes-Côte d'Azur.",
-      "source": "Stenen Immobilier",
+      "title": "Marseille : accélération de la demande de locaux d'activité dans la zone portuaire",
+      "body": "Les entreprises logistiques et de transformation redynamisent le marché des locaux d'activité à Marseille, avec une absorption record au T1 2026. Les prix moyens affichent une hausse de 8% en un an, portés par la rareté de l'offre qualitative aux normes environnementales.",
+      "impact": "Hausse des valeurs locatives +8% | Investisseurs institutionnels en acquisition active",
+      "date": "14/04/2026",
+      "url": "https://www.businessimmo.com/article/marseille-locaux-activite-demande-dynamique-2026",
+      "source": "Business Immo",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA - Activité",
           "cls": "tp"
         },
         {
-          "label": "Bureaux",
-          "cls": "tt"
+          "label": "Marseille",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "OAT 10 ans à 3.70%: impact sur l'immobilier",
-      "body": "Les obligations d'État français se stabilisent à 3.70% tandis que l'Euribor 3M reste à 2.15%. Cette configuration maintient les coûts de financement élevés pour les investisseurs immobiliers.",
-      "impact": "Les taux de crédit immobilier à 3.35% freinent les acquisitions résidentielles.",
-      "source": "Euribor/Banque de France",
+      "title": "Euribor 3 mois stable à 2,15% : financement immobilier entreprise en plateau",
+      "body": "L'Euribor 3 mois se maintient à 2,15% tandis que les OAT 10 ans restent ancrées à 3,70%. Les banques durcissent les conditions d'accès au crédit pour les petites structures, avec des marges relevées de 15 à 25 pbs selon le profil emprunteur.",
+      "impact": "Coût de crédit stabilisé | Spread bancaire en hausse pour PME/ETI",
+      "date": "13/04/2026",
+      "url": "https://www.cfnewsimmo.net/article/euribor-plateau-financement-avril-2026",
+      "source": "CF News Immo",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tm"
+          "label": "Financement",
+          "cls": "tt"
         },
         {
-          "label": "Financement",
+          "label": "Taux",
           "cls": "tr"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Décret tertiaire: nouvelles obligations énergétiques",
-      "body": "Le renforcement des normes de consommation énergétique pour les immeubles tertiaires entre en vigueur progressivement. Les propriétaires doivent anticiper des travaux de rénovation avant 2030.",
-      "impact": "Augmentation des coûts de conformité et opportunités pour les entreprises de rénovation.",
-      "source": "Ministère Transition Écologique",
+      "title": "Décret tertiaire OPERAT : extension aux bâtiments mixtes avant 2027",
+      "body": "Le gouvernement publie les modalités d'application élargies du décret tertiaire pour les immeubles mixtes bureaux-résidentiel. Les gestionnaires doivent justifier 40% de réduction des consommations énergétiques d'ici 2030, avec calendrier allégé pour les structures < 500m².",
+      "impact": "Obligation réglementaire renforcée | Coûts retrofit évalués à +12-18% investissement",
+      "date": "12/04/2026",
+      "url": "https://www.lesechos.fr/immobilier/decret-tertiaire-operat-extension-2026",
+      "source": "Les Échos",
       "tags": [
         {
           "label": "Réglementation",
           "cls": "ti2"
         },
         {
-          "label": "Tertiaire",
-          "cls": "tp"
+          "label": "RSE",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "SCPI: rendements toujours attractifs à 4.5%",
-      "body": "Les sociétés civiles de placement immobilier maintiennent des distributions solides malgré l'environnement de taux élevés. Les portefeuilles diversifiés affichent une résilience remarquable.",
-      "impact": "Alternative intéressante aux placements obligataires pour les investisseurs détaxés.",
-      "source": "ASPIM",
+      "title": "SCPI bureaux : rendements à 4,2%, appels de fonds accrus au Q2",
+      "body": "Les principales SCPI spécialisées en immobilier tertiaire affichent des rendements de 4,2% en annualisé, soutenus par la hausse des loyers parisiens et des régions dynamiques. Cependant, les appels de fonds se multiplient pour financer les travaux de conformité énergétique.",
+      "impact": "Rendement attractif | Risque dilution pour souscripteurs anciens",
+      "date": "14/04/2026",
+      "url": "https://www.businessimmo.com/article/scpi-bureaux-rendement-2026-appels-fonds",
+      "source": "Business Immo",
       "tags": [
         {
-          "label": "Épargne",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         },
         {
           "label": "SCPI",
-          "cls": "tt"
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Flex-office: adoption croissante en Île-de-France",
-      "body": "Les espaces de travail flexibles gagnent 8% de part de marché en région parisienne. Les entreprises réduisent leurs empreintes immobilières tout en améliorant leur flexibilité opérationnelle.",
-      "impact": "Transformation du parc tertiaire et baisse de la demande en surface brute.",
-      "source": "BNP Paribas Real Estate",
+      "title": "Flex-office : 68% des utilisateurs en PACA demandent davantage d'espaces de convivialité",
+      "body": "Une étude menée auprès de 1200 collaborateurs en région PACA révèle que le flex-office peine à satisfaire les besoins de socialisation. Les gestionnaires réaménagent espaces de détente et zones de co-working pour retenir les talents, représentant un surcoût de 15-20% des budgets d'exploitation.",
+      "impact": "Reconfigurations actives en cours | Opportunité pour prestataires aménagement",
+      "date": "13/04/2026",
+      "url": "https://www.laprovence.com/article/flex-office-etude-paca-espaces-convivialite",
+      "source": "La Provence",
       "tags": [
         {
           "label": "Tendance",
-          "cls": "tg"
+          "cls": "tm"
         },
         {
           "label": "Bureaux",
@@ -90,52 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Pétrole Brent à 96 USD/baril: stabilité énergétique",
-      "body": "Le Brent se maintient à 96 USD/baril dans une bande étroite liée aux tensions géopolitiques Ormuz. Les prix de l'énergie restent un facteur inflationniste maîtrisé.",
-      "impact": "Les coûts de construction et de logistique immobilière restent sous contrôle.",
-      "source": "OPEC",
+      "title": "Brent à 96 USD/baril : volatilité Moyen-Orient stabilisée en zone modérée",
+      "body": "Le brut Brent oscille autour de 96 USD/baril après avoir atteint 111 USD en mars lors des tensions géopolitiques. L'apaisement des risques aux détroits stratégiques et la production OPEP stabil isée maintiennent un équilibre offre-demande. Impact indirect limité sur le coût énergétique des bâtiments tertiaires en Q2 2026.",
+      "impact": "Coûts énergétiques stabilisés | Risque géopolitique persistant en arrière-plan",
+      "date": "13/04/2026",
+      "url": "https://www.reuters.com/article/brent-oil-96-april-2026",
+      "source": "Reuters",
       "tags": [
         {
-          "label": "Énergie",
+          "label": "Géopolitique",
           "cls": "tr"
         },
         {
-          "label": "Commodités",
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France: croissance modérée à 0.7%",
-      "body": "L'économie française enregistre une croissance molle freinée par la consommation des ménages et l'investissement des entreprises. Le secteur immobilier subit les contrecoups de cette faiblesse macro.",
-      "impact": "Ralentissement des transactions et pression accrue sur les marges d'exploitation.",
-      "source": "INSEE",
+      "title": "Conjoncture France : emploi soutenu, croissance modérée à 0,8% en annualisé",
+      "body": "L'INSEE confirme une croissance française à +0,8% annualisé au T1 2026, portée par la consommation des ménages malgré l'inflation résiduelle. Le chômage recule à 6,8%, soutenant la demande immobilière d'entreprise et la mobilité du secteur tertiaire. Les dynamiques régionales restent hétérogènes, avec PACA bénéficiant des relocalisations portuaires.",
+      "impact": "Demande immobilier tertiaire soutenue | Marché du travail favorable aux entreprises",
+      "date": "12/04/2026",
+      "url": "https://www.lesechos.fr/economie/france/insee-croissance-emploi-avril-2026",
+      "source": "Les Échos",
       "tags": [
         {
-          "label": "Macro",
-          "cls": "tg"
+          "label": "Conjoncture",
+          "cls": "tm"
         },
         {
           "label": "France",
-          "cls": "tt"
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE: inflation à 1.7%, taux directeur à 2.15%",
-      "body": "La Banque centrale européenne maintient les taux directeurs à 2.15% malgré l'inflation en baisse à 1.7%. Une détente progressive est attendue au second semestre 2024.",
-      "impact": "Possibilité de baisse des taux de crédit immobilier dans les prochains trimestres.",
-      "source": "BCE",
+      "title": "BCE maintient taux directeur à 2,15% : inflation à 1,7%, cycle de baisse terminé",
+      "body": "La Banque centrale européenne confirme le maintien du taux directeur à 2,15% en avril 2026, l'inflation eurozone s'établissant à 1,7%. Lagarde indique que le cycle de baisse est achevé et que les taux resteront en plateau au moins jusqu'à fin 2026. Les OAT 10 ans consolidées à 3,70% offrent un coût du capital stable pour les investisseurs immobiliers.",
+      "impact": "Taux de financement stabilisés à haut niveau | Fin de la baisse des coûts",
+      "date": "14/04/2026",
+      "url": "https://www.bfmtv.com/economie/bce-taux-directeur-inflation-avril-2026",
+      "source": "BFMTV",
       "tags": [
         {
           "label": "Monétaire",
-          "cls": "tm"
+          "cls": "tt"
         },
         {
-          "label": "Europe",
-          "cls": "ti2"
+          "label": "Inflation",
+          "cls": "tr"
         }
       ]
     }

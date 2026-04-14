@@ -3,7 +3,7 @@ name: Générer les articles Stenen News
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 5 * * *'
 
 jobs:
   generate:
@@ -19,18 +19,21 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
+          TODAY=$(date '+%d/%m/%Y')
+          TODAY_ISO=$(date '+%Y-%m-%d')
+
           curl -s -X POST https://api.anthropic.com/v1/messages \
             -H "Content-Type: application/json" \
             -H "x-api-key: $ANTHROPIC_API_KEY" \
             -H "anthropic-version: 2023-06-01" \
-            -d '{
-              "model": "claude-haiku-4-5-20251001",
-              "max_tokens": 4000,
-              "messages": [{
-                "role": "user",
-                "content": "Tu es un assistant de veille immobiliere pour Stenen Immobilier Entreprise PACA. Genere 5 articles feed et 3 articles macro. Reponds UNIQUEMENT avec du JSON valide sans markdown ni backticks. Sois concis: titres max 70 car, corps max 2 phrases, impact max 1 phrase. Format: {\"generated_at\":\"aujourd_hui\",\"feed\":[{\"id\":\"f1\",\"title\":\"Titre\",\"body\":\"Corps.\",\"impact\":\"Impact.\",\"source\":\"Source\",\"tags\":[{\"label\":\"PACA\",\"cls\":\"tp\"}]}],\"macro\":[{\"id\":\"m1\",\"title\":\"Titre\",\"body\":\"Corps.\",\"impact\":\"Impact.\",\"source\":\"Source\",\"tags\":[{\"label\":\"Geo\",\"cls\":\"tg\"}]}]}. Classes: tg=orange, tt=teal, tm=vert, tr=amber, ti2=purple, tp=teal. Feed: 1 marche PACA bureaux, 1 taux OAT Euribor, 1 decret tertiaire, 1 SCPI, 1 flex-office. Macro: 1 Brent Ormuz, 1 conjoncture France, 1 BCE inflation. Donnees: Brent 96usd, OAT 3.70pct, Euribor3M 2.15pct, BCE 2.15pct, BTC 62500EUR, inflation 1.7pct, credit 3.35pct."
+            -d "{
+              \"model\": \"claude-haiku-4-5-20251001\",
+              \"max_tokens\": 4000,
+              \"messages\": [{
+                \"role\": \"user\",
+                \"content\": \"Tu es un assistant de veille immobiliere pour Stenen Immobilier Entreprise PACA (bureaux, locaux activite, commerce). Nous sommes le $TODAY. Genere 5 articles feed et 3 articles macro bases sur des actualites REELLES et RECENTES de moins de 48h. Chaque article DOIT avoir une date de publication reelle et une URL vers la source originale. Reponds UNIQUEMENT avec du JSON valide sans markdown ni backticks. Format: {\\\"generated_at\\\":\\\"$TODAY\\\",\\\"feed\\\":[{\\\"id\\\":\\\"f1\\\",\\\"title\\\":\\\"Titre\\\",\\\"body\\\":\\\"Corps 2 phrases.\\\",\\\"impact\\\":\\\"Impact transaction.\\\",\\\"date\\\":\\\"14/04/2026\\\",\\\"url\\\":\\\"https://www.businessimmo.com/...\\\",\\\"source\\\":\\\"Business Immo\\\",\\\"tags\\\":[{\\\"label\\\":\\\"PACA\\\",\\\"cls\\\":\\\"tp\\\"}]}],\\\"macro\\\":[{\\\"id\\\":\\\"m1\\\",\\\"title\\\":\\\"Titre\\\",\\\"body\\\":\\\"Corps.\\\",\\\"impact\\\":\\\"Impact CRE.\\\",\\\"date\\\":\\\"14/04/2026\\\",\\\"url\\\":\\\"https://...\\\",\\\"source\\\":\\\"Source\\\",\\\"tags\\\":[{\\\"label\\\":\\\"Geo\\\",\\\"cls\\\":\\\"tg\\\"}]}]}. Classes tags: tg=orange, tt=teal, tm=vert, tr=amber, ti2=purple, tp=teal. Feed couvre: 1 marche PACA bureaux locaux activite commerce, 1 taux OAT Euribor financement, 1 decret tertiaire OPERAT reglementation, 1 SCPI investissement, 1 tendance flex-office utilisateurs. Macro: 1 Brent Ormuz Moyen-Orient, 1 conjoncture France croissance emploi, 1 BCE inflation OAT. Sources privilegiees: businessimmo.com, laprovence.com, cfnewsimmo.net, lesechos.fr, lefigaro.fr, bfmtv.com, reuters.com. Donnees marche: Brent 96usd pic 111usd, OAT 3.70pct, Euribor3M 2.15pct, BCE 2.15pct, BTC 62500EUR, inflation 1.7pct, credit 3.35pct. IMPORTANT: les URLs doivent etre des URLs reelles et valides vers des articles existants publie dans les 48 dernieres heures.\"
               }]
-            }' > /tmp/response.json
+            }" > /tmp/response.json
 
           python3 << 'PYEOF'
           import json, sys
@@ -44,7 +47,6 @@ jobs:
 
           text = data['content'][0]['text'].strip()
 
-          # Nettoyer markdown
           for marker in ['```json', '```']:
               if text.startswith(marker):
                   text = text[len(marker):]
@@ -55,6 +57,11 @@ jobs:
           articles = json.loads(text)
           assert 'feed' in articles and len(articles['feed']) > 0
           assert 'macro' in articles and len(articles['macro']) > 0
+
+          # Vérifier que chaque article a date et url
+          for a in articles['feed'] + articles['macro']:
+              if 'date' not in a: a['date'] = ''
+              if 'url' not in a: a['url'] = ''
 
           with open('articles.json', 'w', encoding='utf-8') as f:
               json.dump(articles, f, ensure_ascii=False, indent=2)
@@ -67,5 +74,5 @@ jobs:
           git config user.name "Stenen News Bot"
           git config user.email "bot@stenen.fr"
           git add articles.json
-          git diff --staged --quiet || git commit -m "Articles $(date '+%d/%m/%Y %H:%M')"
+          git diff --staged --quiet || git commit -m "Articles $TODAY"
           git push

@@ -291,7 +291,7 @@ body{height:100%;overflow:hidden;background:#001f2e;color:#f0f4f8;font-family:-a
 // ════════════════════════════════════
 //  ⚙️  COLLE TA CLÉ API ICI
 // ════════════════════════════════════
-// Clé API gérée par GitHub Actions Secrets
+const API_KEY = 'COLLE_TA_CLE_ICI';
 // ════════════════════════════════════
 
 const S = {
@@ -415,17 +415,53 @@ function renderArts(arts, containerId){
   });
 }
 
-// FETCH ARTICLES from articles.json (généré par GitHub Actions)
-async function fetchArticles(){
-  const r = await fetch('./articles.json?t=' + Date.now());
-  if(!r.ok) throw new Error('articles.json introuvable');
-  return await r.json();
+// GENERATE
+async function generate(mkt,fbCtx=''){
+  const today=new Date().toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+  const liked=S.prefs.liked.length?'Sujets préférés : '+S.prefs.liked.join(', ')+'. ':'';
+  const disliked=S.prefs.disliked.length?'À éviter : '+S.prefs.disliked.join(', ')+'. ':'';
+  const btcStr=typeof mkt.btcEur==='number'?Math.round(mkt.btcEur).toLocaleString('fr-FR')+' €':`~${mkt.btcEur} €`;
+  const chg=mkt.btcChange?`${mkt.btcChange>0?'+':''}${mkt.btcChange}% 24h`:'stable';
+
+  const prompt=`Tu es l'assistant de veille immobilière de Stenen Immobilier d'Entreprise, cabinet en conseil/transaction bureaux, locaux d'activité et commerce en région PACA (Aix-Marseille, Nice, Toulon, Avignon).
+
+Données marchés temps réel — ${today} :
+• Brent : ${mkt.brent} $/b (pic 111 $ le 7 avril — trêve Moyen-Orient fragile, Détroit d'Ormuz sous surveillance)
+• OAT 10 ans : ${mkt.oat} % (bond de 3,30 % à 3,87 % en mars — plus haut depuis 2009)
+• Euribor 3 mois : ${mkt.euribor3m} % (stable, réunion BCE le 30 avril)
+• BCE taux dépôt : ${mkt.bce} %
+• Bitcoin BTC/EUR : ${btcStr} (${chg})
+• Inflation France : ${mkt.inflation} %
+• Taux crédit moyen 20 ans : ${mkt.credit} % (+0,10 à +0,30 pt en avril)
+• Taux usure ≥20 ans : ${mkt.usure} %
+• SCPI distribution moyenne : ${mkt.scpi} %
+${fbCtx}${liked}${disliked}
+
+Génère exactement 5 articles "feed" (onglet Actus) et 3 articles "macro" (onglet Macro). Chaque article doit être concret, factuel, actionnable pour un conseil en transaction CRE PACA.
+
+Réponds UNIQUEMENT avec du JSON valide, sans markdown ni backticks. Format :
+{"feed":[{"id":"f1","title":"Titre (max 85 car.)","body":"Corps 2-3 phrases avec chiffres précis","impact":"Impact transaction actionnable 1-2 phrases","source":"Source · Date","tags":[{"label":"PACA","cls":"tp"}]}],"macro":[{"id":"m1","title":"...","body":"...","impact":"...","source":"...","tags":[{"label":"Géopolitique","cls":"tg"}]}]}
+
+Classes tags : tg=géopolitique(orange), tt=taux(teal), tm=marché(vert), tr=réglementation(amber), ti2=investissement(purple), tp=PACA(teal clair).
+Feed : 1 marché PACA, 1 taux/financement, 1 réglementation, 1 SCPI/investissement, 1 tendance utilisateurs.
+Macro : géopolitique+énergie, conjoncture France, BCE+inflation.`;
+
+  const r=await fetch('https://api.anthropic.com/v1/messages',{
+    method:'POST',
+    headers:{'Content-Type':'application/json','x-api-key':API_KEY,'anthropic-version':'2023-06-01','anthropic-dangerous-direct-browser-calls':'true'},
+    body:JSON.stringify({model:'claude-haiku-4-5-20251001',max_tokens:2000,messages:[{role:'user',content:prompt}]})
+  });
+  if(!r.ok)throw new Error(`Erreur API ${r.status} — vérifie ta clé`);
+  const d=await r.json();
+  const raw=d.content[0].text.trim().replace(/^```json\s*/,'').replace(/^```\s*/,'').replace(/\s*```$/,'');
+  return JSON.parse(raw);
 }
 
 // SHOULD REGEN
 function shouldRegen(){
-  // Toujours recharger articles.json (léger, pas d'API)
-  return true;
+  if(!S.lastGen)return true;
+  const last=new Date(S.lastGen),now=new Date();
+  return last.toDateString()!==now.toDateString()||(now-last)/3600000>6;
 }
 
 // SHOW FEED FROM CACHE
@@ -442,7 +478,7 @@ function showFromCache(){
     <div class="sec">CRE · PACA & France</div>
     <div id="feed-arts"></div>
     <div class="rfwrap">
-      <button class="rfbtn" onclick="showRegenInfo()">↻ &nbsp;Actualiser les actus</button>
+      <button class="rfbtn" onclick="forceRegen()">↻ &nbsp;Régénérer les actus</button>
       ${lastFmt?`<div class="lupd">Générée le ${lastFmt}</div>`:''}
     </div>`;
   renderArts(S.articles,'feed-arts');
@@ -458,7 +494,11 @@ function showFromCache(){
   renderArts(S.macros,'macro-arts');
 }
 
-
+function showKeyErr(){
+  const html=`<div class="errbox"><strong>🔑 Clé API manquante</strong>Ouvre <code>index.html</code> dans un éditeur de texte, trouve :<br><code>const API_KEY = 'COLLE_TA_CLE_ICI';</code><br>Remplace <code>COLLE_TA_CLE_ICI</code> par ta vraie clé Anthropic (sk-ant-...), puis re-uploade sur GitHub.</div>`;
+  document.getElementById('feed-content').innerHTML=html;
+  document.getElementById('macro-content').innerHTML=html;
+}
 
 function showErr(msg){
   const html=`<div class="errbox"><strong>⚠️ Erreur</strong>${msg}<button class="rtbtn" onclick="init(true)">↻ Réessayer</button></div>`;
@@ -477,16 +517,15 @@ async function init(force=false){
   if(!force&&!shouldRegen()&&S.articles&&S.macros){
     showFromCache();return;
   }
-  
+  if(API_KEY==='COLLE_TA_CLE_ICI'){showKeyErr();return;}
 
   try{
     step(2);await new Promise(r=>setTimeout(r,350));
     step(3);await new Promise(r=>setTimeout(r,350));
     step(4);
-    const res=await fetchArticles();
-    if(!res.feed || !res.feed.length) throw new Error('Aucun article disponible. Lance la génération depuis GitHub Actions.');
+    const res=await generate(mkt);
     S.articles=res.feed;S.macros=res.macro;
-    S.lastGen=res.generated_at || new Date().toISOString();
+    S.lastGen=new Date().toISOString();
     localStorage.setItem('stn_a',JSON.stringify(res.feed));
     localStorage.setItem('stn_m',JSON.stringify(res.macro));
     localStorage.setItem('stn_lg',S.lastGen);
@@ -525,10 +564,6 @@ function sendFb(){
   S.votes={};localStorage.setItem('stn_v','{}');
   forceRegen();
 }
-function showRegenInfo(){
-  alert("Pour générer de nouveaux articles :\n\n1. Va sur github.com dans ton dépôt stenen-news\n2. Onglet Actions → \'Générer les articles Stenen News\'\n3. Run workflow → Run workflow\n\nLes articles se mettent à jour en 1 minute, puis rouvre l\'app.");
-}
-
 async function forceRegen(){
   document.getElementById('feed-content').innerHTML=`<div class="lw2"><div class="sp"></div><div class="ltt">Régénération…</div><div class="lts">Claude intègre ton feedback et actualise les marchés</div><div class="lsteps"><div class="step act" id="s1">⏳ Cours en temps réel…</div><div class="step" id="s2">⏳ Analyse macro…</div><div class="step" id="s3">⏳ Veille PACA…</div><div class="step" id="s4">⏳ Rédaction…</div></div></div>`;
   document.getElementById('macro-content').innerHTML=`<div class="lw2"><div class="sp"></div><div class="ltt">Mise à jour…</div></div>`;

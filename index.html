@@ -1,1 +1,578 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#003145">
+<title>Stenen News</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+html{height:100%;overflow:hidden}
+body{height:100%;overflow:hidden;background:#001f2e;color:#f0f4f8;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+:root{
+  --navy:#003145;--navy-dark:#001f2e;--navy-mid:#002538;--navy-light:#004060;
+  --orange:#FF5F00;--ora-l:rgba(255,95,0,.13);--ora-b:rgba(255,95,0,.32);
+  --teal:#006884;--tel-l:rgba(0,104,132,.16);--tel-b:rgba(0,104,132,.38);
+  --border:rgba(255,255,255,.07);--border2:rgba(255,255,255,.13);
+  --text:#f0f4f8;--text2:#8fa8c0;--text3:#3d617a;
+  --green:#22c98a;--gn-d:rgba(34,201,138,.12);--gn-b:rgba(34,201,138,.28);
+  --red:#ff5252;--rd-d:rgba(255,82,82,.12);
+  --amber:#f5a623;--am-d:rgba(245,166,35,.12);--am-b:rgba(245,166,35,.28);
+  --blue:#5b9bf8;--bl-d:rgba(91,155,248,.12);
+  --purple:#a78bfa;--pu-d:rgba(167,139,250,.12);
+  --nav-h:58px;
+}
+#app{display:flex;flex-direction:column;height:100%;max-width:540px;margin:0 auto}
 
+/* HDR */
+.hdr{flex-shrink:0;background:var(--navy);border-bottom:3px solid var(--orange);padding:14px 18px 0}
+.hdr-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.lw{display:flex;align-items:center;gap:10px}
+.lm{width:34px;height:34px;background:var(--orange);border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:800;color:#fff;flex-shrink:0}
+.lt{display:flex;flex-direction:column;line-height:1.1}
+.ln{font-size:17px;font-weight:700;color:#fff;letter-spacing:-.3px}
+.ls{font-size:10px;color:rgba(255,255,255,.4);letter-spacing:.5px;text-transform:uppercase}
+.hr{display:flex;align-items:center;gap:8px}
+.lp{display:flex;align-items:center;gap:5px;background:var(--ora-l);border:1px solid var(--ora-b);border-radius:999px;padding:3px 10px}
+.ld{width:6px;height:6px;border-radius:50%;background:var(--orange);animation:pulse 2s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.3;transform:scale(.75)}}
+.lt2{font-size:10px;color:var(--orange);font-weight:700;letter-spacing:.5px}
+.hd{font-size:11px;color:rgba(255,255,255,.35)}
+.tabs{display:flex;overflow-x:auto;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex:1;min-width:62px;text-align:center;padding:9px 4px;font-size:11px;font-weight:400;color:rgba(255,255,255,.35);border-bottom:2px solid transparent;cursor:pointer;white-space:nowrap;transition:all .15s}
+.tab.on{color:#fff;border-bottom-color:var(--orange);font-weight:700}
+
+/* TICKER */
+.tkr{flex-shrink:0;background:var(--navy-dark);border-bottom:1px solid var(--border);overflow:hidden;height:34px;display:flex;align-items:center}
+.ti{display:flex;gap:0;white-space:nowrap}
+.ti.go{animation:scroll 35s linear infinite}
+@keyframes scroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+.tk{display:inline-flex;align-items:center;gap:5px;padding:0 16px;font-size:11px;color:var(--text2)}
+.tl{color:var(--text3);font-size:10px}
+.tv{font-weight:700}
+.cup{color:var(--red)}.cdn{color:var(--green)}.cne{color:var(--amber)}.cte{color:#4db8d4}.cor{color:var(--orange)}
+.ts{color:var(--orange);opacity:.35;margin:0 2px}
+
+/* LAYOUT */
+.content{flex:1;overflow-y:auto;overflow-x:hidden;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+.content::-webkit-scrollbar{display:none}
+.panel{display:none;padding-bottom:calc(var(--nav-h)+16px)}
+.panel.on{display:block}
+
+/* SEC */
+.sec{padding:18px 18px 8px;font-size:9.5px;letter-spacing:1.6px;text-transform:uppercase;color:#4db8d4;font-weight:700}
+.sec::after{content:'';display:block;margin-top:6px;height:1px;background:linear-gradient(to right,var(--tel-b),transparent)}
+
+/* ALERT */
+.ac{margin:14px 14px 0;background:linear-gradient(135deg,rgba(255,95,0,.08),var(--navy-mid));border:1px solid var(--ora-b);border-radius:16px;padding:16px;position:relative;overflow:hidden}
+.ac::before{content:'';position:absolute;top:0;left:0;width:3px;height:100%;background:var(--orange)}
+.ai{font-size:18px;margin-bottom:8px}
+.at{font-size:15px;font-weight:700;color:#fff;line-height:1.3;margin-bottom:8px}
+.ab{font-size:13px;color:var(--text2);line-height:1.65;margin-bottom:10px}
+.ap{display:inline-flex;align-items:center;gap:5px;font-size:10px;background:var(--ora-l);color:var(--orange);border:1px solid var(--ora-b);padding:3px 10px;border-radius:999px;font-weight:600}
+
+/* CARD */
+.card{margin:10px 14px;background:var(--navy-mid);border:1px solid var(--border);border-radius:16px;overflow:hidden;transition:border-color .2s,opacity .2s}
+.card.liked{border-color:var(--ora-b);border-width:1.5px}
+.card.nope{opacity:.28}
+.cb{padding:14px 14px 0}
+.tgs{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:9px}
+.tag{font-size:10px;font-weight:700;padding:2px 9px;border-radius:999px;letter-spacing:.2px}
+.tg{background:var(--ora-l);color:var(--orange);border:1px solid var(--ora-b)}
+.tt{background:var(--tel-l);color:#4db8d4;border:1px solid var(--tel-b)}
+.tm{background:var(--gn-d);color:var(--green)}
+.tr{background:var(--am-d);color:var(--amber)}
+.ti2{background:var(--pu-d);color:var(--purple)}
+.tp{background:rgba(0,104,132,.22);color:#4db8d4}
+.ct{font-size:15px;font-weight:700;color:#fff;line-height:1.35;margin-bottom:9px}
+.cx{font-size:13px;color:var(--text2);line-height:1.65;margin-bottom:10px}
+.imp{background:var(--navy);border-radius:10px;padding:10px 12px;margin-bottom:12px;border-left:2px solid var(--orange)}
+.il{font-size:9.5px;letter-spacing:.8px;text-transform:uppercase;color:var(--orange);font-weight:700;margin-bottom:4px}
+.ix{font-size:12.5px;color:var(--text2);line-height:1.6}
+.cf{display:flex;align-items:center;justify-content:space-between;border-top:1px solid var(--border);padding:9px 14px}
+.cs{font-size:10px;color:var(--text3)}
+.fbr{display:flex;gap:7px}
+.fb{display:flex;align-items:center;gap:4px;font-size:12px;padding:5px 13px;border-radius:999px;border:1px solid var(--border2);background:transparent;color:var(--text3);cursor:pointer;font-family:inherit;transition:all .15s}
+.fb:active{transform:scale(.93)}
+.fb.lk{background:var(--ora-l);color:var(--orange);border-color:var(--ora-b)}
+.fb.nk{background:var(--rd-d);color:var(--red);border-color:rgba(255,82,82,.28)}
+
+/* LOADING */
+.lw2{padding:32px 20px;text-align:center}
+.sp{width:36px;height:36px;border:2px solid var(--border2);border-top-color:var(--orange);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 16px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.ltt{font-size:14px;font-weight:600;color:var(--text);margin-bottom:6px}
+.lts{font-size:12px;color:var(--text3);line-height:1.6}
+.lsteps{margin-top:14px;text-align:left;display:inline-block}
+.step{font-size:12px;color:var(--text3);padding:3px 0;transition:color .3s}
+.step.done{color:var(--green)}
+.step.act{color:var(--orange)}
+
+/* DASH */
+.dg{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:4px 14px 0}
+.dc{background:var(--navy-mid);border:1px solid var(--border);border-radius:14px;padding:14px}
+.dc.full{grid-column:1/-1}
+.dc.ora{border-color:var(--ora-b);background:linear-gradient(135deg,rgba(255,95,0,.07),var(--navy-mid))}
+.dc.tel{border-color:var(--tel-b);background:linear-gradient(135deg,rgba(0,104,132,.1),var(--navy-mid))}
+.dl{font-size:9.5px;letter-spacing:.9px;text-transform:uppercase;color:var(--text3);margin-bottom:7px;font-weight:600}
+.dv{font-size:22px;font-weight:700;line-height:1;margin-bottom:3px}
+.ds{font-size:11px;color:var(--text3)}
+.bw{display:flex;align-items:flex-end;gap:3px;height:36px;margin-top:10px}
+.b{flex:1;border-radius:3px 3px 0 0;min-height:3px}
+.bg{background:var(--green);opacity:.65}.br2{background:var(--red);opacity:.65}
+.ba{background:var(--amber);opacity:.65}.bo{background:var(--orange);opacity:.65}.bt{background:var(--teal);opacity:.65}
+
+/* AGENDA */
+.agcard{margin:0 14px 10px;background:var(--navy-mid);border:1px solid var(--border);border-radius:16px;overflow:hidden}
+.agrow{display:flex;align-items:center;gap:12px;padding:11px 14px;border-bottom:1px solid var(--border)}
+.agrow:last-child{border-bottom:none}
+.agd{font-size:10px;font-weight:700;color:var(--text3);min-width:54px;letter-spacing:.3px}
+.agl{font-size:13px;color:var(--text2);flex:1;line-height:1.3}
+.badge{font-size:10px;padding:2px 8px;border-radius:999px;font-weight:700;white-space:nowrap}
+.bred{background:var(--rd-d);color:var(--red)}.bamb{background:var(--am-d);color:var(--amber)}
+.bora{background:var(--ora-l);color:var(--orange)}.btel{background:var(--tel-l);color:#4db8d4}
+
+/* SRCS */
+.srccard{margin:0 14px 14px;background:var(--navy-mid);border:1px solid var(--border);border-radius:14px;overflow:hidden}
+.srcrow{display:flex;align-items:center;justify-content:space-between;padding:10px 14px;border-bottom:1px solid var(--border);font-size:13px}
+.srcrow:last-child{border-bottom:none}
+.srcn{color:#fff;font-weight:500}
+
+/* FB PANEL */
+.fbbox{margin:14px;background:var(--navy-mid);border:1px solid var(--ora-b);border-radius:16px;padding:18px;position:relative;overflow:hidden}
+.fbbox::before{content:'';position:absolute;top:0;left:0;width:100%;height:3px;background:var(--orange)}
+.fbt{font-size:14px;font-weight:700;color:#fff;margin-bottom:14px;margin-top:4px}
+.fbs{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px solid var(--border)}
+.fbs:last-of-type{border-bottom:none}
+.fbsl{font-size:13px;color:var(--text2)}
+.fbsv{font-size:15px;font-weight:700}
+.sbtn{width:100%;margin-top:14px;padding:14px;background:var(--orange);color:#fff;border:none;border-radius:13px;font-size:14px;font-weight:700;font-family:inherit;cursor:pointer}
+.sbtn:active{opacity:.85;transform:scale(.98)}
+.tcard{margin:0 14px 14px;background:var(--navy-mid);border:1px solid var(--border);border-radius:16px;padding:16px}
+.ttl{font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:#4db8d4;font-weight:700;margin-bottom:12px}
+.tit{display:flex;align-items:center;gap:8px;padding:5px 0;font-size:13px;color:var(--text2)}
+.tdot{width:6px;height:6px;border-radius:50%;background:var(--orange);flex-shrink:0}
+.hcard{margin:0 14px 14px;background:var(--navy-mid);border:1px solid var(--border);border-radius:16px;padding:16px}
+.hrow{display:flex;gap:10px;align-items:flex-start;padding:6px 0}
+.hico{font-size:15px;flex-shrink:0;margin-top:1px}
+.htx{font-size:13px;color:var(--text2);line-height:1.5}
+.htx strong{color:#fff;display:block;margin-bottom:2px}
+.empty{text-align:center;padding:24px 16px;color:var(--text3);font-size:12.5px;line-height:1.7}
+
+/* ERR */
+.errbox{margin:14px;background:var(--rd-d);border:1px solid rgba(255,82,82,.3);border-radius:14px;padding:16px;font-size:13px;color:var(--red);line-height:1.6}
+.errbox strong{display:block;margin-bottom:6px;font-size:14px}
+.rtbtn{width:100%;margin-top:12px;padding:12px;background:var(--orange);color:#fff;border:none;border-radius:12px;font-size:13px;font-weight:700;font-family:inherit;cursor:pointer}
+
+/* REFRESH */
+.rfwrap{padding:12px 14px 0}
+.rfbtn{width:100%;padding:13px;background:var(--navy-light);border:1px solid var(--border2);border-radius:14px;color:var(--text2);font-size:13px;font-family:inherit;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;font-weight:600}
+.rfbtn:active{opacity:.7}
+.lupd{text-align:center;font-size:11px;color:var(--text3);margin-top:8px;padding-bottom:4px}
+
+/* NAV */
+.nav{flex-shrink:0;height:var(--nav-h);background:var(--navy);border-top:1px solid var(--border);display:flex;align-items:center;justify-content:space-around;padding-bottom:env(safe-area-inset-bottom,0)}
+.ni{display:flex;flex-direction:column;align-items:center;gap:3px;font-size:10px;color:rgba(255,255,255,.3);cursor:pointer;padding:4px 14px;transition:color .15s}
+.ni.on{color:var(--orange)}
+.nii{font-size:20px;line-height:1}
+</style>
+</head>
+<body>
+<div id="app">
+
+  <div class="hdr">
+    <div class="hdr-top">
+      <div class="lw">
+        <div class="lm">S</div>
+        <div class="lt">
+          <div class="ln">Stenen News</div>
+          <div class="ls">Immobilier · PACA</div>
+        </div>
+      </div>
+      <div class="hr">
+        <div class="lp"><div class="ld"></div><div class="lt2">LIVE</div></div>
+        <div class="hd" id="hdr-date"></div>
+      </div>
+    </div>
+    <div class="tabs">
+      <div class="tab on" data-panel="feed">📰 Actus</div>
+      <div class="tab" data-panel="macro">🌍 Macro</div>
+      <div class="tab" data-panel="dash">📊 Marchés</div>
+      <div class="tab" data-panel="fb">⭐ Feedback</div>
+    </div>
+  </div>
+
+  <div class="tkr"><div class="ti" id="tkr-inner"><span class="tk"><span class="tl">Chargement</span> <span class="tv">…</span></span></div></div>
+
+  <div class="content">
+
+    <div class="panel on" id="panel-feed">
+      <div id="feed-content">
+        <div class="lw2">
+          <div class="sp"></div>
+          <div class="ltt">Génération du briefing…</div>
+          <div class="lts">Claude analyse les marchés et prépare<br>les actus CRE PACA du jour</div>
+          <div class="lsteps">
+            <div class="step act" id="s1">⏳ Cours en temps réel…</div>
+            <div class="step" id="s2">⏳ Analyse macro & géopolitique…</div>
+            <div class="step" id="s3">⏳ Veille marché PACA…</div>
+            <div class="step" id="s4">⏳ Rédaction des articles…</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel" id="panel-macro">
+      <div id="macro-content">
+        <div class="lw2"><div class="sp"></div><div class="ltt">Analyse macro en cours…</div></div>
+      </div>
+    </div>
+
+    <div class="panel" id="panel-dash">
+      <div class="sec" style="padding-top:18px">Indicateurs temps réel</div>
+      <div class="dg" id="dash-grid">
+        <div class="dc ora full"><div class="dl">Chargement des cours…</div></div>
+      </div>
+      <div class="sec">Agenda réglementaire</div>
+      <div class="agcard">
+        <div class="agrow"><div class="agd">22 avr.</div><div class="agl">Inflation zone euro — 2e publication Eurostat</div><span class="badge bred">⚠ Clé</span></div>
+        <div class="agrow"><div class="agd">30 avr.</div><div class="agl">Réunion Conseil des gouverneurs BCE</div><span class="badge bred">⚠ Clé</span></div>
+        <div class="agrow"><div class="agd">30 juin</div><div class="agl">Révision taux d'usure T2 → T3 2026</div><span class="badge bamb">Crédit</span></div>
+        <div class="agrow"><div class="agd">30 sept.</div><div class="agl">Deadline OPERAT — déclaration consommations 2025</div><span class="badge bora">⚠ Urgent</span></div>
+        <div class="agrow"><div class="agd">11 oct.</div><div class="agl">Audit énergie obligatoire ≥ 2,75 GWh/an</div><span class="badge bora">Régl.</span></div>
+        <div class="agrow"><div class="agd">1 jan. 27</div><div class="agl">BACS obligatoire dès 70 kW — bâtiments tertiaires</div><span class="badge btel">2027</span></div>
+      </div>
+      <div class="sec">Sources surveillées</div>
+      <div class="srccard">
+        <div class="srcrow"><span class="srcn">businessimmo.com</span><span class="badge btel">✓ Actif</span></div>
+        <div class="srcrow"><span class="srcn">laprovence.com/economie</span><span class="badge bamb">Accès direct</span></div>
+        <div class="srcrow"><span class="srcn">cfnewsimmo.net</span><span class="badge btel">✓ Actif</span></div>
+        <div class="srcrow"><span class="srcn">mesinfos.fr</span><span class="badge bamb">En cours</span></div>
+      </div>
+    </div>
+
+    <div class="panel" id="panel-fb">
+      <div class="sec" style="padding-top:18px">Mon feedback</div>
+      <div class="fbbox">
+        <div class="fbt">Résumé de mes votes</div>
+        <div class="fbs"><span class="fbsl">👍 Pertinents</span><span class="fbsv" style="color:var(--orange)" id="cnt-lk">0</span></div>
+        <div class="fbs"><span class="fbsl">👎 Pas pour moi</span><span class="fbsv" style="color:var(--red)" id="cnt-nk">0</span></div>
+        <div class="fbs"><span class="fbsl">Articles notés</span><span class="fbsv" id="cnt-tot">0</span></div>
+        <button class="sbtn" onclick="sendFb()">Régénérer avec mon feedback ↗</button>
+      </div>
+      <div class="tcard">
+        <div class="ttl">Sujets confirmés pertinents</div>
+        <div id="ct-list"><div class="empty">Note des articles pour voir tes préférences ici.</div></div>
+      </div>
+      <div class="hcard">
+        <div class="ttl">Comment ça marche</div>
+        <div class="hrow"><div class="hico">🤖</div><div class="htx"><strong>Génération automatique</strong>Claude génère les articles à chaque ouverture avec les actus du jour et les cours en temps réel.</div></div>
+        <div class="hrow"><div class="hico">👍</div><div class="htx"><strong>Pertinent</strong>Je renforce ce sujet dans les prochaines générations.</div></div>
+        <div class="hrow"><div class="hico">👎</div><div class="htx"><strong>Pas pour moi</strong>Je réduis ou supprime ce type d'article progressivement.</div></div>
+        <div class="hrow"><div class="hico">↗</div><div class="htx"><strong>Régénérer</strong>Lance une nouvelle génération tenant compte de ton feedback.</div></div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="nav">
+    <div class="ni on" id="nav-feed" onclick="sw('feed',this)"><div class="nii">📰</div><div>Actus</div></div>
+    <div class="ni" id="nav-macro" onclick="sw('macro',this)"><div class="nii">🌍</div><div>Macro</div></div>
+    <div class="ni" id="nav-dash" onclick="sw('dash',this)"><div class="nii">📊</div><div>Marchés</div></div>
+    <div class="ni" id="nav-fb" onclick="sw('fb',this)"><div class="nii">⭐</div><div>Feedback</div></div>
+  </div>
+
+</div>
+<script>
+// ════════════════════════════════════
+//  ⚙️  COLLE TA CLÉ API ICI
+// ════════════════════════════════════
+const API_KEY = 'COLLE_TA_CLE_ICI';
+// ════════════════════════════════════
+
+const S = {
+  votes: JSON.parse(localStorage.getItem('stn_v')||'{}'),
+  prefs: JSON.parse(localStorage.getItem('stn_p')||'{"liked":[],"disliked":[]}'),
+  mkt: {},
+  articles: JSON.parse(localStorage.getItem('stn_a')||'null'),
+  macros: JSON.parse(localStorage.getItem('stn_m')||'null'),
+  lastGen: localStorage.getItem('stn_lg')||null,
+};
+const TITLES = {};
+
+// DATE
+(()=>{
+  const d=new Date(),J=['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],M=['jan','fév','mar','avr','mai','jun','jul','aoû','sep','oct','nov','déc'];
+  document.getElementById('hdr-date').textContent=J[d.getDay()]+' '+d.getDate()+' '+M[d.getMonth()]+' '+d.getFullYear();
+})();
+
+// NAV
+function sw(name,el){
+  document.querySelectorAll('.ni').forEach(n=>n.classList.remove('on'));
+  el.classList.add('on');
+  document.querySelectorAll('.panel').forEach(p=>p.classList.remove('on'));
+  document.getElementById('panel-'+name).classList.add('on');
+  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('on',t.dataset.panel===name));
+  document.querySelector('.content').scrollTop=0;
+}
+document.querySelectorAll('.tab').forEach(t=>t.addEventListener('click',function(){
+  const n=this.dataset.panel;
+  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));
+  this.classList.add('on');
+  document.querySelectorAll('.panel').forEach(p=>p.classList.remove('on'));
+  document.getElementById('panel-'+n).classList.add('on');
+  document.querySelectorAll('.ni').forEach(x=>x.classList.toggle('on',x.id==='nav-'+n));
+  document.querySelector('.content').scrollTop=0;
+}));
+
+// STEP
+function step(n){
+  for(let i=1;i<=4;i++){
+    const e=document.getElementById('s'+i);if(!e)continue;
+    if(i<n){e.className='step done';e.textContent=e.textContent.replace('⏳','✅');}
+    else if(i===n){e.className='step act';}
+    else{e.className='step';}
+  }
+}
+
+// MARKETS
+async function fetchMkt(){
+  const m={oat:'3,70',euribor3m:'2,15',bce:'2,15',inflation:'1,7',credit:'3,35',usure:'5,19',scpi:'4,30',brent:'~96'};
+  try{
+    const r=await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=eur,usd&include_24hr_change=true',{signal:AbortSignal.timeout(6000)});
+    const d=await r.json();
+    m.btcEur=d.bitcoin.eur;m.btcUsd=d.bitcoin.usd;
+    m.btcChange=d.bitcoin.eur_24h_change?.toFixed(1);
+  }catch{m.btcEur=62500;m.btcUsd=71000;m.btcChange=null;}
+  try{
+    const r=await fetch('https://query1.finance.yahoo.com/v8/finance/chart/BZ=F?interval=1d&range=1d',{signal:AbortSignal.timeout(5000)});
+    const d=await r.json();
+    const p=d?.chart?.result?.[0]?.meta?.regularMarketPrice;
+    if(p)m.brent=p.toFixed(1);
+  }catch{}
+  return m;
+}
+
+// TICKER
+function buildTkr(m){
+  const btcStr=typeof m.btcEur==='number'?Math.round(m.btcEur).toLocaleString('fr-FR')+' €':`~${m.btcEur} €`;
+  const rows=[
+    {l:'Brent',v:`${m.brent} $/b`,c:'cne',s:'Ormuz'},
+    {l:'OAT 10 ans',v:`${m.oat} %`,c:'cup',s:'↑ mars'},
+    {l:'Euribor 3M',v:`${m.euribor3m} %`,c:'cte',s:'Stable'},
+    {l:'BCE',v:`${m.bce} %`,c:'cdn',s:'30/04'},
+    {l:'BTC/EUR',v:btcStr,c:'cor',s:m.btcChange?`${m.btcChange>0?'+':''}${m.btcChange}% 24h`:''},
+    {l:'Crédit 20 ans',v:`${m.credit} %`,c:'',s:'+0,15 avr.'},
+    {l:'Inflation 🇫🇷',v:`${m.inflation} %`,c:'',s:'énergie'},
+    {l:'SCPI dist.',v:`${m.scpi} %`,c:'cdn',s:'moy.'},
+    {l:'Taux usure',v:`${m.usure} %`,c:'cdn',s:'≥20 ans'},
+  ];
+  const html=[...rows,...rows].map(r=>`<span class="tk"><span class="tl">${r.l}</span> <span class="tv ${r.c}">${r.v}</span> <span style="color:var(--text3);font-size:10px">${r.s}</span> <span class="ts">·</span></span>`).join('');
+  const el=document.getElementById('tkr-inner');el.innerHTML=html;el.classList.add('go');
+}
+
+// DASHBOARD
+function buildDash(m){
+  const btcD=typeof m.btcEur==='number'?Math.round(m.btcEur).toLocaleString('fr-FR')+' €':`~${m.btcEur} €`;
+  const btcS=typeof m.btcUsd==='number'?`~${Math.round(m.btcUsd).toLocaleString('en-US')} $ · ${m.btcChange?`${m.btcChange>0?'+':''}${m.btcChange}% 24h`:''}`:`~${m.btcUsd} $`;
+  document.getElementById('dash-grid').innerHTML=`
+    <div class="dc ora"><div class="dl">Brent</div><div class="dv" style="color:var(--amber)">${m.brent} $</div><div class="ds">Pic 111 $ le 7/04 — trêve fragile</div><div class="bw"><div class="b ba" style="height:38%"></div><div class="b ba" style="height:44%"></div><div class="b ba" style="height:56%"></div><div class="b ba" style="height:50%"></div><div class="b ba" style="height:68%"></div><div class="b ba" style="height:100%"></div><div class="b ba" style="height:83%"></div></div></div>
+    <div class="dc"><div class="dl">OAT 10 ans</div><div class="dv" style="color:var(--red)">${m.oat} %</div><div class="ds">↑ de 3,30 % — plus haut depuis 2009</div><div class="bw"><div class="b bg" style="height:42%"></div><div class="b bg" style="height:48%"></div><div class="b bg" style="height:55%"></div><div class="b br2" style="height:68%"></div><div class="b br2" style="height:82%"></div><div class="b br2" style="height:100%"></div><div class="b br2" style="height:91%"></div></div></div>
+    <div class="dc tel"><div class="dl">Euribor 3 mois</div><div class="dv" style="color:#4db8d4">${m.euribor3m} %</div><div class="ds">Stable · RDV BCE 30 avril</div><div class="bw"><div class="b bt" style="height:60%"></div><div class="b bt" style="height:70%"></div><div class="b bt" style="height:80%"></div><div class="b bt" style="height:88%"></div><div class="b bt" style="height:94%"></div><div class="b bt" style="height:97%"></div><div class="b bt" style="height:100%"></div></div></div>
+    <div class="dc"><div class="dl">BCE (dépôt)</div><div class="dv" style="color:var(--green)">${m.bce} %</div><div class="ds">Stable depuis T3 2025</div></div>
+    <div class="dc ora"><div class="dl">Bitcoin BTC/EUR</div><div class="dv" style="color:var(--orange)">${btcD}</div><div class="ds">${btcS}</div><div class="bw"><div class="b bo" style="height:55%"></div><div class="b bo" style="height:100%"></div><div class="b bo" style="height:50%"></div><div class="b bo" style="height:60%"></div><div class="b bo" style="height:55%"></div><div class="b bo" style="height:68%"></div><div class="b bo" style="height:62%"></div></div></div>
+    <div class="dc"><div class="dl">Taux crédit 20 ans</div><div class="dv" style="color:var(--text)">${m.credit} %</div><div class="ds">+0,10–0,30 pt en avril 2026</div></div>
+    <div class="dc"><div class="dl">Taux d'usure ≥20 ans</div><div class="dv" style="color:var(--green)">${m.usure} %</div><div class="ds">T2 2026 — protecteur</div></div>
+    <div class="dc"><div class="dl">Inflation France</div><div class="dv" style="color:var(--blue)">${m.inflation} %</div><div class="ds">↑ effet énergie / mars 2026</div></div>
+    <div class="dc full"><div class="dl">SCPI France — distribution moyenne 2025</div><div class="dv" style="color:var(--green)">${m.scpi} %</div><div class="ds">TOF moyen 92,97 % · Cap Foncières 6,24 % · Wemo One 15 %+</div></div>
+    <div class="dc full"><div class="dl">Bureaux IDF — taux prime QCA Paris</div><div class="dv" style="color:var(--blue)">&gt; 4,0 %</div><div class="ds">Légèrement au-dessus de 4 % — stabilisation début 2026</div></div>
+  `;
+}
+
+// RENDER ARTICLES
+function renderArts(arts, containerId){
+  if(!arts?.length)return;
+  document.getElementById(containerId).innerHTML=arts.map(a=>`
+    <div class="card" id="${a.id}">
+      <div class="cb">
+        <div class="tgs">${(a.tags||[]).map(t=>`<span class="tag ${t.cls}">${t.label}</span>`).join('')}</div>
+        <div class="ct">${a.title}</div>
+        <div class="cx">${a.body}</div>
+        <div class="imp"><div class="il">Impact transaction</div><div class="ix">${a.impact}</div></div>
+      </div>
+      <div class="cf"><span class="cs">${a.source||''}</span><div class="fbr"><button class="fb" onclick="vote('${a.id}','lk',this)">👍</button><button class="fb" onclick="vote('${a.id}','nk',this)">👎</button></div></div>
+    </div>
+  `).join('');
+  // restore votes
+  Object.entries(S.votes).forEach(([id,type])=>{
+    const card=document.getElementById(id);if(!card)return;
+    card.classList.add(type==='lk'?'liked':'nope');
+    card.querySelectorAll('.fb').forEach(b=>{if((type==='lk'&&b.textContent.includes('👍'))||(type==='nk'&&b.textContent.includes('👎')))b.classList.add(type);});
+  });
+}
+
+// GENERATE
+async function generate(mkt,fbCtx=''){
+  const today=new Date().toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+  const liked=S.prefs.liked.length?'Sujets préférés : '+S.prefs.liked.join(', ')+'. ':'';
+  const disliked=S.prefs.disliked.length?'À éviter : '+S.prefs.disliked.join(', ')+'. ':'';
+  const btcStr=typeof mkt.btcEur==='number'?Math.round(mkt.btcEur).toLocaleString('fr-FR')+' €':`~${mkt.btcEur} €`;
+  const chg=mkt.btcChange?`${mkt.btcChange>0?'+':''}${mkt.btcChange}% 24h`:'stable';
+
+  const prompt=`Tu es l'assistant de veille immobilière de Stenen Immobilier d'Entreprise, cabinet en conseil/transaction bureaux, locaux d'activité et commerce en région PACA (Aix-Marseille, Nice, Toulon, Avignon).
+
+Données marchés temps réel — ${today} :
+• Brent : ${mkt.brent} $/b (pic 111 $ le 7 avril — trêve Moyen-Orient fragile, Détroit d'Ormuz sous surveillance)
+• OAT 10 ans : ${mkt.oat} % (bond de 3,30 % à 3,87 % en mars — plus haut depuis 2009)
+• Euribor 3 mois : ${mkt.euribor3m} % (stable, réunion BCE le 30 avril)
+• BCE taux dépôt : ${mkt.bce} %
+• Bitcoin BTC/EUR : ${btcStr} (${chg})
+• Inflation France : ${mkt.inflation} %
+• Taux crédit moyen 20 ans : ${mkt.credit} % (+0,10 à +0,30 pt en avril)
+• Taux usure ≥20 ans : ${mkt.usure} %
+• SCPI distribution moyenne : ${mkt.scpi} %
+${fbCtx}${liked}${disliked}
+
+Génère exactement 5 articles "feed" (onglet Actus) et 3 articles "macro" (onglet Macro). Chaque article doit être concret, factuel, actionnable pour un conseil en transaction CRE PACA.
+
+Réponds UNIQUEMENT avec du JSON valide, sans markdown ni backticks. Format :
+{"feed":[{"id":"f1","title":"Titre (max 85 car.)","body":"Corps 2-3 phrases avec chiffres précis","impact":"Impact transaction actionnable 1-2 phrases","source":"Source · Date","tags":[{"label":"PACA","cls":"tp"}]}],"macro":[{"id":"m1","title":"...","body":"...","impact":"...","source":"...","tags":[{"label":"Géopolitique","cls":"tg"}]}]}
+
+Classes tags : tg=géopolitique(orange), tt=taux(teal), tm=marché(vert), tr=réglementation(amber), ti2=investissement(purple), tp=PACA(teal clair).
+Feed : 1 marché PACA, 1 taux/financement, 1 réglementation, 1 SCPI/investissement, 1 tendance utilisateurs.
+Macro : géopolitique+énergie, conjoncture France, BCE+inflation.`;
+
+  const r=await fetch('https://api.anthropic.com/v1/messages',{
+    method:'POST',
+    headers:{'Content-Type':'application/json','x-api-key':API_KEY,'anthropic-version':'2023-06-01','anthropic-dangerous-direct-browser-calls':'true'},
+    body:JSON.stringify({model:'claude-haiku-4-5-20251001',max_tokens:2000,messages:[{role:'user',content:prompt}]})
+  });
+  if(!r.ok)throw new Error(`Erreur API ${r.status} — vérifie ta clé`);
+  const d=await r.json();
+  const raw=d.content[0].text.trim().replace(/^```json\s*/,'').replace(/^```\s*/,'').replace(/\s*```$/,'');
+  return JSON.parse(raw);
+}
+
+// SHOULD REGEN
+function shouldRegen(){
+  if(!S.lastGen)return true;
+  const last=new Date(S.lastGen),now=new Date();
+  return last.toDateString()!==now.toDateString()||(now-last)/3600000>6;
+}
+
+// SHOW FEED FROM CACHE
+function showFromCache(){
+  const btcStr=typeof S.mkt.btcEur==='number'?Math.round(S.mkt.btcEur).toLocaleString('fr-FR')+' €':`~${S.mkt.btcEur} €`;
+  const lastFmt=S.lastGen?new Date(S.lastGen).toLocaleString('fr-FR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}):'';
+
+  document.getElementById('feed-content').innerHTML=`
+    <div class="ac"><div class="ai">⚡</div>
+      <div class="at">Brent ${S.mkt.brent} $/b — Détroit d'Ormuz sous surveillance</div>
+      <div class="ab">Trêve annoncée le 8 avril après le pic à 111 $/b. OAT français à ${S.mkt.oat} % — plus haut depuis 2009. Réunion BCE le 30 avril.</div>
+      <div class="ap">📍 Signal actif — impact sur vos dossiers</div>
+    </div>
+    <div class="sec">CRE · PACA & France</div>
+    <div id="feed-arts"></div>
+    <div class="rfwrap">
+      <button class="rfbtn" onclick="forceRegen()">↻ &nbsp;Régénérer les actus</button>
+      ${lastFmt?`<div class="lupd">Générée le ${lastFmt}</div>`:''}
+    </div>`;
+  renderArts(S.articles,'feed-arts');
+
+  document.getElementById('macro-content').innerHTML=`
+    <div class="ac" style="margin-top:14px"><div class="ai">🌍</div>
+      <div class="at">Veille macro — ${new Date().toLocaleDateString('fr-FR',{day:'numeric',month:'long',year:'numeric'})}</div>
+      <div class="ab">Brent ${S.mkt.brent} $/b · OAT ${S.mkt.oat} % · Euribor 3M ${S.mkt.euribor3m} % · BTC ${btcStr}</div>
+      <div class="ap">Mise à jour automatique</div>
+    </div>
+    <div class="sec">Géopolitique & Conjoncture</div>
+    <div id="macro-arts"></div>`;
+  renderArts(S.macros,'macro-arts');
+}
+
+function showKeyErr(){
+  const html=`<div class="errbox"><strong>🔑 Clé API manquante</strong>Ouvre <code>index.html</code> dans un éditeur de texte, trouve :<br><code>const API_KEY = 'COLLE_TA_CLE_ICI';</code><br>Remplace <code>COLLE_TA_CLE_ICI</code> par ta vraie clé Anthropic (sk-ant-...), puis re-uploade sur GitHub.</div>`;
+  document.getElementById('feed-content').innerHTML=html;
+  document.getElementById('macro-content').innerHTML=html;
+}
+
+function showErr(msg){
+  const html=`<div class="errbox"><strong>⚠️ Erreur</strong>${msg}<button class="rtbtn" onclick="init(true)">↻ Réessayer</button></div>`;
+  document.getElementById('feed-content').innerHTML=html;
+  document.getElementById('macro-content').innerHTML=html;
+}
+
+// INIT
+async function init(force=false){
+  step(1);
+  const mkt=await fetchMkt();
+  S.mkt=mkt;
+  buildTkr(mkt);
+  buildDash(mkt);
+
+  if(!force&&!shouldRegen()&&S.articles&&S.macros){
+    showFromCache();return;
+  }
+  if(API_KEY==='COLLE_TA_CLE_ICI'){showKeyErr();return;}
+
+  try{
+    step(2);await new Promise(r=>setTimeout(r,350));
+    step(3);await new Promise(r=>setTimeout(r,350));
+    step(4);
+    const res=await generate(mkt);
+    S.articles=res.feed;S.macros=res.macro;
+    S.lastGen=new Date().toISOString();
+    localStorage.setItem('stn_a',JSON.stringify(res.feed));
+    localStorage.setItem('stn_m',JSON.stringify(res.macro));
+    localStorage.setItem('stn_lg',S.lastGen);
+    showFromCache();
+  }catch(e){showErr(e.message);}
+}
+
+// FEEDBACK
+function vote(id,type,btn){
+  const card=document.getElementById(id);if(!card)return;
+  const pair=btn.parentElement.querySelectorAll('.fb');
+  pair.forEach(b=>b.classList.remove('lk','nk'));
+  if(S.votes[id]===type){delete S.votes[id];card.classList.remove('liked','nope');}
+  else{S.votes[id]=type;card.classList.remove('liked','nope');btn.classList.add(type);card.classList.add(type==='lk'?'liked':'nope');}
+  const t=card.querySelector('.ct');if(t)TITLES[id]=t.textContent;
+  localStorage.setItem('stn_v',JSON.stringify(S.votes));
+  updFb();
+}
+function updFb(){
+  const lks=Object.values(S.votes).filter(v=>v==='lk').length;
+  const nks=Object.values(S.votes).filter(v=>v==='nk').length;
+  document.getElementById('cnt-lk').textContent=lks;
+  document.getElementById('cnt-nk').textContent=nks;
+  document.getElementById('cnt-tot').textContent=Object.keys(S.votes).length;
+  const liked=Object.entries(S.votes).filter(([,v])=>v==='lk').map(([k])=>TITLES[k]).filter(Boolean);
+  document.getElementById('ct-list').innerHTML=liked.length
+    ?liked.map(t=>`<div class="tit"><div class="tdot"></div>${t}</div>`).join('')
+    :'<div class="empty">Note des articles pour voir tes préférences ici.</div>';
+}
+function sendFb(){
+  const liked=Object.entries(S.votes).filter(([,v])=>v==='lk').map(([k])=>TITLES[k]).filter(Boolean);
+  const disliked=Object.entries(S.votes).filter(([,v])=>v==='nk').map(([k])=>TITLES[k]).filter(Boolean);
+  if(liked.length)S.prefs.liked=[...new Set([...S.prefs.liked,...liked])].slice(-12);
+  if(disliked.length)S.prefs.disliked=[...new Set([...S.prefs.disliked,...disliked])].slice(-12);
+  localStorage.setItem('stn_p',JSON.stringify(S.prefs));
+  S.votes={};localStorage.setItem('stn_v','{}');
+  forceRegen();
+}
+async function forceRegen(){
+  document.getElementById('feed-content').innerHTML=`<div class="lw2"><div class="sp"></div><div class="ltt">Régénération…</div><div class="lts">Claude intègre ton feedback et actualise les marchés</div><div class="lsteps"><div class="step act" id="s1">⏳ Cours en temps réel…</div><div class="step" id="s2">⏳ Analyse macro…</div><div class="step" id="s3">⏳ Veille PACA…</div><div class="step" id="s4">⏳ Rédaction…</div></div></div>`;
+  document.getElementById('macro-content').innerHTML=`<div class="lw2"><div class="sp"></div><div class="ltt">Mise à jour…</div></div>`;
+  sw('feed',document.getElementById('nav-feed'));
+  await init(true);
+}
+
+updFb();
+init();
+</script>
+</body>
+</html>

@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#003145">
+<meta name="description" content="Stenen News — Veille immobilier d'entreprise PACA">
+<title>Stenen News</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+html{height:100%;overflow:hidden}
+body{height:100%;overflow:hidden;background:#001f2e;color:#f0f4f8;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+
+/* ── STENEN TOKENS ── */
+:root{
+  /* Charte Stenen */
+  --navy:#003145;
+  --navy-dark:#001f2e;
+  --navy-mid:#002538;
+  --navy-light:#004060;
+  --orange:#FF5F00;
+  --orange-light:rgba(255,95,0,.15);
+  --orange-border:rgba(255,95,0,.35);
+  --teal:#006884;
+  --teal-light:rgba(0,104,132,.18);
+  --teal-border:rgba(0,104,132,.4);
+  --dark:#1A1A2E;
+  --gray:#6B7280;
+  --light-gray:#F1F1F1;
+
+  /* UI tokens */
+  --border:rgba(255,255,255,.07);
+  --border2:rgba(255,255,255,.14);
+  --text:#f0f4f8;
+  --text2:#8fa8c0;
+  --text3:#3d617a;
+  --green:#22c98a;
+  --green-d:rgba(34,201,138,.13);
+  --green-b:rgba(34,201,138,.3);
+  --red:#ff5252;
+  --red-d:rgba(255,82,82,.13);
+  --amber:#f5a623;
+  --amber-d:rgba(245,166,35,.13);
+  --amber-b:rgba(245,166,35,.3);
+  --blue:#5b9bf8;
+  --blue-d:rgba(91,155,248,.13);
+  --purple:#a78bfa;
+  --purple-d:rgba(167,139,250,.13);
+  --nav-h:58px;
+}
+
+/* ── LAYOUT ── */
+#app{display:flex;flex-direction:column;height:100%;max-width:540px;margin:0 auto}
+
+/* ── HEADER ── */
+.hdr{flex-shrink:0;background:var(--navy);border-bottom:3px solid var(--orange);padding:14px 18px 0}
+.hdr-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.logo-wrap{display:flex;align-items:center;gap:10px}
+.logo-mark{width:34px;height:34px;background:var(--orange);border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:800;color:#fff;letter-spacing:-.5px;flex-shrink:0}
+.logo-text{display:flex;flex-direction:column;line-height:1.1}
+.logo-name{font-size:17px;font-weight:700;color:#fff;letter-spacing:-.3px}
+.logo-tag{font-size:10px;color:rgba(255,255,255,.5);letter-spacing:.5px;text-transform:uppercase}
+.hdr-right{display:flex;align-items:center;gap:8px}
+.live-pill{display:flex;align-items:center;gap:5px;background:var(--orange-light);border:1px solid var(--orange-border);border-radius:999px;padding:3px 10px}
+.live-dot{width:6px;height:6px;border-radius:50%;background:var(--orange);animation:pulse 2s ease-in-out infinite;flex-shrink:0}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(.75)}}
+.live-txt{font-size:10px;color:var(--orange);font-weight:600;letter-spacing:.5px}
+.hdr-date{font-size:11px;color:rgba(255,255,255,.4)}
+.tabs{display:flex;overflow-x:auto;scrollbar-width:none;gap:0}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex:1;min-width:62px;text-align:center;padding:9px 4px;font-size:11px;font-weight:400;color:rgba(255,255,255,.4);border-bottom:2px solid transparent;cursor:pointer;white-space:nowrap;transition:all .15s}
+.tab.on{color:#fff;border-bottom-color:var(--orange);font-weight:600}
+
+/* ── TICKER ── */
+.ticker{flex-shrink:0;background:var(--navy-dark);border-bottom:1px solid var(--border);overflow:hidden;height:34px;display:flex;align-items:center}
+.ticker-inner{display:flex;gap:0;animation:scroll 30s linear infinite;white-space:nowrap}
+.ticker-inner:hover{animation-play-state:paused}
+@keyframes scroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+.tick{display:inline-flex;align-items:center;gap:5px;padding:0 18px;font-size:11px;color:var(--text2)}
+.tick-label{color:var(--text3);font-size:10px}
+.tick-val{font-weight:700}
+.c-up{color:var(--red)}
+.c-dn{color:var(--green)}
+.c-neu{color:var(--amber)}
+.c-teal{color:#4db8d4}
+.tick-sep{color:var(--orange);opacity:.4;font-size:14px;margin:0 2px}
+
+/* ── CONTENT ── */
+.content{flex:1;overflow-y:auto;overflow-x:hidden;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+.content::-webkit-scrollbar{display:none}
+.panel{display:none;padding-bottom:calc(var(--nav-h) + 16px)}
+.panel.on{display:block}
+
+/* ── SECTION LABEL ── */
+.sec{padding:18px 18px 8px;font-size:9.5px;letter-spacing:1.6px;text-transform:uppercase;color:var(--teal);font-weight:700}
+.sec::after{content:'';display:block;margin-top:6px;height:1px;background:linear-gradient(to right,var(--teal-border),transparent)}
+
+/* ── ALERT CARD ── */
+.alert-card{margin:14px 14px 0;background:linear-gradient(135deg,rgba(255,95,0,.08),var(--navy-mid));border:1px solid var(--orange-border);border-radius:16px;padding:16px;position:relative;overflow:hidden}
+.alert-card::before{content:'';position:absolute;top:0;left:0;width:3px;height:100%;background:var(--orange)}
+.alert-icon{font-size:18px;margin-bottom:8px}
+.alert-title{font-size:15px;font-weight:700;color:#fff;line-height:1.3;margin-bottom:8px}
+.alert-body{font-size:13px;color:var(--text2);line-height:1.65;margin-bottom:10px}
+.alert-pill{display:inline-flex;align-items:center;gap:5px;font-size:10px;background:var(--orange-light);color:var(--orange);border:1px solid var(--orange-border);padding:3px 10px;border-radius:999px;font-weight:600}
+
+/* ── ARTICLE CARD ── */
+.card{margin:10px 14px;background:var(--navy-mid);border:1px solid var(--border);border-radius:16px;overflow:hidden;transition:border-color .2s,opacity .2s}
+.card.liked{border-color:var(--orange-border);border-width:1.5px}
+.card.nope{opacity:.3}
+.card-body{padding:14px 14px 0}
+.tags{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:9px}
+.tag{font-size:10px;font-weight:700;padding:2px 9px;border-radius:999px;letter-spacing:.2px}
+.tg{background:var(--orange-light);color:var(--orange);border:1px solid var(--orange-border)}
+.tt{background:var(--teal-light);color:#4db8d4;border:1px solid var(--teal-border)}
+.tm{background:var(--green-d);color:var(--green)}
+.tr{background:var(--amber-d);color:var(--amber)}
+.ti{background:var(--purple-d);color:var(--purple)}
+.tp{background:rgba(0,104,132,.25);color:#4db8d4}
+.card-title{font-size:15px;font-weight:700;color:#fff;line-height:1.35;margin-bottom:9px}
+.card-text{font-size:13px;color:var(--text2);line-height:1.65;margin-bottom:10px}
+.impact{background:var(--navy);border-radius:10px;padding:10px 12px;margin-bottom:12px;border-left:2px solid var(--orange)}
+.impact-lbl{font-size:9.5px;letter-spacing:.8px;text-transform:uppercase;color:var(--orange);font-weight:700;margin-bottom:4px}
+.impact-txt{font-size:12.5px;color:var(--text2);line-height:1.6}
+.card-foot{display:flex;align-items:center;justify-content:space-between;border-top:1px solid var(--border);padding:9px 14px}
+.source{font-size:10px;color:var(--text3)}
+.fb-row{display:flex;gap:7px}
+.fb{display:flex;align-items:center;gap:4px;font-size:12px;padding:5px 13px;border-radius:999px;border:1px solid var(--border2);background:transparent;color:var(--text3);cursor:pointer;font-family:inherit;transition:all .15s}
+.fb:active{transform:scale(.93)}
+.fb.lk{background:var(--orange-light);color:var(--orange);border-color:var(--orange-border)}
+.fb.nk{background:var(--red-d);color:var(--red);border-color:rgba(255,82,82,.3)}
+
+/* ── DASHBOARD ── */
+.dg{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:4px 14px 0}
+.dc{background:var(--navy-mid);border:1px solid var(--border);border-radius:14px;padding:14px}
+.dc.full{grid-column:1/-1}
+.dc.orange{border-color:var(--orange-border);background:linear-gradient(135deg,rgba(255,95,0,.07),var(--navy-mid))}
+.dc.teal{border-color:var(--teal-border);background:linear-gradient(135deg,rgba(0,104,132,.12),var(--navy-mid))}
+.dc-lbl{font-size:9.5px;letter-spacing:.9px;text-transform:uppercase;color:var(--text3);margin-bottom:7px;font-weight:600}
+.dc-val{font-size:22px;font-weight:700;line-height:1;margin-bottom:3px}
+.dc-sub{font-size:11px;color:var(--text3)}
+.bar-wrap{display:flex;align-items:flex-end;gap:3px;height:36px;margin-top:10px}
+.b{flex:1;border-radius:3px 3px 0 0;min-height:3px}
+.bg{background:var(--green);opacity:.7}
+.br{background:var(--red);opacity:.7}
+.ba{background:var(--amber);opacity:.7}
+.bo{background:var(--orange);opacity:.7}
+.bt{background:var(--teal);opacity:.7}
+
+/* ── AGENDA ── */
+.agenda-card{margin:0 14px 10px;background:var(--navy-mid);border:1px solid var(--border);border-radius:16px;overflow:hidden}
+.agenda-row{display:flex;align-items:center;gap:12px;padding:11px 14px;border-bottom:1px solid var(--border)}
+.agenda-row:last-child{border-bottom:none}
+.agenda-date{font-size:10px;font-weight:700;color:var(--text3);min-width:54px;letter-spacing:.3px}
+.agenda-label{font-size:13px;color:var(--text2);flex:1;line-height:1.3}
+.badge{font-size:10px;padding:2px 8px;border-radius:999px;font-weight:700;white-space:nowrap}
+.b-red{background:var(--red-d);color:var(--red)}
+.b-amber{background:var(--amber-d);color:var(--amber)}
+.b-orange{background:var(--orange-light);color:var(--orange)}
+.b-teal{background:var(--teal-light);color:#4db8d4}
+
+/* ── SOURCES ── */
+.src-card{margin:0 14px 14px;background:var(--navy-mid);border:1px solid var(--border);border-radius:14px;overflow:hidden}
+.src-row{display:flex;align-items:center;justify-content:space-between;padding:10px 14px;border-bottom:1px solid var(--border);font-size:13px}
+.src-row:last-child{border-bottom:none}
+.src-name{color:#fff;font-weight:500}
+
+/* ── FEEDBACK TAB ── */
+.fb-box{margin:14px;background:var(--navy-mid);border:1px solid var(--orange-border);border-radius:16px;padding:18px;position:relative;overflow:hidden}
+.fb-box::before{content:'';position:absolute;top:0;left:0;width:100%;height:3px;background:var(--orange)}
+.fb-box-title{font-size:14px;font-weight:700;color:#fff;margin-bottom:14px;margin-top:4px}
+.fb-stat{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px solid var(--border)}
+.fb-stat:last-of-type{border-bottom:none;margin-bottom:0}
+.fb-stat-lbl{font-size:13px;color:var(--text2)}
+.fb-stat-val{font-size:15px;font-weight:700}
+.send-btn{width:100%;margin-top:14px;padding:14px;background:var(--orange);color:#fff;border:none;border-radius:13px;font-size:14px;font-weight:700;font-family:inherit;cursor:pointer;letter-spacing:.2px}
+.send-btn:active{opacity:.85;transform:scale(.98)}
+.topics-card{margin:0 14px 14px;background:var(--navy-mid);border:1px solid var(--border);border-radius:16px;padding:16px}
+.topics-title{font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--teal);font-weight:700;margin-bottom:12px}
+.topic-item{display:flex;align-items:center;gap:8px;padding:5px 0;font-size:13px;color:var(--text2)}
+.topic-dot{width:6px;height:6px;border-radius:50%;background:var(--orange);flex-shrink:0}
+.hiw-card{margin:0 14px 14px;background:var(--navy-mid);border:1px solid var(--border);border-radius:16px;padding:16px}
+.hiw-row{display:flex;gap:10px;align-items:flex-start;padding:6px 0}
+.hiw-icon{font-size:15px;flex-shrink:0;margin-top:1px}
+.hiw-text{font-size:13px;color:var(--text2);line-height:1.5}
+.hiw-text strong{color:#fff;display:block;margin-bottom:2px}
+.empty-state{text-align:center;padding:24px 16px;color:var(--text3);font-size:12.5px;line-height:1.7}
+
+/* ── REFRESH ── */
+.refresh-wrap{padding:12px 14px 0}
+.refresh-btn{width:100%;padding:13px;background:var(--navy-light);border:1px solid var(--border2);border-radius:14px;color:var(--text2);font-size:13px;font-family:inherit;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;font-weight:600;letter-spacing:.2px}
+.refresh-btn:active{opacity:.7}
+
+/* ── BOTTOM NAV ── */
+.nav{flex-shrink:0;height:var(--nav-h);background:var(--navy);border-top:1px solid var(--border);display:flex;align-items:center;justify-content:space-around;padding-bottom:env(safe-area-inset-bottom,0)}
+.ni{display:flex;flex-direction:column;align-items:center;gap:3px;font-size:10px;color:rgba(255,255,255,.35);cursor:pointer;padding:4px 14px;transition:color .15s}
+.ni.on{color:var(--orange)}
+.ni-icon{font-size:20px;line-height:1}
+
+/* ── DIVIDER ── */
+.orange-bar{height:2px;background:var(--orange);margin:14px 14px 0;border-radius:1px;opacity:.35}
+</style>
+</head>
+<body>
+<div id="app">
+
+  <!-- HEADER -->
+  <div class="hdr">
+    <div class="hdr-top">
+      <div class="logo-wrap">
+        <div class="logo-mark">S</div>
+        <div class="logo-text">
+          <div class="logo-name">Stenen News</div>
+          <div class="logo-tag">Immobilier · PACA</div>
+        </div>
+      </div>
+      <div class="hdr-right">
+        <div class="live-pill"><div class="live-dot"></div><div class="live-txt">LIVE</div></div>
+        <div class="hdr-date" id="hdr-date"></div>
+      </div>
+    </div>
+    <div class="tabs">
+      <div class="tab on" data-panel="feed">📰 Actus</div>
+      <div class="tab" data-panel="macro">🌍 Macro</div>
+      <div class="tab" data-panel="dash">📊 Marchés</div>
+      <div class="tab" data-panel="fb">⭐ Feedback</div>
+    </div>
+  </div>
+
+  <!-- TICKER -->
+  <div class="ticker">
+    <div class="ticker-inner" id="ticker"></div>
+  </div>
+
+  <!-- CONTENT -->
+  <div class="content">
+
+    <!-- ══ ACTUS ══ -->
+    <div class="panel on" id="panel-feed">
+
+      <div class="alert-card">
+        <div class="alert-icon">⚡</div>
+        <div class="alert-title">Détroit d'Ormuz : trêve fragile, Brent retombé à ~96 $/b</div>
+        <div class="alert-body">Cessez-le-feu annoncé le 8 avril après l'élargissement du conflit aux infrastructures saoudiennes et émiraties. Le Brent est revenu de 111 $ à ~96 $, mais Téhéran maintient la menace de minage du détroit. L'OAT français a atteint 3,87 % fin mars — plus haut depuis 2009.</div>
+        <div class="alert-pill">📍 Signal actif — impact sur vos dossiers</div>
+      </div>
+
+      <div class="sec">CRE · Marché PACA</div>
+
+      <div class="card" id="c-paca1">
+        <div class="card-body">
+          <div class="tags"><span class="tag tp">PACA</span><span class="tag tm">Bureaux</span></div>
+          <div class="card-title">Aix-Marseille : le neuf tient, l'ancien décroche</div>
+          <div class="card-text">Les bureaux neufs ou restructurés (Euroméditerranée, Arbois, Aix centre) maintiennent loyers et attractivité. L'offre secondaire vieillissante accumule vacance et décote — la polarisation qualitative s'accentue en PACA comme à l'échelle nationale.</div>
+          <div class="impact"><div class="impact-lbl">Impact transaction</div><div class="impact-txt">Les actifs anciens en zone secondaire nécessitent une stratégie aggressive (franchise, travaux, loyer réduit) ou un plan de rénovation avant toute commercialisation.</div></div>
+        </div>
+        <div class="card-foot"><span class="source">Business Immo · C&W PACA</span><div class="fb-row"><button class="fb" onclick="vote('c-paca1','lk',this)">👍</button><button class="fb" onclick="vote('c-paca1','nk',this)">👎</button></div></div>
+      </div>
+
+      <div class="card" id="c-logi">
+        <div class="card-body">
+          <div class="tags"><span class="tag tm">Logistique</span></div>
+          <div class="card-title">La logistique navigue en eaux troubles (Business Immo)</div>
+          <div class="card-text">Demande placée en berne et investissements en chute libre début 2026. Le e-commerce ralentit et les grands utilisateurs rationalisent leurs réseaux. En PACA, les plateformes de Fos-sur-Mer et de la vallée du Rhône sont les plus exposées.</div>
+          <div class="impact"><div class="impact-lbl">Impact transaction</div><div class="impact-txt">Opportunité de négociation côté preneurs (loyers, franchises). Côté propriétaires : anticipez des délais de relocation allongés et préparez des concessions commerciales.</div></div>
+        </div>
+        <div class="card-foot"><span class="source">Business Immo · 12 avr. 2026</span><div class="fb-row"><button class="fb" onclick="vote('c-logi','lk',this)">👍</button><button class="fb" onclick="vote('c-logi','nk',this)">👎</button></div></div>
+      </div>
+
+      <div class="sec">Taux & Financement</div>
+
+      <div class="card" id="c-oat">
+        <div class="card-body">
+          <div class="tags"><span class="tag tt">OAT</span><span class="tag tt">BCE</span><span class="tag tt">Euribor</span></div>
+          <div class="card-title">OAT au plus haut depuis 2009 — Euribor 3M stable à 2,15 %</div>
+          <div class="card-text">L'OAT 10 ans a bondi de 3,30 % à 3,87 % en un mois sous l'effet des tensions géopolitiques. Les banques limitent la répercussion à +0,10/+0,30 pt. L'Euribor 3 mois reste à 2,15 % — stable depuis T3 2025. Réunion BCE le 30 avril : signal clé pour la suite.</div>
+          <div class="impact"><div class="impact-lbl">Impact transaction</div><div class="impact-txt">Coût de financement en hausse pour vos clients investisseurs. Taux prime bureaux Paris QCA déjà >4 %. En PACA, recalibrez les business plans avec un taux de capitalisation révisé à la hausse.</div></div>
+        </div>
+        <div class="card-foot"><span class="source">CAFPI · Pretto · Euribor.eu · 11 avr. 2026</span><div class="fb-row"><button class="fb" onclick="vote('c-oat','lk',this)">👍</button><button class="fb" onclick="vote('c-oat','nk',this)">👎</button></div></div>
+      </div>
+
+      <div class="sec">Réglementation</div>
+
+      <div class="card" id="c-operat">
+        <div class="card-body">
+          <div class="tags"><span class="tag tr">Décret tertiaire</span></div>
+          <div class="card-title">OPERAT : deadline 30 sept. 2026 — modulations encore possibles</div>
+          <div class="card-text">Déclaration des consommations 2025 à soumettre avant le 30 septembre. Dernière chance pour déposer un dossier de modulation des objectifs. Non-conformité : 7 500 €/bâtiment + "name & shame" public pour les grands comptes.</div>
+          <div class="impact"><div class="impact-lbl">Impact transaction</div><div class="impact-txt">Proposez un audit OPERAT à vos mandants avant mise sur le marché. Un actif conforme évite toute décote et attire les SCPI exigeantes sur les critères ESG.</div></div>
+        </div>
+        <div class="card-foot"><span class="source">Décret Éco-Énergie Tertiaire · ADEME</span><div class="fb-row"><button class="fb" onclick="vote('c-operat','lk',this)">👍</button><button class="fb" onclick="vote('c-operat','nk',this)">👎</button></div></div>
+      </div>
+
+      <div class="sec">Investisseurs & SCPI</div>
+
+      <div class="card" id="c-scpi">
+        <div class="card-body">
+          <div class="tags"><span class="tag ti">SCPI</span><span class="tag tp">PACA</span></div>
+          <div class="card-title">Cap Foncières & Territoires : 6,24 % en 2025, TOF à 97,94 %</div>
+          <div class="card-text">Cette SCPI régionale (zone Rhône-Alpes Méditerranée, hors IDF) surperforme largement la moyenne marché (4,30 %). Portefeuille : bureaux, locaux d'activités, commerces, éducation. Acquéreur institutionnel actif à cibler pour vos mandats PACA.</div>
+          <div class="impact"><div class="impact-lbl">Impact transaction</div><div class="impact-txt">Identifiez vos mandats multi-locataires bien localisés avec conformité décret tertiaire — approchez leur équipe de gestion pour un arbitrage ou une acquisition off-market.</div></div>
+        </div>
+        <div class="card-foot"><span class="source">FranceSCPI · MeilleureSCPI</span><div class="fb-row"><button class="fb" onclick="vote('c-scpi','lk',this)">👍</button><button class="fb" onclick="vote('c-scpi','nk',this)">👎</button></div></div>
+      </div>
+
+      <div class="refresh-wrap">
+        <button class="refresh-btn" onclick="askRefresh()">↻ &nbsp;Générer une nouvelle édition</button>
+      </div>
+    </div>
+
+    <!-- ══ MACRO ══ -->
+    <div class="panel" id="panel-macro">
+
+      <div class="alert-card" style="margin-top:14px">
+        <div class="alert-icon">🛢️</div>
+        <div class="alert-title">Brent & Ormuz — situation au 14 avril 2026</div>
+        <div class="alert-body">Pic à 111 $/b le 7 avril (attaques sur sites saoudiens et émiratis). Trêve annoncée le 8 avril, cours revenu à ~96 $. Téhéran maintient la menace de minage du détroit d'Ormuz (20 % du pétrole mondial). Scénario défavorable BdF : Brent à 119 $/b, gaz à 87 €/MWh.</div>
+        <div class="alert-pill">Mise à jour : chaque édition</div>
+      </div>
+
+      <div class="sec">Géopolitique & Énergie</div>
+
+      <div class="card" id="m-moyen">
+        <div class="card-body">
+          <div class="tags"><span class="tag tg">Géopolitique</span><span class="tag tg">Énergie</span></div>
+          <div class="card-title">Moyen-Orient : la guerre renchérit les coûts de construction</div>
+          <div class="card-text">La hausse des prix du pétrole et du gaz se répercute sur les matériaux de construction, transports et charges énergétiques. Selon la Banque de France, la remontée des hydrocarbures relève l'inflation de 0,8 à 1,6 point selon les scénarios.</div>
+          <div class="impact"><div class="impact-lbl">Impact CRE</div><div class="impact-txt">Budgets travaux de rénovation/restructuration à réévaluer à la hausse. Les propriétaires engagés dans des programmes RE2020 ou décret tertiaire doivent réviser leurs enveloppes dès maintenant.</div></div>
+        </div>
+        <div class="card-foot"><span class="source">Banque de France · Mars 2026</span><div class="fb-row"><button class="fb" onclick="vote('m-moyen','lk',this)">👍</button><button class="fb" onclick="vote('m-moyen','nk',this)">👎</button></div></div>
+      </div>
+
+      <div class="card" id="m-bdf">
+        <div class="card-body">
+          <div class="tags"><span class="tag tg">Conjoncture</span></div>
+          <div class="card-title">Croissance France 2026 : positive mais investissement des entreprises tassé</div>
+          <div class="card-text">La Banque de France projette une croissance positive mais l'investissement des entreprises ne progresserait que de 0,7 % en 2026. L'incertitude géopolitique et la hausse des coûts font geler les arbitrages immobiliers dans les grandes entreprises.</div>
+          <div class="impact"><div class="impact-lbl">Impact CRE</div><div class="impact-txt">Moins de projets d'expansion et de déménagement. Concentrez-vous sur les mandats de rationalisation de surface — valeur sûre en période d'attentisme des grandes entreprises.</div></div>
+        </div>
+        <div class="card-foot"><span class="source">Banque de France · Mars 2026</span><div class="fb-row"><button class="fb" onclick="vote('m-bdf','lk',this)">👍</button><button class="fb" onclick="vote('m-bdf','nk',this)">👎</button></div></div>
+      </div>
+
+      <div class="card" id="m-bce">
+        <div class="card-body">
+          <div class="tags"><span class="tag tt">BCE</span><span class="tag tg">Inflation</span></div>
+          <div class="card-title">BCE le 30 avril : pas de baisse attendue, inflation à 1,7 %</div>
+          <div class="card-text">La BCE n'a pas bougé depuis juin 2025 (taux dépôt à 2,15 %). L'inflation zone euro projetée à 2,6 % pour 2026. La réunion du 30 avril pourrait confirmer un maintien prolongé, ce qui pèse sur les taux obligataires et le financement immobilier.</div>
+          <div class="impact"><div class="impact-lbl">Impact CRE</div><div class="impact-txt">Pas de détente sur les coûts de financement avant fin 2026 au mieux. Les business plans doivent fonctionner avec des taux stables à 3,5–4 %.</div></div>
+        </div>
+        <div class="card-foot"><span class="source">BCE · Pretto · 13 avr. 2026</span><div class="fb-row"><button class="fb" onclick="vote('m-bce','lk',this)">👍</button><button class="fb" onclick="vote('m-bce','nk',this)">👎</button></div></div>
+      </div>
+
+      <div class="sec">Agenda des échéances</div>
+      <div class="agenda-card">
+        <div class="agenda-row"><div class="agenda-date">22 avr.</div><div class="agenda-label">Inflation zone euro (2e publication)</div><span class="badge b-red">⚠ Clé</span></div>
+        <div class="agenda-row"><div class="agenda-date">30 avr.</div><div class="agenda-label">Réunion Conseil des gouverneurs BCE</div><span class="badge b-red">⚠ Clé</span></div>
+        <div class="agenda-row"><div class="agenda-date">30 juin</div><div class="agenda-label">Révision taux d'usure T2 → T3</div><span class="badge b-amber">Crédit</span></div>
+        <div class="agenda-row"><div class="agenda-date">30 sept.</div><div class="agenda-label">Deadline OPERAT — déclaration 2025</div><span class="badge b-orange">⚠ Urgent</span></div>
+        <div class="agenda-row"><div class="agenda-date">11 oct.</div><div class="agenda-label">Audit énergie obligatoire ≥ 2,75 GWh/an</div><span class="badge b-orange">Régl.</span></div>
+        <div class="agenda-row"><div class="agenda-date">1 jan. 27</div><div class="agenda-label">BACS obligatoire dès 70 kW (bâtiments tertiaires)</div><span class="badge b-teal">2027</span></div>
+      </div>
+    </div>
+
+    <!-- ══ MARCHÉS ══ -->
+    <div class="panel" id="panel-dash">
+      <div class="sec" style="padding-top:18px">Indicateurs clés · 14 avril 2026</div>
+      <div class="dg">
+
+        <div class="dc orange">
+          <div class="dc-lbl">Brent</div>
+          <div class="dc-val" style="color:var(--amber)">~96 $</div>
+          <div class="dc-sub">Pic 111 $ le 7/04</div>
+          <div class="bar-wrap">
+            <div class="b ba" style="height:38%"></div>
+            <div class="b ba" style="height:44%"></div>
+            <div class="b ba" style="height:56%"></div>
+            <div class="b ba" style="height:50%"></div>
+            <div class="b ba" style="height:68%"></div>
+            <div class="b ba" style="height:100%"></div>
+            <div class="b ba" style="height:83%"></div>
+          </div>
+        </div>
+
+        <div class="dc">
+          <div class="dc-lbl">OAT 10 ans</div>
+          <div class="dc-val" style="color:var(--red)">3,70 %</div>
+          <div class="dc-sub">↑ de 3,30 % mars</div>
+          <div class="bar-wrap">
+            <div class="b bg" style="height:42%"></div>
+            <div class="b bg" style="height:48%"></div>
+            <div class="b bg" style="height:55%"></div>
+            <div class="b br" style="height:68%"></div>
+            <div class="b br" style="height:82%"></div>
+            <div class="b br" style="height:100%"></div>
+            <div class="b br" style="height:91%"></div>
+          </div>
+        </div>
+
+        <div class="dc teal">
+          <div class="dc-lbl">Euribor 3 mois</div>
+          <div class="dc-val" style="color:#4db8d4">2,15 %</div>
+          <div class="dc-sub">Stable · RDV BCE 30 avr.</div>
+          <div class="bar-wrap">
+            <div class="b bt" style="height:60%"></div>
+            <div class="b bt" style="height:70%"></div>
+            <div class="b bt" style="height:80%"></div>
+            <div class="b bt" style="height:85%"></div>
+            <div class="b bt" style="height:90%"></div>
+            <div class="b bt" style="height:95%"></div>
+            <div class="b bt" style="height:100%"></div>
+          </div>
+        </div>
+
+        <div class="dc">
+          <div class="dc-lbl">BCE (dépôt)</div>
+          <div class="dc-val" style="color:var(--green)">2,15 %</div>
+          <div class="dc-sub">Stable depuis T3 2025</div>
+        </div>
+
+        <div class="dc orange">
+          <div class="dc-lbl">Bitcoin (BTC/EUR)</div>
+          <div class="dc-val" style="color:var(--orange)">~62 500 €</div>
+          <div class="dc-sub">~71 000 $ · +4,7 % / 30j</div>
+          <div class="bar-wrap">
+            <div class="b bo" style="height:55%"></div>
+            <div class="b bo" style="height:100%"></div>
+            <div class="b bo" style="height:50%"></div>
+            <div class="b bo" style="height:60%"></div>
+            <div class="b bo" style="height:55%"></div>
+            <div class="b bo" style="height:68%"></div>
+            <div class="b bo" style="height:62%"></div>
+          </div>
+        </div>
+
+        <div class="dc">
+          <div class="dc-lbl">Taux crédit 20 ans</div>
+          <div class="dc-val" style="color:var(--text)">3,35 %</div>
+          <div class="dc-sub">+0,10–0,30 pt / avril</div>
+        </div>
+
+        <div class="dc">
+          <div class="dc-lbl">Taux d'usure ≥20 ans</div>
+          <div class="dc-val" style="color:var(--green)">5,19 %</div>
+          <div class="dc-sub">T2 2026 — protecteur</div>
+        </div>
+
+        <div class="dc">
+          <div class="dc-lbl">Inflation France</div>
+          <div class="dc-val" style="color:var(--blue)">1,7 %</div>
+          <div class="dc-sub">↑ effet énergie / mars</div>
+        </div>
+
+        <div class="dc full">
+          <div class="dc-lbl">SCPI France — distribution moyenne 2025</div>
+          <div class="dc-val" style="color:var(--green)">4,30 %</div>
+          <div class="dc-sub">TOF moyen 92,97 % · Cap Foncières 6,24 % · Wemo One 15 %+</div>
+        </div>
+
+        <div class="dc full">
+          <div class="dc-lbl">Bureaux IDF — taux de capitalisation prime QCA Paris</div>
+          <div class="dc-val" style="color:var(--blue)">&gt; 4,0 %</div>
+          <div class="dc-sub">Légèrement au-dessus de 4 % — stabilisation début 2026</div>
+        </div>
+
+      </div>
+
+      <div class="sec">Sources surveillées</div>
+      <div class="src-card">
+        <div class="src-row"><span class="src-name">businessimmo.com</span><span class="badge b-teal">✓ Actif</span></div>
+        <div class="src-row"><span class="src-name">laprovence.com/economie</span><span class="badge b-amber">Accès direct</span></div>
+        <div class="src-row"><span class="src-name">cfnewsimmo.net</span><span class="badge b-teal">✓ Actif</span></div>
+        <div class="src-row"><span class="src-name">mesinfos.fr</span><span class="badge b-amber">En cours</span></div>
+      </div>
+    </div>
+
+    <!-- ══ FEEDBACK ══ -->
+    <div class="panel" id="panel-fb">
+      <div class="sec" style="padding-top:18px">Mon feedback · édition du 14/04</div>
+
+      <div class="fb-box">
+        <div class="fb-box-title">Résumé de tes votes</div>
+        <div class="fb-stat"><span class="fb-stat-lbl">👍 Pertinents</span><span class="fb-stat-val" style="color:var(--orange)" id="cnt-lk">0</span></div>
+        <div class="fb-stat"><span class="fb-stat-lbl">👎 Pas pour moi</span><span class="fb-stat-val" style="color:var(--red)" id="cnt-nk">0</span></div>
+        <div class="fb-stat"><span class="fb-stat-lbl">Articles restants</span><span class="fb-stat-val" id="cnt-rem">8</span></div>
+        <button class="send-btn" onclick="sendFb()">Envoyer à Claude pour affiner ↗</button>
+      </div>
+
+      <div class="topics-card">
+        <div class="topics-title">Sujets confirmés pertinents</div>
+        <div id="ct-list"><div class="empty-state">Note des articles dans les onglets Actus & Macro<br>pour voir tes préférences apparaître ici.</div></div>
+      </div>
+
+      <div class="hiw-card">
+        <div class="topics-title">Comment ça marche</div>
+        <div class="hiw-row"><div class="hiw-icon">👍</div><div class="hiw-text"><strong>Pertinent</strong>Je renforce ce sujet dans les prochaines éditions et j'en cherche davantage.</div></div>
+        <div class="hiw-row"><div class="hiw-icon">👎</div><div class="hiw-text"><strong>Pas pour moi</strong>Je réduis ou supprime ce type d'article progressivement.</div></div>
+        <div class="hiw-row"><div class="hiw-icon">↗</div><div class="hiw-text"><strong>Envoyer à Claude</strong>Ton feedback est transmis directement dans la conversation Claude pour affiner la prochaine génération.</div></div>
+      </div>
+    </div>
+
+  </div><!-- /content -->
+
+  <!-- BOTTOM NAV -->
+  <div class="nav">
+    <div class="ni on" id="nav-feed" onclick="switchNav('feed',this)">
+      <div class="ni-icon">📰</div><div>Actus</div>
+    </div>
+    <div class="ni" id="nav-macro" onclick="switchNav('macro',this)">
+      <div class="ni-icon">🌍</div><div>Macro</div>
+    </div>
+    <div class="ni" id="nav-dash" onclick="switchNav('dash',this)">
+      <div class="ni-icon">📊</div><div>Marchés</div>
+    </div>
+    <div class="ni" id="nav-fb" onclick="switchNav('fb',this)">
+      <div class="ni-icon">⭐</div><div>Feedback</div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+// ── DATE ──
+(function(){
+  const d=new Date();
+  const J=['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'];
+  const M=['jan','fév','mar','avr','mai','jun','jul','aoû','sep','oct','nov','déc'];
+  document.getElementById('hdr-date').textContent=J[d.getDay()]+' '+d.getDate()+' '+M[d.getMonth()]+' '+d.getFullYear();
+})();
+
+// ── TICKER ──
+(function(){
+  const rows=[
+    {l:'Brent',v:'~96 $/b',c:'c-neu',s:'↓ pic 111 $'},
+    {l:'OAT 10 ans',v:'3,70 %',c:'c-up',s:'↑ +0,40 pt'},
+    {l:'Euribor 3M',v:'2,15 %',c:'c-teal',s:'Stable'},
+    {l:'BCE',v:'2,15 %',c:'c-dn',s:'RDV 30/04'},
+    {l:'BTC',v:'~62 500 €',c:'c-neu',s:'~71 000 $'},
+    {l:'Crédit 20 ans',v:'3,35 %',c:'',s:'+0,15 pt avr.'},
+    {l:'Inflation 🇫🇷',v:'1,7 %',c:'',s:'↑ énergie'},
+    {l:'SCPI dist.',v:'4,30 %',c:'c-dn',s:'France moy.'},
+    {l:'Taux usure',v:'5,19 %',c:'c-dn',s:'≥20 ans T2'},
+    {l:'Brent',v:'~96 $/b',c:'c-neu',s:'↓ pic 111 $'},
+    {l:'OAT 10 ans',v:'3,70 %',c:'c-up',s:'↑ +0,40 pt'},
+    {l:'Euribor 3M',v:'2,15 %',c:'c-teal',s:'Stable'},
+    {l:'BCE',v:'2,15 %',c:'c-dn',s:'RDV 30/04'},
+    {l:'BTC',v:'~62 500 €',c:'c-neu',s:'~71 000 $'},
+    {l:'Crédit 20 ans',v:'3,35 %',c:'',s:'+0,15 pt avr.'},
+    {l:'Inflation 🇫🇷',v:'1,7 %',c:'',s:'↑ énergie'},
+    {l:'SCPI dist.',v:'4,30 %',c:'c-dn',s:'France moy.'},
+    {l:'Taux usure',v:'5,19 %',c:'c-dn',s:'≥20 ans T2'},
+  ];
+  const t=document.getElementById('ticker');
+  t.innerHTML=rows.map(r=>`<span class="tick"><span class="tick-label">${r.l}</span> <span class="tick-val ${r.c}">${r.v}</span> <span style="color:var(--text3);font-size:10px">${r.s}</span> <span class="tick-sep">·</span></span>`).join('');
+})();
+
+// ── NAVIGATION ──
+function switchNav(name,el){
+  document.querySelectorAll('.ni').forEach(n=>n.classList.remove('on'));
+  el.classList.add('on');
+  document.querySelectorAll('.panel').forEach(p=>p.classList.remove('on'));
+  document.getElementById('panel-'+name).classList.add('on');
+  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('on',t.dataset.panel===name));
+  document.querySelector('.content').scrollTop=0;
+}
+document.querySelectorAll('.tab').forEach(tab=>{
+  tab.addEventListener('click',function(){
+    const name=this.dataset.panel;
+    document.querySelectorAll('.tab').forEach(t=>t.classList.remove('on'));
+    this.classList.add('on');
+    document.querySelectorAll('.panel').forEach(p=>p.classList.remove('on'));
+    document.getElementById('panel-'+name).classList.add('on');
+    document.querySelectorAll('.ni').forEach(n=>n.classList.toggle('on',n.id==='nav-'+name));
+    document.querySelector('.content').scrollTop=0;
+  });
+});
+
+// ── FEEDBACK ──
+const TOTAL=8;
+const votes={};
+const TITLES={
+  'c-paca1':'Marché bureaux Aix-Marseille',
+  'c-logi':'Logistique PACA',
+  'c-oat':'OAT / Euribor / Taux',
+  'c-operat':'Décret tertiaire / OPERAT',
+  'c-scpi':'SCPI régionales',
+  'm-moyen':'Géopolitique / Coûts construction',
+  'm-bdf':'Conjoncture / Croissance France',
+  'm-bce':'BCE / Inflation'
+};
+function vote(id,type,btn){
+  const card=document.getElementById(id);
+  const pair=btn.parentElement.querySelectorAll('.fb');
+  pair.forEach(b=>b.classList.remove('lk','nk'));
+  if(votes[id]===type){delete votes[id];card.classList.remove('liked','nope');}
+  else{votes[id]=type;card.classList.remove('liked','nope');btn.classList.add(type);card.classList.add(type==='lk'?'liked':'nope');}
+  updateFb();
+}
+function updateFb(){
+  const lks=Object.values(votes).filter(v=>v==='lk').length;
+  const nks=Object.values(votes).filter(v=>v==='nk').length;
+  document.getElementById('cnt-lk').textContent=lks;
+  document.getElementById('cnt-nk').textContent=nks;
+  document.getElementById('cnt-rem').textContent=TOTAL-Object.keys(votes).length;
+  const liked=Object.entries(votes).filter(([,v])=>v==='lk').map(([k])=>TITLES[k]).filter(Boolean);
+  const list=document.getElementById('ct-list');
+  list.innerHTML=liked.length?liked.map(t=>`<div class="topic-item"><div class="topic-dot"></div>${t}</div>`).join(''):'<div class="empty-state">Note des articles dans les onglets Actus & Macro<br>pour voir tes préférences apparaître ici.</div>';
+}
+function sendFb(){
+  if(!Object.keys(votes).length){alert('Note au moins un article avant d\'envoyer !');return;}
+  const lks=Object.entries(votes).filter(([,v])=>v==='lk').map(([k])=>TITLES[k]).filter(Boolean);
+  const nks=Object.entries(votes).filter(([,v])=>v==='nk').map(([k])=>TITLES[k]).filter(Boolean);
+  const d=new Date();
+  let msg=`Feedback Stenen News du ${d.getDate()}/${d.getMonth()+1}/${d.getFullYear()} :\n`;
+  if(lks.length) msg+=`✅ Pertinents : ${lks.join(', ')}\n`;
+  if(nks.length) msg+=`❌ Pas pertinents : ${nks.join(', ')}\n`;
+  msg+=`Adapte les prochaines éditions en conséquence.`;
+  if(typeof sendPrompt==='function'){sendPrompt(msg);}
+  else{navigator.clipboard?.writeText(msg).catch(()=>{}).finally(()=>{alert('Feedback copié — colle-le dans Claude pour affiner la prochaine édition.');});}
+}
+function askRefresh(){
+  const msg='Génère une nouvelle édition de Stenen News avec les actus du jour : veille macro (Brent, OAT, Euribor 3M, géopolitique, Détroit d\'Ormuz), actus CRE PACA (bureaux, locaux activité, commerce), taux, réglementation et SCPI.';
+  if(typeof sendPrompt==='function'){sendPrompt(msg);}
+  else{navigator.clipboard?.writeText(msg).catch(()=>{}).finally(()=>{alert('Commande copiée — colle-la dans Claude.');});}
+}
+</script>
+</body>
+</html>

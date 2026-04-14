@@ -403,12 +403,18 @@ function renderArts(arts, containerId){
   document.getElementById(containerId).innerHTML=arts.map(a=>`
     <div class="card" id="${a.id}">
       <div class="cb">
-        <div class="tgs">${(a.tags||[]).map(t=>`<span class="tag ${t.cls}">${t.label}</span>`).join('')}</div>
+        <div class="tgs">${(a.tags||[]).map(t=>`<span class="tag ${t.cls}">${t.label}</span>`).join('')}${a.date?`<span style="font-size:10px;color:var(--text3);margin-left:auto;align-self:center">${a.date}</span>`:''}</div>
         <div class="ct">${a.title}</div>
         <div class="cx">${a.body}</div>
         <div class="imp"><div class="il">Impact transaction</div><div class="ix">${a.impact}</div></div>
       </div>
-      <div class="cf"><span class="cs">${a.source||''}</span><div class="fbr"><button class="fb" onclick="vote('${a.id}','lk',this)">👍</button><button class="fb" onclick="vote('${a.id}','nk',this)">👎</button></div></div>
+      <div class="cf">
+        <span class="cs">${a.source||''}</span>
+        <div style="display:flex;align-items:center;gap:8px">
+          ${a.url?`<a href="${a.url}" target="_blank" style="font-size:11px;color:var(--orange);text-decoration:none;border:1px solid var(--ora-b);padding:4px 10px;border-radius:999px">Lire →</a>`:''}
+          <div class="fbr"><button class="fb" onclick="vote('${a.id}','lk',this)">👍</button><button class="fb" onclick="vote('${a.id}','nk',this)">👎</button></div>
+        </div>
+      </div>
     </div>
   `).join('');
   // restore votes

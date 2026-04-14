@@ -294,6 +294,10 @@ body{height:100%;overflow:hidden;background:#001f2e;color:#f0f4f8;font-family:-a
 
 // ════════════════════════════════════
 
+const GITHUB_TOKEN = 'COLLE_TON_TOKEN_ICI';
+const GITHUB_REPO = 'Stenenpaca/stenen-news';
+const WORKFLOW_ID = 'generate.yml';
+
 const S = {
   votes: JSON.parse(localStorage.getItem('stn_v')||'{}'),
   prefs: JSON.parse(localStorage.getItem('stn_p')||'{"liked":[],"disliked":[]}'),
@@ -529,7 +533,36 @@ function sendFb(){
   forceRegen();
 }
 async function forceRegen(){
-  // Recharge articles.json depuis GitHub
+  const btn = document.querySelector('.rfbtn');
+  if(btn){ btn.textContent = '⏳ Génération en cours…'; btn.disabled = true; }
+
+  try {
+    // Déclencher le workflow GitHub Actions
+    const r = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `token ${GITHUB_TOKEN}`,
+        'Accept': 'application/vnd.github.v3+json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ ref: 'main' })
+    });
+
+    if(r.status === 204) {
+      if(btn){ btn.textContent = '⏳ Articles en cours (30s)…'; }
+      // Attendre 35 secondes puis recharger
+      await new Promise(resolve => setTimeout(resolve, 35000));
+      localStorage.removeItem('stn_a');
+      localStorage.removeItem('stn_m');
+      localStorage.removeItem('stn_lg');
+      await init(true);
+    } else {
+      throw new Error(`Erreur GitHub: ${r.status}`);
+    }
+  } catch(e) {
+    if(btn){ btn.textContent = '↻  Actualiser les actus'; btn.disabled = false; }
+    showErr(e.message);
+  }
 
   document.getElementById('feed-content').innerHTML=`<div class="lw2"><div class="sp"></div><div class="ltt">Régénération…</div><div class="lts">Claude intègre ton feedback et actualise les marchés</div><div class="lsteps"><div class="step act" id="s1">⏳ Cours en temps réel…</div><div class="step" id="s2">⏳ Analyse macro…</div><div class="step" id="s3">⏳ Veille PACA…</div><div class="step" id="s4">⏳ Rédaction…</div></div></div>`;
   document.getElementById('macro-content').innerHTML=`<div class="lw2"><div class="sp"></div><div class="ltt">Mise à jour…</div></div>`;

@@ -19,25 +19,19 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          # Appel API Claude et sauvegarde réponse brute
           curl -s -X POST https://api.anthropic.com/v1/messages \
             -H "Content-Type: application/json" \
             -H "x-api-key: $ANTHROPIC_API_KEY" \
             -H "anthropic-version: 2023-06-01" \
             -d '{
               "model": "claude-haiku-4-5-20251001",
-              "max_tokens": 2000,
+              "max_tokens": 4000,
               "messages": [{
                 "role": "user",
-                "content": "Tu es un assistant de veille immobiliere pour Stenen Immobilier Entreprise PACA (bureaux, locaux activite, commerce). Genere 5 articles feed et 3 articles macro. Reponds UNIQUEMENT avec du JSON valide sans markdown ni backticks. Format: {\"generated_at\":\"aujourd_hui\",\"feed\":[{\"id\":\"f1\",\"title\":\"Titre court\",\"body\":\"Corps 2-3 phrases avec chiffres\",\"impact\":\"Impact transaction concret\",\"source\":\"Source Date\",\"tags\":[{\"label\":\"PACA\",\"cls\":\"tp\"}]}],\"macro\":[{\"id\":\"m1\",\"title\":\"Titre\",\"body\":\"Corps\",\"impact\":\"Impact CRE\",\"source\":\"Source\",\"tags\":[{\"label\":\"Geopolitique\",\"cls\":\"tg\"}]}]}. Classes: tg=orange tg, tt=teal, tm=vert, tr=amber, ti2=purple, tp=teal. Feed couvre: marche PACA bureaux, taux financement OAT Euribor, decret tertiaire OPERAT, SCPI investissement, tendance flex-office. Macro couvre: Brent Ormuz conflit Moyen-Orient, conjoncture France croissance, BCE inflation OAT. Donnees: Brent 96usd pic 111usd, OAT 3.70pct, Euribor3M 2.15pct, BCE 2.15pct, BTC 62500EUR, inflation 1.7pct, credit20ans 3.35pct."
+                "content": "Tu es un assistant de veille immobiliere pour Stenen Immobilier Entreprise PACA. Genere 5 articles feed et 3 articles macro. Reponds UNIQUEMENT avec du JSON valide sans markdown ni backticks. Sois concis: titres max 70 car, corps max 2 phrases, impact max 1 phrase. Format: {\"generated_at\":\"aujourd_hui\",\"feed\":[{\"id\":\"f1\",\"title\":\"Titre\",\"body\":\"Corps.\",\"impact\":\"Impact.\",\"source\":\"Source\",\"tags\":[{\"label\":\"PACA\",\"cls\":\"tp\"}]}],\"macro\":[{\"id\":\"m1\",\"title\":\"Titre\",\"body\":\"Corps.\",\"impact\":\"Impact.\",\"source\":\"Source\",\"tags\":[{\"label\":\"Geo\",\"cls\":\"tg\"}]}]}. Classes: tg=orange, tt=teal, tm=vert, tr=amber, ti2=purple, tp=teal. Feed: 1 marche PACA bureaux, 1 taux OAT Euribor, 1 decret tertiaire, 1 SCPI, 1 flex-office. Macro: 1 Brent Ormuz, 1 conjoncture France, 1 BCE inflation. Donnees: Brent 96usd, OAT 3.70pct, Euribor3M 2.15pct, BCE 2.15pct, BTC 62500EUR, inflation 1.7pct, credit 3.35pct."
               }]
             }' > /tmp/response.json
 
-          # Afficher la réponse pour debug
-          echo "=== RÉPONSE API ==="
-          cat /tmp/response.json
-
-          # Extraire les articles
           python3 << 'PYEOF'
           import json, sys
 
@@ -49,9 +43,8 @@ jobs:
               sys.exit(1)
 
           text = data['content'][0]['text'].strip()
-          print(f"Texte reçu: {text[:200]}")
 
-          # Nettoyer si markdown
+          # Nettoyer markdown
           for marker in ['```json', '```']:
               if text.startswith(marker):
                   text = text[len(marker):]
@@ -66,7 +59,7 @@ jobs:
           with open('articles.json', 'w', encoding='utf-8') as f:
               json.dump(articles, f, ensure_ascii=False, indent=2)
 
-          print(f"Succès: {len(articles['feed'])} feed, {len(articles['macro'])} macro")
+          print(f"OK: {len(articles['feed'])} feed, {len(articles['macro'])} macro")
           PYEOF
 
       - name: Commit articles.json

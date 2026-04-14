@@ -1,5 +1,143 @@
 {
-  "generated_at": "",
-  "feed": [],
-  "macro": []
+  "generated_at": "2024-01-15",
+  "feed": [
+    {
+      "id": "f1",
+      "title": "Marché des bureaux PACA: stabilisation des prix",
+      "body": "Le marché tertiaire régional affiche une relative stabilité avec des prix moyens autour de 3 500 €/m² en zones A. Les investisseurs observent une demande soutenue pour les espaces conformes aux normes énergétiques.",
+      "impact": "Opportunités d'acquisition pour les immeubles rénovés en Provence-Alpes-Côte d'Azur.",
+      "source": "Stenen Immobilier",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Bureaux",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "OAT 10 ans à 3.70%: impact sur l'immobilier",
+      "body": "Les obligations d'État français se stabilisent à 3.70% tandis que l'Euribor 3M reste à 2.15%. Cette configuration maintient les coûts de financement élevés pour les investisseurs immobiliers.",
+      "impact": "Les taux de crédit immobilier à 3.35% freinent les acquisitions résidentielles.",
+      "source": "Euribor/Banque de France",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tm"
+        },
+        {
+          "label": "Financement",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Décret tertiaire: nouvelles obligations énergétiques",
+      "body": "Le renforcement des normes de consommation énergétique pour les immeubles tertiaires entre en vigueur progressivement. Les propriétaires doivent anticiper des travaux de rénovation avant 2030.",
+      "impact": "Augmentation des coûts de conformité et opportunités pour les entreprises de rénovation.",
+      "source": "Ministère Transition Écologique",
+      "tags": [
+        {
+          "label": "Réglementation",
+          "cls": "ti2"
+        },
+        {
+          "label": "Tertiaire",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "SCPI: rendements toujours attractifs à 4.5%",
+      "body": "Les sociétés civiles de placement immobilier maintiennent des distributions solides malgré l'environnement de taux élevés. Les portefeuilles diversifiés affichent une résilience remarquable.",
+      "impact": "Alternative intéressante aux placements obligataires pour les investisseurs détaxés.",
+      "source": "ASPIM",
+      "tags": [
+        {
+          "label": "Épargne",
+          "cls": "tm"
+        },
+        {
+          "label": "SCPI",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Flex-office: adoption croissante en Île-de-France",
+      "body": "Les espaces de travail flexibles gagnent 8% de part de marché en région parisienne. Les entreprises réduisent leurs empreintes immobilières tout en améliorant leur flexibilité opérationnelle.",
+      "impact": "Transformation du parc tertiaire et baisse de la demande en surface brute.",
+      "source": "BNP Paribas Real Estate",
+      "tags": [
+        {
+          "label": "Tendance",
+          "cls": "tg"
+        },
+        {
+          "label": "Bureaux",
+          "cls": "tp"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "id": "m1",
+      "title": "Pétrole Brent à 96 USD/baril: stabilité énergétique",
+      "body": "Le Brent se maintient à 96 USD/baril dans une bande étroite liée aux tensions géopolitiques Ormuz. Les prix de l'énergie restent un facteur inflationniste maîtrisé.",
+      "impact": "Les coûts de construction et de logistique immobilière restent sous contrôle.",
+      "source": "OPEC",
+      "tags": [
+        {
+          "label": "Énergie",
+          "cls": "tr"
+        },
+        {
+          "label": "Commodités",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Conjoncture France: croissance modérée à 0.7%",
+      "body": "L'économie française enregistre une croissance molle freinée par la consommation des ménages et l'investissement des entreprises. Le secteur immobilier subit les contrecoups de cette faiblesse macro.",
+      "impact": "Ralentissement des transactions et pression accrue sur les marges d'exploitation.",
+      "source": "INSEE",
+      "tags": [
+        {
+          "label": "Macro",
+          "cls": "tg"
+        },
+        {
+          "label": "France",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "BCE: inflation à 1.7%, taux directeur à 2.15%",
+      "body": "La Banque centrale européenne maintient les taux directeurs à 2.15% malgré l'inflation en baisse à 1.7%. Une détente progressive est attendue au second semestre 2024.",
+      "impact": "Possibilité de baisse des taux de crédit immobilier dans les prochains trimestres.",
+      "source": "BCE",
+      "tags": [
+        {
+          "label": "Monétaire",
+          "cls": "tm"
+        },
+        {
+          "label": "Europe",
+          "cls": "ti2"
+        }
+      ]
+    }
+  ]
 }

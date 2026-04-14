@@ -1,9 +1,9 @@
 name: Générer les articles Stenen News
 
 on:
-  workflow_dispatch:  # Déclenchement manuel via l'app ou GitHub
+  workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'  # Tous les jours à 6h du matin automatiquement
+    - cron: '0 6 * * *'
 
 jobs:
   generate:
@@ -15,74 +15,64 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Récupérer les cours financiers
-        id: markets
-        run: |
-          # BTC/EUR via CoinGecko
-          BTC=$(curl -s "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=eur,usd&include_24hr_change=true" | python3 -c "import sys,json; d=json.load(sys.stdin)['bitcoin']; print(f'{int(d[\"eur\"]):,} €'.replace(',','.'))" 2>/dev/null || echo "~62 500 €")
-          BTC_CHANGE=$(curl -s "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=eur&include_24hr_change=true" | python3 -c "import sys,json; d=json.load(sys.stdin)['bitcoin']; v=d.get('eur_24h_change',0); print(f'{v:+.1f}%')" 2>/dev/null || echo "")
-          echo "btc=$BTC" >> $GITHUB_OUTPUT
-          echo "btc_change=$BTC_CHANGE" >> $GITHUB_OUTPUT
-
-      - name: Appeler l'API Claude
+      - name: Générer les articles via Claude
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          BTC: ${{ steps.markets.outputs.btc }}
-          BTC_CHANGE: ${{ steps.markets.outputs.btc_change }}
         run: |
-          TODAY=$(date '+%A %d %B %Y' --locale=fr_FR 2>/dev/null || date '+%d/%m/%Y')
-
-          PROMPT="Tu es l'assistant de veille immobilière de Stenen Immobilier d'Entreprise, cabinet en conseil/transaction bureaux, locaux d'activité et commerce en région PACA (Aix-Marseille, Nice, Toulon, Avignon).
-
-          Données marchés du jour ($TODAY) :
-          - Brent : ~96 \$/b (tensions Moyen-Orient, trêve fragile, Détroit d'Ormuz sous surveillance)
-          - OAT 10 ans : 3,70 % (bond de 3,30 % à 3,87 % en mars — plus haut depuis 2009)
-          - Euribor 3 mois : 2,15 % (stable, réunion BCE le 30 avril)
-          - BCE taux dépôt : 2,15 %
-          - Bitcoin BTC/EUR : $BTC ($BTC_CHANGE 24h)
-          - Inflation France : 1,7 %
-          - Taux crédit moyen 20 ans : 3,35 % (+0,10 à +0,30 pt en avril)
-          - Taux usure ≥20 ans : 5,19 %
-          - SCPI distribution moyenne : 4,30 %
-
-          Génère exactement 5 articles feed (onglet Actus) et 3 articles macro (onglet Macro). Chaque article doit être concret, factuel, actionnable pour un conseil en transaction CRE PACA.
-
-          Réponds UNIQUEMENT avec du JSON valide, sans markdown ni backticks. Format :
-          {\"generated_at\":\"$TODAY\",\"feed\":[{\"id\":\"f1\",\"title\":\"Titre (max 85 car.)\",\"body\":\"Corps 2-3 phrases avec chiffres précis\",\"impact\":\"Impact transaction actionnable 1-2 phrases\",\"source\":\"Source · Date\",\"tags\":[{\"label\":\"PACA\",\"cls\":\"tp\"}]}],\"macro\":[{\"id\":\"m1\",\"title\":\"...\",\"body\":\"...\",\"impact\":\"...\",\"source\":\"...\",\"tags\":[{\"label\":\"Géopolitique\",\"cls\":\"tg\"}]}]}
-
-          Classes tags : tg=géopolitique(orange), tt=taux(teal), tm=marché(vert), tr=réglementation(amber), ti2=investissement(purple), tp=PACA(teal clair).
-          Feed : 1 marché PACA, 1 taux/financement, 1 réglementation, 1 SCPI/investissement, 1 tendance utilisateurs.
-          Macro : géopolitique+énergie, conjoncture France, BCE+inflation."
-
-          RESPONSE=$(curl -s -X POST https://api.anthropic.com/v1/messages \
+          # Appel API Claude et sauvegarde réponse brute
+          curl -s -X POST https://api.anthropic.com/v1/messages \
             -H "Content-Type: application/json" \
             -H "x-api-key: $ANTHROPIC_API_KEY" \
             -H "anthropic-version: 2023-06-01" \
-            -d "{
-              \"model\": \"claude-haiku-4-5-20251001\",
-              \"max_tokens\": 2000,
-              \"messages\": [{\"role\": \"user\", \"content\": $(echo "$PROMPT" | python3 -c 'import sys,json; print(json.dumps(sys.stdin.read()))')}]
-            }")
+            -d '{
+              "model": "claude-haiku-4-5-20251001",
+              "max_tokens": 2000,
+              "messages": [{
+                "role": "user",
+                "content": "Tu es un assistant de veille immobiliere pour Stenen Immobilier Entreprise PACA (bureaux, locaux activite, commerce). Genere 5 articles feed et 3 articles macro. Reponds UNIQUEMENT avec du JSON valide sans markdown ni backticks. Format: {\"generated_at\":\"aujourd_hui\",\"feed\":[{\"id\":\"f1\",\"title\":\"Titre court\",\"body\":\"Corps 2-3 phrases avec chiffres\",\"impact\":\"Impact transaction concret\",\"source\":\"Source Date\",\"tags\":[{\"label\":\"PACA\",\"cls\":\"tp\"}]}],\"macro\":[{\"id\":\"m1\",\"title\":\"Titre\",\"body\":\"Corps\",\"impact\":\"Impact CRE\",\"source\":\"Source\",\"tags\":[{\"label\":\"Geopolitique\",\"cls\":\"tg\"}]}]}. Classes: tg=orange tg, tt=teal, tm=vert, tr=amber, ti2=purple, tp=teal. Feed couvre: marche PACA bureaux, taux financement OAT Euribor, decret tertiaire OPERAT, SCPI investissement, tendance flex-office. Macro couvre: Brent Ormuz conflit Moyen-Orient, conjoncture France croissance, BCE inflation OAT. Donnees: Brent 96usd pic 111usd, OAT 3.70pct, Euribor3M 2.15pct, BCE 2.15pct, BTC 62500EUR, inflation 1.7pct, credit20ans 3.35pct."
+              }]
+            }' > /tmp/response.json
 
-          # Extraire le JSON des articles
-          echo "$RESPONSE" | python3 -c "
-          import sys, json
-          data = json.load(sys.stdin)
+          # Afficher la réponse pour debug
+          echo "=== RÉPONSE API ==="
+          cat /tmp/response.json
+
+          # Extraire les articles
+          python3 << 'PYEOF'
+          import json, sys
+
+          with open('/tmp/response.json') as f:
+              data = json.load(f)
+
+          if 'error' in data:
+              print(f"ERREUR API: {data['error']['message']}")
+              sys.exit(1)
+
           text = data['content'][0]['text'].strip()
-          # Nettoyer si markdown
-          text = text.replace('\`\`\`json', '').replace('\`\`\`', '').strip()
-          # Valider le JSON
-          articles = json.loads(text)
-          print(json.dumps(articles, ensure_ascii=False, indent=2))
-          " > articles.json
+          print(f"Texte reçu: {text[:200]}")
 
-          echo "✅ articles.json généré avec succès"
-          cat articles.json | python3 -c "import sys,json; d=json.load(sys.stdin); print(f'Feed: {len(d[\"feed\"])} articles, Macro: {len(d[\"macro\"])} articles')"
+          # Nettoyer si markdown
+          for marker in ['```json', '```']:
+              if text.startswith(marker):
+                  text = text[len(marker):]
+          if text.endswith('```'):
+              text = text[:-3]
+          text = text.strip()
+
+          articles = json.loads(text)
+          assert 'feed' in articles and len(articles['feed']) > 0
+          assert 'macro' in articles and len(articles['macro']) > 0
+
+          with open('articles.json', 'w', encoding='utf-8') as f:
+              json.dump(articles, f, ensure_ascii=False, indent=2)
+
+          print(f"Succès: {len(articles['feed'])} feed, {len(articles['macro'])} macro")
+          PYEOF
 
       - name: Commit articles.json
         run: |
           git config user.name "Stenen News Bot"
           git config user.email "bot@stenen.fr"
           git add articles.json
-          git diff --staged --quiet || git commit -m "🗞️ Mise à jour articles $(date '+%d/%m/%Y %H:%M')"
+          git diff --staged --quiet || git commit -m "Articles $(date '+%d/%m/%Y %H:%M')"
           git push

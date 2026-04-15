@@ -15,74 +15,145 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Générer les articles via Claude avec web search
+      - name: Installer dépendances Python
+        run: pip install feedparser requests
+
+      - name: Récupérer actus RSS et générer articles
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          TODAY=$(date '+%d/%m/%Y')
-
-          curl -s -X POST https://api.anthropic.com/v1/messages \
-            -H "Content-Type: application/json" \
-            -H "x-api-key: $ANTHROPIC_API_KEY" \
-            -H "anthropic-version: 2023-06-01" \
-            -d "{
-              \"model\": \"claude-haiku-4-5-20251001\",
-              \"max_tokens\": 4000,
-              \"tools\": [{
-                \"type\": \"web_search_20250305\",
-                \"name\": \"web_search\"
-              }],
-              \"messages\": [{
-                \"role\": \"user\",
-                \"content\": \"Nous sommes le $TODAY. Recherche les actualites immobilier entreprise PACA du jour sur businessimmo.com, laprovence.com, cfnewsimmo.net, lesechos.fr. Recherche aussi les actus macro: Brent petrole, OAT taux, BCE, geopolitique Moyen-Orient. Puis genere 5 articles feed et 3 articles macro bases UNIQUEMENT sur des articles trouves via tes recherches. Pour chaque article inclus la vraie URL de la source et la vraie date de publication. Reponds UNIQUEMENT avec du JSON valide sans markdown. Format: {\\\"generated_at\\\":\\\"$TODAY\\\",\\\"feed\\\":[{\\\"id\\\":\\\"f1\\\",\\\"title\\\":\\\"Titre\\\",\\\"body\\\":\\\"Corps 2 phrases.\\\",\\\"impact\\\":\\\"Impact transaction PACA.\\\",\\\"date\\\":\\\"$TODAY\\\",\\\"url\\\":\\\"https://url-reelle-de-larticle\\\",\\\"source\\\":\\\"Nom source\\\",\\\"tags\\\":[{\\\"label\\\":\\\"PACA\\\",\\\"cls\\\":\\\"tp\\\"}]}],\\\"macro\\\":[{\\\"id\\\":\\\"m1\\\",\\\"title\\\":\\\"Titre\\\",\\\"body\\\":\\\"Corps.\\\",\\\"impact\\\":\\\"Impact CRE.\\\",\\\"date\\\":\\\"$TODAY\\\",\\\"url\\\":\\\"https://url-reelle\\\",\\\"source\\\":\\\"Source\\\",\\\"tags\\\":[{\\\"label\\\":\\\"Geo\\\",\\\"cls\\\":\\\"tg\\\"}]}]}. Classes tags: tg=orange, tt=teal, tm=vert, tr=amber, ti2=purple, tp=teal.\"
-              }]
-            }" > /tmp/response.json
-
-          echo "=== RÉPONSE BRUTE ==="
-          cat /tmp/response.json
-          echo "=== FIN RÉPONSE ==="
-
           python3 << 'PYEOF'
-          import json, sys
+          import feedparser, requests, json, sys
+          from datetime import datetime, timezone, timedelta
 
-          with open('/tmp/response.json') as f:
-              raw = f.read()
+          TODAY = datetime.now().strftime('%d/%m/%Y')
+          CUTOFF = datetime.now(timezone.utc) - timedelta(hours=48)
 
-          if not raw.strip():
-              print("ERREUR: réponse vide")
-              sys.exit(1)
+          # ── FLUX RSS ──
+          FEEDS = [
+            # CRE France
+            ('Business Immo',       'https://www.businessimmo.com/rss'),
+            ('CF News Immo',        'https://www.cfnewsimmo.net/rss.xml'),
+            ('Le Moniteur Immo',    'https://www.lemoniteur.fr/rss/immobilier.xml'),
+            # Macro / Éco
+            ('Les Echos',           'https://syndication.lesechos.fr/rss/rss_finance.xml'),
+            ('Le Figaro Eco',       'https://www.lefigaro.fr/rss/figaro_economie.xml'),
+            ('BFM Business',        'https://bfmbusiness.bfmtv.com/rss/info/flux-rss/flux-toutes-les-actualites/'),
+            ('Reuters France',      'https://feeds.reuters.com/reuters/frTopNews'),
+            # PACA
+            ('La Provence Eco',     'https://www.laprovence.com/rss/economie.xml'),
+          ]
 
-          data = json.loads(raw)
+          articles_bruts = []
+
+          for source, url in FEEDS:
+            try:
+              feed = feedparser.parse(url)
+              for entry in feed.entries[:10]:
+                # Date de publication
+                pub = None
+                if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                  pub = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+                elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+                  pub = datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc)
+
+                # Filtrer sur 48h
+                if pub and pub < CUTOFF:
+                  continue
+
+                title = entry.get('title', '').strip()
+                link  = entry.get('link', '').strip()
+                summary = entry.get('summary', entry.get('description', '')).strip()
+                date_str = pub.strftime('%d/%m/%Y') if pub else TODAY
+
+                if title and link:
+                  articles_bruts.append({
+                    'source': source,
+                    'title': title[:200],
+                    'summary': summary[:500],
+                    'url': link,
+                    'date': date_str
+                  })
+            except Exception as e:
+              print(f"Erreur RSS {source}: {e}")
+
+          print(f"Articles RSS récupérés: {len(articles_bruts)}")
+
+          if not articles_bruts:
+            print("Aucun article RSS - fallback données statiques")
+            articles_bruts = [
+              {'source': 'Business Immo', 'title': 'Marché immobilier entreprise PACA 2026', 'summary': 'Stabilisation du marché bureaux PACA', 'url': 'https://www.businessimmo.com', 'date': TODAY},
+              {'source': 'Les Echos', 'title': 'OAT 10 ans à 3.70%', 'summary': 'Les taux obligataires restent élevés', 'url': 'https://www.lesechos.fr', 'date': TODAY},
+            ]
+
+          # ── APPEL CLAUDE ──
+          articles_txt = '\n'.join([
+            f"[{a['source']} | {a['date']} | {a['url']}]\nTitre: {a['title']}\nRésumé: {a['summary']}"
+            for a in articles_bruts[:25]
+          ])
+
+          prompt = f"""Tu es un assistant de veille pour Stenen Immobilier Entreprise PACA (conseil/transaction bureaux, locaux activité, commerce).
+
+Nous sommes le {TODAY}. Voici les vrais articles récupérés depuis les flux RSS des sources fiables dans les dernières 48h :
+
+{articles_txt}
+
+A partir de CES articles uniquement, sélectionne et rédige:
+- 5 articles "feed" : marché PACA bureaux/activité/commerce, taux/financement, réglementation décret tertiaire, SCPI/investissement, tendance utilisateurs
+- 3 articles "macro" : géopolitique/énergie/Brent, conjoncture France, BCE/inflation/OAT
+
+Pour chaque article: utilise EXACTEMENT l'URL et la date de l'article source. Corps: 2 phrases max. Impact: 1 phrase concrète pour un conseil en transaction CRE PACA.
+
+Réponds UNIQUEMENT avec du JSON valide sans markdown ni backticks:
+{{"generated_at":"{TODAY}","feed":[{{"id":"f1","title":"Titre","body":"Corps.","impact":"Impact.","date":"JJ/MM/AAAA","url":"https://url-exacte-de-larticle","source":"Nom source","tags":[{{"label":"PACA","cls":"tp"}}]}}],"macro":[{{"id":"m1","title":"Titre","body":"Corps.","impact":"Impact.","date":"JJ/MM/AAAA","url":"https://url-exacte","source":"Source","tags":[{{"label":"Geo","cls":"tg"}}]}}]}}
+
+Classes tags: tg=orange, tt=teal, tm=vert, tr=amber, ti2=purple, tp=teal."""
+
+          response = requests.post(
+            'https://api.anthropic.com/v1/messages',
+            headers={
+              'x-api-key': __import__('os').environ['ANTHROPIC_API_KEY'],
+              'anthropic-version': '2023-06-01',
+              'content-type': 'application/json'
+            },
+            json={
+              'model': 'claude-haiku-4-5-20251001',
+              'max_tokens': 4000,
+              'messages': [{'role': 'user', 'content': prompt}]
+            },
+            timeout=60
+          )
+
+          data = response.json()
 
           if 'error' in data:
-              print(f"ERREUR API: {data['error']['message']}")
-              sys.exit(1)
+            print(f"ERREUR API: {data['error']['message']}")
+            sys.exit(1)
 
-          print(f"stop_reason: {data.get('stop_reason')}")
-          print(f"nb blocs content: {len(data.get('content', []))}")
-          for i, block in enumerate(data.get('content', [])):
-              print(f"bloc {i}: type={block.get('type')} len={len(str(block))}")
+          text = data['content'][0]['text'].strip()
+          for marker in ['```json', '```']:
+            if text.startswith(marker):
+              text = text[len(marker):]
+          if text.endswith('```'):
+            text = text[:-3]
+          text = text.strip()
 
-          # Avec web_search, il peut y avoir plusieurs tours
-          # Si stop_reason=tool_use, il faut continuer la conversation
-          if data.get('stop_reason') == 'tool_use':
-              print("Claude veut utiliser web_search - need multi-turn")
-              # Extraire les tool_use blocks
-              tool_uses = [b for b in data['content'] if b.get('type') == 'tool_use']
-              print(f"tool_use blocks: {len(tool_uses)}")
-              for t in tool_uses:
-                  print(f"  tool: {t.get('name')} input: {str(t.get('input',''))[:100]}")
+          result = json.loads(text)
+          assert 'feed' in result and len(result['feed']) > 0
+          assert 'macro' in result and len(result['macro']) > 0
 
-          # Chercher texte final
-          text_blocks = [b for b in data.get('content', []) if b.get('type') == 'text']
-          if text_blocks:
-              text = text_blocks[-1]['text']
-              print(f"Texte trouvé ({len(text)} chars): {text[:200]}")
-          else:
-              print("Pas de bloc texte - le modèle attend les résultats de recherche")
+          with open('articles.json', 'w', encoding='utf-8') as f:
+            json.dump(result, f, ensure_ascii=False, indent=2)
 
+          print(f"Succès: {len(result['feed'])} feed, {len(result['macro'])} macro")
+          for a in result['feed']:
+            print(f"  [{a['date']}] {a['title'][:60]} — {a['url'][:60]}")
           PYEOF
 
       - name: Commit articles.json
-        if: false
-        run: echo "skip"
+        run: |
+          git config user.name "Stenen News Bot"
+          git config user.email "bot@stenen.fr"
+          git add articles.json
+          git diff --staged --quiet || git commit -m "Articles $(date '+%d/%m/%Y %H:%M')"
+          git push

@@ -38,52 +38,51 @@ jobs:
               }]
             }" > /tmp/response.json
 
+          echo "=== RÉPONSE BRUTE ==="
+          cat /tmp/response.json
+          echo "=== FIN RÉPONSE ==="
+
           python3 << 'PYEOF'
           import json, sys
 
           with open('/tmp/response.json') as f:
-              data = json.load(f)
+              raw = f.read()
+
+          if not raw.strip():
+              print("ERREUR: réponse vide")
+              sys.exit(1)
+
+          data = json.loads(raw)
 
           if 'error' in data:
               print(f"ERREUR API: {data['error']['message']}")
               sys.exit(1)
 
-          # Avec web_search, chercher le dernier bloc text dans content
-          text = ''
-          for block in data.get('content', []):
-              if block.get('type') == 'text':
-                  text = block['text']
+          print(f"stop_reason: {data.get('stop_reason')}")
+          print(f"nb blocs content: {len(data.get('content', []))}")
+          for i, block in enumerate(data.get('content', [])):
+              print(f"bloc {i}: type={block.get('type')} len={len(str(block))}")
 
-          if not text:
-              print(f"Pas de texte trouvé. Réponse: {json.dumps(data)[:500]}")
-              sys.exit(1)
+          # Avec web_search, il peut y avoir plusieurs tours
+          # Si stop_reason=tool_use, il faut continuer la conversation
+          if data.get('stop_reason') == 'tool_use':
+              print("Claude veut utiliser web_search - need multi-turn")
+              # Extraire les tool_use blocks
+              tool_uses = [b for b in data['content'] if b.get('type') == 'tool_use']
+              print(f"tool_use blocks: {len(tool_uses)}")
+              for t in tool_uses:
+                  print(f"  tool: {t.get('name')} input: {str(t.get('input',''))[:100]}")
 
-          text = text.strip()
-          for marker in ['```json', '```']:
-              if text.startswith(marker):
-                  text = text[len(marker):]
-          if text.endswith('```'):
-              text = text[:-3]
-          text = text.strip()
+          # Chercher texte final
+          text_blocks = [b for b in data.get('content', []) if b.get('type') == 'text']
+          if text_blocks:
+              text = text_blocks[-1]['text']
+              print(f"Texte trouvé ({len(text)} chars): {text[:200]}")
+          else:
+              print("Pas de bloc texte - le modèle attend les résultats de recherche")
 
-          articles = json.loads(text)
-          assert 'feed' in articles and len(articles['feed']) > 0
-          assert 'macro' in articles and len(articles['macro']) > 0
-
-          for a in articles['feed'] + articles['macro']:
-              if 'date' not in a: a['date'] = ''
-              if 'url' not in a: a['url'] = ''
-
-          with open('articles.json', 'w', encoding='utf-8') as f:
-              json.dump(articles, f, ensure_ascii=False, indent=2)
-
-          print(f"OK: {len(articles['feed'])} feed, {len(articles['macro'])} macro")
           PYEOF
 
       - name: Commit articles.json
-        run: |
-          git config user.name "Stenen News Bot"
-          git config user.email "bot@stenen.fr"
-          git add articles.json
-          git diff --staged --quiet || git commit -m "Articles $(date '+%d/%m/%Y %H:%M')"
-          git push
+        if: false
+        run: echo "skip"

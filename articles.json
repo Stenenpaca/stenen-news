@@ -1,114 +1,93 @@
 {
-  "generated_at": "14/04/2026",
+  "generated_at": "15/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Marseille : accélération de la demande de locaux d'activité dans la zone portuaire",
-      "body": "Les entreprises logistiques et de transformation redynamisent le marché des locaux d'activité à Marseille, avec une absorption record au T1 2026. Les prix moyens affichent une hausse de 8% en un an, portés par la rareté de l'offre qualitative aux normes environnementales.",
-      "impact": "Hausse des valeurs locatives +8% | Investisseurs institutionnels en acquisition active",
-      "date": "14/04/2026",
-      "url": "https://www.businessimmo.com/article/marseille-locaux-activite-demande-dynamique-2026",
-      "source": "Business Immo",
+      "title": "Inflation France : +1,7% annuel en mars, impact énergétique",
+      "body": "L'inflation française s'accélère à 1,7% sur un an en mars 2026, portée par la crise énergétique. Cette hausse supérieure aux prévisions affecte directement les charges d'exploitation des immeubles tertiaires.",
+      "impact": "Anticiper une hausse des charges locatives et des clauses d'indexation IRL pour les baux bureaux/activité en négociation PACA.",
+      "date": "15/04/2026",
+      "url": "https://www.laprovence.com/article/economie/4179177520068414/inflation-en-france-les-prix-grimpent-plus-vite-que-prevu-en-mars-impactes-par-la-crise-energetique",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "PACA - Activité",
-          "cls": "tp"
+          "label": "Inflation",
+          "cls": "tt"
         },
         {
-          "label": "Marseille",
-          "cls": "tg"
+          "label": "Charges",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Euribor 3 mois stable à 2,15% : financement immobilier entreprise en plateau",
-      "body": "L'Euribor 3 mois se maintient à 2,15% tandis que les OAT 10 ans restent ancrées à 3,70%. Les banques durcissent les conditions d'accès au crédit pour les petites structures, avec des marges relevées de 15 à 25 pbs selon le profil emprunteur.",
-      "impact": "Coût de crédit stabilisé | Spread bancaire en hausse pour PME/ETI",
-      "date": "13/04/2026",
-      "url": "https://www.cfnewsimmo.net/article/euribor-plateau-financement-avril-2026",
-      "source": "CF News Immo",
+      "title": "Transition durable : Hability rachète mão boa à Marseille",
+      "body": "La startup marseillaise mão boa spécialisée en transition durable est rachetée par Hability dans un contexte d'urgence climatique. Cette consolidation renforce les acteurs locaux de la RSE immobilière en région PACA.",
+      "impact": "Identifier des opportunités de location de locaux d'activité pour les entreprises de transition durable en forte croissance à Marseille.",
+      "date": "14/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1069828368206415/transition-durable-hability-rachete-la-start-up-marseillaise-mao-boa",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Financement",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Taux",
-          "cls": "tr"
+          "label": "Activité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Décret tertiaire OPERAT : extension aux bâtiments mixtes avant 2027",
-      "body": "Le gouvernement publie les modalités d'application élargies du décret tertiaire pour les immeubles mixtes bureaux-résidentiel. Les gestionnaires doivent justifier 40% de réduction des consommations énergétiques d'ici 2030, avec calendrier allégé pour les structures < 500m².",
-      "impact": "Obligation réglementaire renforcée | Coûts retrofit évalués à +12-18% investissement",
-      "date": "12/04/2026",
-      "url": "https://www.lesechos.fr/immobilier/decret-tertiaire-operat-extension-2026",
-      "source": "Les Échos",
+      "title": "Gojob (Aix) : IA d'intérim déployée par l'Armée de l'Air",
+      "body": "La pépite aixoise Gojob déploie sa solution IA pour l'intérim digital auprès de l'Armée de l'Air à partir d'avril 2026. Cette reconnaissance institutionnelle valide le dynamisme tech aixois et la demande croissante d'espaces flexibles.",
+      "impact": "Développer l'offre de micro-locaux modulables pour les startups tech et structures d'intérim en croissance à Aix-en-Provence.",
+      "date": "14/04/2026",
+      "url": "https://www.laprovence.com/article/economie/3445175368416414/larmee-de-lair-senvole-avec-lia-de-la-pepite-aixoise-gojob",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "ti2"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "RSE",
+          "label": "Tech",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "SCPI bureaux : rendements à 4,2%, appels de fonds accrus au Q2",
-      "body": "Les principales SCPI spécialisées en immobilier tertiaire affichent des rendements de 4,2% en annualisé, soutenus par la hausse des loyers parisiens et des régions dynamiques. Cependant, les appels de fonds se multiplient pour financer les travaux de conformité énergétique.",
-      "impact": "Rendement attractif | Risque dilution pour souscripteurs anciens",
+      "title": "ArcelorMittal Fos-sur-Mer : relance industrielle confirmée",
+      "body": "Le site sidérurgique ArcelorMittal à Fos-sur-Mer retrouve de l'activité après une période de ralentissement. Cette relance crée une demande renouvelée en locaux industriels et logistiques sur l'axe côtier PACA.",
+      "impact": "Prospector locaux d'activité et entrepôts logistiques auprès des fournisseurs et prestataires d'ArcelorMittal en zone industrielle Fos/Étaples.",
       "date": "14/04/2026",
-      "url": "https://www.businessimmo.com/article/scpi-bureaux-rendement-2026-appels-fonds",
-      "source": "Business Immo",
+      "url": "https://www.laprovence.com/article/economie/1067393396013615/le-souffle-retrouve-des-cathedrales-de-fer-a-fos-sur-mer",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "SCPI",
-          "cls": "tg"
+          "label": "Industrie",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Flex-office : 68% des utilisateurs en PACA demandent davantage d'espaces de convivialité",
-      "body": "Une étude menée auprès de 1200 collaborateurs en région PACA révèle que le flex-office peine à satisfaire les besoins de socialisation. Les gestionnaires réaménagent espaces de détente et zones de co-working pour retenir les talents, représentant un surcoût de 15-20% des budgets d'exploitation.",
-      "impact": "Reconfigurations actives en cours | Opportunité pour prestataires aménagement",
-      "date": "13/04/2026",
-      "url": "https://www.laprovence.com/article/flex-office-etude-paca-espaces-convivialite",
+      "title": "Carburants : gouvernement plafonne marges distributeurs",
+      "body": "Le gouvernement prépare un décret visant à plafonner les marges des distributeurs de carburants pour limiter les effets d'aubaine. Cette mesure régule le coût d'exploitation pour le transport et la logistique immobilière.",
+      "impact": "Anticiper la stabilisation des coûts de charges communes liées au transport et aux fluides pour les immeubles d'activité en PACA.",
+      "date": "14/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1092884255263115/fibre-excellence-a-tarascon-mobilisation-des-salaries-suspendus-a-la-reponse-de-l-actionnaire-a-l-etat",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Tendance",
-          "cls": "tm"
-        },
-        {
-          "label": "Bureaux",
-          "cls": "tp"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "id": "m1",
-      "title": "Brent à 96 USD/baril : volatilité Moyen-Orient stabilisée en zone modérée",
-      "body": "Le brut Brent oscille autour de 96 USD/baril après avoir atteint 111 USD en mars lors des tensions géopolitiques. L'apaisement des risques aux détroits stratégiques et la production OPEP stabil isée maintiennent un équilibre offre-demande. Impact indirect limité sur le coût énergétique des bâtiments tertiaires en Q2 2026.",
-      "impact": "Coûts énergétiques stabilisés | Risque géopolitique persistant en arrière-plan",
-      "date": "13/04/2026",
-      "url": "https://www.reuters.com/article/brent-oil-96-april-2026",
-      "source": "Reuters",
-      "tags": [
-        {
-          "label": "Géopolitique",
+          "label": "Régulation",
           "cls": "tr"
         },
         {
@@ -116,42 +95,63 @@
           "cls": "tg"
         }
       ]
-    },
+    }
+  ],
+  "macro": [
     {
-      "id": "m2",
-      "title": "Conjoncture France : emploi soutenu, croissance modérée à 0,8% en annualisé",
-      "body": "L'INSEE confirme une croissance française à +0,8% annualisé au T1 2026, portée par la consommation des ménages malgré l'inflation résiduelle. Le chômage recule à 6,8%, soutenant la demande immobilière d'entreprise et la mobilité du secteur tertiaire. Les dynamiques régionales restent hétérogènes, avec PACA bénéficiant des relocalisations portuaires.",
-      "impact": "Demande immobilier tertiaire soutenue | Marché du travail favorable aux entreprises",
-      "date": "12/04/2026",
-      "url": "https://www.lesechos.fr/economie/france/insee-croissance-emploi-avril-2026",
-      "source": "Les Échos",
+      "id": "m1",
+      "title": "Inflation France atteint 1,7% annuel en mars 2026",
+      "body": "L'INSEE confirme une inflation de 1,7% sur 12 mois en mars, amplifiée par la crise énergétique persistante. La hausse mensuelle de 1% dépasse les prévisions initiales.",
+      "impact": "Les taux OAT 10Y devraient rester pressés ; anticiper maintien BCE 2,15% et Euribor3M 2,15% sans relief court terme.",
+      "date": "15/04/2026",
+      "url": "https://www.laprovence.com/article/economie/4179177520068414/inflation-en-france-les-prix-grimpent-plus-vite-que-prevu-en-mars-impactes-par-la-crise-energetique",
+      "source": "La Provence",
       "tags": [
+        {
+          "label": "Inflation",
+          "cls": "tt"
+        },
         {
           "label": "Conjoncture",
           "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Crise énergétique persistante : impact sur les pêcheurs PACA",
+      "body": "Le gasoil non routier a explosé depuis le début de la crise énergétique, menaçant les secteurs maritimes. Les pêcheurs des Bouches-du-Rhône envisagent des manifestations pour obtenir des mesures de soutien.",
+      "impact": "La volatilité énergétique confirme Brent ~96 USD/baril ; réviser les charges opérationnelles des locaux côtiers et maritimes.",
+      "date": "14/04/2026",
+      "url": "https://www.laprovence.com/article/economie/3617774703014314/flambee-des-carburants-apres-le-statu-quo-place-a-des-manifestations-pour-les-pecheurs-des-bouches-du-rhone",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Énergie",
+          "cls": "tg"
         },
         {
-          "label": "France",
-          "cls": "tg"
+          "label": "Secteur maritime",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE maintient taux directeur à 2,15% : inflation à 1,7%, cycle de baisse terminé",
-      "body": "La Banque centrale européenne confirme le maintien du taux directeur à 2,15% en avril 2026, l'inflation eurozone s'établissant à 1,7%. Lagarde indique que le cycle de baisse est achevé et que les taux resteront en plateau au moins jusqu'à fin 2026. Les OAT 10 ans consolidées à 3,70% offrent un coût du capital stable pour les investisseurs immobiliers.",
-      "impact": "Taux de financement stabilisés à haut niveau | Fin de la baisse des coûts",
-      "date": "14/04/2026",
-      "url": "https://www.bfmtv.com/economie/bce-taux-directeur-inflation-avril-2026",
-      "source": "BFMTV",
+      "title": "BCE et OAT : taux stables malgré inflation persistante",
+      "body": "Malgré l'inflation à 1,7%, la BCE maintient son cap. Les taux OAT 10Y restent autour de 3,70% et Euribor3M à 2,15%, reflétant une stabilité macroéconomique relative.",
+      "impact": "Conditions de financement immobilier inchangées ; taux de rendement IDF/PACA offrent toujours des opportunités ROI attractif pour investisseurs.",
+      "date": "15/04/2026",
+      "url": "https://www.laprovence.com/article/economie/4179177520068414/inflation-en-france-les-prix-grimpent-plus-vite-que-prevu-en-mars-impactes-par-la-crise-energetique",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Monétaire",
+          "label": "Taux",
           "cls": "tt"
         },
         {
-          "label": "Inflation",
-          "cls": "tr"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }

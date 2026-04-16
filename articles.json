@@ -1,32 +1,32 @@
 {
-  "generated_at": "15/04/2026",
+  "generated_at": "16/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Inflation France : +1,7% annuel en mars, impact énergétique",
-      "body": "L'inflation française s'accélère à 1,7% sur un an en mars 2026, portée par la crise énergétique. Cette hausse supérieure aux prévisions affecte directement les charges d'exploitation des immeubles tertiaires.",
-      "impact": "Anticiper une hausse des charges locatives et des clauses d'indexation IRL pour les baux bureaux/activité en négociation PACA.",
-      "date": "15/04/2026",
-      "url": "https://www.laprovence.com/article/economie/4179177520068414/inflation-en-france-les-prix-grimpent-plus-vite-que-prevu-en-mars-impactes-par-la-crise-energetique",
+      "title": "Mistral : 1 Md€ d'investissement sidérurgique à Fos-sur-Mer",
+      "body": "Marcegaglia et Danieli officialisent un contrat de 450 M€ pour équiper l'aciérie bas carbone de Fos-sur-Mer. Ce projet phare du tissu industriel régional redynamise les zones d'activité côtières PACA.",
+      "impact": "Dynamique de modernisation industrielle à Fos crée une demande accrue pour locaux activité, bureaux techniques et espaces logistiques qualifiés.",
+      "date": "16/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1231866070548515/a-fos-marcegaglia-sera-le-premier-complexe-primaire-siderurgique-du-xxie-siecle",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Charges",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Transition durable : Hability rachète mão boa à Marseille",
-      "body": "La startup marseillaise mão boa spécialisée en transition durable est rachetée par Hability dans un contexte d'urgence climatique. Cette consolidation renforce les acteurs locaux de la RSE immobilière en région PACA.",
-      "impact": "Identifier des opportunités de location de locaux d'activité pour les entreprises de transition durable en forte croissance à Marseille.",
-      "date": "14/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1069828368206415/transition-durable-hability-rachete-la-start-up-marseillaise-mao-boa",
+      "title": "Tourisme PACA : clientèle internationale et mobilités douces",
+      "body": "La région PACA enregistre une forte dynamique touristique avec accroissement de la clientèle internationale et essor des mobilités douces. Le secteur affiche une trajectoire haussière depuis dix ans.",
+      "impact": "Hausse de la fréquentation touristique accélère la demande commerciale (boutiques, restaurants, services) dans les cœurs touristiques et zones d'activités adjacentes.",
+      "date": "16/04/2026",
+      "url": "https://www.laprovence.com/article/economie/4991307693513514/clientele-internationale-importante-mobilites-douces-les-voyants-au-vert-pour-le-tourisme-en-paca-cet-ete",
       "source": "La Provence",
       "tags": [
         {
@@ -34,37 +34,33 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Gojob (Aix) : IA d'intérim déployée par l'Armée de l'Air",
-      "body": "La pépite aixoise Gojob déploie sa solution IA pour l'intérim digital auprès de l'Armée de l'Air à partir d'avril 2026. Cette reconnaissance institutionnelle valide le dynamisme tech aixois et la demande croissante d'espaces flexibles.",
-      "impact": "Développer l'offre de micro-locaux modulables pour les startups tech et structures d'intérim en croissance à Aix-en-Provence.",
-      "date": "14/04/2026",
-      "url": "https://www.laprovence.com/article/economie/3445175368416414/larmee-de-lair-senvole-avec-lia-de-la-pepite-aixoise-gojob",
+      "title": "Inflation prix hygiène : pression budgétaire des ménages",
+      "body": "Les prix des articles d'hygiène et de consommation courante subissent une forte inflation, créant une tension sur les budgets familiaux. Cette pression affecte le pouvoir d'achat régional.",
+      "impact": "Contexte inflationniste sur biens essentiels réduit la capacité d'investissement locatif des PME/TPE : opportunité de négociation sur loyers tertiaires en PACA.",
+      "date": "16/04/2026",
+      "url": "https://www.laprovence.com/article/region/4982845240383814/dentifrice-gel-douche-acheter-de-quoi-se-laver-pour-toute-une-famille-ca-fait-un-vrai-trou-dans-le-budget",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Tech",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "ArcelorMittal Fos-sur-Mer : relance industrielle confirmée",
-      "body": "Le site sidérurgique ArcelorMittal à Fos-sur-Mer retrouve de l'activité après une période de ralentissement. Cette relance crée une demande renouvelée en locaux industriels et logistiques sur l'axe côtier PACA.",
-      "impact": "Prospector locaux d'activité et entrepôts logistiques auprès des fournisseurs et prestataires d'ArcelorMittal en zone industrielle Fos/Étaples.",
-      "date": "14/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1067393396013615/le-souffle-retrouve-des-cathedrales-de-fer-a-fos-sur-mer",
+      "title": "Monitorank : leader SEO français pour visibilité multinationales",
+      "body": "L'entreprise provençale Monitorank s'impose depuis 2016 comme leader en pilotage de visibilité SEO pour multinationales. La solution technique affirme la capacité d'innovation du tissu digital régional.",
+      "impact": "Croissance de l'écosystème digital PACA renforce la demande de bureaux modernes, flex-spaces et locaux pour PME tech en zones urbaines stratégiques.",
+      "date": "16/04/2026",
+      "url": "https://www.laprovence.com/article/economie/4420601447966214/comment-lentreprise-provencale-monitorank-est-devenue-leader-sur-le-pilotage-de-la-visibilite-seo-de-certaines-multinationales",
       "source": "La Provence",
       "tags": [
         {
@@ -72,77 +68,18 @@
           "cls": "tp"
         },
         {
-          "label": "Industrie",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Carburants : gouvernement plafonne marges distributeurs",
-      "body": "Le gouvernement prépare un décret visant à plafonner les marges des distributeurs de carburants pour limiter les effets d'aubaine. Cette mesure régule le coût d'exploitation pour le transport et la logistique immobilière.",
-      "impact": "Anticiper la stabilisation des coûts de charges communes liées au transport et aux fluides pour les immeubles d'activité en PACA.",
-      "date": "14/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1092884255263115/fibre-excellence-a-tarascon-mobilisation-des-salaries-suspendus-a-la-reponse-de-l-actionnaire-a-l-etat",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "id": "m1",
-      "title": "Inflation France atteint 1,7% annuel en mars 2026",
-      "body": "L'INSEE confirme une inflation de 1,7% sur 12 mois en mars, amplifiée par la crise énergétique persistante. La hausse mensuelle de 1% dépasse les prévisions initiales.",
-      "impact": "Les taux OAT 10Y devraient rester pressés ; anticiper maintien BCE 2,15% et Euribor3M 2,15% sans relief court terme.",
-      "date": "15/04/2026",
-      "url": "https://www.laprovence.com/article/economie/4179177520068414/inflation-en-france-les-prix-grimpent-plus-vite-que-prevu-en-mars-impactes-par-la-crise-energetique",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Inflation",
-          "cls": "tt"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Crise énergétique persistante : impact sur les pêcheurs PACA",
-      "body": "Le gasoil non routier a explosé depuis le début de la crise énergétique, menaçant les secteurs maritimes. Les pêcheurs des Bouches-du-Rhône envisagent des manifestations pour obtenir des mesures de soutien.",
-      "impact": "La volatilité énergétique confirme Brent ~96 USD/baril ; réviser les charges opérationnelles des locaux côtiers et maritimes.",
-      "date": "14/04/2026",
-      "url": "https://www.laprovence.com/article/economie/3617774703014314/flambee-des-carburants-apres-le-statu-quo-place-a-des-manifestations-pour-les-pecheurs-des-bouches-du-rhone",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Énergie",
-          "cls": "tg"
-        },
-        {
-          "label": "Secteur maritime",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "m3",
-      "title": "BCE et OAT : taux stables malgré inflation persistante",
-      "body": "Malgré l'inflation à 1,7%, la BCE maintient son cap. Les taux OAT 10Y restent autour de 3,70% et Euribor3M à 2,15%, reflétant une stabilité macroéconomique relative.",
-      "impact": "Conditions de financement immobilier inchangées ; taux de rendement IDF/PACA offrent toujours des opportunités ROI attractif pour investisseurs.",
-      "date": "15/04/2026",
-      "url": "https://www.laprovence.com/article/economie/4179177520068414/inflation-en-france-les-prix-grimpent-plus-vite-que-prevu-en-mars-impactes-par-la-crise-energetique",
+      "title": "Données financement : OAT 3.70%, Euribor3M 2.15%",
+      "body": "Les taux obligataires français se stabilisent à 3.70% (OAT) tandis que l'Euribor3M demeure à 2.15%. Contexte de taux élevés persistant pour le financement des acquisitions immobilières tertiaires.",
+      "impact": "Taux de rendement requis élevé (>4.5%) pour acceptabilité investisseurs : accélère négociations baisses loyers sur marchés secondaires PACA pour maintenir rentabilité.",
+      "date": "16/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1175572869092715/les-meilleurs-fonds-euros-en-assurance-vie-notre-top-5",
       "source": "La Provence",
       "tags": [
         {
@@ -152,6 +89,57 @@
         {
           "label": "Investissement",
           "cls": "ti2"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "id": "m1",
+      "title": "Crise Moyen-Orient : carburants en hausse, mesure de relance",
+      "body": "La flambée des prix énergétiques liée aux tensions géopolitiques au Moyen-Orient contraint le gouvernement à proposer des remboursements carburant (150€) pour soutenir la consommation estivale. Le Brent se négocie à 96 USD/baril.",
+      "impact": "Instabilité énergétique pénalise les coûts d'exploitation (chauffage, transport) des acteurs immobiliers tertiaires : négocier clauses d'ajustement énergie dans baux long terme.",
+      "date": "16/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1231593793095215/vacances-dete-2026-jusqua-150-e-de-carburant-rembourses-le-nouveau-levier-du-tourisme-face-a-la-flambee-des-prix",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Gouvernement s'oppose à péage détroit d'Ormuz",
+      "body": "La porte-parole Maud Bregeon affirme l'opposition française à tout paiement au détroit d'Ormuz, dans un contexte de tensions commerciales persistantes. Position défensive sur les coûts énergétiques français.",
+      "impact": "Stabilité politique française sur énergie limite les chocs inflationnistes futurs : contexte favorable aux baux long terme sans volatilité énergétique excessive.",
+      "date": "15/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1182896763346915/prix-des-carburants-peage-au-detroit-dormuz-ce-quil-faut-retenir-des-anonces-de-maud-bregeon",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "BCE maintien taux directeur 2.15% en contexte inflation 1.7%",
+      "body": "La Banque Centrale Européenne maintient son taux directeur à 2.15% face à une inflation modérée à 1.7% en zone euro. L'environnement monétaire reste restrictif pour le financement immobilier.",
+      "impact": "Taux réels positifs (0.45%) limitent l'appétit investisseurs pour actifs immobiliers tertiaires : prioriser assets value-add et décotes de marché en PACA.",
+      "date": "16/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1175572869092715/les-meilleurs-fonds-euros-en-assurance-vie-notre-top-5",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

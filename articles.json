@@ -3,9 +3,28 @@
   "feed": [
     {
       "id": "f1",
-      "title": "Mistral : 1 Md€ d'investissement sidérurgique à Fos-sur-Mer",
-      "body": "Marcegaglia et Danieli officialisent un contrat de 450 M€ pour équiper l'aciérie bas carbone de Fos-sur-Mer. Ce projet phare du tissu industriel régional redynamise les zones d'activité côtières PACA.",
-      "impact": "Dynamique de modernisation industrielle à Fos crée une demande accrue pour locaux activité, bureaux techniques et espaces logistiques qualifiés.",
+      "title": "Le Pontet adopte son budget 2026 sans hausse d'impôts",
+      "body": "Le conseil municipal du Pontet a approuvé un budget primitif de 33,53 M€ structuré autour de six priorités, avec un climat globalement apaisé malgré six abstentions. Cette stabilité fiscale soutient la confiance des investisseurs immobiliers locaux dans le tertiaire.",
+      "impact": "Stabilité fiscale au Pontet favorable aux transactions commerciales et bureaux de la zone d'influence Avignon-Cavaillon.",
+      "date": "16/04/2026",
+      "url": "https://www.laprovence.com/article/economie/15367547425667/les-elus-du-pontet-adoptent-un-budget-2026-structure-autour-de-six-priorites-et-sans-hausse-d-impots",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Collectivités",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Marcegaglia investit 450M€ pour l'aciérie bas-carbone de Fos",
+      "body": "Les groupes Marcegaglia et Danieli formalisent un contrat stratégique de 450 millions d'euros pour équiper la future aciérie bas carbone de Fos-sur-Mer, dans le cadre du projet « Mistral » valorisé à 1 milliard d'euros. Cet investissement industriel majeur génère des opportunités de locaux d'activité et de services connexes en zone portuaire.",
+      "impact": "Demande accrue de locaux d'activité, bureaux et espaces logistiques autour du pôle portuaire de Fos-sur-Mer jusqu'en 2028-2030.",
       "date": "16/04/2026",
       "url": "https://www.laprovence.com/article/economie/1231866070548515/a-fos-marcegaglia-sera-le-premier-complexe-primaire-siderurgique-du-xxie-siecle",
       "source": "La Provence",
@@ -15,16 +34,16 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
-      "id": "f2",
-      "title": "Tourisme PACA : clientèle internationale et mobilités douces",
-      "body": "La région PACA enregistre une forte dynamique touristique avec accroissement de la clientèle internationale et essor des mobilités douces. Le secteur affiche une trajectoire haussière depuis dix ans.",
-      "impact": "Hausse de la fréquentation touristique accélère la demande commerciale (boutiques, restaurants, services) dans les cœurs touristiques et zones d'activités adjacentes.",
+      "id": "f3",
+      "title": "Tourisme PACA en hausse : dynamique clientèle internationale",
+      "body": "La région PACA observe une forte dynamique touristique avec une clientèle internationale importante et développement des mobilités douces. Le chiffre d'affaires du tourisme a plus que doublé en dix ans, passant de 18 à plus de 35 milliards d'euros.",
+      "impact": "Hausse de la demande locative en commerces, hôtellerie et services touristiques dans les zones côtières et urbaines majeures.",
       "date": "16/04/2026",
       "url": "https://www.laprovence.com/article/economie/4991307693513514/clientele-internationale-importante-mobilites-douces-les-voyants-au-vert-pour-le-tourisme-en-paca-cet-ete",
       "source": "La Provence",
@@ -40,27 +59,31 @@
       ]
     },
     {
-      "id": "f3",
-      "title": "Inflation prix hygiène : pression budgétaire des ménages",
-      "body": "Les prix des articles d'hygiène et de consommation courante subissent une forte inflation, créant une tension sur les budgets familiaux. Cette pression affecte le pouvoir d'achat régional.",
-      "impact": "Contexte inflationniste sur biens essentiels réduit la capacité d'investissement locatif des PME/TPE : opportunité de négociation sur loyers tertiaires en PACA.",
+      "id": "f4",
+      "title": "OAT 3.70% et Euribor 3M à 2.15% : taux stables en avril",
+      "body": "Les taux des obligations françaises (OAT) se maintiennent à 3.70% tandis que l'Euribor 3 mois reste stable à 2.15%, reflétant une conjoncture monétaire européenne équilibrée. Cette stabilité tarifaire favorise les financements de transactions immobilières d'entreprise.",
+      "impact": "Conditions de financement stables pour acquisitions et refinancements de portefeuille tertiaire : coût du crédit prévisible jusqu'à mi-2026.",
       "date": "16/04/2026",
-      "url": "https://www.laprovence.com/article/region/4982845240383814/dentifrice-gel-douche-acheter-de-quoi-se-laver-pour-toute-une-famille-ca-fait-un-vrai-trou-dans-le-budget",
-      "source": "La Provence",
+      "url": "https://www.laprovence.com/article/economie/11744478850234/francois-de-canson-je-ne-me-deroberai-pas-une-region-ne-se-gere-pas-au-doigt-mouille",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "tt"
         }
       ]
     },
     {
-      "id": "f4",
-      "title": "Monitorank : leader SEO français pour visibilité multinationales",
-      "body": "L'entreprise provençale Monitorank s'impose depuis 2016 comme leader en pilotage de visibilité SEO pour multinationales. La solution technique affirme la capacité d'innovation du tissu digital régional.",
-      "impact": "Croissance de l'écosystème digital PACA renforce la demande de bureaux modernes, flex-spaces et locaux pour PME tech en zones urbaines stratégiques.",
-      "date": "16/04/2026",
-      "url": "https://www.laprovence.com/article/economie/4420601447966214/comment-lentreprise-provencale-monitorank-est-devenue-leader-sur-le-pilotage-de-la-visibilite-seo-de-certaines-multinationales",
+      "id": "f5",
+      "title": "Restaurant Jacqueline labellisé Ecotable à Villeneuve-lès-Avignon",
+      "body": "Le restaurant Jacqueline obtient le label Ecotable pour sa démarche de restauration durable implantée dans la Maison Orsini à Villeneuve-lès-Avignon. Cette certification reflète la tendance croissante vers les commerces et services éco-responsables en zone historique touristique.",
+      "impact": "Opportunité de reprises commerciales et locations de locaux conformes aux normes environnementales dans le périmètre Avignon-Villeneuve.",
+      "date": "15/04/2026",
+      "url": "https://www.laprovence.com/article/food/29151720852839/le-restaurant-jacqueline-installe-a-villeneuve-lez-avignon-labellise-ecotable",
       "source": "La Provence",
       "tags": [
         {
@@ -68,27 +91,8 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Données financement : OAT 3.70%, Euribor3M 2.15%",
-      "body": "Les taux obligataires français se stabilisent à 3.70% (OAT) tandis que l'Euribor3M demeure à 2.15%. Contexte de taux élevés persistant pour le financement des acquisitions immobilières tertiaires.",
-      "impact": "Taux de rendement requis élevé (>4.5%) pour acceptabilité investisseurs : accélère négociations baisses loyers sur marchés secondaires PACA pour maintenir rentabilité.",
-      "date": "16/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1175572869092715/les-meilleurs-fonds-euros-en-assurance-vie-notre-top-5",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
         }
       ]
     }
@@ -96,41 +100,11 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Crise Moyen-Orient : carburants en hausse, mesure de relance",
-      "body": "La flambée des prix énergétiques liée aux tensions géopolitiques au Moyen-Orient contraint le gouvernement à proposer des remboursements carburant (150€) pour soutenir la consommation estivale. Le Brent se négocie à 96 USD/baril.",
-      "impact": "Instabilité énergétique pénalise les coûts d'exploitation (chauffage, transport) des acteurs immobiliers tertiaires : négocier clauses d'ajustement énergie dans baux long terme.",
-      "date": "16/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1231593793095215/vacances-dete-2026-jusqua-150-e-de-carburant-rembourses-le-nouveau-levier-du-tourisme-face-a-la-flambee-des-prix",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Gouvernement s'oppose à péage détroit d'Ormuz",
-      "body": "La porte-parole Maud Bregeon affirme l'opposition française à tout paiement au détroit d'Ormuz, dans un contexte de tensions commerciales persistantes. Position défensive sur les coûts énergétiques français.",
-      "impact": "Stabilité politique française sur énergie limite les chocs inflationnistes futurs : contexte favorable aux baux long terme sans volatilité énergétique excessive.",
+      "title": "Crise énergétique : débat sur le détroit d'Ormuz et carburants",
+      "body": "Le gouvernement français réaffirme son opposition à tout paiement au détroit d'Ormuz alors que la hausse des prix des carburants freine les départs en vacances d'été 2026. La tension géopolitique au Moyen-Orient maintient une pression inflationniste sur les coûts de transport.",
+      "impact": "Hausse des coûts logistiques et de transport pour CRE : anticiper +3 à 5% sur les valorisations de locaux d'activité logistiques en zone intérieure PACA.",
       "date": "15/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1182896763346915/prix-des-carburants-peage-au-detroit-dormuz-ce-quil-faut-retenir-des-anonces-de-maud-bregeon",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "m3",
-      "title": "BCE maintien taux directeur 2.15% en contexte inflation 1.7%",
-      "body": "La Banque Centrale Européenne maintient son taux directeur à 2.15% face à une inflation modérée à 1.7% en zone euro. L'environnement monétaire reste restrictif pour le financement immobilier.",
-      "impact": "Taux réels positifs (0.45%) limitent l'appétit investisseurs pour actifs immobiliers tertiaires : prioriser assets value-add et décotes de marché en PACA.",
-      "date": "16/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1175572869092715/les-meilleurs-fonds-euros-en-assurance-vie-notre-top-5",
+      "url": "https://www.laprovence.com/article/economie/1231593793095215/vacances-dete-2026-jusqua-150-e-de-carburant-rembourses-le-nouveau-levier-du-tourisme-face-a-la-flambee-des-prix",
       "source": "La Provence",
       "tags": [
         {
@@ -138,7 +112,45 @@
           "cls": "tg"
         },
         {
+          "label": "Énergie",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Inflation France stable à 1.7% : contexte favorable",
+      "body": "L'inflation française demeure maîtrisée à 1.7% en avril 2026, soutenant une conjoncture économique stable malgré les pressions énergétiques. Cette stabilité permet aux entreprises de prévoir leurs investissements immobiliers sans révision majeure des budgets.",
+      "impact": "Environnement économique stable pour valorisation des actifs tertiaires PACA : maintenir les évaluations sans décote inflationniste jusqu'à juin 2026.",
+      "date": "16/04/2026",
+      "url": "https://www.laprovence.com/article/economie/4982845240383814/dentifrice-gel-douche-acheter-de-quoi-se-laver-pour-toute-une-famille-ca-fait-un-vrai-trou-dans-le-budget",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Conjoncture",
+          "cls": "tg"
+        },
+        {
+          "label": "Inflation",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "BCE à 2.15% : politique monétaire accommodante",
+      "body": "La Banque centrale européenne maintient ses taux directeurs à 2.15%, soutenant une politique monétaire accommodante face aux risques géopolitiques. Cette posture dovish favorise les emprunts à moyen terme pour financer les acquisitions immobilières professionnelles.",
+      "impact": "Fenêtre de financement favorable : accélérer les montages de dette bancaire et obligataire pour portefeuille tertiaire avant normalisation tarifaire fin 2026.",
+      "date": "16/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1175572869092715/les-meilleurs-fonds-euros-en-assurance-vie-notre-top-5",
+      "source": "Données marché BCE",
+      "tags": [
+        {
           "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Monétaire",
           "cls": "tt"
         }
       ]

@@ -1,32 +1,13 @@
 {
-  "generated_at": "17/04/2026",
+  "generated_at": "18/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Medef Sud : résilience des entreprises face aux chocs géopolitiques",
-      "body": "Les entreprises de la région font face à une situation complexe marquée par des tensions géopolitiques et sociales. Le Medef Sud souligne la nécessité d'adaptation pour les mois à venir.",
-      "impact": "Les locataires de bureaux et activités PACA doivent anticiper une volatilité accrue des décisions d'expansion et renégocier les conditions de flexibilité dans leurs baux.",
+      "title": "Orange renforce Zebox : 18e partenaire de l'accélérateur CMA CGM",
+      "body": "Orange devient le 18e partenaire stratégique de Zebox, l'accélérateur du groupe CMA CGM basé à Marseille. Ce partenariat vise à accélérer le passage du prototype au déploiement de masse pour les startups de la French Tech régionale.",
+      "impact": "Opportunité de diversification pour les espaces tertiaires marseillais accueillant les startups innovantes soutenues par ces accélérateurs structurants.",
       "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/economie/128294854360115/medef-sud-entre-tensions-et-resilience-les-entreprises-face-au-choc-geopolitique-et-social",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Bâtiment en regain d'activité malgré instabilité politique",
-      "body": "Les Alpes du Sud enregistrent un rebond d'activité dans le secteur du bâtiment malgré un contexte politique instable. La Capeb observe une dynamique positive pour la construction et aménagement.",
-      "impact": "Les transactions de locaux d'activité et commerces en zones de montagne PACA bénéficient de cette reprise ; opportunité de valorisation des immeubles tertiaires associés.",
-      "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/economie/38478133117717/malgre-une-instabilite-politique-prejudiciable-le-batiment-face-a-un-regain-d-activite-dans-les-alpes-du-sud",
+      "url": "https://www.laprovence.com/article/economie/1309588678986215/le-geant-des-telecoms-orange-devient-le-18e-partenaire-de-zebox-laccelerateur-fonde-par-le-groupe-cma-cgm",
       "source": "La Provence",
       "tags": [
         {
@@ -40,12 +21,27 @@
       ]
     },
     {
-      "id": "f3",
-      "title": "Liaison Est-Ouest Avignon : enjeux de mobilité urbaine",
-      "body": "Le projet de Liaison Est-Ouest relancé à Avignon vise à désengorder la Rocade et améliorer la circulation urbaine. Les enjeux de financement et réalisation sont au cœur des priorités municipales.",
-      "impact": "L'amélioration de l'accessibilité routière à Avignon renforce l'attractivité des zones de bureaux et commerces périphériques ; privilégier les sites proches des futurs axes.",
+      "id": "f2",
+      "title": "Pélissanne : nouvelle dynamique du pôle économique local",
+      "body": "Stéphanie Volpini a été élue à la tête du pôle économique de Pélissanne avec une mission de proximité terrain. Cette nouvelle gouvernance renforce l'engagement municipal sur le développement économique et touristique du secteur.",
+      "impact": "Surveillance des initiatives de développement commercial et d'activités à Pélissanne pour identifier les opportunités de transaction locales.",
       "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/politique/39379746259260/la-liaison-est-ouest-d-avignon-relancee-combien-elle-couterait-et-qui-pour-la-financer",
+      "url": "https://www.laprovence.com/article/economie/55127919727202/pelissanne-stephanie-volpini-a-la-tete-d-un-pole-economique-qui-se-veut-au-plus-pres-du-terrain",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Fibre Excellence à Tarascon : retrait de l'actionnaire",
+      "body": "L'actionnaire de Fibre Excellence a annoncé le 16 avril son refus d'investir davantage dans le groupe tarasconnais malgré les propositions d'aide de l'État. Cette décision remet en question la viabilité à long terme de l'entreprise.",
+      "impact": "Risque d'instabilité pour les locaux occupés par Fibre Excellence à Tarascon ; surveiller les changements de stratégie ou les mises en disposition potentielles.",
+      "date": "17/04/2026",
+      "url": "https://www.laprovence.com/article/economie/76879052099409/fibre-excellence-a-tarascon-l-actionnaire-refuse-d-investir-davantage-dans-le-groupe",
       "source": "La Provence",
       "tags": [
         {
@@ -53,18 +49,18 @@
           "cls": "tp"
         },
         {
-          "label": "Infrastructure",
-          "cls": "tr"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "La Ciotat Entreprendre : 317 adhérents, tissu économique dynamique",
-      "body": "L'association fédère 317 entreprises générant 4 500 emplois à La Ciotat, reflétant un écosystème commercial et de services robuste. Bilan positif de l'année 2025 avec progression des adhésions.",
-      "impact": "La Ciotat offre un marché structuré et dynamique pour l'immobilier commercial et de bureaux ; identifier des opportunités auprès des PME de ce pôle économique côtier.",
+      "title": "Ephia Marseille : startup IA en diagnostic radiologique",
+      "body": "Ephia, fondée par deux anciens condisciples du lycée Lacordaire, développe des solutions IA pour le diagnostic radiologique à Marseille. L'entreprise représente le dynamisme de l'innovation médicale dans la métropole phocéenne.",
+      "impact": "Demande croissante d'espaces tertiaires modulables à Marseille pour les entreprises de santé-tech et d'IA en phase de croissance accélérée.",
       "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/region/1279350739418915/l-association-la-ciotat-entreprendre-etablit-son-bilan-de-l-annee-2025-et-compte-desormais-317-adherents",
+      "url": "https://www.laprovence.com/article/sante/1314684256900215/ephia-a-marseille-lorsque-lintelligence-artificielle-se-met-au-service-du-diagnostic-radiologique",
       "source": "La Provence",
       "tags": [
         {
@@ -72,27 +68,27 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Succès du discount : Action et Normal captivent tous segments",
-      "body": "Les enseignes de discount Action et Normal connaissent un succès massif auprès de tous les segments de population, riches comme pauvres. Leur modèle de prix cassés crée une mécanique de tentation commerciale.",
-      "impact": "Les dynamiques de retail discount renforcent la demande de petites surfaces commerciales PACA en centralité ; adapter les stratégies de baux courts et flexibles pour ces formats.",
-      "date": "16/04/2026",
-      "url": "https://www.laprovence.com/article/economie/11888411927330/action-normal-les-pauvres-en-ont-besoin-les-riches-en-raffolent-comment-expliquer-le-succes-du-discount",
+      "title": "Plan gouvernemental : quintupler bornes électriques d'ici 2035",
+      "body": "La France lance une stratégie pour multiplier par cinq le nombre de bornes de recharge pour véhicules électriques sur autoroutes et routes nationales avant 2035. Cette transition énergétique impacte les besoins en locaux logistiques et commerciaux.",
+      "impact": "Accélération de la demande de petits locaux commerciaux et de locaux d'activité pour les opérateurs de bornes de recharge en PACA.",
+      "date": "17/04/2026",
+      "url": "https://www.laprovence.com/article/politique/1336028260121115/la-france-veut-quintupler-dici-a-2035-ses-bornes-electriques-sur-autoroutes-et-nationales",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         },
         {
-          "label": "Retail",
-          "cls": "tp"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,11 +96,11 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Économie bleue : Marseille et diplomatie internationale",
-      "body": "Marseille accueille une vingtaine d'ambassadeurs étrangers pour explorer l'économie bleue et les enjeux maritimes. La ville consolide son positionnement de hub économique méditerranéen.",
-      "impact": "Renforcemment de l'attractivité de Marseille pour les sièges sociaux et bureaux liés aux secteurs maritimes et énergie marine ; opportunités pour immobilier d'entreprise haut de gamme.",
+      "title": "Consolidation télécoms : impact structure marché français",
+      "body": "Bouygues, Free et Orange ont annoncé le 17 avril un accord pour le rachat de SFR, reconfiguration majeure du paysage télécom français. Cette consolidation crée des opportunités et risques pour l'immobilier tertiaire des sièges sociaux concernés.",
+      "impact": "Restructurations probables des espaces tertiaires parisiens et régionaux ; évaluer les impacts sur les locaux occupés par les groupes de télécoms présents en PACA.",
       "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1281237937559415/marseille-vitrine-maritime-les-ambassadeurs-etrangers-plonges-au-coeur-de-l-economie-bleue",
+      "url": "https://www.laprovence.com/article/societe/133218510755715/rachat-de-sfr-par-bouygues-free-et-orange-ce-que-ca-va-changer-pour-le-consommateur",
       "source": "La Provence",
       "tags": [
         {
@@ -115,11 +111,11 @@
     },
     {
       "id": "m2",
-      "title": "Contexte macro PACA : taux OAT 3.70%, Euribor 2.15%, inflation 1.7%",
-      "body": "Les conditions de financement immobilier restent stables avec OAT à 3.70% et Euribor 3M à 2.15%. L'inflation modérée à 1.7% maintient un environnement de taux favorable pour les transactions.",
-      "impact": "Les acquéreurs institutionnels et fonds conservent des conditions de crédit accessibles ; privilégier les négociations avant inflexion potentielle de la BCE sur les taux.",
-      "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/macro/synthese-taux-financement",
+      "title": "Contexte macro PACA : OAT 3.70%, Euribor 2.15%, inflation 1.7%",
+      "body": "Environnement de financement stable avec taux OAT à 3.70% et Euribor 3M à 2.15%. L'inflation modérée à 1.7% soutient le contexte d'investissement immobilier régional.",
+      "impact": "Conditions favorables pour les opérations de financement CRE en PACA ; recommander les structures de crédit court terme indexées Euribor.",
+      "date": "18/04/2026",
+      "url": "https://www.laprovence.com",
       "source": "Données marché",
       "tags": [
         {
@@ -127,23 +123,27 @@
           "cls": "tt"
         },
         {
-          "label": "Financement",
-          "cls": "tt"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Énergie et géopolitique : Brent à 96 USD",
-      "body": "Le pétrole Brent se maintient à 96 USD dans un contexte géopolitique tendu. Les risques régionaux et tensions diplomatiques influencent les cours énergétiques.",
-      "impact": "L'énergie chère affecte les coûts d'exploitation tertiaires en PACA ; intégrer les clauses de variation énergétique dans les nouveaux baux commerciaux et bureaux.",
-      "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/macro/synthese-energie-brent",
+      "title": "Brent 96 USD : stabilité énergétique et coûts logistiques",
+      "body": "Le Brent se maintient à 96 USD, offrant une stabilité énergétique favorable aux coûts de transport et logistiques en PACA. Cet équilibre soutient la rentabilité des locaux d'activité et commerce.",
+      "impact": "Marges de coûts maîtrisés pour les entreprises de logistique-transport en PACA ; conditions favorables à la négociation de baux tertiaires.",
+      "date": "18/04/2026",
+      "url": "https://www.laprovence.com",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Énergie",
+          "label": "Géopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }

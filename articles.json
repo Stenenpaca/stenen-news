@@ -1,11 +1,30 @@
 {
-  "generated_at": "18/04/2026",
+  "generated_at": "19/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Orange renforce Zebox : 18e partenaire de l'accélérateur CMA CGM",
-      "body": "Orange devient le 18e partenaire stratégique de Zebox, l'accélérateur du groupe CMA CGM basé à Marseille. Ce partenariat vise à accélérer le passage du prototype au déploiement de masse pour les startups de la French Tech régionale.",
-      "impact": "Opportunité de diversification pour les espaces tertiaires marseillais accueillant les startups innovantes soutenues par ces accélérateurs structurants.",
+      "title": "Guerre au Moyen-Orient : impact inflationniste de 4-5% en France",
+      "body": "Les tensions géopolitiques au Moyen-Orient amplifient les pressions inflationnistes et renchérissent les coûts d'exploitation en France. Cette hausse de 4-5% des prix affectera directement les charges d'exploitation des locaux commerciaux et d'activité en PACA.",
+      "impact": "Actualiser les estimations de charges locatives et justifier des ajustements de loyers pour les preneurs en PACA face à l'inflation confirmée.",
+      "date": "18/04/2026",
+      "url": "https://www.laprovence.com/article/economie/144492666511515/guerre-au-moyen-orient-les-prix-en-rayon-devraient-augmenter-de-4-a-5-selon-ufc-que-choisir",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Inflation",
+          "cls": "tt"
+        },
+        {
+          "label": "Charges",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Zebox/Orange : accélération startup et partenariats pour la tech",
+      "body": "Orange rejoint Zebox (accélérateur CMA CGM) comme 18ème partenaire stratégique pour accompagner la montée en charge des startups innovantes. Ce partenariat renforce l'écosystème tech et les besoins en locaux de R&D/incubation en région PACA.",
+      "impact": "Identifier des opportunités de location de locaux d'activité pour startups et centres d'innovation en PACA bénéficiant de cet effet réseau.",
       "date": "17/04/2026",
       "url": "https://www.laprovence.com/article/economie/1309588678986215/le-geant-des-telecoms-orange-devient-le-18e-partenaire-de-zebox-laccelerateur-fonde-par-le-groupe-cma-cgm",
       "source": "La Provence",
@@ -15,31 +34,54 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Pélissanne : nouvelle dynamique du pôle économique local",
-      "body": "Stéphanie Volpini a été élue à la tête du pôle économique de Pélissanne avec une mission de proximité terrain. Cette nouvelle gouvernance renforce l'engagement municipal sur le développement économique et touristique du secteur.",
-      "impact": "Surveillance des initiatives de développement commercial et d'activités à Pélissanne pour identifier les opportunités de transaction locales.",
-      "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/economie/55127919727202/pelissanne-stephanie-volpini-a-la-tete-d-un-pole-economique-qui-se-veut-au-plus-pres-du-terrain",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Startup",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Fibre Excellence à Tarascon : retrait de l'actionnaire",
-      "body": "L'actionnaire de Fibre Excellence a annoncé le 16 avril son refus d'investir davantage dans le groupe tarasconnais malgré les propositions d'aide de l'État. Cette décision remet en question la viabilité à long terme de l'entreprise.",
-      "impact": "Risque d'instabilité pour les locaux occupés par Fibre Excellence à Tarascon ; surveiller les changements de stratégie ou les mises en disposition potentielles.",
+      "title": "Innovation en plaisance : réduction des coûts d'exploitation",
+      "body": "Les Nauticales de La Ciotat mettent en avant des innovations pour limiter les coûts de la plaisance et les charges d'exploitation. Ces tendances d'optimisation des dépenses impactent les besoins en locaux de services aux entreprises côtières.",
+      "impact": "Suivre la demande de locaux activité pour entreprises innovantes de la plaisance en zone côtière PACA (La Ciotat, Marseille).",
+      "date": "17/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1404971904229715/nauticales-a-la-ciotat-ces-entreprises-qui-innovent-pour-limiter-les-couts-de-la-plaisance",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Ephia Marseille : IA diagnostique - nouveaux besoins locaux",
+      "body": "La startup Ephia développe des solutions IA pour diagnostic radiologique à Marseille, illustrant l'émergence de clusters biotech innovants en PACA. Ces entreprises générent une demande accrue de locaux bureaux/activité haut de gamme.",
+      "impact": "Prospecter immeubles modernes pour ETI/startups biotech et health-tech recherchant locaux bureaux équipés à Marseille-Provence.",
+      "date": "17/04/2026",
+      "url": "https://www.laprovence.com/article/sante/1314684256900215/ephia-a-marseille-lorsque-lintelligence-artificielle-se-met-au-service-du-diagnostic-radiologique",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Bureaux",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Fibre Excellence Tarascon : crise d'investissement et fermetures",
+      "body": "L'actionnaire de Fibre Excellence refuse d'investir davantage malgré les aides d'État, signalant une fragilité des PME en difficulté. Ce risque de restructuration/fermeture affecte l'offre immobilière d'activité à Tarascon.",
+      "impact": "Surveiller les mutations potentielles de locaux à Tarascon suite à la crise de Fibre Excellence et ajuster les estimations locatives.",
       "date": "17/04/2026",
       "url": "https://www.laprovence.com/article/economie/76879052099409/fibre-excellence-a-tarascon-l-actionnaire-refuse-d-investir-davantage-dans-le-groupe",
       "source": "La Provence",
@@ -53,54 +95,16 @@
           "cls": "tm"
         }
       ]
-    },
-    {
-      "id": "f4",
-      "title": "Ephia Marseille : startup IA en diagnostic radiologique",
-      "body": "Ephia, fondée par deux anciens condisciples du lycée Lacordaire, développe des solutions IA pour le diagnostic radiologique à Marseille. L'entreprise représente le dynamisme de l'innovation médicale dans la métropole phocéenne.",
-      "impact": "Demande croissante d'espaces tertiaires modulables à Marseille pour les entreprises de santé-tech et d'IA en phase de croissance accélérée.",
-      "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/sante/1314684256900215/ephia-a-marseille-lorsque-lintelligence-artificielle-se-met-au-service-du-diagnostic-radiologique",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Plan gouvernemental : quintupler bornes électriques d'ici 2035",
-      "body": "La France lance une stratégie pour multiplier par cinq le nombre de bornes de recharge pour véhicules électriques sur autoroutes et routes nationales avant 2035. Cette transition énergétique impacte les besoins en locaux logistiques et commerciaux.",
-      "impact": "Accélération de la demande de petits locaux commerciaux et de locaux d'activité pour les opérateurs de bornes de recharge en PACA.",
-      "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/politique/1336028260121115/la-france-veut-quintupler-dici-a-2035-ses-bornes-electriques-sur-autoroutes-et-nationales",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "Consolidation télécoms : impact structure marché français",
-      "body": "Bouygues, Free et Orange ont annoncé le 17 avril un accord pour le rachat de SFR, reconfiguration majeure du paysage télécom français. Cette consolidation crée des opportunités et risques pour l'immobilier tertiaire des sièges sociaux concernés.",
-      "impact": "Restructurations probables des espaces tertiaires parisiens et régionaux ; évaluer les impacts sur les locaux occupés par les groupes de télécoms présents en PACA.",
-      "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/societe/133218510755715/rachat-de-sfr-par-bouygues-free-et-orange-ce-que-ca-va-changer-pour-le-consommateur",
+      "title": "Géopolitique Moyen-Orient : tensions inflationnistes persistantes",
+      "body": "La guerre au Moyen-Orient crée des chocs d'offre prolongés avec transmission inflationniste attendue de 4-5% dans les rayons français. Les prix de l'énergie et matières premières restent volatiles, impactant les coûts d'exploitation du secteur tertiaire.",
+      "impact": "La persistance d'une inflation 1.7% à 4-5% érode les marges locataires CRE et justifie des clauses d'indexation renforcées.",
+      "date": "18/04/2026",
+      "url": "https://www.laprovence.com/article/economie/144492666511515/guerre-au-moyen-orient-les-prix-en-rayon-devraient-augmenter-de-4-a-5-selon-ufc-que-choisir",
       "source": "La Provence",
       "tags": [
         {
@@ -111,39 +115,35 @@
     },
     {
       "id": "m2",
-      "title": "Contexte macro PACA : OAT 3.70%, Euribor 2.15%, inflation 1.7%",
-      "body": "Environnement de financement stable avec taux OAT à 3.70% et Euribor 3M à 2.15%. L'inflation modérée à 1.7% soutient le contexte d'investissement immobilier régional.",
-      "impact": "Conditions favorables pour les opérations de financement CRE en PACA ; recommander les structures de crédit court terme indexées Euribor.",
-      "date": "18/04/2026",
-      "url": "https://www.laprovence.com",
+      "title": "Contexte macro France : inflation modérée mais tensions énergétiques",
+      "body": "L'inflation française se stabilise autour de 1.7% tandis que les taux BCE se maintiennent à 2.15% et les OAT 10Y à 3.70%. Les tensions géopolitiques créent cependant une asymétrie de risque à la hausse sur les pressions de coûts.",
+      "impact": "Les conditions de financement restent contraintes (Euribor 3M: 2.15%) limitant l'accès au crédit immobilier pour les investisseurs CRE.",
+      "date": "19/04/2026",
+      "url": "https://www.laprovence.com/article/economie/144492666511515/guerre-au-moyen-orient-les-prix-en-rayon-devraient-augmenter-de-4-a-5-selon-ufc-que-choisir",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Conjoncture",
+          "cls": "tm"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Brent 96 USD : stabilité énergétique et coûts logistiques",
-      "body": "Le Brent se maintient à 96 USD, offrant une stabilité énergétique favorable aux coûts de transport et logistiques en PACA. Cet équilibre soutient la rentabilité des locaux d'activité et commerce.",
-      "impact": "Marges de coûts maîtrisés pour les entreprises de logistique-transport en PACA ; conditions favorables à la négociation de baux tertiaires.",
-      "date": "18/04/2026",
-      "url": "https://www.laprovence.com",
+      "title": "BCE/Taux : stabilité monétaire face aux chocs exogènes",
+      "body": "La BCE maintient ses taux directeurs à 2.15% dans un contexte d'inflation modérée 1.7%, tandis que les OAT 10Y se stabilisent à 3.70%. L'Euribor 3M plafonné à 2.15% reflète les attentes de stabilité à court terme.",
+      "impact": "Les conditions de refinancement demeurent stables mais onéreuses, réduisant les appétences d'emprunt pour la transformation CRE en PACA.",
+      "date": "19/04/2026",
+      "url": "https://www.laprovence.com/article/economie/144492666511515/guerre-au-moyen-orient-les-prix-en-rayon-devraient-augmenter-de-4-a-5-selon-ufc-que-choisir",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Taux/BCE",
+          "cls": "tt"
         }
       ]
     }

@@ -1,89 +1,13 @@
 {
-  "generated_at": "19/04/2026",
+  "generated_at": "20/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Guerre au Moyen-Orient : impact inflationniste de 4-5% en France",
-      "body": "Les tensions géopolitiques au Moyen-Orient amplifient les pressions inflationnistes et renchérissent les coûts d'exploitation en France. Cette hausse de 4-5% des prix affectera directement les charges d'exploitation des locaux commerciaux et d'activité en PACA.",
-      "impact": "Actualiser les estimations de charges locatives et justifier des ajustements de loyers pour les preneurs en PACA face à l'inflation confirmée.",
-      "date": "18/04/2026",
-      "url": "https://www.laprovence.com/article/economie/144492666511515/guerre-au-moyen-orient-les-prix-en-rayon-devraient-augmenter-de-4-a-5-selon-ufc-que-choisir",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Inflation",
-          "cls": "tt"
-        },
-        {
-          "label": "Charges",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Zebox/Orange : accélération startup et partenariats pour la tech",
-      "body": "Orange rejoint Zebox (accélérateur CMA CGM) comme 18ème partenaire stratégique pour accompagner la montée en charge des startups innovantes. Ce partenariat renforce l'écosystème tech et les besoins en locaux de R&D/incubation en région PACA.",
-      "impact": "Identifier des opportunités de location de locaux d'activité pour startups et centres d'innovation en PACA bénéficiant de cet effet réseau.",
-      "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1309588678986215/le-geant-des-telecoms-orange-devient-le-18e-partenaire-de-zebox-laccelerateur-fonde-par-le-groupe-cma-cgm",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Startup",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Innovation en plaisance : réduction des coûts d'exploitation",
-      "body": "Les Nauticales de La Ciotat mettent en avant des innovations pour limiter les coûts de la plaisance et les charges d'exploitation. Ces tendances d'optimisation des dépenses impactent les besoins en locaux de services aux entreprises côtières.",
-      "impact": "Suivre la demande de locaux activité pour entreprises innovantes de la plaisance en zone côtière PACA (La Ciotat, Marseille).",
-      "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1404971904229715/nauticales-a-la-ciotat-ces-entreprises-qui-innovent-pour-limiter-les-couts-de-la-plaisance",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Ephia Marseille : IA diagnostique - nouveaux besoins locaux",
-      "body": "La startup Ephia développe des solutions IA pour diagnostic radiologique à Marseille, illustrant l'émergence de clusters biotech innovants en PACA. Ces entreprises générent une demande accrue de locaux bureaux/activité haut de gamme.",
-      "impact": "Prospecter immeubles modernes pour ETI/startups biotech et health-tech recherchant locaux bureaux équipés à Marseille-Provence.",
-      "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/sante/1314684256900215/ephia-a-marseille-lorsque-lintelligence-artificielle-se-met-au-service-du-diagnostic-radiologique",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Bureaux",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Fibre Excellence Tarascon : crise d'investissement et fermetures",
-      "body": "L'actionnaire de Fibre Excellence refuse d'investir davantage malgré les aides d'État, signalant une fragilité des PME en difficulté. Ce risque de restructuration/fermeture affecte l'offre immobilière d'activité à Tarascon.",
-      "impact": "Surveiller les mutations potentielles de locaux à Tarascon suite à la crise de Fibre Excellence et ajuster les estimations locatives.",
-      "date": "17/04/2026",
-      "url": "https://www.laprovence.com/article/economie/76879052099409/fibre-excellence-a-tarascon-l-actionnaire-refuse-d-investir-davantage-dans-le-groupe",
+      "title": "Skarlett : la silver économie s'accélère à Marseille",
+      "body": "La start-up marseillaise Skarlett, fondée en 2023, atteint déjà 50 collaborateurs avec une croissance rapide dans le secteur de la silver économie. Ce segment représente une opportunité majeure de diversification commerciale en PACA pour les 10 années à venir.",
+      "impact": "Anticiper l'augmentation de la demande de locaux commerciaux et d'activité dédiés aux services seniors en PACA, secteur en expansion structurelle.",
+      "date": "20/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1582245865327815/skarlett-pour-redonner-du-pouvoir-d-achat-aux-seniors",
       "source": "La Provence",
       "tags": [
         {
@@ -95,36 +19,116 @@
           "cls": "tm"
         }
       ]
-    }
-  ],
-  "macro": [
+    },
     {
-      "id": "m1",
-      "title": "Géopolitique Moyen-Orient : tensions inflationnistes persistantes",
-      "body": "La guerre au Moyen-Orient crée des chocs d'offre prolongés avec transmission inflationniste attendue de 4-5% dans les rayons français. Les prix de l'énergie et matières premières restent volatiles, impactant les coûts d'exploitation du secteur tertiaire.",
-      "impact": "La persistance d'une inflation 1.7% à 4-5% érode les marges locataires CRE et justifie des clauses d'indexation renforcées.",
-      "date": "18/04/2026",
-      "url": "https://www.laprovence.com/article/economie/144492666511515/guerre-au-moyen-orient-les-prix-en-rayon-devraient-augmenter-de-4-a-5-selon-ufc-que-choisir",
+      "id": "f2",
+      "title": "Nauticales quittent La Ciotat : impact sur événementiel PACA",
+      "body": "La 23e édition des Nauticales marque la dernière à La Ciotat, l'événement changeant de localisation. Cette réorientation majeure affectera les espaces événementiels et commerciaux du secteur nautique en PACA.",
+      "impact": "Évaluer l'impact sur les surfaces commerciales et d'activité liées au secteur nautique à La Ciotat ; opportunité de repositionnement immobilier.",
+      "date": "20/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1554944435433815/les-nauticales-mettent-les-voiles-sur-marseille",
       "source": "La Provence",
       "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Wero : révolution paiement e-commerce dès mai 2026",
+      "body": "Banque Populaire et Caisse d'Épargne lancent Wero, permettant à 500 000 clients de payer sur sites marchands dès mai, avec élargissement prévu à l'ensemble de la clientèle. Cette évolution technologique renforce l'attractivité du commerce électronique pour les TPE-PME régionales.",
+      "impact": "Les commerçants PACA devront anticiper l'adoption de nouveaux moyens de paiement ; vérifier la compatibilité technologique des locaux commerciaux équipés.",
+      "date": "20/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1583008700009215/wero-comment-banque-populaire-et-caisse-depargne-comptent-revolutionner-le-paiement-en-ligne-des-cet-ete",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Zou Vaï étend ses services aux entreprises de Gargas",
+      "body": "L'entreprise à but d'emploi Zou Vaï, fondée en 2022, célèbre trois ans avec une centaine de salariés et élargit ses services vers Gargas. Ce modèle d'insertion professionnelle crée une demande croissante de locaux d'activité adaptés en Provence.",
+      "impact": "Anticiper la demande de petits locaux d'activité flexibles pour les EBE en expansion territoriale dans le Vaucluse et en PACA.",
+      "date": "20/04/2026",
+      "url": "https://www.laprovence.com/article/economie/69497141063707/zou-vai-lentreprise-a-but-demploi-etend-ses-services-aux-entreprises-de-gargas",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Carburants : crise énergétique durable jusqu'à l'hiver",
+      "body": "Michel-Édouard Leclerc anticipe une crise énergétique durable d'au moins six mois, voire jusqu'à l'hiver 2026-2027, impactant les prix des carburants et les coûts d'exploitation. Cette hausse prolongée affectera les charges d'exploitation des locaux commerciaux et d'activité.",
+      "impact": "Intégrer une prime de risque énergétique dans les évaluations locatives et conseiller les preneurs sur l'optimisation énergétique des locaux en PACA.",
+      "date": "20/04/2026",
+      "url": "https://www.laprovence.com/article/economie/13404775837462/prix-des-carburants-michel-edouard-leclerc-anticipe-une-crise-energetique-durable-au-moins-jusqu-a-l-hiver",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Marché",
+          "cls": "tm"
+        },
         {
           "label": "Géopolitique",
           "cls": "tg"
         }
       ]
+    }
+  ],
+  "macro": [
+    {
+      "id": "m1",
+      "title": "Inflation plastique : risques de pénurie et flambée des prix",
+      "body": "Joseph Tayefeh, secrétaire général de Plastalliance, annonce une période extrêmement longue d'inflation sur les matières plastiques suite à la géopolitique moyen-orientale. Les risques de pénurie en rayons s'accroissent avec des impacts directs sur les chaînes logistiques.",
+      "impact": "Évaluer l'impact sur les charges d'exploitation des locaux d'activité et de commerce ; indexer les baux sur les indices de matières premières.",
+      "date": "20/04/2026",
+      "url": "https://www.laprovence.com/article/economie/3135766631225814/guerre-au-moyen-orient-vers-une-flambee-des-prix-du-plastique-et-des-risques-de-penurie-en-rayon",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Inflation",
+          "cls": "tm"
+        }
+      ]
     },
     {
       "id": "m2",
-      "title": "Contexte macro France : inflation modérée mais tensions énergétiques",
-      "body": "L'inflation française se stabilise autour de 1.7% tandis que les taux BCE se maintiennent à 2.15% et les OAT 10Y à 3.70%. Les tensions géopolitiques créent cependant une asymétrie de risque à la hausse sur les pressions de coûts.",
-      "impact": "Les conditions de financement restent contraintes (Euribor 3M: 2.15%) limitant l'accès au crédit immobilier pour les investisseurs CRE.",
-      "date": "19/04/2026",
-      "url": "https://www.laprovence.com/article/economie/144492666511515/guerre-au-moyen-orient-les-prix-en-rayon-devraient-augmenter-de-4-a-5-selon-ufc-que-choisir",
-      "source": "Données marché",
+      "title": "Tensions énergétiques moyen-orientales : hausse Brent et énergie",
+      "body": "Les données de marché confirment un contexte de crise énergétique durable avec Brent à 96 USD et une inflation résistante à 1.7%. Les tensions géopolitiques actuelles maintiennent une pression structurelle sur les prix de l'énergie et des matières premières.",
+      "impact": "Renégocier les clauses énergétiques des baux tertiaires PACA ; intégrer des clauses de révision indexée aux prix Brent et Euribor (2.15%).",
+      "date": "20/04/2026",
+      "url": "https://www.laprovence.com/article/economie/13404775837462/prix-des-carburants-michel-edouard-leclerc-anticipe-une-crise-energetique-durable-au-moins-jusqu-a-l-hiver",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Géopolitique",
+          "cls": "tg"
         },
         {
           "label": "Taux",
@@ -134,16 +138,20 @@
     },
     {
       "id": "m3",
-      "title": "BCE/Taux : stabilité monétaire face aux chocs exogènes",
-      "body": "La BCE maintient ses taux directeurs à 2.15% dans un contexte d'inflation modérée 1.7%, tandis que les OAT 10Y se stabilisent à 3.70%. L'Euribor 3M plafonné à 2.15% reflète les attentes de stabilité à court terme.",
-      "impact": "Les conditions de refinancement demeurent stables mais onéreuses, réduisant les appétences d'emprunt pour la transformation CRE en PACA.",
-      "date": "19/04/2026",
-      "url": "https://www.laprovence.com/article/economie/144492666511515/guerre-au-moyen-orient-les-prix-en-rayon-devraient-augmenter-de-4-a-5-selon-ufc-que-choisir",
-      "source": "Données marché",
+      "title": "Financement immobilier : contexte stable OAT/Euribor",
+      "body": "Les taux restent stables avec OAT 3.70% et Euribor 3M à 2.15%, reflétant une politique monétaire de la BCE inchangée (2.15%). Ce contexte favorable aux financements long terme soutient l'investissement immobilier régional.",
+      "impact": "Profiter de la stabilité tarifaire pour conseiller les investisseurs SCPI et les repreneurs sur les acquisitions d'immobilier d'activité en PACA.",
+      "date": "20/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1583008700009215/wero-comment-banque-populaire-et-caisse-depargne-comptent-revolutionner-le-paiement-en-ligne-des-cet-ete",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux/BCE",
+          "label": "Taux",
           "cls": "tt"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }

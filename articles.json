@@ -1,13 +1,13 @@
 {
-  "generated_at": "21/04/2026",
+  "generated_at": "22/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Masterclass levée de fonds : opportunités pour PME PACA",
-      "body": "L'association Paci a organisé une masterclass dédiée à la levée de fonds pour les chefs d'entreprise à La Ciotat, démontrant la dynamique entrepreneuriale régionale. Cette initiative souligne l'intérêt croissant des PME PACA pour l'accélération de leur développement.",
-      "impact": "Contexte favorable pour les transactions CRE : les entreprises en croissance recherchent des locaux plus importants et de meilleure qualité pour supporter leur expansion.",
-      "date": "19/04/2026",
-      "url": "https://www.laprovence.com/article/economie/9424873806285614/accelerer-sans-se-bruler-une-masterclass-pour-les-chefs-d-entreprise-a-la-ciotat",
+      "title": "Tensions budgétaires municipales en PACA",
+      "body": "Le conseil municipal de Caumont-sur-Durance a connu des échanges vifs lors de l'examen du Rapport d'orientations budgétaires, révélant des tensions sur les finances locales. Ces contraintes budgétaires impactent directement les enveloppes destinées aux zones tertiaires et aux locaux d'activité régionaux.",
+      "impact": "Les gestionnaires de patrimoine immobilier PACA doivent anticiper une possible contraction de la demande tertiaire publique et parapublique en 2026-2027.",
+      "date": "22/04/2026",
+      "url": "https://www.laprovence.com/article/politique/174434681564715/rapport-d-orientation-budgetaire-premieres-tensions-au-conseil-municipal-de-caumont-sur-durance",
       "source": "La Provence",
       "tags": [
         {
@@ -15,37 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "Budget local",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Électrification des parkings : enjeu majeur pour immobilier tertiaire",
-      "body": "Le gouvernement prévoit l'ajout de 1,2 million de places de parking électrifiées d'ici 2035, répondant à l'urgence de la transition énergétique. Cette obligation impactera directement les normes de construction et de rénovation des immeubles tertiaires.",
-      "impact": "Les bâtiments tertiaires PACA doivent anticiper l'infrastructure de recharge : coût supplémentaire à intégrer dans les projets de renovation et critère décisif pour les preneurs locaux.",
-      "date": "21/04/2026",
-      "url": "https://www.laprovence.com/article/societe/1668577715088415/bornes-electriques-1-2-million-de-places-de-parking-electrifiees-supplementaires-d-ici-2035",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Partenariat formations supérieures : attractivité emploi régional",
-      "body": "Sully et Perrimond officialisent une alliance pour développer un Bac+5 RH en alternance à Marseille, enrichissant l'offre de formation régionale. Cette dynamique pédagogique soutient l'attractivité de la métropole pour les talents.",
-      "impact": "L'augmentation de l'offre d'emplois qualifiés en PACA renforce la demande de locaux bureaux et de surfaces de coworking pour accueillir les entreprises créant ces postes.",
-      "date": "21/04/2026",
-      "url": "https://www.laprovence.com/article/economie/9433437134530414/sully-et-perrimond-officialisent-leur-alliance-autour-dun-bac-5-rh-en-alternance",
+      "title": "Projet nucléaire majeur à Cadarache",
+      "body": "Le CEA de Cadarache et la startup Stellaria ont déposé une lettre d'intention pour installer un nouveau réacteur nucléaire sur le site. Ce mégaprojet industriel génèrera une demande significative en locaux tertiaires, bureaux administratifs et zones logistiques.",
+      "impact": "Anticipez une hausse structurelle des besoins immobiliers d'entreprises prestataires autour du pôle de Cadarache ; opportunités de locations moyennes et longues durées à valoriser.",
+      "date": "22/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1740666401462215/le-cea-de-cadarache-et-la-start-up-stellaria-ont-l-intention-d-installer-un-nouveau-reacteur-nucleaire",
       "source": "La Provence",
       "tags": [
         {
@@ -54,45 +35,64 @@
         },
         {
           "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Coût logistique transport : flambée carburants PACA",
+      "body": "Les prix des carburants flambent en France en raison du conflit régional au Moyen-Orient, impactant directement les coûts d'exploitation des PME et la rentabilité des locaux d'activité. Le gouvernement annonce un dispositif d'accompagnement de 20 centimes/litre pour les travailleurs modestes.",
+      "impact": "Les entreprises de transport et logistique réviseront à la baisse leurs budgets immobiliers ; négociez des baux plus flexibles et des réductions commerciales pour fidéliser les locataires secteur flux.",
+      "date": "22/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1744331741759915/prix-des-carburants-un-dispositif-d-accompagnement-annonce-par-sebastien-lecorni-qui-est-concerne",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Macro",
+          "cls": "tg"
+        },
+        {
+          "label": "Coûts",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Master infrastructures durables : mutation du génie civil PACA",
-      "body": "L'ISBA TP lance un master dédié aux infrastructures durables, répondant aux enjeux de décarbonation du secteur du génie civil. Cette formation prépare les futurs experts aux transformations réglementaires inévitables.",
-      "impact": "Les entreprises BTP/ingénierie PACA devront recruter ces profils : hausse attendue de la demande de bureaux et ateliers proches des centres technologiques régionaux.",
-      "date": "21/04/2026",
-      "url": "https://www.laprovence.com/article/economie/3968881357593714/lecole-dingenieurs-marseillaise-isba-tp-annonce-louverture-dun-master-pour-des-infrastructures-durables",
+      "title": "OAT et taux structurels 2026",
+      "body": "Selon les données de marché, les OAT françaises cotent à 3.70%, l'Euribor 3 mois à 2.15% et la BCE maintient ses taux directeurs à 2.15%. Ces niveaux reflètent une stabilité relative malgré les tensions géopolitiques.",
+      "impact": "Les taux de financement immobilier tertiaire restent supportables en PACA ; maintenez vos stratégies de cession-bail et d'investissement en attente de baisse des taux prévue fin 2026.",
+      "date": "22/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1756063556827615/carte-prix-des-carburants-les-prix-dans-les-stations-service-pres-de-chez-vous",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Financement",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Commerce local Sorgues : dynamique centres-villes PACA",
-      "body": "L'opération 'Passeport de l'amour' a distribué plus de 5 000 passeports auprès de 120 enseignes à Sorgues, générant une forte mobilisation. Cette initiative témoigne du potentiel de revitalisation des centres-villes par les actions locales.",
-      "impact": "Les commerces PACA restent des demandeurs actifs de surfaces de qualité : prioriser les locaux en centres-villes avec stationnement et accessibilité dans les négociations.",
-      "date": "21/04/2026",
-      "url": "https://www.laprovence.com/article/economie/3942822965161614/le-passeport-de-lamour-5-000-raisons-de-consommer-local-dans-le-centre-ville-de-sorgues",
+      "title": "Épargne et investissement immobilier en recul",
+      "body": "Le Livret A enregistre son pire mois de mars depuis 2009, avec un retrait de 3.1 milliards d'euros au T1 2026. Cette fuite d'épargne vers d'autres placements reflète une demande relocalisée vers l'immobilier et les SCPI.",
+      "impact": "Les SCPI tertiaire/commerce PACA bénéficient d'un redéploiement de l'épargne française ; positionnez l'investissement immobilier régional auprès de vos clients institutionnels comme alternative de rendement.",
+      "date": "22/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1018724469920315/livret-a-le-pire-mois-de-mars-depuis-2009-pourquoi-cette-epargne-est-elle-boudee",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Investissement",
+          "cls": "ti2"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "SCPI",
+          "cls": "ti2"
         }
       ]
     }
@@ -100,11 +100,11 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Envolée des cours du pétrole : impact énergie et coûts entreprises",
-      "body": "Les prix des carburants flambent en France suite au conflit au Moyen-Orient impliquant les États-Unis, Israël, l'Iran et le Liban. Cette tension géopolitique majeure affecte directement les coûts logistiques et énergétiques des entreprises.",
-      "impact": "Les preneurs tertiaires/activité négocieront les charges de chauffage et réclameront des clauses révisables : prévoir des ajustements dans les baux PACA.",
-      "date": "21/04/2026",
-      "url": "https://www.laprovence.com/article/economie/16703794817912/carte-prix-des-carburants-quels-prix-dans-quelles-stations-service-pres-de-chez-vous",
+      "title": "Tensions géopolitiques et inflation énergétique",
+      "body": "Le Moyen-Orient est embourbé dans un conflit initié par les États-Unis et Israël contre l'Iran, s'élargissant au Liban. Le Brent se maintient à 96 USD/baril, comprimant les marges d'exploitation des entreprises régionales.",
+      "impact": "L'inflation énergétique à 1.7% reste maîtrisée mais le risque géopolitique justifie une vigilance accrue sur les clauses d'escalade tarifaire des nouveaux baux PACA.",
+      "date": "22/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1744331741759915/prix-des-carburants-un-dispositif-d-accompagnement-annonce-par-sebastien-lecorni-qui-est-concerne",
       "source": "La Provence",
       "tags": [
         {
@@ -119,35 +119,35 @@
     },
     {
       "id": "m2",
-      "title": "OAT 3.70% : taux de financement immobilier stable mi-avril",
-      "body": "Les obligations d'État français (OAT) maintiennent un rendement de 3.70%, reflétant la stabilité relative des marchés obligataires européens. L'Euribor 3M reste à 2.15%, soutenant les taux de crédit immobilier modérés.",
-      "impact": "Environnement de financement toujours favorable pour les acquisitions CRE PACA : taux d'emprunt stables entre 3.8-4.2%, opportunité à saisir avant potentielle remontée.",
+      "title": "Relance des grands projets industriels par l'État",
+      "body": "Emmanuel Macron accélère sur les grands projets industriels via la 'méthode Notre-Dame', réduisant drastiquement les délais d'instruction. Le conseil des ministres s'est délocalisé à Montluçon pour incarner cette dynamique.",
+      "impact": "Cette accélération administrative bénéficiera aux projets d'extension tertiaire et logistique en PACA ; anticipez une fluidification des autorisations d'urbanisme pour les transactions d'envergure.",
       "date": "21/04/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-marche",
-      "source": "Données de marché",
+      "url": "https://www.laprovence.com/article/economie/1699849565679115/emmanuel-macron-accelere-sur-les-grands-projets-industriels",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Conjoncture",
+          "cls": "tg"
         },
         {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "Politique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France 1.7% : conjoncture modérée, consommation résiliente",
-      "body": "L'inflation en France s'établit à 1.7%, signalant une conjoncture maîtrisée malgré les tensions énergétiques. La BCE maintient son taux directeur à 2.15%, laissant la politique monétaire en soutien mesuré.",
-      "impact": "Contexte de faible inflation favorable aux preneurs commerciaux PACA : pouvoir d'achat préservé, demande de surfaces commercial stable sur le semestre.",
-      "date": "21/04/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-macro-france",
-      "source": "Données BCE/INSEE",
+      "title": "Politique monétaire BCE stable, inflation contenue",
+      "body": "La BCE maintient ses taux directeurs à 2.15% ; l'inflation française se stabilise à 1.7%, bien en deçà du seuil de 2%. Les OAT à 3.70% et l'Euribor 3M à 2.15% traduisent une confiance relative des marchés.",
+      "impact": "L'environnement monétaire restrictif perdure ; les investisseurs immobiliers PACA doivent anticiper une possible poursuite des taux élevés jusqu'à mi-2026 avant détente.",
+      "date": "22/04/2026",
+      "url": "https://www.laprovence.com/article/economie/4810874685412614/aides-pour-les-carburants-la-france-n-a-pas-les-moyens-d-amortir-les-crises-estime-gerard-larcher",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
           "label": "Inflation",

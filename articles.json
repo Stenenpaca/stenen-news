@@ -1,13 +1,13 @@
 {
-  "generated_at": "23/04/2026",
+  "generated_at": "24/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Carburants : hausse durable impactant les secteurs BTP et activités",
-      "body": "La crise au Moyen-Orient provoque une envolée des prix des carburants affectant directement les secteurs d'activité en PACA (BTP, transport, logistique). Les distributeurs et secteurs modestes demandent des mesures gouvernementales d'accompagnement face à cette volatilité durable.",
-      "impact": "Intégrer la hausse carburant (+20-30%) dans les analyses de coûts d'exploitation des locaux d'activité et étudier la relocalisation des stocks près des sites de consommation.",
-      "date": "22/04/2026",
-      "url": "https://www.laprovence.com/article/societe/182634538573915/agriculteurs-pecheurs-btp-infirmiers-apres-les-annonces-du-gouvernement-sur-le-carburant-ces-secteurs-sont-perplexes",
+      "title": "CinéCréatis : nouvelle école audiovisuelle en PACA",
+      "body": "Une école dédiée à l'apprentissage et la pratique du cinéma s'installe en région PACA, formant des professionnels aux compétences concrètes et directement opérationnelles. Cette initiative contribue au développement d'un écosystème créatif régional autour de l'audiovisuel.",
+      "impact": "Opportunité de locaux spécialisés (studios, espaces pédagogiques) et bureaux administratifs pour écoles de cinéma en croissance dans l'agglomération PACA.",
+      "date": "24/04/2026",
+      "url": "https://www.laprovence.com/article/culture-loisirs/1929663287591215/cinecreatis-une-ecole-dediee-a-lapprentissage-et-a-la-pratique-du-cinema",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Activité économique",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Aides gouvernementales carburants : impact sur les charges d'exploitation",
-      "body": "Un dispositif d'accompagnement de -20 centimes/litre est annoncé pour les travailleurs modestes et secteurs clés. Cependant, l'État français souligne ses contraintes budgétaires limitant la durabilité de ces mesures de soutien.",
-      "impact": "Anticiper les risques de volatilité carburant dans les calculs de coûts occupancy des locaux d'activité et BTP pour les 6-12 prochains mois.",
-      "date": "22/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1744331741759915/prix-des-carburants-un-dispositif-daccompagnement-annonce-par-sebastien-lecornu-qui-est-concerne",
+      "title": "Qista : deeptech PACA anti-moustique franchit étape majeure",
+      "body": "La startup provençale Qista, leader de la révolution anti-moustique, change d'échelle face au défi croissant de la santé publique. Cette deeptech régionale consolide son position dans l'écosystème innovant PACA.",
+      "impact": "Demande accrue d'espaces de R&D, laboratoires et bureaux pour startups deeptech en expansion rapide dans la région PACA.",
+      "date": "24/04/2026",
+      "url": "https://www.laprovence.com/article/economie/6429800435915314/qista-la-revolution-anti-moustique-change-d-echelle",
       "source": "La Provence",
       "tags": [
         {
@@ -34,37 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Monaco/Mareterra : dynamique immobilière haut de gamme côte d'Azur",
-      "body": "Un investissement record de 2500 m² à Monaco (quartier Mareterra) par un oligarque ukrainien témoigne de la vitalité du segment premium côte d'Azur. Cette dynamique renforce l'attractivité territoriale pour les investissements tertiaires de prestige.",
-      "impact": "Surveiller les relocalisations de sièges sociaux de groupes vers la Côte d'Azur et Monaco ; opportunités de services immobiliers premium en PACA littoral.",
-      "date": "22/04/2026",
-      "url": "https://www.laprovence.com/article/economie/4876260595310514/un-appartement-achete-a-un-prix-record-a-monaco-par-lhomme-le-plus-riche-dukraine-rinat-akhmetov",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Marché PACA",
-          "cls": "tm"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Tourisme Cassis top 5 : redynamisation des commerces et services",
-      "body": "Cassis figure parmi les 5 destinations françaises les plus recherchées (classement 2026), confirmant l'attractivité touristique durable du littoral provençal. Cette dynamique soutient la demande de locaux commerciaux et services en proximité.",
-      "impact": "Identifier les opportunités de petits commerces et services (restauration, retail) le long de la côte provençale bénéficiant du flux touristique accru.",
-      "date": "22/04/2026",
-      "url": "https://www.laprovence.com/article/tourisme/1748859668072915/tourisme-cassis-toujours-dans-le-top-5-des-destinations-de-vacances-les-plus-recherchees-sur-le-net",
+      "title": "Neuronaix : IA industrielle réinvente automatisation production",
+      "body": "Fondée en 2023, la startup Neuronaix propose une IA capable d'apprendre les gestes ouvriers pour transformer et accélérer la robotisation des lignes de production industrielles. Cette solution réduit considérablement les délais et coûts de mise en place.",
+      "impact": "Recherche de locaux d'activité et espaces de démonstration pour éditeurs de solutions IA industrielles en forte croissance en région PACA.",
+      "date": "23/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1879088263389715/neuronaix-l-ia-qui-apprend-les-gestes-des-ouvriers-pour-transformer-l-industrie",
       "source": "La Provence",
       "tags": [
         {
@@ -72,27 +53,46 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Recrutement entreprises Alpes-Haute-Provence : nouveaux leviers",
+      "body": "France Travail publie enquête annuelle mettant en évidence besoins en main-d'œuvre accrus pour saison estivale en Alpes-de-Haute-Provence. Cette tension du marché du travail reflète dynamique économique régionale positive.",
+      "impact": "Hausse de demande en bureaux administratifs et locaux RH pour PME/ETI du secteur touristique et services en PACA.",
+      "date": "23/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1147349952885815/de-nouveaux-leviers-pour-repondre-aux-besoins-de-recrutement-des-entreprises-des-alpes-de-haute-provence",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Déclaration revenus 2026 : enjeu de trésorerie pour les ETPs",
-      "body": "La campagne fiscale 2026 oblige les entreprises à déclarer précisément frais, revenus et déductions pour optimiser leur imposition. Cette charge administrative impacte la trésorerie des PME/ETPs occupant des locaux en PACA.",
-      "impact": "Conseiller les preneurs locatifs ETPs/PMEs sur l'impact d'une déclaration optimisée sur leur capacité d'engagement d'investissement immobilier.",
-      "date": "22/04/2026",
-      "url": "https://www.laprovence.com/article/economie/4127771779072314/impots-2026-frais-dons-vinted-les-reponses-dun-expert-a-vos-questions-pour-bien-declarer-vos-revenus",
+      "title": "Commerce : bureau tabac mythique Digne-les-Bains en vente",
+      "body": "Le tabac-alimentation 'Chez Cathy' à Digne-les-Bains, établissement emblématique depuis 30 ans, recherche repreneurs après génération fondatrice. Cession représente opportunité rare pour commerce multiservices en zone centrale.",
+      "impact": "Transaction possible de PME commerciale bien implantée ; intérêt pour conseil sur valorisation et positionnement immobilier commercial régional.",
+      "date": "23/04/2026",
+      "url": "https://www.laprovence.com/article/region/5958921216904414/le-mythique-bureau-de-tabac-chez-cathy-en-vente-apres-30-ans-d-histoire-et-de-lien-social-a-digne-les-bains",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,11 +100,11 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Crise Moyen-Orient : impact énergétique durable annoncé",
-      "body": "Serge Papin (secteur distribution) anticipe une crise durable au Moyen-Orient de plusieurs semaines à mois, sans visibility sur une résolution rapide. Les négociations entre belligérants demeurent actives mais incertaines.",
-      "impact": "Brent anticipe volatilité prolongée ; intégrer prime géopolitique +5-10% sur analyses sensibilité coûts énergétiques bureaux/activité PACA.",
-      "date": "23/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1839504392174115/moyen-orient-serge-papin-anticipe-une-crise-durable-mais-assure-que-les-distributeurs-jouent-le-jeu-sur-les-prix",
+      "title": "Crise géopolitique Moyen-Orient : carburant dépasse 2€/litre en PACA",
+      "body": "Guerre persistent entre États-Unis, Israël et Iran depuis plus d'1,5 mois maintient prix carburant à niveaux élevés partout en France. Prix SP95 dépasse 2€/litre et usent automobilistes français.",
+      "impact": "Coûts transports immobiliers et déplacements professionnels impactés ; à répercuter dans coûts exploitation pour locataires bureaux/activité PACA.",
+      "date": "24/04/2026",
+      "url": "https://www.laprovence.com/article/societe/12902890180359/j-espere-que-ca-va-vite-redescendre-les-prix-a-la-pompe-usent-les-automobilistes-a-aubagne",
       "source": "La Provence",
       "tags": [
         {
@@ -115,11 +115,11 @@
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : contraintes budgétaires limitant les aides économiques",
-      "body": "Gérard Larcher affirme que la France 'n'a pas les moyens d'amortir les crises' face à un endettement et fiscalité élevés. Le contexte de surcharge budgétaire limite les dispositifs d'accompagnement sectoriels durables.",
-      "impact": "Anticiper hausse des taux d'intérêt ou compression des aides immobilières ; valoriser la stabilité locative long terme et la clauses d'révision tarifaire.",
-      "date": "22/04/2026",
-      "url": "https://www.laprovence.com/article/economie/4810874685412614/aides-pour-les-carburants-la-france-na-pas-les-moyens-damortir-les-crises-estime-gerard-larcher",
+      "title": "Gouvernement annonce aide carburant 'grands rouleurs' avril 2026",
+      "body": "Premier ministre Sébastien Lecornu annonce 21 avril 2026 mise en place aide financière destinée grands rouleurs face hausse durable prix carburant. Mesure contextée tensions géopolitiques Moyen-Orient.",
+      "impact": "Soutien gouvernemental sur coûts carburant peut stabiliser budgets exploitation entreprises PACA ; favorise maintien activités déplacements professionnels.",
+      "date": "24/04/2026",
+      "url": "https://www.laprovence.com/article/societe/5227681586747114/aide-carburant-grands-rouleurs-montant-demarches-beneficiaires-ce-quil-faut-savoir",
       "source": "La Provence",
       "tags": [
         {
@@ -130,19 +130,15 @@
     },
     {
       "id": "m3",
-      "title": "Volatilité énergétique et inflation : surveillance OAT/Euribor critique",
-      "body": "Les tensions géopolitiques (Moyen-Orient) et hausses carburant impactent directement l'inflation française et la courbe des taux souverains. OAT à 3.70%, Euribor3M à 2.15%, dynamique BCE 2.15% reflètent cette pression inflationniste.",
-      "impact": "Refondre modèles DCF transactions immobilières PACA en intégrant hausse taux financement (probable +0.25-0.50%) et inflation operating costs +3-5% sur 24 mois.",
-      "date": "22/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1756063556827615/carte-prix-des-carburants-les-prix-dans-les-stations-service-pres-de-chez-vous",
+      "title": "Nestlé supprime 180 emplois France à partir 2027",
+      "body": "Nestlé annonce jusqu'à 180 suppressions emplois France dans fonctions support dès 2027, notamment au siège Issy-les-Moulineaux et deux centres recherche Tours et Lisieux. Restructuration groupe alimentaire face contexte économique.",
+      "impact": "Signal sur tendre marché tertiaire France ; surveillance recommandée sur secteur agroalimentaire pour demande espaces bureaux/R&D en région PACA.",
+      "date": "23/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1151975566883315/nestle-annonce-180-suppressions-demplois-en-france-dans-les-fonctions-support",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]

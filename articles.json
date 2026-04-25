@@ -1,13 +1,13 @@
 {
-  "generated_at": "24/04/2026",
+  "generated_at": "25/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "CinéCréatis : nouvelle école audiovisuelle en PACA",
-      "body": "Une école dédiée à l'apprentissage et la pratique du cinéma s'installe en région PACA, formant des professionnels aux compétences concrètes et directement opérationnelles. Cette initiative contribue au développement d'un écosystème créatif régional autour de l'audiovisuel.",
-      "impact": "Opportunité de locaux spécialisés (studios, espaces pédagogiques) et bureaux administratifs pour écoles de cinéma en croissance dans l'agglomération PACA.",
-      "date": "24/04/2026",
-      "url": "https://www.laprovence.com/article/culture-loisirs/1929663287591215/cinecreatis-une-ecole-dediee-a-lapprentissage-et-a-la-pratique-du-cinema",
+      "title": "Recrutement PACA : 209 630 projets d'embauche",
+      "body": "La région PACA affiche une dynamique de recrutement robuste avec 209 630 projets d'embauche identifiés. Cette base statistique renouvelée permet une meilleure orientation des demandeurs d'emploi vers les secteurs en croissance.",
+      "impact": "Tendance positive pour l'attractivité des espaces de bureaux et locaux d'activité en PACA face à la demande de recrutement soutenue.",
+      "date": "25/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1999164818552815/recrutement-la-region-paca-fait-de-la-resistance-avec-209-630-projets-dembauche",
       "source": "La Provence",
       "tags": [
         {
@@ -22,11 +22,11 @@
     },
     {
       "id": "f2",
-      "title": "Qista : deeptech PACA anti-moustique franchit étape majeure",
-      "body": "La startup provençale Qista, leader de la révolution anti-moustique, change d'échelle face au défi croissant de la santé publique. Cette deeptech régionale consolide son position dans l'écosystème innovant PACA.",
-      "impact": "Demande accrue d'espaces de R&D, laboratoires et bureaux pour startups deeptech en expansion rapide dans la région PACA.",
+      "title": "Transports gratuits Pays d'Aubagne : enjeu attractivité",
+      "body": "La gratuité des transports en commun du Pays d'Aubagne (13 communes) est menacée après 16 ans de fonctionnement. Cette incertitude crée un doute sur les conditions d'accessibilité des espaces commerciaux et de bureaux de la zone.",
+      "impact": "Une suppression de la gratuité affecterait le positionnement concurrentiel des immeubles tertiaires et commerciaux d'Aubagne auprès des entreprises et salariés.",
       "date": "24/04/2026",
-      "url": "https://www.laprovence.com/article/economie/6429800435915314/qista-la-revolution-anti-moustique-change-d-echelle",
+      "url": "https://www.laprovence.com/article/societe/196254915420815/transports-en-commun-les-maires-du-pays-d-aubagne-font-front-pour-la-gratuite",
       "source": "La Provence",
       "tags": [
         {
@@ -41,11 +41,11 @@
     },
     {
       "id": "f3",
-      "title": "Neuronaix : IA industrielle réinvente automatisation production",
-      "body": "Fondée en 2023, la startup Neuronaix propose une IA capable d'apprendre les gestes ouvriers pour transformer et accélérer la robotisation des lignes de production industrielles. Cette solution réduit considérablement les délais et coûts de mise en place.",
-      "impact": "Recherche de locaux d'activité et espaces de démonstration pour éditeurs de solutions IA industrielles en forte croissance en région PACA.",
-      "date": "23/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1879088263389715/neuronaix-l-ia-qui-apprend-les-gestes-des-ouvriers-pour-transformer-l-industrie",
+      "title": "Rénovation urbaine Marseille : plan ANRU 3",
+      "body": "Le gouvernement annonce via le Premier ministre Sébastien Lecornu un troisième programme de l'Agence nationale pour la rénovation urbaine (ANRU) avec Marseille comme site prioritaire. Cette initiative de renouvellement urbain structurera les investissements immobiliers métropolitains.",
+      "impact": "Les appels à projets ANRU 3 redynamiseront la demande de locaux d'activité et de bureaux dans les zones urbaines rénovées de la métropole marseillaise.",
+      "date": "24/04/2026",
+      "url": "https://www.laprovence.com/article/politique/1949564085813515/renovation-urbaine-sebastien-lecornu-annonce-un-troisieme-plan-anru-une-chance-pour-marseille",
       "source": "La Provence",
       "tags": [
         {
@@ -53,24 +53,20 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Recrutement entreprises Alpes-Haute-Provence : nouveaux leviers",
-      "body": "France Travail publie enquête annuelle mettant en évidence besoins en main-d'œuvre accrus pour saison estivale en Alpes-de-Haute-Provence. Cette tension du marché du travail reflète dynamique économique régionale positive.",
-      "impact": "Hausse de demande en bureaux administratifs et locaux RH pour PME/ETI du secteur touristique et services en PACA.",
-      "date": "23/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1147349952885815/de-nouveaux-leviers-pour-repondre-aux-besoins-de-recrutement-des-entreprises-des-alpes-de-haute-provence",
+      "title": "Composants électroniques : hausse de 100€ PS5",
+      "body": "Les prix des composants électroniques explosent : la PS5 passe de 549,99€ à 649,99€ depuis le 2 avril 2026. Cette inflation des matériaux électroniques reflète une tension persistante sur les chaînes d'approvisionnement mondiales.",
+      "impact": "La hausse des coûts de composants pèse sur l'investissement technologique des TPE/PME installées en locaux d'activité PACA et augmente les coûts d'exploitation des entreprises.",
+      "date": "25/04/2026",
+      "url": "https://www.laprovence.com/article/economie/200457909621315/100e-de-plus-pour-une-ps5-le-prix-des-composants-electroniques-explose-au-detriment-des-consommateurs",
       "source": "La Provence",
       "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
         {
           "label": "Marché",
           "cls": "tm"
@@ -79,20 +75,20 @@
     },
     {
       "id": "f5",
-      "title": "Commerce : bureau tabac mythique Digne-les-Bains en vente",
-      "body": "Le tabac-alimentation 'Chez Cathy' à Digne-les-Bains, établissement emblématique depuis 30 ans, recherche repreneurs après génération fondatrice. Cession représente opportunité rare pour commerce multiservices en zone centrale.",
-      "impact": "Transaction possible de PME commerciale bien implantée ; intérêt pour conseil sur valorisation et positionnement immobilier commercial régional.",
-      "date": "23/04/2026",
-      "url": "https://www.laprovence.com/article/region/5958921216904414/le-mythique-bureau-de-tabac-chez-cathy-en-vente-apres-30-ans-d-histoire-et-de-lien-social-a-digne-les-bains",
+      "title": "Prix carburant Aubagne : volatilité persistante",
+      "body": "Deux mois après le début de la crise au Moyen-Orient, les prix du carburant restent très élevés en France et à Aubagne. Cette instabilité des coûts énergétiques impacte directement l'exploitation des immeubles tertiaires et la mobilité des occupants.",
+      "impact": "L'indexation énergétique des baux commerciaux et d'activité PACA doit intégrer cette volatilité durable des carburants dans les clauses de révision.",
+      "date": "24/04/2026",
+      "url": "https://www.laprovence.com/article/economie/6580252643674214/prix-a-la-pompe-ou-trouver-le-carburant-le-moins-cher-d-aubagne",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
           "label": "Marché",
           "cls": "tm"
+        },
+        {
+          "label": "Énergie",
+          "cls": "tg"
         }
       ]
     }
@@ -100,46 +96,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Crise géopolitique Moyen-Orient : carburant dépasse 2€/litre en PACA",
-      "body": "Guerre persistent entre États-Unis, Israël et Iran depuis plus d'1,5 mois maintient prix carburant à niveaux élevés partout en France. Prix SP95 dépasse 2€/litre et usent automobilistes français.",
-      "impact": "Coûts transports immobiliers et déplacements professionnels impactés ; à répercuter dans coûts exploitation pour locataires bureaux/activité PACA.",
+      "title": "Crise Moyen-Orient : pétrole à la baisse",
+      "body": "Les cours du pétrole baissent avec l'espoir de nouvelles discussions Iran/États-Unis annoncées pour vendredi. Cette détente géopolitique après la volatilité récente du marché énergétique mondial inverse la tendance haussière du Brent.",
+      "impact": "Une stabilisation du prix du brut à 96 USD/baril réduirait la pression inflationniste sur les charges énergétiques des portefeuilles immobiliers tertiaires PACA.",
       "date": "24/04/2026",
-      "url": "https://www.laprovence.com/article/societe/12902890180359/j-espere-que-ca-va-vite-redescendre-les-prix-a-la-pompe-usent-les-automobilistes-a-aubagne",
+      "url": "https://www.laprovence.com/article/economie/1942141782505115/guerre-au-moyen-orient-le-petrole-repart-a-la-baisse-avec-lespoir-de-nouvelles-discussions-iran-etats-unis",
       "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Gouvernement annonce aide carburant 'grands rouleurs' avril 2026",
-      "body": "Premier ministre Sébastien Lecornu annonce 21 avril 2026 mise en place aide financière destinée grands rouleurs face hausse durable prix carburant. Mesure contextée tensions géopolitiques Moyen-Orient.",
-      "impact": "Soutien gouvernemental sur coûts carburant peut stabiliser budgets exploitation entreprises PACA ; favorise maintien activités déplacements professionnels.",
+      "title": "Chaîne d'approvisionnement : impact préservatifs/caoutchouc",
+      "body": "Les perturbations de la chaîne d'approvisionnement liées à la crise moyen-orientale font grimper les prix des produits en caoutchouc (+inflation), affectant fabricants et secteurs utilisateurs. Cette volatilité illustre la fragilité des réseaux logistiques mondiaux.",
+      "impact": "Les PME manufacturières implantées en locaux d'activité PACA subissent une augmentation des coûts de matières premières impactant leur compétitivité et leur capacité à rénégocier les baux.",
       "date": "24/04/2026",
-      "url": "https://www.laprovence.com/article/societe/5227681586747114/aide-carburant-grands-rouleurs-montant-demarches-beneficiaires-ce-quil-faut-savoir",
+      "url": "https://www.laprovence.com/article/economie/5995463157923414/la-guerre-au-moyen-orient-fait-grimper-les-prix-des-preservatifs-et-des-gants-en-caoutchouc-selon-les-fabricants",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Nestlé supprime 180 emplois France à partir 2027",
-      "body": "Nestlé annonce jusqu'à 180 suppressions emplois France dans fonctions support dès 2027, notamment au siège Issy-les-Moulineaux et deux centres recherche Tours et Lisieux. Restructuration groupe alimentaire face contexte économique.",
-      "impact": "Signal sur tendre marché tertiaire France ; surveillance recommandée sur secteur agroalimentaire pour demande espaces bureaux/R&D en région PACA.",
-      "date": "23/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1151975566883315/nestle-annonce-180-suppressions-demplois-en-france-dans-les-fonctions-support",
-      "source": "La Provence",
+      "title": "Contexte macro : OAT/Euribor/inflation",
+      "body": "L'environnement macro demeure tendu : OAT 3.70%, Euribor3M 2.15%, taux directeur BCE 2.15%, inflation à 1.7%. Cette configuration maintient le coût du financement immobilier à un niveau élevé malgré une inflation cible maîtrisée.",
+      "impact": "Les taux de rendement attendus sur acquisitions de bureaux/locaux PACA doivent rester supérieurs à 4.5% pour justifier les financements à 3.70-3.80% en OAT long terme.",
+      "date": "25/04/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché 25/04/2026",
       "tags": [
         {
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
           "label": "Conjoncture",
-          "cls": "tg"
+          "cls": "tm"
         }
       ]
     }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "25/04/2026",
+  "generated_at": "26/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Recrutement PACA : 209 630 projets d'embauche",
-      "body": "La région PACA affiche une dynamique de recrutement robuste avec 209 630 projets d'embauche identifiés. Cette base statistique renouvelée permet une meilleure orientation des demandeurs d'emploi vers les secteurs en croissance.",
-      "impact": "Tendance positive pour l'attractivité des espaces de bureaux et locaux d'activité en PACA face à la demande de recrutement soutenue.",
+      "title": "Permis de louer : bilan un an après à La Ciotat",
+      "body": "Le dispositif de permis de louer dans le centre ancien de La Ciotat complète sa première année de mise en œuvre, piloté par la Métropole via la SPL Façonéo. Ce mécanisme de régulation du marché locatif impacte les conditions d'accès aux baux commerciaux et d'activité en zone protégée.",
+      "impact": "À surveiller pour les transactions de locaux commerciaux à La Ciotat : le permis de louer pourrait affecter les délais de signature et les critères de sélection des locataires.",
       "date": "25/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1999164818552815/recrutement-la-region-paca-fait-de-la-resistance-avec-209-630-projets-dembauche",
+      "url": "https://www.laprovence.com/article/societe/7504073965131614/permis-de-louer-un-an-apres-qu-en-est-il-a-la-ciotat",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Transports gratuits Pays d'Aubagne : enjeu attractivité",
-      "body": "La gratuité des transports en commun du Pays d'Aubagne (13 communes) est menacée après 16 ans de fonctionnement. Cette incertitude crée un doute sur les conditions d'accessibilité des espaces commerciaux et de bureaux de la zone.",
-      "impact": "Une suppression de la gratuité affecterait le positionnement concurrentiel des immeubles tertiaires et commerciaux d'Aubagne auprès des entreprises et salariés.",
-      "date": "24/04/2026",
-      "url": "https://www.laprovence.com/article/societe/196254915420815/transports-en-commun-les-maires-du-pays-d-aubagne-font-front-pour-la-gratuite",
+      "title": "Ouverture commerciale : L'Atelier sucré à Manosque",
+      "body": "Le café L'Atelier sucré ouvrira ses portes le 1er mai 2026 place Docteur-Joubert à Manosque, dans le bâtiment de l'ancienne bibliothèque. Cette transformation de bâtiment public en espace commercial illustre une tendance de réaffectation dans les centres-villes.",
+      "impact": "Opportunité d'observation des mutations de centres-villes en Provence : conversion de bâtiments publics en commerce de proximité, à valoriser dans l'analyse des demandes locales.",
+      "date": "25/04/2026",
+      "url": "https://www.laprovence.com/article/societe/204039113157215/le-cafe-l-atelier-sucre-ouvrira-bientot-ses-portes-a-manosque-place-docteur-joubert",
       "source": "La Provence",
       "tags": [
         {
@@ -41,11 +41,11 @@
     },
     {
       "id": "f3",
-      "title": "Rénovation urbaine Marseille : plan ANRU 3",
-      "body": "Le gouvernement annonce via le Premier ministre Sébastien Lecornu un troisième programme de l'Agence nationale pour la rénovation urbaine (ANRU) avec Marseille comme site prioritaire. Cette initiative de renouvellement urbain structurera les investissements immobiliers métropolitains.",
-      "impact": "Les appels à projets ANRU 3 redynamiseront la demande de locaux d'activité et de bureaux dans les zones urbaines rénovées de la métropole marseillaise.",
-      "date": "24/04/2026",
-      "url": "https://www.laprovence.com/article/politique/1949564085813515/renovation-urbaine-sebastien-lecornu-annonce-un-troisieme-plan-anru-une-chance-pour-marseille",
+      "title": "Pizzeria La Galinette : nouvel établissement à Gréasque",
+      "body": "La pizzeria-rôtisserie La Galinette ouvre son nouvel établissement à Gréasque, marquant une expansion du secteur de la restauration en zone périurbaine PACA. Cette ouverture témoigne de la dynamique de création commerciale dans les petites communes.",
+      "impact": "Signal positif sur la demande de locaux d'activité et commerciaux en zones rurales/périurbaines : valider l'intérêt des locataires pour les implantations secondaires en PACA.",
+      "date": "25/04/2026",
+      "url": "https://www.laprovence.com/article/economie/2030461699575115/la-pizzeria-et-rotisserie-la-galinette-ouvre-ses-portes-a-greasque",
       "source": "La Provence",
       "tags": [
         {
@@ -53,33 +53,37 @@
           "cls": "tp"
         },
         {
-          "label": "Régulation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Composants électroniques : hausse de 100€ PS5",
-      "body": "Les prix des composants électroniques explosent : la PS5 passe de 549,99€ à 649,99€ depuis le 2 avril 2026. Cette inflation des matériaux électroniques reflète une tension persistante sur les chaînes d'approvisionnement mondiales.",
-      "impact": "La hausse des coûts de composants pèse sur l'investissement technologique des TPE/PME installées en locaux d'activité PACA et augmente les coûts d'exploitation des entreprises.",
-      "date": "25/04/2026",
-      "url": "https://www.laprovence.com/article/economie/200457909621315/100e-de-plus-pour-une-ps5-le-prix-des-composants-electroniques-explose-au-detriment-des-consommateurs",
-      "source": "La Provence",
-      "tags": [
-        {
           "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
+      "id": "f4",
+      "title": "Forfait-jours : la Cour de cassation durcit les conditions",
+      "body": "La Cour de cassation rappelle que la forfaitisation de la durée de travail doit reposer sur une convention individuelle écrite, au-delà d'une simple charte. Cette jurisprudence renforce les obligations légales pour les entreprises organisant le télétravail ou flex-office.",
+      "impact": "Clients occupant des espaces de travail flexible doivent s'assurer de la conformité de leurs dispositifs forfaitaires : impact sur les besoins en surface et les aménagements de bureaux.",
+      "date": "25/04/2026",
+      "url": "https://www.laprovence.com/article/economie/7034172925187714/forfait-jours-heures-supplementaires-une-simple-charte-individuelle-ne-suffit-pas-rappelle-la-cour-de-cassation",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Réglementation",
+          "cls": "tr"
+        },
+        {
+          "label": "Flex-office",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
       "id": "f5",
-      "title": "Prix carburant Aubagne : volatilité persistante",
-      "body": "Deux mois après le début de la crise au Moyen-Orient, les prix du carburant restent très élevés en France et à Aubagne. Cette instabilité des coûts énergétiques impacte directement l'exploitation des immeubles tertiaires et la mobilité des occupants.",
-      "impact": "L'indexation énergétique des baux commerciaux et d'activité PACA doit intégrer cette volatilité durable des carburants dans les clauses de révision.",
-      "date": "24/04/2026",
-      "url": "https://www.laprovence.com/article/economie/6580252643674214/prix-a-la-pompe-ou-trouver-le-carburant-le-moins-cher-d-aubagne",
+      "title": "Revenus des livreurs en baisse : impact sur la logistique urbaine",
+      "body": "L'autorité de régulation française constate en 2025 une baisse généralisée des revenus horaires des livreurs indépendants sur toutes les plateformes analysées. Cette compression tarifaire affecte directement la viabilité économique des services de livraison et les besoins en locaux logistiques.",
+      "impact": "Prêter attention aux demandes de locaux logistiques et de stockage : les plateformes pourraient réduire leurs investissements en immobilier d'activité face à la pression sur les marges.",
+      "date": "25/04/2026",
+      "url": "https://www.laprovence.com/article/economie/6731791346963814/les-revenus-des-livreurs-de-repas-en-baisse-en-2025-pour-la-plupart-des-plateformes-en-france",
       "source": "La Provence",
       "tags": [
         {
@@ -87,8 +91,8 @@
           "cls": "tm"
         },
         {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -96,11 +100,11 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Crise Moyen-Orient : pétrole à la baisse",
-      "body": "Les cours du pétrole baissent avec l'espoir de nouvelles discussions Iran/États-Unis annoncées pour vendredi. Cette détente géopolitique après la volatilité récente du marché énergétique mondial inverse la tendance haussière du Brent.",
-      "impact": "Une stabilisation du prix du brut à 96 USD/baril réduirait la pression inflationniste sur les charges énergétiques des portefeuilles immobiliers tertiaires PACA.",
-      "date": "24/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1942141782505115/guerre-au-moyen-orient-le-petrole-repart-a-la-baisse-avec-lespoir-de-nouvelles-discussions-iran-etats-unis",
+      "title": "Endettement européen : Macron plaide pour mutualisatio",
+      "body": "Emmanuel Macron appelle à étaler la dette européenne post-Covid et à de nouveaux emprunts communs (eurobonds), une position structurellement favorable au financement du déficit français. Cette proposition, longtemps taboue en Allemagne, fait l'objet d'intenses négociations européennes.",
+      "impact": "Le contexte d'allègement de l'endettement français pourrait assouplir les conditions de financement immobilier d'entreprise en 2026-2027 : surveiller les OAT (actuellement 3.70%).",
+      "date": "25/04/2026",
+      "url": "https://www.laprovence.com/article/economie/2027780437696315/c-est-idiot-emmanuel-macron-appelle-a-etaler-la-dette-europeenne-de-l-ere-covid-et-a-de-nouveaux-emprunts",
       "source": "La Provence",
       "tags": [
         {
@@ -108,38 +112,38 @@
           "cls": "tg"
         },
         {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Chaîne d'approvisionnement : impact préservatifs/caoutchouc",
-      "body": "Les perturbations de la chaîne d'approvisionnement liées à la crise moyen-orientale font grimper les prix des produits en caoutchouc (+inflation), affectant fabricants et secteurs utilisateurs. Cette volatilité illustre la fragilité des réseaux logistiques mondiaux.",
-      "impact": "Les PME manufacturières implantées en locaux d'activité PACA subissent une augmentation des coûts de matières premières impactant leur compétitivité et leur capacité à rénégocier les baux.",
-      "date": "24/04/2026",
-      "url": "https://www.laprovence.com/article/economie/5995463157923414/la-guerre-au-moyen-orient-fait-grimper-les-prix-des-preservatifs-et-des-gants-en-caoutchouc-selon-les-fabricants",
+      "title": "Gratuité transports : tensions économiques en région PACA",
+      "body": "La remise en cause de la gratuité des transports en commun du Pays d'Aubagne illustre les tensions budgétaires des collectivités locales face au contexte économique tendu. Cette décision affecte l'attrait des zones périurbaines et peut impacter la mobilité des salariés.",
+      "impact": "Conjoncture tendue en PACA : les restrictions de transports gratuits pourraient réduire l'attractivité de certaines zones pour les locaux de bureau et d'activité en périphérie.",
+      "date": "25/04/2026",
+      "url": "https://www.laprovence.com/article/economie/2014281907078215/gratuite-des-transports-du-pays-d-aubagne-dans-un-contexte-economique-tendu-ce-n-est-pas-anodin",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
         },
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macro : OAT/Euribor/inflation",
-      "body": "L'environnement macro demeure tendu : OAT 3.70%, Euribor3M 2.15%, taux directeur BCE 2.15%, inflation à 1.7%. Cette configuration maintient le coût du financement immobilier à un niveau élevé malgré une inflation cible maîtrisée.",
-      "impact": "Les taux de rendement attendus sur acquisitions de bureaux/locaux PACA doivent rester supérieurs à 4.5% pour justifier les financements à 3.70-3.80% en OAT long terme.",
-      "date": "25/04/2026",
+      "title": "Environnement macro-économique : stabilité relative des paramètres",
+      "body": "L'inflation française maintenue à 1.7%, les taux BCE stables à 2.15% et les OAT à 3.70% forment un contexte de relative stabilité macroéconomique. L'Euribor 3M à 2.15% confirme des conditions de crédit inchangées pour le financement immobilier d'entreprise.",
+      "impact": "Conditions de financement restent favorables pour l'immobilier CRE PACA : les taux d'emprunt demeurent accessibles, pas de bouleversement attendu court terme.",
+      "date": "26/04/2026",
       "url": "https://www.laprovence.com",
-      "source": "Données marché 25/04/2026",
+      "source": "Données Marché",
       "tags": [
         {
           "label": "Taux",
@@ -147,7 +151,7 @@
         },
         {
           "label": "Conjoncture",
-          "cls": "tm"
+          "cls": "tg"
         }
       ]
     }

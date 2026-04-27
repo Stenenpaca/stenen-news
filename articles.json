@@ -1,13 +1,13 @@
 {
-  "generated_at": "26/04/2026",
+  "generated_at": "27/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Permis de louer : bilan un an après à La Ciotat",
-      "body": "Le dispositif de permis de louer dans le centre ancien de La Ciotat complète sa première année de mise en œuvre, piloté par la Métropole via la SPL Façonéo. Ce mécanisme de régulation du marché locatif impacte les conditions d'accès aux baux commerciaux et d'activité en zone protégée.",
-      "impact": "À surveiller pour les transactions de locaux commerciaux à La Ciotat : le permis de louer pourrait affecter les délais de signature et les critères de sélection des locataires.",
-      "date": "25/04/2026",
-      "url": "https://www.laprovence.com/article/societe/7504073965131614/permis-de-louer-un-an-apres-qu-en-est-il-a-la-ciotat",
+      "title": "Marché immobilier PACA : plus d'offres que de demandes",
+      "body": "La saison printanière des ventes immobilières bat son plein avec un effet d'aubaine d'avril à juillet. Le marché bascule progressivement vers un surplus d'offres, modifiant les dynamiques de négociation.",
+      "impact": "Baisse attendue des prix à la transaction et meilleure capacité de négociation pour les acquéreurs de locaux professionnels en PACA.",
+      "date": "26/04/2026",
+      "url": "https://www.laprovence.com/article/societe/2072864991965515/on-commence-a-avoir-plus-d-offres-que-de-demandes-la-saison-des-ventes-immobilieres-bat-son-plein",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Ouverture commerciale : L'Atelier sucré à Manosque",
-      "body": "Le café L'Atelier sucré ouvrira ses portes le 1er mai 2026 place Docteur-Joubert à Manosque, dans le bâtiment de l'ancienne bibliothèque. Cette transformation de bâtiment public en espace commercial illustre une tendance de réaffectation dans les centres-villes.",
-      "impact": "Opportunité d'observation des mutations de centres-villes en Provence : conversion de bâtiments publics en commerce de proximité, à valoriser dans l'analyse des demandes locales.",
-      "date": "25/04/2026",
-      "url": "https://www.laprovence.com/article/societe/204039113157215/le-cafe-l-atelier-sucre-ouvrira-bientot-ses-portes-a-manosque-place-docteur-joubert",
+      "title": "Redressement judiciaire : Fibre Excellence à Tarascon",
+      "body": "L'une des deux dernières usines de pâte à papier de France à Tarascon a été placée en redressement judiciaire avec 6 mois d'observation. Cette situation impacte directement les locaux d'activité et immobilier industriel local.",
+      "impact": "Opportunité de reprise de surfaces industrielles à Tarascon ; surveiller les mutations de locaux d'activité liés aux restructurations.",
+      "date": "27/04/2026",
+      "url": "https://www.laprovence.com/article/economie/2192865256724215/fibre-excellence-dont-lune-des-usines-est-a-tarascon-en-redressement-judiciaire-avec-une-periode-dobservation",
       "source": "La Provence",
       "tags": [
         {
@@ -41,11 +41,11 @@
     },
     {
       "id": "f3",
-      "title": "Pizzeria La Galinette : nouvel établissement à Gréasque",
-      "body": "La pizzeria-rôtisserie La Galinette ouvre son nouvel établissement à Gréasque, marquant une expansion du secteur de la restauration en zone périurbaine PACA. Cette ouverture témoigne de la dynamique de création commerciale dans les petites communes.",
-      "impact": "Signal positif sur la demande de locaux d'activité et commerciaux en zones rurales/périurbaines : valider l'intérêt des locataires pour les implantations secondaires en PACA.",
-      "date": "25/04/2026",
-      "url": "https://www.laprovence.com/article/economie/2030461699575115/la-pizzeria-et-rotisserie-la-galinette-ouvre-ses-portes-a-greasque",
+      "title": "Versement mobilité : hausse des charges patronales redoutée",
+      "body": "Le patronat s'oppose au déplafonnement du versement mobilité voulu par la Métropole, craignant un déficit de 123 millions porté à 100% par les entreprises. Les sociétés financent déjà 60% de la mobilité métropolitaine.",
+      "impact": "Augmentation significative des coûts d'exploitation pour les entreprises PACA : anticiper impact sur budgets locaux bureaux et immobilier tertiaire.",
+      "date": "27/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1467999564592815/le-patronat-vent-debout-contre-le-deplafonnement-du-versement-mobilite-voulu-par-la-metropole",
       "source": "La Provence",
       "tags": [
         {
@@ -53,18 +53,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Forfait-jours : la Cour de cassation durcit les conditions",
-      "body": "La Cour de cassation rappelle que la forfaitisation de la durée de travail doit reposer sur une convention individuelle écrite, au-delà d'une simple charte. Cette jurisprudence renforce les obligations légales pour les entreprises organisant le télétravail ou flex-office.",
-      "impact": "Clients occupant des espaces de travail flexible doivent s'assurer de la conformité de leurs dispositifs forfaitaires : impact sur les besoins en surface et les aménagements de bureaux.",
-      "date": "25/04/2026",
-      "url": "https://www.laprovence.com/article/economie/7034172925187714/forfait-jours-heures-supplementaires-une-simple-charte-individuelle-ne-suffit-pas-rappelle-la-cour-de-cassation",
+      "title": "Débat fériés : impact économique marginal confirmé",
+      "body": "L'économiste aixois Éric Heyer confirme que la suppression ou modification des jours fériés aurait un impact 'très marginal' sur l'économie française. Malgré les demandes patronales, les données de l'INSEE restent rassurantes.",
+      "impact": "Stabilité réglementaire attendue sur le calendrier de travail : peu de risque de réforme majeure impactant les loyers et charges tertiaires.",
+      "date": "27/04/2026",
+      "url": "https://www.laprovence.com/article/economie/8386739917530314/suppression-de-jours-feries-limpact-serait-tres-marginal-selon-leconomiste-aixois-eric-heyer",
       "source": "La Provence",
       "tags": [
         {
@@ -72,27 +72,27 @@
           "cls": "tr"
         },
         {
-          "label": "Flex-office",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Revenus des livreurs en baisse : impact sur la logistique urbaine",
-      "body": "L'autorité de régulation française constate en 2025 une baisse généralisée des revenus horaires des livreurs indépendants sur toutes les plateformes analysées. Cette compression tarifaire affecte directement la viabilité économique des services de livraison et les besoins en locaux logistiques.",
-      "impact": "Prêter attention aux demandes de locaux logistiques et de stockage : les plateformes pourraient réduire leurs investissements en immobilier d'activité face à la pression sur les marges.",
-      "date": "25/04/2026",
-      "url": "https://www.laprovence.com/article/economie/6731791346963814/les-revenus-des-livreurs-de-repas-en-baisse-en-2025-pour-la-plupart-des-plateformes-en-france",
+      "title": "Chargeur universel USB-C : obligation depuis le 26/04",
+      "body": "La directive européenne impose le chargeur universel sur tous les ordinateurs portables vendus en France à partir du 26 avril 2026. Cette norme harmonisée affecte les équipementiers et les espaces de vente commerciaux.",
+      "impact": "Charges de conformité accrues pour les commerces électroniques et magasins spécialisés : évaluer impact sur configurations de locaux commerce PACA.",
+      "date": "26/04/2026",
+      "url": "https://www.laprovence.com/article/societe/1389467410782915/chargeur-universel-du-changement-sur-les-nouveaux-ordinateurs-portables-vendus-a-partir-de-ce-dimanche",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Réglementation",
+          "cls": "tr"
         },
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,55 +100,43 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Endettement européen : Macron plaide pour mutualisatio",
-      "body": "Emmanuel Macron appelle à étaler la dette européenne post-Covid et à de nouveaux emprunts communs (eurobonds), une position structurellement favorable au financement du déficit français. Cette proposition, longtemps taboue en Allemagne, fait l'objet d'intenses négociations européennes.",
-      "impact": "Le contexte d'allègement de l'endettement français pourrait assouplir les conditions de financement immobilier d'entreprise en 2026-2027 : surveiller les OAT (actuellement 3.70%).",
-      "date": "25/04/2026",
-      "url": "https://www.laprovence.com/article/economie/2027780437696315/c-est-idiot-emmanuel-macron-appelle-a-etaler-la-dette-europeenne-de-l-ere-covid-et-a-de-nouveaux-emprunts",
+      "title": "Contexte géopolitique : impacts sur supply chains",
+      "body": "La guerre au Moyen-Orient affecte la vie quotidienne des Français et des entreprises comme le reconnaît Alexandre Bompard (Carrefour). Les chaînes d'approvisionnement subissent des tensions persistantes.",
+      "impact": "Volatilité des coûts logistiques et énergétiques : intégrer primes de risque dans les valorisations de locaux d'activité PACA destinés à la logistique.",
+      "date": "27/04/2026",
+      "url": "https://www.laprovence.com/article/economie/2151026464685815/alexandre-bompard-pdg-de-carrefour-nous-nechapperons-pas-a-des-reformes-profondes-dans-notre-pays",
       "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
           "cls": "tg"
-        },
-        {
-          "label": "Taux",
-          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Gratuité transports : tensions économiques en région PACA",
-      "body": "La remise en cause de la gratuité des transports en commun du Pays d'Aubagne illustre les tensions budgétaires des collectivités locales face au contexte économique tendu. Cette décision affecte l'attrait des zones périurbaines et peut impacter la mobilité des salariés.",
-      "impact": "Conjoncture tendue en PACA : les restrictions de transports gratuits pourraient réduire l'attractivité de certaines zones pour les locaux de bureau et d'activité en périphérie.",
-      "date": "25/04/2026",
-      "url": "https://www.laprovence.com/article/economie/2014281907078215/gratuite-des-transports-du-pays-d-aubagne-dans-un-contexte-economique-tendu-ce-n-est-pas-anodin",
-      "source": "La Provence",
+      "title": "OAT 3.70% : stabilité des taux long terme",
+      "body": "Les obligations françaises demeurent stables à 3.70%. L'Euribor 3M se maintient à 2.15% tandis que la BCE confirme son taux directeur à 2.15%.",
+      "impact": "Conditions de financement immobilier stables : rendements attendus de 4.5-5.5% pour actifs PACA tertiaire/commerce acceptables.",
+      "date": "27/04/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux & Financement",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Environnement macro-économique : stabilité relative des paramètres",
-      "body": "L'inflation française maintenue à 1.7%, les taux BCE stables à 2.15% et les OAT à 3.70% forment un contexte de relative stabilité macroéconomique. L'Euribor 3M à 2.15% confirme des conditions de crédit inchangées pour le financement immobilier d'entreprise.",
-      "impact": "Conditions de financement restent favorables pour l'immobilier CRE PACA : les taux d'emprunt demeurent accessibles, pas de bouleversement attendu court terme.",
-      "date": "26/04/2026",
+      "title": "Inflation française maîtrisée à 1.7%",
+      "body": "L'inflation en France reste modérée à 1.7%, conforme aux cibles de la BCE et favorisant la stabilité macroéconomique. Les pressions tarifaires restent contenues malgré les tensions géopolitiques.",
+      "impact": "Maintien de la visibilité sur les rendements réels : loyers commerciaux PACA peu exposés à l'inflation structurelle.",
+      "date": "27/04/2026",
       "url": "https://www.laprovence.com",
-      "source": "Données Marché",
+      "source": "Données marché",
       "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        },
         {
           "label": "Conjoncture",
           "cls": "tg"

@@ -1,13 +1,13 @@
 {
-  "generated_at": "27/04/2026",
+  "generated_at": "28/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Marché immobilier PACA : plus d'offres que de demandes",
-      "body": "La saison printanière des ventes immobilières bat son plein avec un effet d'aubaine d'avril à juillet. Le marché bascule progressivement vers un surplus d'offres, modifiant les dynamiques de négociation.",
-      "impact": "Baisse attendue des prix à la transaction et meilleure capacité de négociation pour les acquéreurs de locaux professionnels en PACA.",
-      "date": "26/04/2026",
-      "url": "https://www.laprovence.com/article/societe/2072864991965515/on-commence-a-avoir-plus-d-offres-que-de-demandes-la-saison-des-ventes-immobilieres-bat-son-plein",
+      "title": "Marché immobilier vauclusien : passage à un marché d'opportunité",
+      "body": "L'année 2025 marque un tournant dans l'immobilier vauclusien avec le passage à un 'marché d'opportunité' selon la chambre interdépartementale des notaires. Les investisseurs privilégient désormais l'accession à la propriété plutôt que la spéculation.",
+      "impact": "Pour les conseils en transaction CRE, cette dynamique d'opportunité dans le Vaucluse offre des marges de négociation intéressantes sur les locaux d'activité et bureaux pour les clients cherchant à sécuriser leurs acquisitions.",
+      "date": "28/04/2026",
+      "url": "https://www.laprovence.com/article/region/9326385677178814/un-marche-d-opportunite-ce-qu-il-faut-retenir-des-chiffres-2025-de-l-immobilier-vauclusien",
       "source": "La Provence",
       "tags": [
         {
@@ -22,11 +22,11 @@
     },
     {
       "id": "f2",
-      "title": "Redressement judiciaire : Fibre Excellence à Tarascon",
-      "body": "L'une des deux dernières usines de pâte à papier de France à Tarascon a été placée en redressement judiciaire avec 6 mois d'observation. Cette situation impacte directement les locaux d'activité et immobilier industriel local.",
-      "impact": "Opportunité de reprise de surfaces industrielles à Tarascon ; surveiller les mutations de locaux d'activité liés aux restructurations.",
-      "date": "27/04/2026",
-      "url": "https://www.laprovence.com/article/economie/2192865256724215/fibre-excellence-dont-lune-des-usines-est-a-tarascon-en-redressement-judiciaire-avec-une-periode-dobservation",
+      "title": "Entrepreneuriat régional : IA et durabilité au cœur de la stratégie",
+      "body": "La Fondation MMA des entrepreneurs du futur accompagne les acteurs économiques régionaux dans les mutations liées à l'IA, la durabilité et la liberté d'entreprendre. Cette dynamique renforce la confiance des entrepreneurs pour se projeter dans l'avenir.",
+      "impact": "Cette vague entrepreneuriale génère une demande croissante de locaux d'activité et espaces de co-working adaptés aux startups et PME innovantes de la région PACA.",
+      "date": "28/04/2026",
+      "url": "https://www.laprovence.com/article/economie/154605771832615/ia-durabilite-et-liberte-la-nouvelle-dynamique-entrepreneuriale-regionale",
       "source": "La Provence",
       "tags": [
         {
@@ -41,11 +41,11 @@
     },
     {
       "id": "f3",
-      "title": "Versement mobilité : hausse des charges patronales redoutée",
-      "body": "Le patronat s'oppose au déplafonnement du versement mobilité voulu par la Métropole, craignant un déficit de 123 millions porté à 100% par les entreprises. Les sociétés financent déjà 60% de la mobilité métropolitaine.",
-      "impact": "Augmentation significative des coûts d'exploitation pour les entreprises PACA : anticiper impact sur budgets locaux bureaux et immobilier tertiaire.",
-      "date": "27/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1467999564592815/le-patronat-vent-debout-contre-le-deplafonnement-du-versement-mobilite-voulu-par-la-metropole",
+      "title": "Start-ups PACA : BraimIA accélère son déploiement commercial",
+      "body": "BraimIA, basée à Meyreuil depuis 2023, renforce ses liens avec les kinésithérapeutes et envisage une expansion internationale avec son assistant IA 'Markus'. Cette croissance confirme l'attractivité de la région pour l'écosystème tech.",
+      "impact": "L'expansion des start-ups innovantes accroît les besoins en bureaux et locaux technologiques dans les parcs d'affaires de la région, notamment autour d'Aix-en-Provence.",
+      "date": "28/04/2026",
+      "url": "https://www.laprovence.com/article/economie/9303634696229214/la-start-up-braimia-renforce-ses-liens-avec-les-kines",
       "source": "La Provence",
       "tags": [
         {
@@ -53,42 +53,42 @@
           "cls": "tp"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Débat fériés : impact économique marginal confirmé",
-      "body": "L'économiste aixois Éric Heyer confirme que la suppression ou modification des jours fériés aurait un impact 'très marginal' sur l'économie française. Malgré les demandes patronales, les données de l'INSEE restent rassurantes.",
-      "impact": "Stabilité réglementaire attendue sur le calendrier de travail : peu de risque de réforme majeure impactant les loyers et charges tertiaires.",
-      "date": "27/04/2026",
-      "url": "https://www.laprovence.com/article/economie/8386739917530314/suppression-de-jours-feries-limpact-serait-tres-marginal-selon-leconomiste-aixois-eric-heyer",
+      "title": "Emploi PACA : baisse du chômage de 1,2% au T1 2026",
+      "body": "Le nombre de demandeurs d'emploi sans aucune activité (catégorie A) a baissé de 1,2% au premier trimestre 2026 selon France Travail. Cette amélioration de l'emploi soutient les perspectives économiques régionales.",
+      "impact": "La réduction du chômage améliore la confiance des entreprises et devrait soutenir la demande de locaux commerciaux et bureaux dans les agglomérations de PACA.",
+      "date": "28/04/2026",
+      "url": "https://www.laprovence.com/article/economie/2277940507709115/le-nombre-de-chomeurs-sans-aucune-activite-en-baisse-de-1-2-au-1er-trimestre-2026",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Chargeur universel USB-C : obligation depuis le 26/04",
-      "body": "La directive européenne impose le chargeur universel sur tous les ordinateurs portables vendus en France à partir du 26 avril 2026. Cette norme harmonisée affecte les équipementiers et les espaces de vente commerciaux.",
-      "impact": "Charges de conformité accrues pour les commerces électroniques et magasins spécialisés : évaluer impact sur configurations de locaux commerce PACA.",
-      "date": "26/04/2026",
-      "url": "https://www.laprovence.com/article/societe/1389467410782915/chargeur-universel-du-changement-sur-les-nouveaux-ordinateurs-portables-vendus-a-partir-de-ce-dimanche",
+      "title": "Mobilité : Guiido, la web-app du covoiturage qui innove",
+      "body": "Guiido propose un modèle de covoiturage gagnant-gagnant entre conducteurs et passagers, répondant à une demande croissante de solutions de mobilité durable. Cette innovation reflète l'évolution des comportements de déplacement en région PACA.",
+      "impact": "L'émergence de nouvelles solutions de mobilité favorise la location d'espaces commerciaux et de bureaux proches des axes de transport alternatif et des centres multimodaux.",
+      "date": "28/04/2026",
+      "url": "https://www.laprovence.com/article/economie/2270531088104715/guiido-la-web-app-du-covoiturage-qui-partage-le-volant",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
           "label": "Marché",
@@ -100,45 +100,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Contexte géopolitique : impacts sur supply chains",
-      "body": "La guerre au Moyen-Orient affecte la vie quotidienne des Français et des entreprises comme le reconnaît Alexandre Bompard (Carrefour). Les chaînes d'approvisionnement subissent des tensions persistantes.",
-      "impact": "Volatilité des coûts logistiques et énergétiques : intégrer primes de risque dans les valorisations de locaux d'activité PACA destinés à la logistique.",
-      "date": "27/04/2026",
-      "url": "https://www.laprovence.com/article/economie/2151026464685815/alexandre-bompard-pdg-de-carrefour-nous-nechapperons-pas-a-des-reformes-profondes-dans-notre-pays",
+      "title": "Emploi France : trajectoire positive au T1 2026",
+      "body": "Le nombre de chômeurs sans activité diminue de 1,2% au premier trimestre 2026, traduisant une amélioration progressive du marché du travail national. Cette tendance soutient la consommation et l'investissement des entreprises.",
+      "impact": "L'amélioration de l'emploi réduit les risques de défaut locataire et soutient les valuations immobilières tertaires en France.",
+      "date": "28/04/2026",
+      "url": "https://www.laprovence.com/article/economie/2277940507709115/le-nombre-de-chomeurs-sans-aucune-activite-en-baisse-de-1-2-au-1er-trimestre-2026",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "OAT 3.70% : stabilité des taux long terme",
-      "body": "Les obligations françaises demeurent stables à 3.70%. L'Euribor 3M se maintient à 2.15% tandis que la BCE confirme son taux directeur à 2.15%.",
-      "impact": "Conditions de financement immobilier stables : rendements attendus de 4.5-5.5% pour actifs PACA tertiaire/commerce acceptables.",
-      "date": "27/04/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "title": "Taux et financement : contexte stable au T2 2026",
+      "body": "Les taux OAT se maintiennent à 3,70%, l'Euribor 3M à 2,15% et la BCE maintient son taux directeur à 2,15%. L'environnement de financement reste favorable pour les investissements immobiliers structurés.",
+      "impact": "Les conditions de financement stables soutiennent les montages d'acquisition de locaux d'activité et bureaux en région PACA.",
+      "date": "28/04/2026",
+      "url": "https://donnees-marche-28-04-2026",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "Taux & Financement",
+          "label": "Taux",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation française maîtrisée à 1.7%",
-      "body": "L'inflation en France reste modérée à 1.7%, conforme aux cibles de la BCE et favorisant la stabilité macroéconomique. Les pressions tarifaires restent contenues malgré les tensions géopolitiques.",
-      "impact": "Maintien de la visibilité sur les rendements réels : loyers commerciaux PACA peu exposés à l'inflation structurelle.",
-      "date": "27/04/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "title": "Contexte géopolitique et énergie : stabilité relative",
+      "body": "Le cours du Brent se stabilise à 96 USD/baril dans un contexte géopolitique maîtrisé. L'inflation française recule à 1,7% et le Bitcoin affiche 62 500 EUR, reflétant une certaine stabilité macroéconomique.",
+      "impact": "La stabilité énergétique et inflationniste maintient la confiance des investisseurs CRE et soutient les projets d'expansion immobilière en région.",
+      "date": "28/04/2026",
+      "url": "https://donnees-marche-28-04-2026",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]

@@ -1,13 +1,13 @@
 {
-  "generated_at": "28/04/2026",
+  "generated_at": "29/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Marché immobilier vauclusien : passage à un marché d'opportunité",
-      "body": "L'année 2025 marque un tournant dans l'immobilier vauclusien avec le passage à un 'marché d'opportunité' selon la chambre interdépartementale des notaires. Les investisseurs privilégient désormais l'accession à la propriété plutôt que la spéculation.",
-      "impact": "Pour les conseils en transaction CRE, cette dynamique d'opportunité dans le Vaucluse offre des marges de négociation intéressantes sur les locaux d'activité et bureaux pour les clients cherchant à sécuriser leurs acquisitions.",
+      "title": "BPIfrance injecte 1,9 Md€ en PACA : financement PME/ETI",
+      "body": "BPIfrance a mobilisé 1,9 milliard d'euros dans la région en 2025, avec une présence renforcée sur Marseille, Nice et Toulon. Cette dynamique de financement soutient les entreprises PACA en phase de croissance et de transition.",
+      "impact": "Les acteurs CRE PACA disposent d'un vivier de clients potentiels bénéficiant de capacités de financement accrues pour leurs implantations bureaux/activité.",
       "date": "28/04/2026",
-      "url": "https://www.laprovence.com/article/region/9326385677178814/un-marche-d-opportunite-ce-qu-il-faut-retenir-des-chiffres-2025-de-l-immobilier-vauclusien",
+      "url": "https://www.laprovence.com/article/economie/1038553893354915/en-2025-bpifrance-a-injecte-1-9-milliard-d-euros-dans-la-region",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Financement",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Entrepreneuriat régional : IA et durabilité au cœur de la stratégie",
-      "body": "La Fondation MMA des entrepreneurs du futur accompagne les acteurs économiques régionaux dans les mutations liées à l'IA, la durabilité et la liberté d'entreprendre. Cette dynamique renforce la confiance des entrepreneurs pour se projeter dans l'avenir.",
-      "impact": "Cette vague entrepreneuriale génère une demande croissante de locaux d'activité et espaces de co-working adaptés aux startups et PME innovantes de la région PACA.",
-      "date": "28/04/2026",
-      "url": "https://www.laprovence.com/article/economie/154605771832615/ia-durabilite-et-liberte-la-nouvelle-dynamique-entrepreneuriale-regionale",
+      "title": "Métropole AMP sans budget : enjeux pour les collectivités",
+      "body": "La Métropole Aix-Marseille-Provence ne parvient pas à voter son budget 2026, avec des recettes insuffisantes face aux dépenses. Cette impasse crée une incertitude sur les investissements publics et les appels d'offres immobiliers.",
+      "impact": "Ralentissement probable des projets publics en AMP impactant la demande tertiaire publique ; anticiper les appels d'offres décalés et l'aversion au risque clients institutionnels.",
+      "date": "29/04/2026",
+      "url": "https://www.laprovence.com/article/politique/1627265316431615/metropole-aix-marseille-provence-pas-de-budget-et-maintenant-",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Start-ups PACA : BraimIA accélère son déploiement commercial",
-      "body": "BraimIA, basée à Meyreuil depuis 2023, renforce ses liens avec les kinésithérapeutes et envisage une expansion internationale avec son assistant IA 'Markus'. Cette croissance confirme l'attractivité de la région pour l'écosystème tech.",
-      "impact": "L'expansion des start-ups innovantes accroît les besoins en bureaux et locaux technologiques dans les parcs d'affaires de la région, notamment autour d'Aix-en-Provence.",
-      "date": "28/04/2026",
-      "url": "https://www.laprovence.com/article/economie/9303634696229214/la-start-up-braimia-renforce-ses-liens-avec-les-kines",
+      "title": "Commerces PACA distincts : innovation et proximité récompensées",
+      "body": "L'association des commerçants de Sénas et deux commerces avignonnais reçoivent les trophées 2026 pour leur innovation et proximité face au défi du e-commerce. Ces initiatives montrent la résilience du retail physique en PACA.",
+      "impact": "Signal positif pour valoriser les petits commerces PACA en transition ; identifier les emplacements commerce premium proches des centres vivants pour clients en reconversion digitale.",
+      "date": "29/04/2026",
+      "url": "https://www.laprovence.com/article/region/19552180588968/l-association-des-commercants-de-senas-recompensee-pour-son-innovation-et-sa-proximite",
       "source": "La Provence",
       "tags": [
         {
@@ -53,18 +53,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Emploi PACA : baisse du chômage de 1,2% au T1 2026",
-      "body": "Le nombre de demandeurs d'emploi sans aucune activité (catégorie A) a baissé de 1,2% au premier trimestre 2026 selon France Travail. Cette amélioration de l'emploi soutient les perspectives économiques régionales.",
-      "impact": "La réduction du chômage améliore la confiance des entreprises et devrait soutenir la demande de locaux commerciaux et bureaux dans les agglomérations de PACA.",
-      "date": "28/04/2026",
-      "url": "https://www.laprovence.com/article/economie/2277940507709115/le-nombre-de-chomeurs-sans-aucune-activite-en-baisse-de-1-2-au-1er-trimestre-2026",
+      "title": "Plateforme Guichet Sociétés : accès données entreprises optimisé",
+      "body": "Guichet Sociétés lance une plateforme dédiée pour accéder rapidement aux KBIS, avis SIRENE et bilans d'entreprises. Cet outil facilite le travail des équipes administratives et commerciales en prospection et due diligence.",
+      "impact": "Améliore l'efficacité des équipes transaction PACA ; intégrer cet outil pour accélérer les diagnostics clients et la qualification prospects.",
+      "date": "29/04/2026",
+      "url": "https://www.laprovence.com/article/economie/82058294674513/avis-guichet-societes-une-plateforme-pensee-pour-acceder-plus-vite-aux-donnees-dentreprises",
       "source": "La Provence",
       "tags": [
         {
@@ -79,20 +79,20 @@
     },
     {
       "id": "f5",
-      "title": "Mobilité : Guiido, la web-app du covoiturage qui innove",
-      "body": "Guiido propose un modèle de covoiturage gagnant-gagnant entre conducteurs et passagers, répondant à une demande croissante de solutions de mobilité durable. Cette innovation reflète l'évolution des comportements de déplacement en région PACA.",
-      "impact": "L'émergence de nouvelles solutions de mobilité favorise la location d'espaces commerciaux et de bureaux proches des axes de transport alternatif et des centres multimodaux.",
-      "date": "28/04/2026",
-      "url": "https://www.laprovence.com/article/economie/2270531088104715/guiido-la-web-app-du-covoiturage-qui-partage-le-volant",
+      "title": "Contexte énergétique incertain : impact coûts immobilier",
+      "body": "Emmanuel Macron demande au gouvernement de réfléchir à des réponses face aux hausses énergétiques dans un contexte géopolitique hautement incertain. Les prix carburants et électricité impactent directement les coûts d'exploitation des immeubles PACA.",
+      "impact": "Intégrer volatilité énergétique dans les modèles de valorisation bureaux/activité ; valoriser auprès des locataires les bâtiments aux normes tertiaire et faible consommation.",
+      "date": "29/04/2026",
+      "url": "https://www.laprovence.com/article/economie/2366940201881715/hausse-du-prix-des-carburants-emmanuel-macron-appelle-a-reflechir-a-de-nouvelles-reponses",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Géopolitique",
+          "cls": "tg"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     }
@@ -100,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Emploi France : trajectoire positive au T1 2026",
-      "body": "Le nombre de chômeurs sans activité diminue de 1,2% au premier trimestre 2026, traduisant une amélioration progressive du marché du travail national. Cette tendance soutient la consommation et l'investissement des entreprises.",
-      "impact": "L'amélioration de l'emploi réduit les risques de défaut locataire et soutient les valuations immobilières tertaires en France.",
-      "date": "28/04/2026",
-      "url": "https://www.laprovence.com/article/economie/2277940507709115/le-nombre-de-chomeurs-sans-aucune-activite-en-baisse-de-1-2-au-1er-trimestre-2026",
+      "title": "TotalEnergies : bénéfice +50% T1 2026, Brent ~96$/bl",
+      "body": "TotalEnergies annonce un bénéfice net en hausse de 50% au T1 2026 (5,8 Md$), dopé par l'augmentation des prix pétroliers liée aux tensions géopolitiques. Le Brent reste volatil à environ 96$/baril.",
+      "impact": "Hausse des coûts énergétiques directe pour les immeubles tertiaires ; clients locataires exigeront indexations énergétiques et clauses de révision plus agressives.",
+      "date": "29/04/2026",
+      "url": "https://www.laprovence.com/article/economie/1081483681772315/totalenergies-annonce-un-benefice-net-en-hausse-de-pres-de-50-ce-premier-trimestre",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Taux et financement : contexte stable au T2 2026",
-      "body": "Les taux OAT se maintiennent à 3,70%, l'Euribor 3M à 2,15% et la BCE maintient son taux directeur à 2,15%. L'environnement de financement reste favorable pour les investissements immobiliers structurés.",
-      "impact": "Les conditions de financement stables soutiennent les montages d'acquisition de locaux d'activité et bureaux en région PACA.",
-      "date": "28/04/2026",
-      "url": "https://donnees-marche-28-04-2026",
-      "source": "Données Marché",
+      "title": "OAT 3,70% : financement immobilier affecté par taux stables",
+      "body": "Les OAT françaises se maintiennent à 3,70%, reflétant une stabilité des taux malgré les incertitudes géopolitiques. L'Euribor 3M reste à 2,15%, impactant les coûts de financement des projets immobiliers.",
+      "impact": "Financement acquisitions PACA moins attractif ; conseiller clients sur acquisitions en taux fixé et refinancer les crédits variables avant nouvelle hausse.",
+      "date": "29/04/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
           "label": "Taux",
           "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte géopolitique et énergie : stabilité relative",
-      "body": "Le cours du Brent se stabilise à 96 USD/baril dans un contexte géopolitique maîtrisé. L'inflation française recule à 1,7% et le Bitcoin affiche 62 500 EUR, reflétant une certaine stabilité macroéconomique.",
-      "impact": "La stabilité énergétique et inflationniste maintient la confiance des investisseurs CRE et soutient les projets d'expansion immobilière en région.",
-      "date": "28/04/2026",
-      "url": "https://donnees-marche-28-04-2026",
-      "source": "Données Marché",
+      "title": "Inflation France 1,7% : contexte modéré de prix immobiliers",
+      "body": "L'inflation française modérée à 1,7% offre un environnement stable pour la valorisation des actifs immobiliers, contrairement aux craintes géopolitiques. La BCE maintient ses taux directeurs à 2,15%.",
+      "impact": "Inflation basse favorise stabilité des loyers et des valeurs ; valoriser cette prévisibilité auprès des investisseurs SCPI et fonds immobiliers cherchant rendement stable.",
+      "date": "29/04/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Inflation",
           "cls": "tg"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }

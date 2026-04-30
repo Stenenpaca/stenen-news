@@ -1,13 +1,13 @@
 {
-  "generated_at": "29/04/2026",
+  "generated_at": "30/04/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "BPIfrance injecte 1,9 Md€ en PACA : financement PME/ETI",
-      "body": "BPIfrance a mobilisé 1,9 milliard d'euros dans la région en 2025, avec une présence renforcée sur Marseille, Nice et Toulon. Cette dynamique de financement soutient les entreprises PACA en phase de croissance et de transition.",
-      "impact": "Les acteurs CRE PACA disposent d'un vivier de clients potentiels bénéficiant de capacités de financement accrues pour leurs implantations bureaux/activité.",
-      "date": "28/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1038553893354915/en-2025-bpifrance-a-injecte-1-9-milliard-d-euros-dans-la-region",
+      "title": "Avignon : relance du projet LEO, opportunité de mobilité urbaine",
+      "body": "Le projet de liaison Est-Ouest (LEO) à Avignon pourrait être remis en route après une période d'incertitude. Cette infrastructure de mobilité renforcera l'attractivité des zones tertiaires et commerciales de la ville.",
+      "impact": "Opportunité d'identifier des locaux de bureaux et d'activité dans les secteurs desservis par la future LEO à Avignon.",
+      "date": "30/04/2026",
+      "url": "https://www.laprovence.com/article/economie/2433951396449515/a-avignon-le-projet-de-la-liaison-est-ouest-leo-nest-pas-mort-il-pourrait-bien-etre-remis-en-route",
       "source": "La Provence",
       "tags": [
         {
@@ -15,56 +15,37 @@
           "cls": "tp"
         },
         {
-          "label": "Financement",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Métropole AMP sans budget : enjeux pour les collectivités",
-      "body": "La Métropole Aix-Marseille-Provence ne parvient pas à voter son budget 2026, avec des recettes insuffisantes face aux dépenses. Cette impasse crée une incertitude sur les investissements publics et les appels d'offres immobiliers.",
-      "impact": "Ralentissement probable des projets publics en AMP impactant la demande tertiaire publique ; anticiper les appels d'offres décalés et l'aversion au risque clients institutionnels.",
-      "date": "29/04/2026",
-      "url": "https://www.laprovence.com/article/politique/1627265316431615/metropole-aix-marseille-provence-pas-de-budget-et-maintenant-",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Commerces PACA distincts : innovation et proximité récompensées",
-      "body": "L'association des commerçants de Sénas et deux commerces avignonnais reçoivent les trophées 2026 pour leur innovation et proximité face au défi du e-commerce. Ces initiatives montrent la résilience du retail physique en PACA.",
-      "impact": "Signal positif pour valoriser les petits commerces PACA en transition ; identifier les emplacements commerce premium proches des centres vivants pour clients en reconversion digitale.",
-      "date": "29/04/2026",
-      "url": "https://www.laprovence.com/article/region/19552180588968/l-association-des-commercants-de-senas-recompensee-pour-son-innovation-et-sa-proximite",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
+          "label": "Mobilité",
           "cls": "tm"
         }
       ]
     },
     {
-      "id": "f4",
-      "title": "Plateforme Guichet Sociétés : accès données entreprises optimisé",
-      "body": "Guichet Sociétés lance une plateforme dédiée pour accéder rapidement aux KBIS, avis SIRENE et bilans d'entreprises. Cet outil facilite le travail des équipes administratives et commerciales en prospection et due diligence.",
-      "impact": "Améliore l'efficacité des équipes transaction PACA ; intégrer cet outil pour accélérer les diagnostics clients et la qualification prospects.",
+      "id": "f2",
+      "title": "Val'tram Aubagne : retard attendu sur la mise en service",
+      "body": "Le nouveau tramway du Pays d'Aubagne (14 km, 12 stations) connaît des retards de mise en service. Ce projet de mobilité phare impactera l'accessibilité des zones commerciales et d'activité du territoire.",
+      "impact": "Anticiper les relocalisations d'entreprises et opportunités de reprise de locaux le long du futur tracé du Val'tram.",
+      "date": "30/04/2026",
+      "url": "https://www.laprovence.com/article/societe/1725790012527615/retard-en-vue-pour-la-mise-en-service-du-val-tram-le-nouveau-tramway-du-pays-d-aubagne",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Infrastructures",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Aix-en-Provence Tech Valley : pôle économique émergent",
+      "body": "Aix-en-Provence développe son projet Tech Valley orienté vers la défense, l'aéronautique et l'innovation technologique. Cette dynamique créera une demande accrue de locaux bureaux de haut standing et de centres de recherche.",
+      "impact": "Cibler les offres de bureaux premium et locaux d'activité high-tech aux standards internationaux dans l'agglomération aixoise.",
       "date": "29/04/2026",
-      "url": "https://www.laprovence.com/article/economie/82058294674513/avis-guichet-societes-une-plateforme-pensee-pour-acceder-plus-vite-aux-donnees-dentreprises",
+      "url": "https://www.laprovence.com/article/economie/22711266203975/avec-son-projet-tech-valley-aix-en-provence-regarde-vers-la-defense-l-aeronautique-et-les-etoiles",
       "source": "La Provence",
       "tags": [
         {
@@ -78,21 +59,40 @@
       ]
     },
     {
+      "id": "f4",
+      "title": "Euribor 3M à 2.15% : taux de financement stables",
+      "body": "L'Euribor 3 mois se maintient à 2.15%, reflétant une stabilité relative des conditions de financement immobilier en France. Les conditions de crédit pour les acquisitions restent encadrées par une politique monétaire restrictive.",
+      "impact": "Conseiller aux clients acquéreurs de négocier les modalités de crédit sur la base de taux à court terme stables pour sécuriser les transactions CRE.",
+      "date": "30/04/2026",
+      "url": "https://www.laprovence.com/article/economie/2295898304125515/barmar-fos-sur-mer-au-coeur-dun-projet-energetique-europeen-historique",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
       "id": "f5",
-      "title": "Contexte énergétique incertain : impact coûts immobilier",
-      "body": "Emmanuel Macron demande au gouvernement de réfléchir à des réponses face aux hausses énergétiques dans un contexte géopolitique hautement incertain. Les prix carburants et électricité impactent directement les coûts d'exploitation des immeubles PACA.",
-      "impact": "Intégrer volatilité énergétique dans les modèles de valorisation bureaux/activité ; valoriser auprès des locataires les bâtiments aux normes tertiaire et faible consommation.",
-      "date": "29/04/2026",
-      "url": "https://www.laprovence.com/article/economie/2366940201881715/hausse-du-prix-des-carburants-emmanuel-macron-appelle-a-reflechir-a-de-nouvelles-reponses",
+      "title": "Fos-sur-Mer : projet BarMar, transformation de la zone industrielle",
+      "body": "Le projet énergétique européen BarMar (canalisation hydrogène renouvelable Barcelone-Fos prévue en 2032) positionne Fos-sur-Mer comme hub énergétique stratégique. Cette évolution renforcera l'attractivité des locaux d'activité et industriels du secteur.",
+      "impact": "Prospecter les entreprises du secteur énergétique et logistique pour identifier des besoins de locaux d'activité à Fos-sur-Mer et zone portuaire.",
+      "date": "30/04/2026",
+      "url": "https://www.laprovence.com/article/economie/2295898304125515/barmar-fos-sur-mer-au-coeur-dun-projet-energetique-europeen-historique",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Énergie",
+          "cls": "tg"
         }
       ]
     }
@@ -100,11 +100,11 @@
   "macro": [
     {
       "id": "m1",
-      "title": "TotalEnergies : bénéfice +50% T1 2026, Brent ~96$/bl",
-      "body": "TotalEnergies annonce un bénéfice net en hausse de 50% au T1 2026 (5,8 Md$), dopé par l'augmentation des prix pétroliers liée aux tensions géopolitiques. Le Brent reste volatil à environ 96$/baril.",
-      "impact": "Hausse des coûts énergétiques directe pour les immeubles tertiaires ; clients locataires exigeront indexations énergétiques et clauses de révision plus agressives.",
-      "date": "29/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1081483681772315/totalenergies-annonce-un-benefice-net-en-hausse-de-pres-de-50-ce-premier-trimestre",
+      "title": "Projet BarMar : hydrogène renouvelable, stratégie énergétique européenne",
+      "body": "Le projet BarMar fait de Fos-sur-Mer un nœud central de la transition énergétique européenne avec l'importation d'hydrogène renouvelable depuis la Catalogne. Cette infrastructure modifie les perspectives géopolitiques et énergétiques de la région.",
+      "impact": "Anticiper les relocalisations et investissements d'entreprises liées à la chaîne de valeur hydrogène en PACA.",
+      "date": "30/04/2026",
+      "url": "https://www.laprovence.com/article/economie/2295898304125515/barmar-fos-sur-mer-au-coeur-dun-projet-energetique-europeen-historique",
       "source": "La Provence",
       "tags": [
         {
@@ -119,39 +119,39 @@
     },
     {
       "id": "m2",
-      "title": "OAT 3,70% : financement immobilier affecté par taux stables",
-      "body": "Les OAT françaises se maintiennent à 3,70%, reflétant une stabilité des taux malgré les incertitudes géopolitiques. L'Euribor 3M reste à 2,15%, impactant les coûts de financement des projets immobiliers.",
-      "impact": "Financement acquisitions PACA moins attractif ; conseiller clients sur acquisitions en taux fixé et refinancer les crédits variables avant nouvelle hausse.",
-      "date": "29/04/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "title": "Inflation France à 1.7%, BCE maintient le cap monétaire",
+      "body": "L'inflation française se stabilise à 1.7% avec les taux de la BCE inchangés à 2.15%. L'environnement macroéconomique reste contraint par une politique monétaire restrictive, impactant les décisions d'investissement immobilier.",
+      "impact": "Monétiser auprès des investisseurs les avantages d'actifs immobiliers de qualité comme valeur refuge face aux taux persistants.",
+      "date": "30/04/2026",
+      "url": "https://www.laprovence.com/article/societe/2432530592820415/aides-carburants-hausse-du-prix-du-gaz-repas-etudiant-a-1-euro-tout-ce-qui-change-ce-1er-mai-2026",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Inflation",
           "cls": "tt"
         },
         {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France 1,7% : contexte modéré de prix immobiliers",
-      "body": "L'inflation française modérée à 1,7% offre un environnement stable pour la valorisation des actifs immobiliers, contrairement aux craintes géopolitiques. La BCE maintient ses taux directeurs à 2,15%.",
-      "impact": "Inflation basse favorise stabilité des loyers et des valeurs ; valoriser cette prévisibilité auprès des investisseurs SCPI et fonds immobiliers cherchant rendement stable.",
-      "date": "29/04/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "title": "Hausse du prix du gaz : impact sur les charges d'exploitation",
+      "body": "Le 1er mai 2026 marque une hausse du prix de référence du gaz, augmentant les charges opérationnelles pour les entreprises et les immeubles tertiaires. Cette tension inflationniste affecte la rentabilité des actifs locatifs et les budgets de fonctionnement.",
+      "impact": "Intégrer les surcoûts énergétiques dans les analyses de rentabilité et les estimations de valeurs pour les transactions CRE.",
+      "date": "30/04/2026",
+      "url": "https://www.laprovence.com/article/societe/2432530592820415/aides-carburants-hausse-du-prix-du-gaz-repas-etudiant-a-1-euro-tout-ce-qui-change-ce-1er-mai-2026",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
+          "label": "Énergie",
           "cls": "tg"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     }

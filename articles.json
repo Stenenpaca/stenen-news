@@ -1,98 +1,78 @@
 {
-  "generated_at": "30/04/2026",
+  "generated_at": "01/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Avignon : relance du projet LEO, opportunité de mobilité urbaine",
-      "body": "Le projet de liaison Est-Ouest (LEO) à Avignon pourrait être remis en route après une période d'incertitude. Cette infrastructure de mobilité renforcera l'attractivité des zones tertiaires et commerciales de la ville.",
-      "impact": "Opportunité d'identifier des locaux de bureaux et d'activité dans les secteurs desservis par la future LEO à Avignon.",
-      "date": "30/04/2026",
-      "url": "https://www.laprovence.com/article/economie/2433951396449515/a-avignon-le-projet-de-la-liaison-est-ouest-leo-nest-pas-mort-il-pourrait-bien-etre-remis-en-route",
+      "title": "Économie régionale PACA : résistance malgré tensions géopolitiques",
+      "body": "L'économie régionale démontre une résilience notable face aux incertitudes géopolitiques actuelles. Denis Lauretou, directeur régional de la Banque de France, souligne que l'incertitude reste le facteur clé lors du Point conjoncture tenu à Marseille.",
+      "impact": "Contexte favorable pour les transactions bureaux/activité en PACA : stabilité économique régionale maintenue malgré turbulences nationales.",
+      "date": "01/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2520306894029515/malgre-les-tensions-geopolitiques-menacantes-l-economie-regionale-resiste",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Mobilité",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Val'tram Aubagne : retard attendu sur la mise en service",
-      "body": "Le nouveau tramway du Pays d'Aubagne (14 km, 12 stations) connaît des retards de mise en service. Ce projet de mobilité phare impactera l'accessibilité des zones commerciales et d'activité du territoire.",
-      "impact": "Anticiper les relocalisations d'entreprises et opportunités de reprise de locaux le long du futur tracé du Val'tram.",
-      "date": "30/04/2026",
-      "url": "https://www.laprovence.com/article/societe/1725790012527615/retard-en-vue-pour-la-mise-en-service-du-val-tram-le-nouveau-tramway-du-pays-d-aubagne",
+      "title": "Foncier agricole PACA : enjeux d'aménagement et requalification",
+      "body": "La Safer Paca organise un débat stratégique sur la gestion du foncier agricole à Mallemort, cadre du syndicat mixte d'aménagement de la Durance. Cette initiative repositionne les enjeux fonciers au cœur des réflexions d'aménagement régional.",
+      "impact": "Opportunités de requalification foncière en zones périphériques PACA : monitorer les décisions Safer pour identifier conversions tertiaire/commerce.",
+      "date": "01/05/2026",
+      "url": "https://www.laprovence.com/article/societe/2533466189690215/a-mallemort-la-safer-paca-replace-le-foncier-agricole-au-coeur-du-debat",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Infrastructures",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Aix-en-Provence Tech Valley : pôle économique émergent",
-      "body": "Aix-en-Provence développe son projet Tech Valley orienté vers la défense, l'aéronautique et l'innovation technologique. Cette dynamique créera une demande accrue de locaux bureaux de haut standing et de centres de recherche.",
-      "impact": "Cibler les offres de bureaux premium et locaux d'activité high-tech aux standards internationaux dans l'agglomération aixoise.",
-      "date": "29/04/2026",
-      "url": "https://www.laprovence.com/article/economie/22711266203975/avec-son-projet-tech-valley-aix-en-provence-regarde-vers-la-defense-l-aeronautique-et-les-etoiles",
+      "title": "Entrepreneuriat : EURL vs SASU pour création locaux activité",
+      "body": "Le choix entre EURL et SASU structuré par trois variables : fiscalité, régime social et charge administrative, chacun produisant des effets financiers distincts. Cette décision conditionnera les besoins en locaux et structures d'exploitation.",
+      "impact": "Accompagner les créateurs PACA : identifier leurs besoins en locaux activité selon leur choix de structure juridique (EURL/SASU) pour optimiser offre locative.",
+      "date": "30/04/2026",
+      "url": "https://www.laprovence.com/article/economie/14834944118558/se-lancer-a-son-compte-faut-il-opter-pour-une-eurl-ou-une-sasu",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Marché PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Euribor 3M à 2.15% : taux de financement stables",
-      "body": "L'Euribor 3 mois se maintient à 2.15%, reflétant une stabilité relative des conditions de financement immobilier en France. Les conditions de crédit pour les acquisitions restent encadrées par une politique monétaire restrictive.",
-      "impact": "Conseiller aux clients acquéreurs de négocier les modalités de crédit sur la base de taux à court terme stables pour sécuriser les transactions CRE.",
+      "title": "Gas Bijoux : artisanat tertiaire rayonnant depuis Marseille",
+      "body": "Gas Bijoux illustre la vitalité de l'artisanat haut de gamme marseillais depuis 1969, cultivant une signature singulière en haute fantaisie. Le modèle entrepreneurial régional s'affirme comme acteur économique de référence.",
+      "impact": "Demande stable pour locaux commerce/showroom haut de gamme à Marseille : artisanat prestigieux soutient tertiarisation zones touristiques PACA.",
       "date": "30/04/2026",
-      "url": "https://www.laprovence.com/article/economie/2295898304125515/barmar-fos-sur-mer-au-coeur-dun-projet-energetique-europeen-historique",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/1435429415901/gas-bijoux-l-artisanat-solaire-qui-rayonne-depuis-marseille",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "tt"
+          "label": "Marché Marseille",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Fos-sur-Mer : projet BarMar, transformation de la zone industrielle",
-      "body": "Le projet énergétique européen BarMar (canalisation hydrogène renouvelable Barcelone-Fos prévue en 2032) positionne Fos-sur-Mer comme hub énergétique stratégique. Cette évolution renforcera l'attractivité des locaux d'activité et industriels du secteur.",
-      "impact": "Prospecter les entreprises du secteur énergétique et logistique pour identifier des besoins de locaux d'activité à Fos-sur-Mer et zone portuaire.",
-      "date": "30/04/2026",
-      "url": "https://www.laprovence.com/article/economie/2295898304125515/barmar-fos-sur-mer-au-coeur-dun-projet-energetique-europeen-historique",
+      "title": "Véhicules électriques : décollage +48% boostant zones activité",
+      "body": "Les ventes de voitures électriques neuves ont bondi de 48% en quatre mois 2026 (148 302 unités), contrastant avec un marché automobile global en berne. Cette transformation accélère les besoins en infrastructures recharging pour locaux tertiaires.",
+      "impact": "Rénovation bureaux/activité PACA : intégrer bornes recharge électrique comme critère compétitif pour attirer entreprises et prospects mobiles.",
+      "date": "01/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2499898839510915/les-ventes-de-voitures-electriques-decollent-en-france-dans-un-marche-automobile-en-berne",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Tertiarisation",
           "cls": "tp"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
         }
       ]
     }
@@ -100,58 +80,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Projet BarMar : hydrogène renouvelable, stratégie énergétique européenne",
-      "body": "Le projet BarMar fait de Fos-sur-Mer un nœud central de la transition énergétique européenne avec l'importation d'hydrogène renouvelable depuis la Catalogne. Cette infrastructure modifie les perspectives géopolitiques et énergétiques de la région.",
-      "impact": "Anticiper les relocalisations et investissements d'entreprises liées à la chaîne de valeur hydrogène en PACA.",
+      "title": "Tensions géopolitiques : impact énergétique et Brent",
+      "body": "Les tensions géopolitiques menacent l'économie française et boostent les résultats de TotalEnergies via la remontée des prix du pétrole (Brent 96 USD). Le géant pétrogazier annonce le maintien du plafonnement des carburants « tant que la crise durera ».",
+      "impact": "Coûts opérationnels et transport PACA exposés : surveiller volatilité énergétique pour ajuster prix locations bureaux/activité à long terme.",
       "date": "30/04/2026",
-      "url": "https://www.laprovence.com/article/economie/2295898304125515/barmar-fos-sur-mer-au-coeur-dun-projet-energetique-europeen-historique",
+      "url": "https://www.laprovence.com/article/economie/1739547418302515/carburants-totalenergies-annonce-maintenir-le-plafonnement-des-prix-a-la-pompe-tant-que-la-crise-durera",
       "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France à 1.7%, BCE maintient le cap monétaire",
-      "body": "L'inflation française se stabilise à 1.7% avec les taux de la BCE inchangés à 2.15%. L'environnement macroéconomique reste contraint par une politique monétaire restrictive, impactant les décisions d'investissement immobilier.",
-      "impact": "Monétiser auprès des investisseurs les avantages d'actifs immobiliers de qualité comme valeur refuge face aux taux persistants.",
-      "date": "30/04/2026",
-      "url": "https://www.laprovence.com/article/societe/2432530592820415/aides-carburants-hausse-du-prix-du-gaz-repas-etudiant-a-1-euro-tout-ce-qui-change-ce-1er-mai-2026",
+      "title": "Conjoncture France : incertitude économique régionale",
+      "body": "La Banque de France identifie l'incertitude comme donnée clé de la conjoncture actuelle lors du Point conjoncture 2026. L'économie française montre une résilience relative malgré les turbulences géopolitiques et inflationnistes.",
+      "impact": "Transactions CRE PACA : attendre clarification politique/géopolitique avant négociations prix ; investisseurs demandent primes de risque supérieures.",
+      "date": "01/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2520306894029515/malgre-les-tensions-geopolitiques-menacantes-l-economie-regionale-resiste",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
-        },
-        {
           "label": "Conjoncture",
-          "cls": "tm"
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Hausse du prix du gaz : impact sur les charges d'exploitation",
-      "body": "Le 1er mai 2026 marque une hausse du prix de référence du gaz, augmentant les charges opérationnelles pour les entreprises et les immeubles tertiaires. Cette tension inflationniste affecte la rentabilité des actifs locatifs et les budgets de fonctionnement.",
-      "impact": "Intégrer les surcoûts énergétiques dans les analyses de rentabilité et les estimations de valeurs pour les transactions CRE.",
-      "date": "30/04/2026",
-      "url": "https://www.laprovence.com/article/societe/2432530592820415/aides-carburants-hausse-du-prix-du-gaz-repas-etudiant-a-1-euro-tout-ce-qui-change-ce-1er-mai-2026",
-      "source": "La Provence",
+      "title": "Taux OAT/Euribor : stable à 3.70% et 2.15% respectivement",
+      "body": "Les taux obligataires OAT se stabilisent à 3.70% et l'Euribor 3M à 2.15%, reflétant la politique monétaire BCE inchangée à 2.15%. Ces niveaux maintiennent l'environnement de financement immobilier commercial coûteux mais prévisible.",
+      "impact": "Financement transactions PACA : coûts crédit tertiaire/activité demeurent élevés ; privilégier deals avec retours >5% NET pour justifier endettement.",
+      "date": "01/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2520306894029515/malgre-les-tensions-geopolitiques-menacantes-l-economie-regionale-resiste",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Énergie",
-          "cls": "tg"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

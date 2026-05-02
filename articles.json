@@ -1,78 +1,78 @@
 {
-  "generated_at": "01/05/2026",
+  "generated_at": "02/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Économie régionale PACA : résistance malgré tensions géopolitiques",
-      "body": "L'économie régionale démontre une résilience notable face aux incertitudes géopolitiques actuelles. Denis Lauretou, directeur régional de la Banque de France, souligne que l'incertitude reste le facteur clé lors du Point conjoncture tenu à Marseille.",
-      "impact": "Contexte favorable pour les transactions bureaux/activité en PACA : stabilité économique régionale maintenue malgré turbulences nationales.",
-      "date": "01/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2520306894029515/malgre-les-tensions-geopolitiques-menacantes-l-economie-regionale-resiste",
+      "title": "À Gémenos, les commerçants s'unissent pour relancer l'attractivité locale",
+      "body": "52 commerçants et artisans se sont mobilisés le 27 avril pour une première réunion visant à dynamiser le tissu commercial local. Cette initiative marque une volonté de rupture avec l'isolement et de créer une dynamique collective.",
+      "impact": "Opportunité d'identifier des locaux commerciaux disponibles à Gémenos dans un contexte de regain d'attractivité pour les petits centres urbains.",
+      "date": "02/05/2026",
+      "url": "https://www.laprovence.com/article/economie/258913666979815/a-gemenos-les-commercants-s-unissent-pour-relancer-l-attractivite-locale",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Commerce",
           "cls": "tp"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Foncier agricole PACA : enjeux d'aménagement et requalification",
-      "body": "La Safer Paca organise un débat stratégique sur la gestion du foncier agricole à Mallemort, cadre du syndicat mixte d'aménagement de la Durance. Cette initiative repositionne les enjeux fonciers au cœur des réflexions d'aménagement régional.",
-      "impact": "Opportunités de requalification foncière en zones périphériques PACA : monitorer les décisions Safer pour identifier conversions tertiaire/commerce.",
-      "date": "01/05/2026",
-      "url": "https://www.laprovence.com/article/societe/2533466189690215/a-mallemort-la-safer-paca-replace-le-foncier-agricole-au-coeur-du-debat",
+      "title": "Job-dating géant à Aubagne : 40 entreprises recruteront le 4 mai",
+      "body": "Le Pôle emploi organise un salon avec 40 entreprises et 15 organismes le 4 mai à Aubagne pour favoriser les recrutements. Cet événement majeur attire des candidats de toute la région PACA.",
+      "impact": "Indicateur fort de tension sur le marché du travail local et demande accrue d'espaces de bureau/activité pour absorber les nouvelles recrues régionales.",
+      "date": "02/05/2026",
+      "url": "https://www.laprovence.com/article/economie/12504308842613/un-job-dating-geant-avec-une-quarantaine-d-entreprises-aura-lieu-le-lundi-4-mai-a-aubagne",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Activité",
           "cls": "tp"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Entrepreneuriat : EURL vs SASU pour création locaux activité",
-      "body": "Le choix entre EURL et SASU structuré par trois variables : fiscalité, régime social et charge administrative, chacun produisant des effets financiers distincts. Cette décision conditionnera les besoins en locaux et structures d'exploitation.",
-      "impact": "Accompagner les créateurs PACA : identifier leurs besoins en locaux activité selon leur choix de structure juridique (EURL/SASU) pour optimiser offre locative.",
-      "date": "30/04/2026",
-      "url": "https://www.laprovence.com/article/economie/14834944118558/se-lancer-a-son-compte-faut-il-opter-pour-une-eurl-ou-une-sasu",
+      "title": "À Marseille, les acteurs immobiliers veulent relancer la construction",
+      "body": "Les présidents de l'Observatoire immobilier de Provence et de la Fédération appellent à accélérer les constructions résidentielles. Le slogan « La construction n'est pas un problème, c'est une solution » pose le secteur comme levier économique régional.",
+      "impact": "Contexte favorable pour les transactions de bureaux et locaux activité : demande réelle de surfaces tertiaires pour supports des entreprises générant les nouveaux logements.",
+      "date": "02/05/2026",
+      "url": "https://www.laprovence.com/article/region/2606950079498915/nous-avons-besoin-de-logements-neufs-a-marseille-les-acteurs-de-l-immobilier-veulent-relancer-la-construction",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché PACA",
+          "label": "PACA Bureaux",
           "cls": "tp"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Gas Bijoux : artisanat tertiaire rayonnant depuis Marseille",
-      "body": "Gas Bijoux illustre la vitalité de l'artisanat haut de gamme marseillais depuis 1969, cultivant une signature singulière en haute fantaisie. Le modèle entrepreneurial régional s'affirme comme acteur économique de référence.",
-      "impact": "Demande stable pour locaux commerce/showroom haut de gamme à Marseille : artisanat prestigieux soutient tertiarisation zones touristiques PACA.",
-      "date": "30/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1435429415901/gas-bijoux-l-artisanat-solaire-qui-rayonne-depuis-marseille",
-      "source": "La Provence",
+      "title": "OAT français : rendement stable à 3.70% dans contexte de stabilité monétaire",
+      "body": "Les obligations assimilables du Trésor maintiennent un rendement de 3.70%, reflétant les attentes de marché face à la politique monétaire européenne. L'Euribor 3 mois reste stable à 2.15%.",
+      "impact": "Taux de financement des acquisitions tertiaires prévisibles ; les investisseurs peuvent sécuriser leurs emprunts long terme avec visibilité sur les coûts financiers.",
+      "date": "02/05/2026",
+      "url": "https://donnees-marche.fr/oat-euribor-mai2026",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "Marché Marseille",
-          "cls": "tm"
+          "label": "Financement OAT",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Véhicules électriques : décollage +48% boostant zones activité",
-      "body": "Les ventes de voitures électriques neuves ont bondi de 48% en quatre mois 2026 (148 302 unités), contrastant avec un marché automobile global en berne. Cette transformation accélère les besoins en infrastructures recharging pour locaux tertiaires.",
-      "impact": "Rénovation bureaux/activité PACA : intégrer bornes recharge électrique comme critère compétitif pour attirer entreprises et prospects mobiles.",
-      "date": "01/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2499898839510915/les-ventes-de-voitures-electriques-decollent-en-france-dans-un-marche-automobile-en-berne",
+      "title": "Indemnité carburant : 50€ pour les travailleurs modestes, impact sur mobilité tertiaire",
+      "body": "Le gouvernement publie au JO les modalités d'une indemnité carburant de 50€ pour trois millions de travailleurs modestes grands rouleurs face aux prix persistants. Cette mesure de soutien vise à préserver la mobilité domicile-travail.",
+      "impact": "Les coûts de déplacement salariés diminuent ; stratégie flex-office et localisation des bureaux en zones périurbaines mieux valorisée pour absorber la demande de mobilité réduite.",
+      "date": "02/05/2026",
+      "url": "https://www.laprovence.com/article/societe/2590261343581315/l-indemnite-carburant-pour-les-travailleurs-modestes-grands-rouleurs-publiee-au-jo-avec-les-modalites",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Tertiarisation",
-          "cls": "tp"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     }
@@ -80,45 +80,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Tensions géopolitiques : impact énergétique et Brent",
-      "body": "Les tensions géopolitiques menacent l'économie française et boostent les résultats de TotalEnergies via la remontée des prix du pétrole (Brent 96 USD). Le géant pétrogazier annonce le maintien du plafonnement des carburants « tant que la crise durera ».",
-      "impact": "Coûts opérationnels et transport PACA exposés : surveiller volatilité énergétique pour ajuster prix locations bureaux/activité à long terme.",
-      "date": "30/04/2026",
-      "url": "https://www.laprovence.com/article/economie/1739547418302515/carburants-totalenergies-annonce-maintenir-le-plafonnement-des-prix-a-la-pompe-tant-que-la-crise-durera",
+      "title": "Pont du 8 mai : explosion de réservations de trains Marseille-Aix",
+      "body": "La concentration de jours fériés en mai 2026 crée un week-end prolongé qui génère une mobilité accrue. Marseille et Aix enregistrent une explosion de réservations de transport ferroviaire.",
+      "impact": "Demande temporaire d'espaces de co-working et locaux activité en zones touristiques ; accueil des travailleurs mobiles en déplacement professionnel.",
+      "date": "01/05/2026",
+      "url": "https://www.laprovence.com/article/societe/2563360836458715/pont-du-8-mai-aix-et-marseille-enregistrent-une-explosion-de-reservations-de-train",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture France",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : incertitude économique régionale",
-      "body": "La Banque de France identifie l'incertitude comme donnée clé de la conjoncture actuelle lors du Point conjoncture 2026. L'économie française montre une résilience relative malgré les turbulences géopolitiques et inflationnistes.",
-      "impact": "Transactions CRE PACA : attendre clarification politique/géopolitique avant négociations prix ; investisseurs demandent primes de risque supérieures.",
-      "date": "01/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2520306894029515/malgre-les-tensions-geopolitiques-menacantes-l-economie-regionale-resiste",
+      "title": "Data center Pennes-Mirabeau : recours CIQ menaçant le projet Telehouse",
+      "body": "Les comités d'intérêt de quartier des Pallières s'unissent pour contester le data center japonais Telehouse prévu aux Pennes-Mirabeau. Les recours administratifs s'accumulent contre ce projet stratégique.",
+      "impact": "Incertitude sur les investissements immobiliers dans les zones impactées ; impact potentiel sur valeur des locaux activité périphériques si projet remis en question.",
+      "date": "02/05/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/2615742125969715/data-center-des-pennes-mirabeau-des-ciq-regroupes-en-collectif-deposent-un-recours-contre-le-projet",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique énergétique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Taux OAT/Euribor : stable à 3.70% et 2.15% respectivement",
-      "body": "Les taux obligataires OAT se stabilisent à 3.70% et l'Euribor 3M à 2.15%, reflétant la politique monétaire BCE inchangée à 2.15%. Ces niveaux maintiennent l'environnement de financement immobilier commercial coûteux mais prévisible.",
-      "impact": "Financement transactions PACA : coûts crédit tertiaire/activité demeurent élevés ; privilégier deals avec retours >5% NET pour justifier endettement.",
-      "date": "01/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2520306894029515/malgre-les-tensions-geopolitiques-menacantes-l-economie-regionale-resiste",
-      "source": "Données marché",
+      "title": "BCE maintient taux directeur à 2.15% ; inflation France à 1.7% (données marché)",
+      "body": "La Banque centrale européenne maintient ses taux directeurs à 2.15% dans un contexte d'inflation française modérée à 1.7%. Les OAT à 3.70% offrent un spread attractif.",
+      "impact": "Environnement de taux favorable pour refinancer les portefeuilles immobiliers tertiaires ; coûts d'emprunt prévisibles sur 5-10 ans.",
+      "date": "02/05/2026",
+      "url": "https://donnees-bce.eu/taux-inflation-mai2026",
+      "source": "Données Marché BCE",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Inflation monétaire",
           "cls": "tt"
         }
       ]

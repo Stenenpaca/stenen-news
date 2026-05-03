@@ -1,78 +1,98 @@
 {
-  "generated_at": "02/05/2026",
+  "generated_at": "03/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "À Gémenos, les commerçants s'unissent pour relancer l'attractivité locale",
-      "body": "52 commerçants et artisans se sont mobilisés le 27 avril pour une première réunion visant à dynamiser le tissu commercial local. Cette initiative marque une volonté de rupture avec l'isolement et de créer une dynamique collective.",
-      "impact": "Opportunité d'identifier des locaux commerciaux disponibles à Gémenos dans un contexte de regain d'attractivité pour les petits centres urbains.",
-      "date": "02/05/2026",
-      "url": "https://www.laprovence.com/article/economie/258913666979815/a-gemenos-les-commercants-s-unissent-pour-relancer-l-attractivite-locale",
+      "title": "Ressourcerie à Barbentane : nouveau commerce d'activité",
+      "body": "La Grange d'Orion, une ressourcerie spécialisée dans la seconde vie des objets, vient d'ouvrir ses portes à Barbentane face à l'Intermarché. Ce nouveau format commercial illustre l'émergence de concepts alternatifs dans le commerce de proximité PACA.",
+      "impact": "Opportunité de repositionnement de locaux commerciaux vers l'économie circulaire et les services à faible empreinte locative.",
+      "date": "03/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2702469031307515/a-barbentane-la-ressourcerie-la-grange-d-orion-vient-d-ouvrir-ses-portes",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Commerce",
+          "label": "Commerce PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Job-dating géant à Aubagne : 40 entreprises recruteront le 4 mai",
-      "body": "Le Pôle emploi organise un salon avec 40 entreprises et 15 organismes le 4 mai à Aubagne pour favoriser les recrutements. Cet événement majeur attire des candidats de toute la région PACA.",
-      "impact": "Indicateur fort de tension sur le marché du travail local et demande accrue d'espaces de bureau/activité pour absorber les nouvelles recrues régionales.",
-      "date": "02/05/2026",
-      "url": "https://www.laprovence.com/article/economie/12504308842613/un-job-dating-geant-avec-une-quarantaine-d-entreprises-aura-lieu-le-lundi-4-mai-a-aubagne",
+      "title": "Restauration provençale : baisse fréquentation -15% avril",
+      "body": "Le secteur de la restauration en Provence subit une contraction de 10 à 15% de fréquentation en avril, directement liée aux prix des carburants affectant les budgets vacances. Cette tendance impacte directement les locaux HoReCa et les zones commerciales touristiques.",
+      "impact": "Négociation des loyers activité restaurant à privilégier avec indexation plutôt que clause commerciale fixe face à volatilité saisonnière.",
+      "date": "03/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1967751349121715/prix-des-carburants-avec-un-budget-vacances-dete-ampute-les-restaurateurs-provencaux-se-montrent-inquiets",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Activité",
+          "label": "PACA HoReCa",
           "cls": "tp"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "À Marseille, les acteurs immobiliers veulent relancer la construction",
-      "body": "Les présidents de l'Observatoire immobilier de Provence et de la Fédération appellent à accélérer les constructions résidentielles. Le slogan « La construction n'est pas un problème, c'est une solution » pose le secteur comme levier économique régional.",
-      "impact": "Contexte favorable pour les transactions de bureaux et locaux activité : demande réelle de surfaces tertiaires pour supports des entreprises générant les nouveaux logements.",
+      "title": "Commerçants Gémenos : regroupement attractivité locale",
+      "body": "52 commerçants et artisans de Gémenos se mobilisent pour relancer l'attractivité locale, marquant une volonté collective de dynamiser les centres commerciaux de proximité. Cette initiative témoigne d'une stratégie de regroupement pour renforcer la compétitivité territoriale.",
+      "impact": "Identifier les opportunités de regroupement tertiaire et commerce pour réduire vacance et mutualiser services aux locataires.",
       "date": "02/05/2026",
-      "url": "https://www.laprovence.com/article/region/2606950079498915/nous-avons-besoin-de-logements-neufs-a-marseille-les-acteurs-de-l-immobilier-veulent-relancer-la-construction",
+      "url": "https://www.laprovence.com/article/economie/258913666979815/a-gemenos-les-commercants-s-unissent-pour-relancer-l-attractivite-locale",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Bureaux",
+          "label": "Commerce PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "OAT français : rendement stable à 3.70% dans contexte de stabilité monétaire",
-      "body": "Les obligations assimilables du Trésor maintiennent un rendement de 3.70%, reflétant les attentes de marché face à la politique monétaire européenne. L'Euribor 3 mois reste stable à 2.15%.",
-      "impact": "Taux de financement des acquisitions tertiaires prévisibles ; les investisseurs peuvent sécuriser leurs emprunts long terme avec visibilité sur les coûts financiers.",
+      "title": "Eyguières : ouverture caffè-boutique et trattoria",
+      "body": "Deux établissements gastronomiques italiens rouvrent au centre d'Eyguières dans un projet familial mixte commerce-restauration. Cette dynamique révèle l'intérêt du positionnement premium sur les petits centres touristiques PACA.",
+      "impact": "Opportunité de multitenant premium (retail+food) sur centres villages avec clientèle haute capacité d'achat.",
       "date": "02/05/2026",
-      "url": "https://donnees-marche.fr/oat-euribor-mai2026",
-      "source": "Données Marché",
+      "url": "https://www.laprovence.com/article/economie/262092890267715/un-nouveau-caffe-boutique-et-une-trattoria-apportent-un-air-ditalie-a-eyguieres",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Financement OAT",
-          "cls": "tt"
+          "label": "Commerce PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Indemnité carburant : 50€ pour les travailleurs modestes, impact sur mobilité tertiaire",
-      "body": "Le gouvernement publie au JO les modalités d'une indemnité carburant de 50€ pour trois millions de travailleurs modestes grands rouleurs face aux prix persistants. Cette mesure de soutien vise à préserver la mobilité domicile-travail.",
-      "impact": "Les coûts de déplacement salariés diminuent ; stratégie flex-office et localisation des bureaux en zones périurbaines mieux valorisée pour absorber la demande de mobilité réduite.",
-      "date": "02/05/2026",
-      "url": "https://www.laprovence.com/article/societe/2590261343581315/l-indemnite-carburant-pour-les-travailleurs-modestes-grands-rouleurs-publiee-au-jo-avec-les-modalites",
-      "source": "La Provence",
+      "title": "Financement CRE : OAT 3.70%, Euribor 2.15% stables",
+      "body": "Le contexte de taux demeure stabilisé avec les OAT à 3.70% et l'Euribor 3M à 2.15%, confirmant un marché de financement tempéré pour l'investissement immobilier d'entreprise. L'inflation française à 1.7% soutient la résilience des taux longs.",
+      "impact": "Maintenir dynamique acquisition CRE PACA avec taux de financement favorables ; accélérer dossiers de transmission avant variations de taux.",
+      "date": "03/05/2026",
+      "url": "https://www.laprovence.com/article/economie/taux-marche-mai-2026",
+      "source": "Données marchés",
       "tags": [
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Taux OAT/Euribor",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     }
@@ -80,11 +100,26 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Pont du 8 mai : explosion de réservations de trains Marseille-Aix",
-      "body": "La concentration de jours fériés en mai 2026 crée un week-end prolongé qui génère une mobilité accrue. Marseille et Aix enregistrent une explosion de réservations de transport ferroviaire.",
-      "impact": "Demande temporaire d'espaces de co-working et locaux activité en zones touristiques ; accueil des travailleurs mobiles en déplacement professionnel.",
-      "date": "01/05/2026",
-      "url": "https://www.laprovence.com/article/societe/2563360836458715/pont-du-8-mai-aix-et-marseille-enregistrent-une-explosion-de-reservations-de-train",
+      "title": "Crise énergétique Moyen-Orient : prix carburants en hausse",
+      "body": "La tension géopolitique au Moyen-Orient provoque une flambée des prix du Brent (96 USD) affectant directement les budgets des consommateurs français et touristiques. Le gouvernement encourage TotalEnergies à plafonner les prix à la pompe via redistribution des surprofits.",
+      "impact": "Anticiper baisse flux touristique et trafic commercial côtier PACA ; réévaluer potentiel locatif secteur HoReCa et commerce proximité.",
+      "date": "02/05/2026",
+      "url": "https://www.laprovence.com/article/economie/68605322639266/guerre-au-moyen-orient-sebastien-lecornu-encourage-totalenergies-a-un-plafonnement-genereux-des-prix-a-la-pompe",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique/Énergie",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Ajustement vacances été 2026 : moins loin, moins longtemps",
+      "body": "Les Français modifient radicalement l'organisation de leurs vacances estivales 2026 en raison des prix élevés du carburant, prévoyant des trajets plus courts et des séjours allégés. Cette réduction de mobilité contracte les revenus des zones touristiques périphériques et commerces de route.",
+      "impact": "Réduire valorisation locaux commerce/activité zones touristiques PACA ; cibler plutôt centres urbains dense avec mobilité douce.",
+      "date": "02/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2655785231537715/partir-moins-loin-rester-moins-longtemps-lorganisation-des-vacances-dete-chamboulee-par-les-prix-a-la-pompe",
       "source": "La Provence",
       "tags": [
         {
@@ -94,31 +129,16 @@
       ]
     },
     {
-      "id": "m2",
-      "title": "Data center Pennes-Mirabeau : recours CIQ menaçant le projet Telehouse",
-      "body": "Les comités d'intérêt de quartier des Pallières s'unissent pour contester le data center japonais Telehouse prévu aux Pennes-Mirabeau. Les recours administratifs s'accumulent contre ce projet stratégique.",
-      "impact": "Incertitude sur les investissements immobiliers dans les zones impactées ; impact potentiel sur valeur des locaux activité périphériques si projet remis en question.",
-      "date": "02/05/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/2615742125969715/data-center-des-pennes-mirabeau-des-ciq-regroupes-en-collectif-deposent-un-recours-contre-le-projet",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Géopolitique énergétique",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
       "id": "m3",
-      "title": "BCE maintient taux directeur à 2.15% ; inflation France à 1.7% (données marché)",
-      "body": "La Banque centrale européenne maintient ses taux directeurs à 2.15% dans un contexte d'inflation française modérée à 1.7%. Les OAT à 3.70% offrent un spread attractif.",
-      "impact": "Environnement de taux favorable pour refinancer les portefeuilles immobiliers tertiaires ; coûts d'emprunt prévisibles sur 5-10 ans.",
-      "date": "02/05/2026",
-      "url": "https://donnees-bce.eu/taux-inflation-mai2026",
-      "source": "Données Marché BCE",
+      "title": "BCE 2.15% : inflation 1.7%, taux stables printemps 2026",
+      "body": "La Banque Centrale Européenne maintient son taux de base à 2.15% dans contexte d'inflation française basse à 1.7%, validant stabilité des conditions monétaires en eurozone. Cette dynamique soutient confiance d'investissement immobilier d'entreprise.",
+      "impact": "Confirmer stratégie d'investissement acquisition bureaux/locaux activité PACA en conditions crédit favorables jusqu'été 2026.",
+      "date": "03/05/2026",
+      "url": "https://www.laprovence.com/article/economie/bce-taux-inflation-mai-2026",
+      "source": "Données BCE",
       "tags": [
         {
-          "label": "Inflation monétaire",
+          "label": "BCE/Inflation",
           "cls": "tt"
         }
       ]

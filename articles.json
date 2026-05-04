@@ -1,98 +1,78 @@
 {
-  "generated_at": "03/05/2026",
+  "generated_at": "04/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Ressourcerie à Barbentane : nouveau commerce d'activité",
-      "body": "La Grange d'Orion, une ressourcerie spécialisée dans la seconde vie des objets, vient d'ouvrir ses portes à Barbentane face à l'Intermarché. Ce nouveau format commercial illustre l'émergence de concepts alternatifs dans le commerce de proximité PACA.",
-      "impact": "Opportunité de repositionnement de locaux commerciaux vers l'économie circulaire et les services à faible empreinte locative.",
-      "date": "03/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2702469031307515/a-barbentane-la-ressourcerie-la-grange-d-orion-vient-d-ouvrir-ses-portes",
+      "title": "Forum alternance à La Ciotat : 100 candidats pour talent local",
+      "body": "La Ciotat Entreprendre a organisé son forum Meet and Match rassemblant une centaine de candidats à la recherche d'alternance. Ce dispositif représente le point d'orgue des actions annuelles de la commission \"talents et compétences\" locale.",
+      "impact": "Opportunité pour les acteurs tertiaires PACA de recruter en alternance et renforcer leurs équipes face à la tension du marché de l'emploi.",
+      "date": "04/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2074970699962315/le-forum-de-lalternance-meet-and-match-rassemble-une-centaine-de-candidats-a-la-ciotat",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
+          "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Restauration provençale : baisse fréquentation -15% avril",
-      "body": "Le secteur de la restauration en Provence subit une contraction de 10 à 15% de fréquentation en avril, directement liée aux prix des carburants affectant les budgets vacances. Cette tendance impacte directement les locaux HoReCa et les zones commerciales touristiques.",
-      "impact": "Négociation des loyers activité restaurant à privilégier avec indexation plutôt que clause commerciale fixe face à volatilité saisonnière.",
-      "date": "03/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1967751349121715/prix-des-carburants-avec-un-budget-vacances-dete-ampute-les-restaurateurs-provencaux-se-montrent-inquiets",
+      "title": "Innovation incendie : startup ciotadenne au concours Lépine",
+      "body": "Damien Molinengo et Lionel Lopez, anciens marins-pompiers de Marseille, ont créé une solution de protection contre les feux de forêt sélectionnée au concours Lépine. Leur invention répond à un besoin critique identifié lors de leurs vingt années de service.",
+      "impact": "Essor de l'activité tertiaire innovante en PACA (start-up, R&D) créant de nouveaux besoins en locaux et bureaux spécialisés.",
+      "date": "04/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2749343649125415/protection-contre-les-feux-de-foret-l-invention-d-une-societe-ciotadenne-selectionnee-au-concours-lepine",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA HoReCa",
+          "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Commerçants Gémenos : regroupement attractivité locale",
-      "body": "52 commerçants et artisans de Gémenos se mobilisent pour relancer l'attractivité locale, marquant une volonté collective de dynamiser les centres commerciaux de proximité. Cette initiative témoigne d'une stratégie de regroupement pour renforcer la compétitivité territoriale.",
-      "impact": "Identifier les opportunités de regroupement tertiaire et commerce pour réduire vacance et mutualiser services aux locataires.",
-      "date": "02/05/2026",
-      "url": "https://www.laprovence.com/article/economie/258913666979815/a-gemenos-les-commercants-s-unissent-pour-relancer-l-attractivite-locale",
+      "title": "Transmission Fruidoraix : confiseur aixois change de main",
+      "body": "Fruidoraix, entreprise aixoise fondée en 1880 et spécialisée dans les calissons, change de propriétaire après 146 ans d'histoire familiale. Cette transmission marque une nouvelle étape pour ce fleuron du commerce local provençal.",
+      "impact": "Reprise d'activités commerciales historiques : adapter les locaux commerciaux aux nouveaux modèles de distribution et moderniser les espaces de vente.",
+      "date": "03/05/2026",
+      "url": "https://www.laprovence.com/article/economie/75258241199114/specialiste-des-calissons-le-confiseur-aixois-fruidoraix-change-de-main-et-ouvre-une-nouvelle-page-de-son-histoire",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
+          "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Eyguières : ouverture caffè-boutique et trattoria",
-      "body": "Deux établissements gastronomiques italiens rouvrent au centre d'Eyguières dans un projet familial mixte commerce-restauration. Cette dynamique révèle l'intérêt du positionnement premium sur les petits centres touristiques PACA.",
-      "impact": "Opportunité de multitenant premium (retail+food) sur centres villages avec clientèle haute capacité d'achat.",
-      "date": "02/05/2026",
-      "url": "https://www.laprovence.com/article/economie/262092890267715/un-nouveau-caffe-boutique-et-une-trattoria-apportent-un-air-ditalie-a-eyguieres",
+      "title": "Recyclage créatif : filière upcycling en Vaucluse",
+      "body": "Emilie Dumant développe une activité de recyclage de peluches usées en objets décoratifs depuis Orange et Valréas. Son concept s'inscrit dans la transition verte et valorise le savoir-faire régional.",
+      "impact": "Besoin accru de locaux d'activité pour l'économie circulaire en PACA : ateliers, points de vente, espaces de stockage pour les initiatives d'upcycling.",
+      "date": "03/05/2026",
+      "url": "https://www.laprovence.com/article/economie/4833465973535/a-orange-et-valreas-emilie-dumant-recycle-des-peluches-usees-pour-en-faire-des-objets-decoratifs",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
+          "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Financement CRE : OAT 3.70%, Euribor 2.15% stables",
-      "body": "Le contexte de taux demeure stabilisé avec les OAT à 3.70% et l'Euribor 3M à 2.15%, confirmant un marché de financement tempéré pour l'investissement immobilier d'entreprise. L'inflation française à 1.7% soutient la résilience des taux longs.",
-      "impact": "Maintenir dynamique acquisition CRE PACA avec taux de financement favorables ; accélérer dossiers de transmission avant variations de taux.",
+      "title": "A.VERT : formation industrie et transition verte à Istres",
+      "body": "L'Afpa mise sur le dispositif A.VERT (Apprentissage, Valorisation de l'Emploi, Réinsertion et Transition verte) co-financé par FSE et FTJ pour révéler des vocations industrielles. Ce programme vise à renforcer les compétences dans les secteurs d'avenir.",
+      "impact": "Demande croissante de locaux de formation et centres de production verts en PACA, particulièrement à Istres et zones industrielles connexes.",
       "date": "03/05/2026",
-      "url": "https://www.laprovence.com/article/economie/taux-marche-mai-2026",
-      "source": "Données marchés",
+      "url": "https://www.laprovence.com/article/economie/2002386779100915/lafpa-mise-sur-lexperimentation-pour-reveler-des-vocations-dans-lindustrie-a-istres",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux OAT/Euribor",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,45 +80,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Crise énergétique Moyen-Orient : prix carburants en hausse",
-      "body": "La tension géopolitique au Moyen-Orient provoque une flambée des prix du Brent (96 USD) affectant directement les budgets des consommateurs français et touristiques. Le gouvernement encourage TotalEnergies à plafonner les prix à la pompe via redistribution des surprofits.",
-      "impact": "Anticiper baisse flux touristique et trafic commercial côtier PACA ; réévaluer potentiel locatif secteur HoReCa et commerce proximité.",
-      "date": "02/05/2026",
-      "url": "https://www.laprovence.com/article/economie/68605322639266/guerre-au-moyen-orient-sebastien-lecornu-encourage-totalenergies-a-un-plafonnement-genereux-des-prix-a-la-pompe",
+      "title": "France évite récession jusqu'en 2028 selon Banque de France",
+      "body": "Le gouverneur de la Banque de France estime que la France devrait \"éviter la récession\" d'ici 2028 malgré les incertitudes géopolitiques au Moyen-Orient. Cette perspective économique stable soutient la confiance dans les investissements d'immobilier d'entreprise.",
+      "impact": "Contexte macroéconomique favorable pour la transaction CRE en PACA : stabilité économique renforce la demande de bureaux et locaux d'activité.",
+      "date": "04/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2793357552840315/la-france-devrait-eviter-la-recession-jusquen-2028-estime-le-gouverneur-de-la-banque-de-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Ajustement vacances été 2026 : moins loin, moins longtemps",
-      "body": "Les Français modifient radicalement l'organisation de leurs vacances estivales 2026 en raison des prix élevés du carburant, prévoyant des trajets plus courts et des séjours allégés. Cette réduction de mobilité contracte les revenus des zones touristiques périphériques et commerces de route.",
-      "impact": "Réduire valorisation locaux commerce/activité zones touristiques PACA ; cibler plutôt centres urbains dense avec mobilité douce.",
-      "date": "02/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2655785231537715/partir-moins-loin-rester-moins-longtemps-lorganisation-des-vacances-dete-chamboulee-par-les-prix-a-la-pompe",
-      "source": "La Provence",
+      "title": "Taux OAT 3.70% : financement immobilier stable",
+      "body": "Les taux obligataires français se maintiennent à 3.70% reflétant la stabilité macroéconomique anticipée par la Banque de France. Euribor 3M demeure à 2.15% avec BCE stable, soutenant l'accès au crédit pour les investisseurs CRE.",
+      "impact": "Conditions de financement durables pour acquisitions et constructions de bureaux/activité : taux prévisibles favorisent les projets d'investissement en PACA.",
+      "date": "04/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2793357552840315/la-france-devrait-eviter-la-recession-jusquen-2028-estime-le-gouverneur-de-la-banque-de-france",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture France",
-          "cls": "tg"
+          "label": "Taux OAT/Euribor",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE 2.15% : inflation 1.7%, taux stables printemps 2026",
-      "body": "La Banque Centrale Européenne maintient son taux de base à 2.15% dans contexte d'inflation française basse à 1.7%, validant stabilité des conditions monétaires en eurozone. Cette dynamique soutient confiance d'investissement immobilier d'entreprise.",
-      "impact": "Confirmer stratégie d'investissement acquisition bureaux/locaux activité PACA en conditions crédit favorables jusqu'été 2026.",
-      "date": "03/05/2026",
-      "url": "https://www.laprovence.com/article/economie/bce-taux-inflation-mai-2026",
-      "source": "Données BCE",
+      "title": "Inflation France 1.7% : environnement maîtrisé",
+      "body": "L'inflation en France se stabilise à 1.7%, bien maîtrisée et compatible avec les objectifs de la BCE à 2.15%. Cet environnement de prix contrôlés préserve la rentabilité des actifs immobiliers tertiaires.",
+      "impact": "Inflation modérée favorise la prévisibilité des rendements CRE : calculs de rentabilité nette plus stables pour portefeuilles bureaux et activité PACA.",
+      "date": "04/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2793357552840315/la-france-devrait-eviter-la-recession-jusquen-2028-estime-le-gouverneur-de-la-banque-de-france",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "BCE/Inflation",
+          "label": "Inflation/BCE",
           "cls": "tt"
         }
       ]

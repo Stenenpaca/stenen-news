@@ -1,78 +1,98 @@
 {
-  "generated_at": "04/05/2026",
+  "generated_at": "05/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Forum alternance à La Ciotat : 100 candidats pour talent local",
-      "body": "La Ciotat Entreprendre a organisé son forum Meet and Match rassemblant une centaine de candidats à la recherche d'alternance. Ce dispositif représente le point d'orgue des actions annuelles de la commission \"talents et compétences\" locale.",
-      "impact": "Opportunité pour les acteurs tertiaires PACA de recruter en alternance et renforcer leurs équipes face à la tension du marché de l'emploi.",
-      "date": "04/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2074970699962315/le-forum-de-lalternance-meet-and-match-rassemble-une-centaine-de-candidats-a-la-ciotat",
+      "title": "Budgets 2026 en progression dans la Communauté Vaison-Ventoux",
+      "body": "La communauté de communes Vaison-Ventoux a voté ses budgets 2026 en hausse lors de sa réunion du 27 avril, confirmant une dynamique d'investissement sur le territoire. Cette progression budgétaire bénéficie aux 19 communes et aux secteurs d'activités présents.",
+      "impact": "Signal positif pour la demande en locaux d'activité et bureaux dans le secteur Vaison-Ventoux; opportunités de transactions à anticiper.",
+      "date": "05/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2884278102460215/la-communaute-de-communes-vaison-ventoux-vote-des-budgets-2026-en-progression",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché local",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Innovation incendie : startup ciotadenne au concours Lépine",
-      "body": "Damien Molinengo et Lionel Lopez, anciens marins-pompiers de Marseille, ont créé une solution de protection contre les feux de forêt sélectionnée au concours Lépine. Leur invention répond à un besoin critique identifié lors de leurs vingt années de service.",
-      "impact": "Essor de l'activité tertiaire innovante en PACA (start-up, R&D) créant de nouveaux besoins en locaux et bureaux spécialisés.",
-      "date": "04/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2749343649125415/protection-contre-les-feux-de-foret-l-invention-d-une-societe-ciotadenne-selectionnee-au-concours-lepine",
+      "title": "Malaucène vote un budget d'investissement à la hausse en 2026",
+      "body": "Le conseil municipal de Malaucène a adopté un budget communal 2026 avec des investissements en progression lors de sa séance du 28 avril. Cette augmentation des dépenses d'équipement traduit une volonté d'amélioration infrastructurelle locale.",
+      "impact": "Accroissement des besoins en locaux commerciaux et d'activité à Malaucène; à surveiller pour les appels d'offres publics.",
+      "date": "05/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2878557957857415/le-conseil-municipal-de-malaucene-vote-un-budget-d-investissement-a-la-hausse",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Transmission Fruidoraix : confiseur aixois change de main",
-      "body": "Fruidoraix, entreprise aixoise fondée en 1880 et spécialisée dans les calissons, change de propriétaire après 146 ans d'histoire familiale. Cette transmission marque une nouvelle étape pour ce fleuron du commerce local provençal.",
-      "impact": "Reprise d'activités commerciales historiques : adapter les locaux commerciaux aux nouveaux modèles de distribution et moderniser les espaces de vente.",
-      "date": "03/05/2026",
-      "url": "https://www.laprovence.com/article/economie/75258241199114/specialiste-des-calissons-le-confiseur-aixois-fruidoraix-change-de-main-et-ouvre-une-nouvelle-page-de-son-histoire",
+      "title": "Rencontres Apprentissage et Alternance à Arles: 139 participants",
+      "body": "La CCI du Pays d'Arles a accueilli le 30 avril une édition des Rencontres de l'Apprentissage et de l'Alternance en coorganisation avec France Travail et la Mission Locale. Cet événement confirme les besoins de formation et de ressources humaines dans le Delta.",
+      "impact": "Indicateur de tension sur le marché du travail local PACA; demande accrue en espaces de formation et locaux flexibles pour PME.",
+      "date": "05/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2878957130615515/les-rencontres-de-l-apprentissage-et-de-l-alternance-ont-rassemble-139-participants-a-la-cci-du-pays-d-arles",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Recyclage créatif : filière upcycling en Vaucluse",
-      "body": "Emilie Dumant développe une activité de recyclage de peluches usées en objets décoratifs depuis Orange et Valréas. Son concept s'inscrit dans la transition verte et valorise le savoir-faire régional.",
-      "impact": "Besoin accru de locaux d'activité pour l'économie circulaire en PACA : ateliers, points de vente, espaces de stockage pour les initiatives d'upcycling.",
-      "date": "03/05/2026",
-      "url": "https://www.laprovence.com/article/economie/4833465973535/a-orange-et-valreas-emilie-dumant-recycle-des-peluches-usees-pour-en-faire-des-objets-decoratifs",
+      "title": "Beuchat: 90 ans d'innovation dans la plongée à Marseille",
+      "body": "L'entreprise marseillaise Beuchat, leader technique du matériel de plongée depuis 90 ans, poursuit son positionnement sur l'innovation comme core business. Cette orientation stratégique nécessite des espaces bureaux et R&D adaptés à la croissance.",
+      "impact": "PME innovante marseillaise; opportunité de négociation pour locaux bureaux et laboratoires avec clauses flexibles.",
+      "date": "05/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2879166621718615/au-sein-de-lentreprise-marseillaise-beuchat-innover-fait-partie-de-ladn",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "A.VERT : formation industrie et transition verte à Istres",
-      "body": "L'Afpa mise sur le dispositif A.VERT (Apprentissage, Valorisation de l'Emploi, Réinsertion et Transition verte) co-financé par FSE et FTJ pour révéler des vocations industrielles. Ce programme vise à renforcer les compétences dans les secteurs d'avenir.",
-      "impact": "Demande croissante de locaux de formation et centres de production verts en PACA, particulièrement à Istres et zones industrielles connexes.",
-      "date": "03/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2002386779100915/lafpa-mise-sur-lexperimentation-pour-reveler-des-vocations-dans-lindustrie-a-istres",
+      "title": "Prix Créadie 2026: 8 entrepreneurs récompensés en PACA",
+      "body": "L'Adie a récompensé le 29 avril 8 entrepreneurs PACA au prix Créadie 2026, valorisant les porteurs de projet issus de circuits de financement alternatifs. Cette édition marseillaise met en lumière une entrepreneuriat dynamique régionale.",
+      "impact": "Écosystème entrepreneurial actif en PACA; perspectives de petits espaces commerciaux et bureaux partagés pour TPE/PME.",
+      "date": "05/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2849059033840215/prix-creadie-8-entrepreneurs-recompenses-en-provence-alpes-cote-dazur",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }
@@ -80,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "France évite récession jusqu'en 2028 selon Banque de France",
-      "body": "Le gouverneur de la Banque de France estime que la France devrait \"éviter la récession\" d'ici 2028 malgré les incertitudes géopolitiques au Moyen-Orient. Cette perspective économique stable soutient la confiance dans les investissements d'immobilier d'entreprise.",
-      "impact": "Contexte macroéconomique favorable pour la transaction CRE en PACA : stabilité économique renforce la demande de bureaux et locaux d'activité.",
-      "date": "04/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2793357552840315/la-france-devrait-eviter-la-recession-jusquen-2028-estime-le-gouverneur-de-la-banque-de-france",
+      "title": "Électrification et décarbonation: le virage énergétique PACA 2026",
+      "body": "EDF fait de l'électrification son levier stratégique en 2026, capitalisant sur l'électricité française décarbonée à 95%. Cette transition énergétique redessine les enjeux de souveraineté et de coût énergétique pour les entreprises régionales.",
+      "impact": "Réduction des coûts énergétiques attendue pour immobilier tertiaire; impact positif sur valorisation bureaux/activité conformes aux normes décarbonation.",
+      "date": "05/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2875394068048415/decarbonation-et-souverainete-le-grand-virage-electrique-de-la-region-paca",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Énergie",
           "cls": "tg"
+        },
+        {
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Taux OAT 3.70% : financement immobilier stable",
-      "body": "Les taux obligataires français se maintiennent à 3.70% reflétant la stabilité macroéconomique anticipée par la Banque de France. Euribor 3M demeure à 2.15% avec BCE stable, soutenant l'accès au crédit pour les investisseurs CRE.",
-      "impact": "Conditions de financement durables pour acquisitions et constructions de bureaux/activité : taux prévisibles favorisent les projets d'investissement en PACA.",
-      "date": "04/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2793357552840315/la-france-devrait-eviter-la-recession-jusquen-2028-estime-le-gouverneur-de-la-banque-de-france",
+      "title": "Taux OAT et financement: contexte 2026",
+      "body": "Dans un environnement de taux OAT à 3.70% et Euribor 3M à 2.15%, les conditions de financement immobilier restent orientées à la baisse progressive. La BCE maintient ses taux directeurs à 2.15%, soutenant une inflation modérée à 1.7%.",
+      "impact": "Fenêtre de financement favorable pour acquisitions immobilières CRE PACA; refinancement de portefeuille à négocier avant nouvelle hausse.",
+      "date": "05/05/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-marche-05-05-2026",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux OAT/Euribor",
+          "label": "Taux",
           "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France 1.7% : environnement maîtrisé",
-      "body": "L'inflation en France se stabilise à 1.7%, bien maîtrisée et compatible avec les objectifs de la BCE à 2.15%. Cet environnement de prix contrôlés préserve la rentabilité des actifs immobiliers tertiaires.",
-      "impact": "Inflation modérée favorise la prévisibilité des rendements CRE : calculs de rentabilité nette plus stables pour portefeuilles bureaux et activité PACA.",
-      "date": "04/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2793357552840315/la-france-devrait-eviter-la-recession-jusquen-2028-estime-le-gouverneur-de-la-banque-de-france",
-      "source": "Données marché",
+      "title": "Conjoncture France et résilience économique 2026",
+      "body": "La sondage Episto pour Helios (mars 2026) révèle que 48% des Français privilégient l'épargne et la résilience financière. Cette préférence pour la prudence économique reflète une conjoncture fragile malgré la stabilisation inflationniste.",
+      "impact": "Demande inversée: risque de tassement des investissements immobiliers tertiaires; favoriser les locaux déflationnistes et flexibles.",
+      "date": "05/05/2026",
+      "url": "https://www.laprovence.com/article/economie/44847062682668/lia-votre-meilleure-alliee-pour-faire-decoller-votre-epargne",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation/BCE",
-          "cls": "tt"
+          "label": "Conjoncture",
+          "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }

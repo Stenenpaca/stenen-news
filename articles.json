@@ -1,98 +1,78 @@
 {
-  "generated_at": "05/05/2026",
+  "generated_at": "06/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Budgets 2026 en progression dans la Communauté Vaison-Ventoux",
-      "body": "La communauté de communes Vaison-Ventoux a voté ses budgets 2026 en hausse lors de sa réunion du 27 avril, confirmant une dynamique d'investissement sur le territoire. Cette progression budgétaire bénéficie aux 19 communes et aux secteurs d'activités présents.",
-      "impact": "Signal positif pour la demande en locaux d'activité et bureaux dans le secteur Vaison-Ventoux; opportunités de transactions à anticiper.",
-      "date": "05/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2884278102460215/la-communaute-de-communes-vaison-ventoux-vote-des-budgets-2026-en-progression",
+      "title": "Chicos Plan-de-Cuques : expansion commerciale sur le Mail",
+      "body": "La boutique Chicos a finalisé son agrandissement sur le Mail de Plan-de-Cuques, avec inauguration il y a environ dix jours. Cette expansion reflète une dynamique positive du retail en proximité métropolitaine marseillaise.",
+      "impact": "Opportunité d'identifier des fonciers commerciaux en extension dans les pôles secondaires dynamiques de l'agglomération pour transaction ou conseil.",
+      "date": "06/05/2026",
+      "url": "https://www.laprovence.com/article/economie/23040535359541/a-plan-de-cuques-la-boutique-chicos-fait-peau-neuve-sur-le-mail",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché local",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Malaucène vote un budget d'investissement à la hausse en 2026",
-      "body": "Le conseil municipal de Malaucène a adopté un budget communal 2026 avec des investissements en progression lors de sa séance du 28 avril. Cette augmentation des dépenses d'équipement traduit une volonté d'amélioration infrastructurelle locale.",
-      "impact": "Accroissement des besoins en locaux commerciaux et d'activité à Malaucène; à surveiller pour les appels d'offres publics.",
-      "date": "05/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2878557957857415/le-conseil-municipal-de-malaucene-vote-un-budget-d-investissement-a-la-hausse",
+      "title": "L'Occitane Manosque : réinvention expérientielle du retail",
+      "body": "L'Occitane en Provence repense sa manufacture de Manosque avec approche muséale et sensorielle, privilégiant l'ancrage territorial et la relation humaine face au e-commerce. Cette stratégie illustre un retour aux espaces physiques à forte valeur ajoutée.",
+      "impact": "Intérêt croissant pour locaux commerciaux offrant forte charge émotionnelle et expérientielle ; conseiller sur espaces flex-retail en zones touristiques régionales.",
+      "date": "06/05/2026",
+      "url": "https://www.laprovence.com/article/economie/42045205216643/l-eveil-des-sens-et-la-relation-humaine-au-coeur-de-la-strategie-de-l-occitane-en-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Retail expérientiel",
           "cls": "tp"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Rencontres Apprentissage et Alternance à Arles: 139 participants",
-      "body": "La CCI du Pays d'Arles a accueilli le 30 avril une édition des Rencontres de l'Apprentissage et de l'Alternance en coorganisation avec France Travail et la Mission Locale. Cet événement confirme les besoins de formation et de ressources humaines dans le Delta.",
-      "impact": "Indicateur de tension sur le marché du travail local PACA; demande accrue en espaces de formation et locaux flexibles pour PME.",
-      "date": "05/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2878957130615515/les-rencontres-de-l-apprentissage-et-de-l-alternance-ont-rassemble-139-participants-a-la-cci-du-pays-d-arles",
+      "title": "Formation professionnelle alignée sur l'économie territoriale PACA",
+      "body": "Le Café de l'éco du 5 mai interroge l'adaptation des formations aux besoins économiques régionaux, avec présidence de la CMA Paca soulignant l'enjeu d'une formation finalisée. Cette réflexion impacte la demande d'espaces de formation et de coworking.",
+      "impact": "Opportunité de conseil sur espaces d'activité polyvalents dédiés aux formations professionnelles et pépinières d'entreprises en PACA.",
+      "date": "06/05/2026",
+      "url": "https://www.laprovence.com/article/region/9490988775956/cafe-de-l-eco-de-la-provence-et-si-les-formations-etaient-plus-adaptees-a-l-economie-territoriale",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Activité PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Beuchat: 90 ans d'innovation dans la plongée à Marseille",
-      "body": "L'entreprise marseillaise Beuchat, leader technique du matériel de plongée depuis 90 ans, poursuit son positionnement sur l'innovation comme core business. Cette orientation stratégique nécessite des espaces bureaux et R&D adaptés à la croissance.",
-      "impact": "PME innovante marseillaise; opportunité de négociation pour locaux bureaux et laboratoires avec clauses flexibles.",
-      "date": "05/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2879166621718615/au-sein-de-lentreprise-marseillaise-beuchat-innover-fait-partie-de-ladn",
+      "title": "Apprentissage levier de compétitivité malgré baisse d'intérêt",
+      "body": "Romain Birot, directeur du lycée La Cadenelle à Marseille, qualifie la loi de 2018 de réforme majeure pour l'apprentissage, reconnaissant une baisse récente de popularité. L'enjeu reste structurant pour l'offre régionale de formation professionnelle.",
+      "impact": "Surveiller la demande d'espaces de formation en apprentissage et de locaux pour organismes de formation en métropole marseillaise.",
+      "date": "06/05/2026",
+      "url": "https://www.laprovence.com/article/region/2937987985400915/club-eco-de-la-provence-l-apprentissage-est-toujours-un-levier-recommande-malgre-une-baisse-de-popularite",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Formation PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Prix Créadie 2026: 8 entrepreneurs récompensés en PACA",
-      "body": "L'Adie a récompensé le 29 avril 8 entrepreneurs PACA au prix Créadie 2026, valorisant les porteurs de projet issus de circuits de financement alternatifs. Cette édition marseillaise met en lumière une entrepreneuriat dynamique régionale.",
-      "impact": "Écosystème entrepreneurial actif en PACA; perspectives de petits espaces commerciaux et bureaux partagés pour TPE/PME.",
-      "date": "05/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2849059033840215/prix-creadie-8-entrepreneurs-recompenses-en-provence-alpes-cote-dazur",
+      "title": "Hausse carburants : impact sur coûts logistiques régionaux",
+      "body": "Le prix du litre SP95-E10 atteint 2,038€ en moyenne en France le 6 mai 2026, à record depuis début de la guerre au Moyen-Orient. Cette inflation énergétique affecte directement les coûts d'exploitation des entreprises et locataires d'activité.",
+      "impact": "Conseiller les preneurs d'activité sur critères de localisation optimisant accessibilité et réduisant trajets logistiques ; argumenter sur proximité clients.",
+      "date": "06/05/2026",
+      "url": "https://www.laprovence.com/article/economie/10279536136255/carburants-les-prix-de-l-essence-a-un-record-depuis-le-debut-de-la-guerre-au-moyen-orient",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Energie",
+          "cls": "tg"
         }
       ]
     }
@@ -100,58 +80,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Électrification et décarbonation: le virage énergétique PACA 2026",
-      "body": "EDF fait de l'électrification son levier stratégique en 2026, capitalisant sur l'électricité française décarbonée à 95%. Cette transition énergétique redessine les enjeux de souveraineté et de coût énergétique pour les entreprises régionales.",
-      "impact": "Réduction des coûts énergétiques attendue pour immobilier tertiaire; impact positif sur valorisation bureaux/activité conformes aux normes décarbonation.",
-      "date": "05/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2875394068048415/decarbonation-et-souverainete-le-grand-virage-electrique-de-la-region-paca",
+      "title": "Crise énergétique moyen-orient : impact structurel sur économie française",
+      "body": "Depuis février 2026, les prix des carburants connaissent une flambée liée à l'instabilité géopolitique au Moyen-Orient et au détroit d'Ormuz. Au 68e jour de crise, la hausse du baril de brut (Brent 96 usd) pèse sur inflation et compétitivité des secteurs logistique et transport.",
+      "impact": "Facteur d'inflation durable pour coûts d'exploitation des entreprises PACA ; utiliser argument stabilité foncière pour retention locataires.",
+      "date": "06/05/2026",
+      "url": "https://www.laprovence.com/article/societe/2240250257142215/carte-prix-des-carburants-quels-tarifs-a-la-pompe-dans-les-stations-service-pres-de-chez-vous",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Énergie",
+          "label": "Géopolitique/Energie",
           "cls": "tg"
-        },
-        {
-          "label": "Régulation",
-          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Taux OAT et financement: contexte 2026",
-      "body": "Dans un environnement de taux OAT à 3.70% et Euribor 3M à 2.15%, les conditions de financement immobilier restent orientées à la baisse progressive. La BCE maintient ses taux directeurs à 2.15%, soutenant une inflation modérée à 1.7%.",
-      "impact": "Fenêtre de financement favorable pour acquisitions immobilières CRE PACA; refinancement de portefeuille à négocier avant nouvelle hausse.",
-      "date": "05/05/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-marche-05-05-2026",
-      "source": "Données marché",
+      "title": "Investissements publics territoriaux : pause stratégique observée",
+      "body": "Val Buëch-Méouge (AHPACA) a décidé le 29 avril 2026 une pause budgétaire stratégique après dix ans d'investissements. Cette inflexion suggère une prudence accrue des finances locales face aux incertitudes macroéconomiques.",
+      "impact": "Préparer négociations avec collectivités sur locaux d'activité en prenant en compte cycle budgétaire restreint ; mettre en avant PPP ou tiers-lieux.",
+      "date": "06/05/2026",
+      "url": "https://www.laprovence.com/article/politique/223488177976615/apres-dix-ans-dinvestissements-la-pause-budgetaire-a-ete-decide-lors-du-conseil-municipal-a-val-buech-meouge",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "Conjoncture France",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Conjoncture France et résilience économique 2026",
-      "body": "La sondage Episto pour Helios (mars 2026) révèle que 48% des Français privilégient l'épargne et la résilience financière. Cette préférence pour la prudence économique reflète une conjoncture fragile malgré la stabilisation inflationniste.",
-      "impact": "Demande inversée: risque de tassement des investissements immobiliers tertiaires; favoriser les locaux déflationnistes et flexibles.",
-      "date": "05/05/2026",
-      "url": "https://www.laprovence.com/article/economie/44847062682668/lia-votre-meilleure-alliee-pour-faire-decoller-votre-epargne",
-      "source": "La Provence",
+      "title": "Contexte taux stables : OAT 3.70%, BCE 2.15%, Euribor3M 2.15%",
+      "body": "L'environnement de taux reste stabilisé avec OAT 10Y à 3.70%, taux directeur BCE à 2.15% et Euribor 3M à 2.15%, inflation France à 1.7%. Contexte favorable pour financement LT de projets immobiliers d'entreprise en PACA.",
+      "impact": "Recommander fenêtre de financement pour projets d'acquisition ou restructuration locaux activité ; arbitrer dette vs fonds propres avec cost of capital compétitif.",
+      "date": "06/05/2026",
+      "url": "https://www.bce.eu",
+      "source": "BCE/Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Taux/Financement",
+          "cls": "tt"
         }
       ]
     }

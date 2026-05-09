@@ -1,55 +1,55 @@
 {
-  "generated_at": "08/05/2026",
+  "generated_at": "09/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "French Tech PACA : nouvelle ambition régionale 2026-2028",
-      "body": "La French Tech s'affirme comme pilier de compétitivité régionale du littoral aux Alpes pour 2026-2028. Cette dynamique entrepreneuriale renforce l'attractivité des territoires PACA pour l'implantation de startups et centres de R&D.",
-      "impact": "Accélération de la demande de locaux activité et bureaux tertiaires pour startups tech en PACA, notamment à Aix et Marseille.",
-      "date": "08/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1107143209947414/french-tech-du-littoral-aux-alpes-une-nouvelle-ambition-regionale",
+      "title": "Rue de la République à Marseille : changement de propriétaire",
+      "body": "La Régie du commerce, société lyonnaise spécialisée en Asset et Property Management, a acquis les 129 cellules commerciales de la rue de la République le 22 avril 2026. Cette acquisition marque un nouveau tournant pour ce pôle commercial emblématique marseillais.",
+      "impact": "Opportunité de suivi des stratégies d'investissement tertiaire à Marseille ; évaluer l'impact des nouveaux gestionnaires sur les conditions locatives et les conditions de transaction.",
+      "date": "09/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1909337948291314/la-rue-de-la-republique-a-marseille-change-une-nouvelle-fois-de-proprietaire",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Commerce",
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Nosho : la startup marseillaise contre les no-show médicaux",
-      "body": "Nosho s'attaque aux 27 millions de rendez-vous médicaux non honorés annuels en France, problème chronique des cabinets et centres hospitaliers. Cette innovation locale crée de nouveaux besoins en locaux pour les professionnels de santé digitalisés.",
-      "impact": "Opportunités de transaction locaux santé/bien-être connectés en PACA, secteur médical modernisé demandeur d'espaces adaptés.",
-      "date": "08/05/2026",
-      "url": "https://www.laprovence.com/article/economie/115638441932814/appel-des-patients-creneaux-liberes-la-start-up-marseillaise-nosho-s-attaque-aux-rendez-vous-medicaux-non-honores",
+      "title": "Foncière anti-financiarisation du commerce à Aix-en-Provence",
+      "body": "Face à la fermeture successive de grandes enseignes (Naf Naf, Kookaï, Cosmoparis, Nocibé), Aix-en-Provence expérimente une foncière destinée à contrer la financiarisation excessive du secteur commercial. Cette initiative vise à stabiliser l'offre retail et soutenir les commerçants indépendants.",
+      "impact": "Surveiller la mise en place de mécanismes alternatifs de financement du commerce à Aix ; identifier les impacts sur les prix de location et les opportunités de positionnement client.",
+      "date": "09/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1896119411090914/une-fonciere-pour-lutter-contre-la-financiarisation-du-commerce-a-aix-en-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Commerce",
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Stabilité fiscale : communes PACA gelées en impôts locaux 2026",
-      "body": "Sablet, Jonquières et autres communes PACA maintiennent inchangés leurs taux d'imposition municipaux pour 2026. Cette prévisibilité fiscale soutient la stabilité des coûts d'exploitation pour entreprises et commerces en région.",
-      "impact": "Environnement fiscal stable favorable aux négociations baux tertiaires/commerce PACA ; maintien des charges locales pour locataires.",
-      "date": "07/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1113012034934414/les-taux-des-taxes-locales-ne-changeront-pas-a-sablet-pour-l-annee-2026",
+      "title": "Délais d'ouverture boutique à Aix : 14 mois minimum",
+      "body": "Selon le commerçant Michaël Sebban, le cycle complet d'ouverture d'une boutique à Aix (permis + travaux) requiert au minimum 14 mois, compliqué par les injonctions municipales et réglementaires. Ces délais administratifs fragilisent la viabilité économique des nouveaux projets commerciaux.",
+      "impact": "Anticiper les délais administratifs et réglementaires pour tout nouveau projet commercial à Aix ; intégrer cet allongement dans les études de faisabilité et de financement client.",
+      "date": "08/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1440534997013614/michael-sebban-entre-le-depot-du-permis-et-les-travaux-il-faut-compter-14-mois-pour-ouvrir-une-boutique-a-aix",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Commerce",
           "cls": "tp"
         },
         {
@@ -60,15 +60,15 @@
     },
     {
       "id": "f4",
-      "title": "Florette accélère transition énergétique : centrale photovoltaïque L'Isle",
-      "body": "L'usine Florette inaugure sa centrale photovoltaïque à L'Isle-sur-la-Sorgue pour produire et consommer sa propre énergie. Cette transition énergétique des locaux activité PACA devient critère majeur pour les investisseurs et locataires.",
-      "impact": "Demande croissante de locaux activité/logistique équipés ou adaptables aux installations solaires ; prime ESG sur valeurs immobilières tertiaires.",
-      "date": "07/05/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/56249773547878/produire-et-consommer-sa-propre-energie-lusine-florette-installe-sa-centrale-photovoltaique-a-lisle-sur-la-sorgue",
+      "title": "Attractivité commerciale à Aix : prix versus commerce indépendant",
+      "body": "Les prix de location du commerce à Aix-en-Provence montent en flèche, impactant la viabilité des enseignes indépendantes et des PME commerciales. Le départ annoncé de Boulanger illustre les tensions entre hausse des valeurs immobilières et maintien d'une offre commerciale diversifiée.",
+      "impact": "Analyser les seuils de rentabilité locative pour le retail à Aix ; identifier les zones de repositionnement attractives pour le commerce indépendant avec meilleur rapport prix/accessibilité.",
+      "date": "08/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1412854360073814/attractivite-commerciale-a-aix-la-ville-est-elle-trop-chere-pour-le-commerce-independant",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Commerce",
           "cls": "tp"
         },
         {
@@ -79,19 +79,19 @@
     },
     {
       "id": "f5",
-      "title": "Green Systems Automotives : innovation Aix renforce écosystème tech",
-      "body": "Green Systems Automotives développe au Technopôle Arbois une technologie française innovante soutenant le pouvoir d'achat des motards. Cet essor entrepreneurial consolide l'attractivité d'Aix-en-Provence pour les locaux technologiques et incubateurs.",
-      "impact": "Valorisation des espaces innovants Technopôle Arbois ; accélération demande bureaux flexibles et locaux R&D en périphérie Aix.",
+      "title": "Green Systems Automotives : innovation technopôle Aix",
+      "body": "Cofondée par Olivier Barts au Technopôle de l'Arbois, Green Systems Automotives développe une technologie 100% française pour optimiser le pouvoir d'achat des motards après trois ans de R&D. Cette innovation régionale illustre le dynamisme des locaux d'activité et de R&D en PACA.",
+      "impact": "Identifier et qualifier les demandes de locaux d'activité/technopôle liées aux projets innovants ; positionner l'offre PACA dans l'écosystème Tech et Green Economy.",
       "date": "08/05/2026",
-      "url": "https://www.laprovence.com/article/economie/11184297012114/green-systems-automotives-linnovation-aixoise-au-secours-du-pouvoir-dachat-des-motards",
+      "url": "https://www.laprovence.com/article/economie/1131381260669314/green-systems-automotives-linnovation-aixoise-au-secours-du-pouvoir-dachat-des-motards",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Activité",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Innovation",
           "cls": "tm"
         }
       ]
@@ -100,43 +100,55 @@
   "macro": [
     {
       "id": "m1",
-      "title": "OAT 3.70% : stabilité obligataire française maintenue",
-      "body": "Les OAT françaises évoluent à 3.70% en mai 2026, reflétant une stabilité relative du financement long terme. Cette configuration soutient les conditions de financement pour investisseurs immobiliers CRE en France.",
-      "impact": "Taux emprunt CRE stable ; environnement favorable aux arbitrages transaction/refinancement portefeuille immobilier tertiaire.",
-      "date": "08/05/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Marché",
+      "title": "Taux OAT et Euribor : stabilité à court terme",
+      "body": "En l'absence de nouvelles données macro du 09/05/2026, les taux restent orientés sur les niveaux observés : OAT 10Y à 3.70%, Euribor 3M à 2.15%, BCE maintenant son taux à 2.15%. La stabilité des taux de financement soutient les projets d'investissement tertiaire PACA.",
+      "impact": "Conditions de financement stables favorables aux montages de transactions et refinancement d'actifs immobiliers ; maintenir une veille sur les annonces BCE de juin 2026.",
+      "date": "09/05/2026",
+      "url": "https://www.ecb.europa.eu",
+      "source": "Données Marché",
       "tags": [
         {
           "label": "Taux",
           "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Euribor 3M à 2.15% : crédit bancaire résistant pour immobilier",
-      "body": "L'Euribor 3 mois reste ancré à 2.15%, signalant une stabilité des coûts de refinancement bancaire. Cette rigidité favorise la prévisibilité des charges financières pour acteurs immobiliers tertiaires.",
-      "impact": "Conditions crédit CRE favorables aux refinancements ; LTV stables pour acquisitions portefeuille bureaux/activité PACA.",
-      "date": "08/05/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Marché",
+      "title": "Contexte d'inflation modérée en France (1.7%)",
+      "body": "L'inflation française demeure contenue à 1.7%, soutenant le pouvoir d'achat des consommateurs et des entreprises. Ce contexte favorable limite les pressions sur les coûts d'exploitation du commerce et des services en PACA.",
+      "impact": "Environnement économique stabilisé permettant de négocier les loyers commerciaux sans pression inflationniste majeure ; valoriser cette stabilité auprès des franchiseurs et indépendants.",
+      "date": "09/05/2026",
+      "url": "https://www.insee.fr",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Conjoncture",
+          "cls": "tg"
+        },
+        {
+          "label": "France",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France 1.7% : environnement macroéconomique contrôlé mai 2026",
-      "body": "L'inflation française modérée à 1.7% en mai 2026 signe une conjoncture économique équilibrée. Ce contexte de stabilité tarifaire facilite la visibilité sur les charges d'exploitation tertiaires et la négociation des loyers immobiliers.",
-      "impact": "Modération des révisions de loyers CRE ; environnement propice aux renégociations baux bureaux/activité sans tensions inflationnistes.",
-      "date": "08/05/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Marché",
+      "title": "Pétrole Brent : niveau stable à 96 USD/baril",
+      "body": "Le pétrole Brent se maintient à environ 96 USD/baril, reflétant un équilibre offre-demande inchangé sur les marchés énergétiques. Cette stabilité énergétique limite les impacts géopolitiques sur les coûts opérationnels en France et PACA.",
+      "impact": "Stabilité des coûts de transport et logistique favorisant la viabilité des projets commerciaux et d'activité ; intégrer cette hypothèse dans les budgets de fonctionnement client.",
+      "date": "09/05/2026",
+      "url": "https://www.eia.gov",
+      "source": "Données Marché",
       "tags": [
+        {
+          "label": "Énergie",
+          "cls": "tg"
+        },
         {
           "label": "Géopolitique",
           "cls": "tg"

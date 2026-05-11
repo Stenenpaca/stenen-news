@@ -1,17 +1,17 @@
 {
-  "generated_at": "10/05/2026",
+  "generated_at": "11/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Rue de la République à Marseille : changement de propriétaire",
-      "body": "La Régie du commerce a acquis les 129 cellules commerciales de la rue de la République à Marseille le 22 avril 2026, succédant à Commerces de la République. Ce changement reflète les dynamiques d'investissement et de restructuration du commerce de centre-ville en PACA.",
-      "impact": "Opportunité de renégociation des conditions locatives et de repositionnement des espaces commerciaux pour les locataires actuels et futurs à Marseille.",
-      "date": "09/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1909337948291314/la-rue-de-la-republique-a-marseille-change-une-nouvelle-fois-de-proprietaire",
+      "title": "Habillement : recul des ventes en magasin pour le 8e mois",
+      "body": "Les ventes en magasin d'habillement ont reculé de 3,1% en avril 2026 malgré une météo favorable, selon le Panel Retail Int. pour l'Alliance du Commerce. Cette tendance baissière prolongée affecte directement la rentabilité des locaux commerciaux en centre-ville PACA.",
+      "impact": "Les bailleurs doivent anticiper une pression à la baisse sur les loyers des commerces de détail en PACA et renforcer les critères de solvabilité des candidats locataires.",
+      "date": "11/05/2026",
+      "url": "https://www.laprovence.com/article/economie/37410759275799/habillement-les-ventes-en-magasin-chutent-pour-le-huitieme-mois-consecutif-malgre-une-meteo-favorable-en-avril",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Marché PACA",
           "cls": "tp"
         },
         {
@@ -22,77 +22,77 @@
     },
     {
       "id": "f2",
-      "title": "Foncière anti-financiarisation du commerce à Aix-en-Provence",
-      "body": "Face à la fermeture successive des boutiques de grandes enseignes (Naf Naf, Kookaï, Cosmoparis), Aix-en-Provence crée une foncière pour réguler l'accès au commerce et limiter la spéculation immobilière. Cette initiative vise à préserver un tissu commercial diversifié.",
-      "impact": "Les investisseurs et occupants doivent anticiper l'émergence de nouveaux modèles de gestion de locaux commerciaux plus régulés dans les centres urbains aixois.",
-      "date": "09/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1896119411090914/une-fonciere-pour-lutter-contre-la-financiarisation-du-commerce-a-aix-en-provence",
+      "title": "Fermeture de l'épicerie solidaire Yapagaspi à Aix-en-Provence",
+      "body": "L'épicerie antigaspillage Yapagaspi, implantée dans le centre-ville d'Aix depuis mars 2023, ferme définitivement ses portes. Cette fermeture illustre les difficultés de rentabilité des concepts innovants de petite distribution en centre-ville PACA.",
+      "impact": "Les conseils en transaction doivent évaluer la viabilité à moyen terme des concepts commerciaux spécialisés et considérer les coûts d'exploitation élevés du centre-ville d'Aix.",
+      "date": "11/05/2026",
+      "url": "https://www.laprovence.com/article/economie/36705674939873/lepicerie-solidaire-yapagaspi-situee-dans-le-centre-ville-daix-ferme-definitivement-ses-portes",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Marché PACA",
           "cls": "tp"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Délais administratifs : 14 mois pour ouvrir une boutique à Aix",
-      "body": "Selon Michaël Sebban, le délai entre le dépôt de permis et l'ouverture d'une boutique à Aix-en-Provence atteint 14 mois, ralenti par les injonctions municipales, le droit du travail et les aléas climatiques. Ces délais complexifient le projet de commerce en centre-ville.",
-      "impact": "Anticiper des délais de 14+ mois pour tous les projets de reprise ou création commerciale à Aix ; adapter les stratégies de financement et de trésorerie en conséquence.",
-      "date": "08/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1440534997013614/michael-sebban-entre-le-depot-du-permis-et-les-travaux-il-faut-compter-14-mois-pour-ouvrir-une-boutique-a-aix",
+      "title": "Innovation PME PACA : Opty-O primée au concours Lépine",
+      "body": "Le Vauclusien Simon Lillamand a remporté une distinction au concours Lépine pour son invention Opty-O, une colonne de douche antigaspi. Cette innovation témoigne de la dynamique entrepreneuriale en Provence et de l'émergence de secteurs durables.",
+      "impact": "Les acteurs immobiliers PACA peuvent identifier des opportunités de locaux d'activité pour jeunes entreprises technologiques et développements durables.",
+      "date": "11/05/2026",
+      "url": "https://www.laprovence.com/article/economie/32911363153081/opty-o-la-colonne-de-douche-antigaspi-inventee-par-le-vauclusien-simon-lillamand-primee-au-concours-lepine",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Marché PACA",
           "cls": "tp"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Innovation",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Aide carburant BTP : 20 centimes/litre en mai 2026",
-      "body": "Les entreprises de BTP de moins de 20 salariés consommant du gazole non routier (GNR) bénéficient d'une aide de 20 centimes par litre en mai 2026. Cette mesure accompagne le secteur face aux coûts énergétiques et de fonctionnement des chantiers.",
-      "impact": "Vérifier l'éligibilité des prestataires et maîtres d'ouvrage pour valoriser ces aides et optimiser les budgets de travaux en PACA.",
-      "date": "10/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2862949051431914/aide-carburant-pour-le-btp-20-centimes-par-litre-en-mai-2026-comment-en-beneficier",
+      "title": "Enseignes lumineuses : marché français fragmente et specialise",
+      "body": "Le marché français des enseignes lumineuses compte de grandes entreprises nationales et des ateliers artisanaux spécialisés avec des technologies et services variés. Cette segmentation offre des opportunités de partenariat pour les propriétaires de commerces PACA.",
+      "impact": "Les locataires en quête de signalétique performante doivent négocier les travaux de déco commerciale dans les baux PACA en fonction de la qualité des prestataires locaux.",
+      "date": "11/05/2026",
+      "url": "https://www.laprovence.com/article/economie/44915824160615/fabricants-denseignes-lumineuses-les-meilleurs-en-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Commerce",
+          "cls": "tm"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Nouvelle boutique bio à Castellane : tendance commerce responsable",
-      "body": "Mon Échoppe Bio a ouvert ses portes à Castellane sur le boulevard Saint-Michel, proposant une large gamme de produits issus de la consommation responsable. Cette enseigne illustre l'émergence d'un nouveau type de commerce de détail en PACA.",
-      "impact": "Identifier les opportunités d'espaces commerciaux pour les enseignes bio/responsables en expansion dans les centre-bourgs et villes secondaires de PACA.",
-      "date": "10/05/2026",
-      "url": "https://www.laprovence.com/article/region/2723096265381914/mon-echoppe-bio-une-nouvelle-adresse-dediee-a-la-consommation-responsable",
-      "source": "La Provence",
+      "title": "Contexte financement : OAT 3.70%, Euribor3M 2.15%, taux BCE 2.15%",
+      "body": "Les conditions de financement immobilier restent stables avec des taux OAT à 3.70%, l'Euribor3M à 2.15% et les taux directeurs BCE maintenus à 2.15%. Ces conditions favorisent les montages de crédit pour acquisitions immobilières professionnelles en PACA.",
+      "impact": "Les porteurs de projet doivent accélérer leurs dossiers d'acquisition de bureaux et locaux d'activité avant toute variation des taux directeurs de la BCE.",
+      "date": "11/05/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-marche-taux-financement",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Financement",
+          "cls": "tt"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }
@@ -100,45 +100,53 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Projet BarMar : corridor hydrogène offshore Barcelone-Fos",
-      "body": "Le projet BarMar de transport sous-marin d'hydrogène renouvelable reliera Barcelone à Fos-sur-Mer avec une concertation publique ouverte jusqu'en juillet 2026. Cette infrastructure énergétique stratégique positionne la PACA comme hub énergétique européen.",
-      "impact": "Anticiper les impacts d'aménagement et les nouvelles zones d'activités induites par cette infrastructure d'énergie verte aux débouchés Fos-sur-Mer.",
-      "date": "09/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2287896703652114/projet-de-transport-offshore-dhydrogene-barmar-la-concertation-publique-ouverte-jusquen-juillet-a-fos",
+      "title": "Conjoncture France : recul durable du commerce de détail",
+      "body": "Le huitième mois consécutif de baisse des ventes en magasin en avril 2026 signale un ralentissement durable de la consommation française. Cette tendance impacte la demande locative en centres commerciaux et commerces indépendants.",
+      "impact": "Anticiper une révision à la baisse des projections de revenus locatifs pour portefeuilles commerciaux PACA sur 2026-2027.",
+      "date": "11/05/2026",
+      "url": "https://www.laprovence.com/article/economie/37410759275799/habillement-les-ventes-en-magasin-chutent-pour-le-huitieme-mois-consecutif-malgre-une-meteo-favorable-en-avril",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Taux OAT stable à 3.70% : contexte de financement mai 2026",
-      "body": "Les taux OAT se stabilisent à 3.70% avec Euribor 3M à 2.15% et taux directeur BCE maintenu à 2.15%. Dans un contexte d'inflation maîtrisée à 1.7%, les conditions de financement restent stables pour l'investissement immobilier.",
-      "impact": "Les taux de financement CRE demeurent accessibles ; optimiser les montages avant tout changement de politique monétaire.",
-      "date": "10/05/2026",
-      "url": "https://www.bce.eu",
+      "title": "Stabilité des taux BCE et OAT : contexte favorable aux acquisitions",
+      "body": "La BCE maintient ses taux directeurs à 2.15% tandis que les OAT françaises se stabilisent à 3.70% et l'Euribor3M à 2.15%. Ce contexte de taux stables offre une fenêtre favorable pour les investisseurs immobiliers professionnels.",
+      "impact": "Consolider les stratégies d'acquisition de portefeuilles bureaux/activité en PACA dans les 6 mois avant toute inflexion monétaire de la BCE.",
+      "date": "11/05/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-taux-bce-oat",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux/Financement",
+          "label": "Taux BCE",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Emploi et transformation du marché du travail en Vaucluse",
-      "body": "Le marché du travail vauclusien se transforme avec émergence de nouveaux métiers et mutation des carrières professionnelles face aux défis régionaux. Cette dynamique reflète l'adaptation du bassin d'emploi local à la conjoncture économique.",
-      "impact": "Considérer l'évolution des profils d'occupants et besoins en bureaux/locaux pour PME en mutation dans les zones d'emploi dynamiques.",
-      "date": "09/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1847225821272514/emploi-du-sur-mesure-pour-repondre-au-dynamisme-local-vauclusien",
-      "source": "La Provence",
+      "title": "Inflation maîtrisée à 1.7% : contexte favorable aux revenus réels",
+      "body": "L'inflation française reste contenue à 1.7%, offrant un contexte favorable à la croissance réelle des revenus locatifs en PACA. Cette stabilité monétaire soutient les perspectives de rentabilité immobilière professionnelle.",
+      "impact": "Valider les montages d'acquisitions bureaux/activité PACA en assurant indexations de loyers conformes à l'inflation réelle mesurée à 1.7%.",
+      "date": "11/05/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-inflation-france",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Inflation",
+          "cls": "tg"
+        },
+        {
+          "label": "Macro",
           "cls": "tg"
         }
       ]

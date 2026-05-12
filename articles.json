@@ -1,98 +1,98 @@
 {
-  "generated_at": "11/05/2026",
+  "generated_at": "12/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Habillement : recul des ventes en magasin pour le 8e mois",
-      "body": "Les ventes en magasin d'habillement ont reculé de 3,1% en avril 2026 malgré une météo favorable, selon le Panel Retail Int. pour l'Alliance du Commerce. Cette tendance baissière prolongée affecte directement la rentabilité des locaux commerciaux en centre-ville PACA.",
-      "impact": "Les bailleurs doivent anticiper une pression à la baisse sur les loyers des commerces de détail en PACA et renforcer les critères de solvabilité des candidats locataires.",
-      "date": "11/05/2026",
-      "url": "https://www.laprovence.com/article/economie/37410759275799/habillement-les-ventes-en-magasin-chutent-pour-le-huitieme-mois-consecutif-malgre-une-meteo-favorable-en-avril",
+      "title": "Climatisation PACA : délais d'installation qui s'allongent avant l'été",
+      "body": "Les délais pour installer une climatisation s'allongent à l'approche des fortes chaleurs en Provence-Alpes-Côte-d'Azur, avec des variations saisonnières importantes selon France Performance Énergétique. Cette tendance impacte directement les coûts d'installation des locaux tertiaires et d'activité en région.",
+      "impact": "Les preneurs de bureaux et locaux d'activité doivent anticiper les travaux de climatisation dès maintenant pour éviter les surcoûts et délais estivaux; conseil aux acquéreurs de valoriser les bâtiments déjà climatisés.",
+      "date": "12/05/2026",
+      "url": "https://www.laprovence.com/article/economie/60392789050566/climatisation-des-delais-d-installation-qui-s-allongent-avant-l-ete-en-paca",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Fermeture de l'épicerie solidaire Yapagaspi à Aix-en-Provence",
-      "body": "L'épicerie antigaspillage Yapagaspi, implantée dans le centre-ville d'Aix depuis mars 2023, ferme définitivement ses portes. Cette fermeture illustre les difficultés de rentabilité des concepts innovants de petite distribution en centre-ville PACA.",
-      "impact": "Les conseils en transaction doivent évaluer la viabilité à moyen terme des concepts commerciaux spécialisés et considérer les coûts d'exploitation élevés du centre-ville d'Aix.",
-      "date": "11/05/2026",
-      "url": "https://www.laprovence.com/article/economie/36705674939873/lepicerie-solidaire-yapagaspi-situee-dans-le-centre-ville-daix-ferme-definitivement-ses-portes",
+      "title": "Climatisation PACA 2026 : tarifs plus élevés qu'ailleurs en France",
+      "body": "Les tarifs d'installation de climatisation en PACA dépassent la moyenne nationale, tirés par une forte demande estivale et des contraintes techniques propres aux logements méditerranéens. Cette surcoûtisation affecte les investissements immobiliers tertiaires et les charges d'exploitation des locaux.",
+      "impact": "Intégrer le surcoût climatisation régional dans les enveloppes budgétaires des projets de transaction; recommander aux bailleurs de pré-équiper pour valoriser les actifs et justifier les loyers.",
+      "date": "12/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1076181860105514/climatisation-linstallation-pourrait-couter-plus-cher-quailleurs-en-paca-en-2026-quels-sont-les-prix",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Innovation PME PACA : Opty-O primée au concours Lépine",
-      "body": "Le Vauclusien Simon Lillamand a remporté une distinction au concours Lépine pour son invention Opty-O, une colonne de douche antigaspi. Cette innovation témoigne de la dynamique entrepreneuriale en Provence et de l'émergence de secteurs durables.",
-      "impact": "Les acteurs immobiliers PACA peuvent identifier des opportunités de locaux d'activité pour jeunes entreprises technologiques et développements durables.",
-      "date": "11/05/2026",
-      "url": "https://www.laprovence.com/article/economie/32911363153081/opty-o-la-colonne-de-douche-antigaspi-inventee-par-le-vauclusien-simon-lillamand-primee-au-concours-lepine",
+      "title": "Ascenseurs copropriété : nouveau contrat Unis Avantage 2026",
+      "body": "Avec 1,5 million de pannes annuelles, l'ascenseur reste la première source de frustration en copropriété; un nouveau contrat Unis Avantage 2026 réorganise les conditions de maintenance à Marseille et en PACA. Cette évolution impacte les charges d'exploitation et la valorisation des bâtiments tertaires multi-étages.",
+      "impact": "Mettre en avant les bâtiments avec ascenseurs récents/renouvelés lors des transactions; négocier les contrats de maintenance avant signature pour réduire les charges locataires.",
+      "date": "12/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1005159631091414/ascenseurs-en-copropriete-ce-que-change-le-contrat-unis-avantage-2026",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Innovation",
-          "cls": "tm"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Enseignes lumineuses : marché français fragmente et specialise",
-      "body": "Le marché français des enseignes lumineuses compte de grandes entreprises nationales et des ateliers artisanaux spécialisés avec des technologies et services variés. Cette segmentation offre des opportunités de partenariat pour les propriétaires de commerces PACA.",
-      "impact": "Les locataires en quête de signalétique performante doivent négocier les travaux de déco commerciale dans les baux PACA en fonction de la qualité des prestataires locaux.",
-      "date": "11/05/2026",
-      "url": "https://www.laprovence.com/article/economie/44915824160615/fabricants-denseignes-lumineuses-les-meilleurs-en-france",
+      "title": "Hausse du prix des plastiques : impact sur les coûts de production PACA",
+      "body": "Les tensions géopolitiques au détroit d'Ormuz font monter les prix des plastiques, forçant les entreprises à réduire leurs usages et à optimiser leurs chaînes de production. Cette inflation affecte les locataires industriels et d'activité en répercutant les surcoûts sur les loyers.",
+      "impact": "Consolider les clauses d'indexation loyers sur les charges matières pour les locaux d'activité/PME; surveiller les demandes de révision tarifaire des preneurs industriels.",
+      "date": "12/05/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/1096486440097714/envol-du-prix-des-plastiques-vers-une-reduction-des-usages-imposee",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce",
-          "cls": "tm"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Contexte financement : OAT 3.70%, Euribor3M 2.15%, taux BCE 2.15%",
-      "body": "Les conditions de financement immobilier restent stables avec des taux OAT à 3.70%, l'Euribor3M à 2.15% et les taux directeurs BCE maintenus à 2.15%. Ces conditions favorisent les montages de crédit pour acquisitions immobilières professionnelles en PACA.",
-      "impact": "Les porteurs de projet doivent accélérer leurs dossiers d'acquisition de bureaux et locaux d'activité avant toute variation des taux directeurs de la BCE.",
-      "date": "11/05/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-marche-taux-financement",
-      "source": "Données marché",
+      "title": "Artisanat PACA : dynamisme sous la présidence Yannick Mazette (CMA)",
+      "body": "Yannick Mazette, président de la Chambre de Métiers et Artisanat PACA, mobilise la filière artisanale locale et valorise un secteur créateur d'emplois et de dynamique commerciale. Cette impulsion favorise la demande de petits espaces commerciaux et locaux d'activité en zone urbaine et périurbaine.",
+      "impact": "Identifier les petits locaux commerciaux et ateliers en centres-villes pour répondre à la demande croissante des artisans; développer des offres de courte durée pour tester les marchés.",
+      "date": "12/05/2026",
+      "url": "https://www.laprovence.com/article/economie/10959338338365/au-four-au-moulin-et-au-service-de-l-artisanat-le-portrait-de-yannick-mazette-president-de-la-cma-paca-et-artisan",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Financement",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,51 +100,43 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Conjoncture France : recul durable du commerce de détail",
-      "body": "Le huitième mois consécutif de baisse des ventes en magasin en avril 2026 signale un ralentissement durable de la consommation française. Cette tendance impacte la demande locative en centres commerciaux et commerces indépendants.",
-      "impact": "Anticiper une révision à la baisse des projections de revenus locatifs pour portefeuilles commerciaux PACA sur 2026-2027.",
-      "date": "11/05/2026",
-      "url": "https://www.laprovence.com/article/economie/37410759275799/habillement-les-ventes-en-magasin-chutent-pour-le-huitieme-mois-consecutif-malgre-une-meteo-favorable-en-avril",
+      "title": "Tensions géopolitiques Moyen-Orient : impacts énergétiques et inflationnistes",
+      "body": "Les tensions au détroit d'Ormuz renchérissent les matières premières et énergie, impactant les chaînes de production et les coûts logistiques en France et PACA. Brent à 96 USD/baril reflète ces pressions géopolitiques durables.",
+      "impact": "Anticiper la persistance de l'inflation énergétique dans les négociations de charges; intégrer les clauses d'indexation électricité/gaz dans les contrats de location.",
+      "date": "12/05/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/1096486440097714/envol-du-prix-des-plastiques-vers-une-reduction-des-usages-imposee",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Stabilité des taux BCE et OAT : contexte favorable aux acquisitions",
-      "body": "La BCE maintient ses taux directeurs à 2.15% tandis que les OAT françaises se stabilisent à 3.70% et l'Euribor3M à 2.15%. Ce contexte de taux stables offre une fenêtre favorable pour les investisseurs immobiliers professionnels.",
-      "impact": "Consolider les stratégies d'acquisition de portefeuilles bureaux/activité en PACA dans les 6 mois avant toute inflexion monétaire de la BCE.",
-      "date": "11/05/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-taux-bce-oat",
-      "source": "Données marché",
+      "title": "Marchés obligataires : OAT à 3,70%, Euribor 3M à 2,15%, BCE maintient 2,15%",
+      "body": "Les taux obligataires français (OAT 3,70%) et les taux de référence interbancaires (Euribor 3M 2,15%) restent élevés dans un contexte de persistance inflationniste à 1,7% en France. La BCE maintient son taux directeur à 2,15%, freinant tout assouplissement monétaire immédiat.",
+      "impact": "Les coûts de financement immobilier restent élevés; recommander aux investisseurs de fixer rapidement leurs taux emprunt avant toute nouvelle volatilité des marchés obligataires.",
+      "date": "12/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1076181860105514/climatisation-linstallation-pourrait-couter-plus-cher-quailleurs-en-paca-en-2026-quels-sont-les-prix",
+      "source": "Données de marché",
       "tags": [
         {
-          "label": "Taux BCE",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
+          "label": "Taux",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation maîtrisée à 1.7% : contexte favorable aux revenus réels",
-      "body": "L'inflation française reste contenue à 1.7%, offrant un contexte favorable à la croissance réelle des revenus locatifs en PACA. Cette stabilité monétaire soutient les perspectives de rentabilité immobilière professionnelle.",
-      "impact": "Valider les montages d'acquisitions bureaux/activité PACA en assurant indexations de loyers conformes à l'inflation réelle mesurée à 1.7%.",
-      "date": "11/05/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-inflation-france",
-      "source": "Données marché",
+      "title": "Inflation France 1,7% : modération relative mais taux directeurs inchangés",
+      "body": "L'inflation française s'établit à 1,7%, offrant une légère modération dans un contexte de renchérissement énergétique persistant et de tensions géopolitiques. La BCE maintient ses taux inchangés, signalant une vigilance accrue face aux risques résiduels.",
+      "impact": "Verrouiller les contrats de location avec clauses d'indexation prudentes; les investisseurs doivent anticiper la stabilité des taux à court-moyen terme dans leurs analyses d'IRR.",
+      "date": "12/05/2026",
+      "url": "https://www.laprovence.com/article/economie/10959338338365/au-four-au-moulin-et-au-service-de-l-artisanat-le-portrait-de-yannick-mazette-president-de-la-cma-paca-et-artisan",
+      "source": "Données de marché",
       "tags": [
-        {
-          "label": "Inflation",
-          "cls": "tg"
-        },
         {
           "label": "Macro",
           "cls": "tg"

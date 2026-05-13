@@ -1,98 +1,78 @@
 {
-  "generated_at": "12/05/2026",
+  "generated_at": "13/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Climatisation PACA : délais d'installation qui s'allongent avant l'été",
-      "body": "Les délais pour installer une climatisation s'allongent à l'approche des fortes chaleurs en Provence-Alpes-Côte-d'Azur, avec des variations saisonnières importantes selon France Performance Énergétique. Cette tendance impacte directement les coûts d'installation des locaux tertiaires et d'activité en région.",
-      "impact": "Les preneurs de bureaux et locaux d'activité doivent anticiper les travaux de climatisation dès maintenant pour éviter les surcoûts et délais estivaux; conseil aux acquéreurs de valoriser les bâtiments déjà climatisés.",
-      "date": "12/05/2026",
-      "url": "https://www.laprovence.com/article/economie/60392789050566/climatisation-des-delais-d-installation-qui-s-allongent-avant-l-ete-en-paca",
+      "title": "Printemps des Entrepreneurs à Arles : 200 acteurs économiques en réseau",
+      "body": "Le 21 mai, La Meunerie d'Arles accueille la nouvelle édition du Printemps des Entrepreneurs, rassemblant 200 chefs d'entreprises et acteurs locaux. Cet événement fédérateur depuis 2022 dynamise le réseau entrepreneurial du territoire.",
+      "impact": "Opportunité de prospection B2B et de networking pour identifier des besoins immobiliers tertiaires/activité auprès des entrepreneurs arléasiens.",
+      "date": "13/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2076014819784114/le-printemps-des-entrepreneurs-revient-le-21-mai-a-arles-pour-connecter-les-forces-vives-du-territoire",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Climatisation PACA 2026 : tarifs plus élevés qu'ailleurs en France",
-      "body": "Les tarifs d'installation de climatisation en PACA dépassent la moyenne nationale, tirés par une forte demande estivale et des contraintes techniques propres aux logements méditerranéens. Cette surcoûtisation affecte les investissements immobiliers tertiaires et les charges d'exploitation des locaux.",
-      "impact": "Intégrer le surcoût climatisation régional dans les enveloppes budgétaires des projets de transaction; recommander aux bailleurs de pré-équiper pour valoriser les actifs et justifier les loyers.",
-      "date": "12/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1076181860105514/climatisation-linstallation-pourrait-couter-plus-cher-quailleurs-en-paca-en-2026-quels-sont-les-prix",
+      "title": "Tech Valley d'Aix-en-Provence : débats sur 15 hectares d'écosystème",
+      "body": "Le projet Tech Valley, lancé par la maire Sophie Joissains, prévoit la création d'un écosystème industriel sur 15 hectares en bordure de l'aérodrome des Milles. Six associations questionnent actuellement le bien-fondé de cette initiative structurante.",
+      "impact": "Monitoring stratégique sur cette future zone tertiaire/tech de 15ha : anticiper les besoins en bureaux premium et locaux activité pour entreprises innovantes.",
+      "date": "13/05/2026",
+      "url": "https://www.laprovence.com/article/economie/11481638954842/tech-valley-d-aix-en-provence-six-associations-s-interrogent-sur-le-bien-fonde-du-projet",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Ascenseurs copropriété : nouveau contrat Unis Avantage 2026",
-      "body": "Avec 1,5 million de pannes annuelles, l'ascenseur reste la première source de frustration en copropriété; un nouveau contrat Unis Avantage 2026 réorganise les conditions de maintenance à Marseille et en PACA. Cette évolution impacte les charges d'exploitation et la valorisation des bâtiments tertaires multi-étages.",
-      "impact": "Mettre en avant les bâtiments avec ascenseurs récents/renouvelés lors des transactions; négocier les contrats de maintenance avant signature pour réduire les charges locataires.",
-      "date": "12/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1005159631091414/ascenseurs-en-copropriete-ce-que-change-le-contrat-unis-avantage-2026",
+      "title": "Entrepreneurs innovent face à la crise : stratégies de résilience",
+      "body": "Les chefs d'entreprise provençaux développent des modèles de survie fondés sur l'humain face à l'inflation, l'explosion des coûts énergétiques et les défaillances de transport. Mutualisation et « bouclier carburant » émergent comme solutions innovantes.",
+      "impact": "Clients CRE potentiels cherchent à optimiser espaces (réduction m², flex-office, colocation) pour diminuer coûts fixes : proposer des solutions modulables en bureaux partagés.",
+      "date": "13/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1836325016016314/pouvoir-dachat-bouclier-carburant-mutualisation-les-chefs-dentreprise-de-provence-innovent-pour-resister",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Hausse du prix des plastiques : impact sur les coûts de production PACA",
-      "body": "Les tensions géopolitiques au détroit d'Ormuz font monter les prix des plastiques, forçant les entreprises à réduire leurs usages et à optimiser leurs chaînes de production. Cette inflation affecte les locataires industriels et d'activité en répercutant les surcoûts sur les loyers.",
-      "impact": "Consolider les clauses d'indexation loyers sur les charges matières pour les locaux d'activité/PME; surveiller les demandes de révision tarifaire des preneurs industriels.",
-      "date": "12/05/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/1096486440097714/envol-du-prix-des-plastiques-vers-une-reduction-des-usages-imposee",
+      "title": "Hôtellerie-restauration PACA en crise : appel à l'aide",
+      "body": "Nicolas Guyot, vice-président de l'Umih 13, alerte sur la situation critique du secteur H-R face à la dégradation du pouvoir d'achat. Le secteur demeure à la croisée des chemins pour sa survie économique.",
+      "impact": "Secteur H-R fragilisé cherche consolidation : opportunités de transaction sur locaux commerciaux/restaurants en difficulté ou restructuration d'activité.",
+      "date": "13/05/2026",
+      "url": "https://www.laprovence.com/article/economie/19630192890876/pouvoir-dachat-le-cri-dalarme-de-lhotellerie-restauration",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Artisanat PACA : dynamisme sous la présidence Yannick Mazette (CMA)",
-      "body": "Yannick Mazette, président de la Chambre de Métiers et Artisanat PACA, mobilise la filière artisanale locale et valorise un secteur créateur d'emplois et de dynamique commerciale. Cette impulsion favorise la demande de petits espaces commerciaux et locaux d'activité en zone urbaine et périurbaine.",
-      "impact": "Identifier les petits locaux commerciaux et ateliers en centres-villes pour répondre à la demande croissante des artisans; développer des offres de courte durée pour tester les marchés.",
-      "date": "12/05/2026",
-      "url": "https://www.laprovence.com/article/economie/10959338338365/au-four-au-moulin-et-au-service-de-l-artisanat-le-portrait-de-yannick-mazette-president-de-la-cma-paca-et-artisan",
+      "title": "Minelli ferme définitivement : fin d'un emblème provençal",
+      "body": "La marque de chaussures marseillaise Minelli annonce sa fermeture définitive après plus de 50 ans d'activité via un message Instagram du 13 mai. Cette disparition symbolise les fragilités du secteur retail provençal.",
+      "impact": "Libération potentielle de m² commerciaux historiques à Marseille : anticiper reprises d'activité ou conversions tertiaires/activité sur points de vente fermés.",
+      "date": "13/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1884586183605714/minelli-celebre-marque-provencale-de-chaussures-annonce-sa-fermeture-definitive",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     }
@@ -100,45 +80,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Tensions géopolitiques Moyen-Orient : impacts énergétiques et inflationnistes",
-      "body": "Les tensions au détroit d'Ormuz renchérissent les matières premières et énergie, impactant les chaînes de production et les coûts logistiques en France et PACA. Brent à 96 USD/baril reflète ces pressions géopolitiques durables.",
-      "impact": "Anticiper la persistance de l'inflation énergétique dans les négociations de charges; intégrer les clauses d'indexation électricité/gaz dans les contrats de location.",
-      "date": "12/05/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/1096486440097714/envol-du-prix-des-plastiques-vers-une-reduction-des-usages-imposee",
+      "title": "Chômage France Q1 2026 : +0,2pt à 8,1%, plus haut en 5 ans",
+      "body": "Le taux de chômage français atteint 8,1% au premier trimestre 2026 (+0,2pt, +0,7pt sur un an) selon l'Insee. C'est le plus haut niveau depuis cinq ans, signalant une dégradation du marché du travail.",
+      "impact": "Conjoncture dégradée : prudence recommandée sur projets tertiaires/activité, demande potentiellement freinée par ralentissement emploi régional.",
+      "date": "13/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1759789813546/le-taux-de-chomage-augmente-de-0-2-point-a-8-1-au-premier-trimestre-en-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Conjoncture",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Marchés obligataires : OAT à 3,70%, Euribor 3M à 2,15%, BCE maintient 2,15%",
-      "body": "Les taux obligataires français (OAT 3,70%) et les taux de référence interbancaires (Euribor 3M 2,15%) restent élevés dans un contexte de persistance inflationniste à 1,7% en France. La BCE maintient son taux directeur à 2,15%, freinant tout assouplissement monétaire immédiat.",
-      "impact": "Les coûts de financement immobilier restent élevés; recommander aux investisseurs de fixer rapidement leurs taux emprunt avant toute nouvelle volatilité des marchés obligataires.",
-      "date": "12/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1076181860105514/climatisation-linstallation-pourrait-couter-plus-cher-quailleurs-en-paca-en-2026-quels-sont-les-prix",
-      "source": "Données de marché",
+      "title": "Smic +2,4% au 1er juin : hausse mécanique inflation",
+      "body": "Le ministre du Travail Jean-Pierre Farandou annonce une augmentation mécanique du Smic de 2,4% au 1er juin, liée à la reprise inflationniste. Cette revalorisation impacte les coûts d'exploitation tertiaires.",
+      "impact": "Augmentation charges de personnel dès juin 2026 : simuler impact sur coûts immobiliers exploitants (charges, entretien) pour affiner stratégies de négociation.",
+      "date": "13/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1879403278982814/le-smic-va-augmenter-de-2-4-le-1er-juin-annonce-le-ministre-du-travail",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Inflation",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France 1,7% : modération relative mais taux directeurs inchangés",
-      "body": "L'inflation française s'établit à 1,7%, offrant une légère modération dans un contexte de renchérissement énergétique persistant et de tensions géopolitiques. La BCE maintient ses taux inchangés, signalant une vigilance accrue face aux risques résiduels.",
-      "impact": "Verrouiller les contrats de location avec clauses d'indexation prudentes; les investisseurs doivent anticiper la stabilité des taux à court-moyen terme dans leurs analyses d'IRR.",
-      "date": "12/05/2026",
-      "url": "https://www.laprovence.com/article/economie/10959338338365/au-four-au-moulin-et-au-service-de-l-artisanat-le-portrait-de-yannick-mazette-president-de-la-cma-paca-et-artisan",
-      "source": "Données de marché",
+      "title": "Crise énergétique Moyen-Orient : réserves pétrolières vidées à record",
+      "body": "L'Agence internationale de l'énergie alerte sur l'épuisement des réserves pétrolières mondiales à vitesse record dû à la poursuite de la guerre au Moyen-Orient et à la réduction des approvisionnements du Golfe. Tensions énergétiques persistantes attendues.",
+      "impact": "Volatilité énergétique continue : anticiper stabilisation des coûts énergétiques pour immeubles tertiaires/activité avant fin 2026, facteur clé de rentabilité locative.",
+      "date": "13/05/2026",
+      "url": "https://www.laprovence.com/article/economie/19565506434813/guerre-au-moyen-orient-le-monde-puise-dans-ses-reserves-de-petrole-a-une-vitesse-record-alerte-laie",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Macro",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]

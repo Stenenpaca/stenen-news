@@ -1,78 +1,98 @@
 {
-  "generated_at": "13/05/2026",
+  "generated_at": "14/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Printemps des Entrepreneurs à Arles : 200 acteurs économiques en réseau",
-      "body": "Le 21 mai, La Meunerie d'Arles accueille la nouvelle édition du Printemps des Entrepreneurs, rassemblant 200 chefs d'entreprises et acteurs locaux. Cet événement fédérateur depuis 2022 dynamise le réseau entrepreneurial du territoire.",
-      "impact": "Opportunité de prospection B2B et de networking pour identifier des besoins immobiliers tertiaires/activité auprès des entrepreneurs arléasiens.",
-      "date": "13/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2076014819784114/le-printemps-des-entrepreneurs-revient-le-21-mai-a-arles-pour-connecter-les-forces-vives-du-territoire",
+      "title": "Peypin : nouveau commerce de proximité au centre-ville",
+      "body": "La Maison Cueillette, primeur tenu par Samy Messaoudi, a ouvert fin avril au cœur du village de Peypin, renforçant l'offre commerciale locale. Cette implantation illustre la dynamique des petits commerces de centres-villes en zone périurbaine PACA.",
+      "impact": "Opportunité d'identification de locaux commerciaux vacants en centres-villes de petites communes PACA pour reconversion retail.",
+      "date": "14/05/2026",
+      "url": "https://www.laprovence.com/article/economie/2798734997892214/un-nouveau-primeur-la-maison-cueillette-s-installe-au-centre-du-village-de-peypin",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Retail",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Tech Valley d'Aix-en-Provence : débats sur 15 hectares d'écosystème",
-      "body": "Le projet Tech Valley, lancé par la maire Sophie Joissains, prévoit la création d'un écosystème industriel sur 15 hectares en bordure de l'aérodrome des Milles. Six associations questionnent actuellement le bien-fondé de cette initiative structurante.",
-      "impact": "Monitoring stratégique sur cette future zone tertiaire/tech de 15ha : anticiper les besoins en bureaux premium et locaux activité pour entreprises innovantes.",
+      "title": "Minelli ferme ses 21 magasins en PACA : fin d'une icône",
+      "body": "L'enseigne provençale Minelli officialise la fermeture définitive de ses 21 points de vente à Gémenos, Aix et Avignon au 30 mai 2026. Cette disparition libère des surfaces commerciales significatives dans des zones urbaines stratégiques de la région.",
+      "impact": "Reprendre rapidement contact avec propriétaires/bailleurs des 21 locaux Minelli pour identifier opportunités de relocation commerciale ou reconversion activité PACA.",
       "date": "13/05/2026",
-      "url": "https://www.laprovence.com/article/economie/11481638954842/tech-valley-d-aix-en-provence-six-associations-s-interrogent-sur-le-bien-fonde-du-projet",
+      "url": "https://www.laprovence.com/article/economie/44425990541876/naufrage-de-minelli-a-gemenos-aix-et-avignon-les-derniers-pas-d-une-icone-provencale",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Entrepreneurs innovent face à la crise : stratégies de résilience",
-      "body": "Les chefs d'entreprise provençaux développent des modèles de survie fondés sur l'humain face à l'inflation, l'explosion des coûts énergétiques et les défaillances de transport. Mutualisation et « bouclier carburant » émergent comme solutions innovantes.",
-      "impact": "Clients CRE potentiels cherchent à optimiser espaces (réduction m², flex-office, colocation) pour diminuer coûts fixes : proposer des solutions modulables en bureaux partagés.",
+      "title": "Village de Marques Miramas recrute 50+ postes estivaux",
+      "body": "Le centre McArthurGlen Provence organise un job dating le 20 mai avec une vingtaine de boutiques recrutant pour la saison estivale. Cette dynamique commerciale reflète la vitalité du secteur retail en PACA malgré un contexte économique tendu.",
+      "impact": "Valider auprès des gestionnaires McArthurGlen Provence les conditions actuelles d'occupation et disponibilités de locaux commerciaux pour nouvelle clientèle.",
       "date": "13/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1836325016016314/pouvoir-dachat-bouclier-carburant-mutualisation-les-chefs-dentreprise-de-provence-innovent-pour-resister",
+      "url": "https://www.laprovence.com/article/economie/2071332422843114/une-cinquantaine-doffres-demploi-au-job-dating-du-village-des-marques-de-miramas",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Commerce",
           "cls": "tp"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Hôtellerie-restauration PACA en crise : appel à l'aide",
-      "body": "Nicolas Guyot, vice-président de l'Umih 13, alerte sur la situation critique du secteur H-R face à la dégradation du pouvoir d'achat. Le secteur demeure à la croisée des chemins pour sa survie économique.",
-      "impact": "Secteur H-R fragilisé cherche consolidation : opportunités de transaction sur locaux commerciaux/restaurants en difficulté ou restructuration d'activité.",
+      "title": "Rénovation hôtel Mercure Pont d'Avignon : cycle investissement",
+      "body": "L'hôtel Mercure Pont d'Avignon finalise une rénovation de 6 mois sous pilotage du groupe J. CAP. Ces cycles d'investissement en immobilier tertiaire témoignent de la confiance dans l'attractivité touristique avignonnaise.",
+      "impact": "Monitorer les projets de rénovation hôtelière PACA pour identifier services annexes (bureaux, locaux activité) à commercialiser pendant chantiers.",
       "date": "13/05/2026",
-      "url": "https://www.laprovence.com/article/economie/19630192890876/pouvoir-dachat-le-cri-dalarme-de-lhotellerie-restauration",
+      "url": "https://www.laprovence.com/article/economie/2136892406827514/six-mois-de-renovation-le-mercure-pont-d-avignon-fait-peau-neuve",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Immobilier PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Minelli ferme définitivement : fin d'un emblème provençal",
-      "body": "La marque de chaussures marseillaise Minelli annonce sa fermeture définitive après plus de 50 ans d'activité via un message Instagram du 13 mai. Cette disparition symbolise les fragilités du secteur retail provençal.",
-      "impact": "Libération potentielle de m² commerciaux historiques à Marseille : anticiper reprises d'activité ou conversions tertiaires/activité sur points de vente fermés.",
+      "title": "Ligne THT stratégique : accélération rindustrialisation PACA",
+      "body": "L'État lance l'instruction de la déclaration d'utilité publique pour la future ligne à très haute tension, infrastructure clé de la réindustrialisation provençale. Ce chantier électrique débloque les conditions pour implantations industrielles et activité tertiaire supportive.",
+      "impact": "Anticiper hausse demande locaux activité/bureaux en zones d'implantation industrielle projetées post-THT ; cartographier corridors infrastructurels.",
       "date": "13/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1884586183605714/minelli-celebre-marque-provencale-de-chaussures-annonce-sa-fermeture-definitive",
+      "url": "https://www.laprovence.com/article/economie/2162389569382614/ligne-a-tres-haute-tension-l-etat-accelere-le-chantier-electrique-cle-de-la-reindustrialisation-provencale",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Stratégie PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Infrastructure",
+          "cls": "tm"
         }
       ]
     }
@@ -80,45 +100,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Chômage France Q1 2026 : +0,2pt à 8,1%, plus haut en 5 ans",
-      "body": "Le taux de chômage français atteint 8,1% au premier trimestre 2026 (+0,2pt, +0,7pt sur un an) selon l'Insee. C'est le plus haut niveau depuis cinq ans, signalant une dégradation du marché du travail.",
-      "impact": "Conjoncture dégradée : prudence recommandée sur projets tertiaires/activité, demande potentiellement freinée par ralentissement emploi régional.",
-      "date": "13/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1759789813546/le-taux-de-chomage-augmente-de-0-2-point-a-8-1-au-premier-trimestre-en-france",
-      "source": "La Provence",
+      "title": "OAT 10Y stable 3.70% : conditions financement tertiaire inchangées",
+      "body": "Les taux obligataires français restent orientés vers 3.70% sur 10 ans en stable, maintenant les conditions de financement immobilier dans une bande étroite. Euribor 3M à 2.15% et taux directeur BCE à 2.15% encadrent une courbe normalisée post-cycle restrictif.",
+      "impact": "Tarification crédit immobilier tertiaire PACA inchangée ; fenêtre financement toujours ouverte pour transaction bureaux/activité sans impact taux.",
+      "date": "14/05/2026",
+      "url": "https://www.laprovence.com/",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Taux OAT",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Smic +2,4% au 1er juin : hausse mécanique inflation",
-      "body": "Le ministre du Travail Jean-Pierre Farandou annonce une augmentation mécanique du Smic de 2,4% au 1er juin, liée à la reprise inflationniste. Cette revalorisation impacte les coûts d'exploitation tertiaires.",
-      "impact": "Augmentation charges de personnel dès juin 2026 : simuler impact sur coûts immobiliers exploitants (charges, entretien) pour affiner stratégies de négociation.",
-      "date": "13/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1879403278982814/le-smic-va-augmenter-de-2-4-le-1er-juin-annonce-le-ministre-du-travail",
-      "source": "La Provence",
+      "title": "Inflation France 1.7% : modération contextuelle pour immobilier",
+      "body": "L'inflation française revient à 1.7%, bien en dessous du seuil BCE, traduisant une modération économique générale. Ce contexte déflationniste ralentit pression hausse loyers commerciaux et préserve compétitivité espaces PACA vs régions concurrentes.",
+      "impact": "Valorisation bureaux/activité PACA moins exposée à renchérissement ; fenêtre acquisition intéressante avant potentiel retour inflation.",
+      "date": "14/05/2026",
+      "url": "https://www.laprovence.com/",
+      "source": "Données marché",
       "tags": [
         {
           "label": "Inflation",
-          "cls": "tt"
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Crise énergétique Moyen-Orient : réserves pétrolières vidées à record",
-      "body": "L'Agence internationale de l'énergie alerte sur l'épuisement des réserves pétrolières mondiales à vitesse record dû à la poursuite de la guerre au Moyen-Orient et à la réduction des approvisionnements du Golfe. Tensions énergétiques persistantes attendues.",
-      "impact": "Volatilité énergétique continue : anticiper stabilisation des coûts énergétiques pour immeubles tertiaires/activité avant fin 2026, facteur clé de rentabilité locative.",
-      "date": "13/05/2026",
-      "url": "https://www.laprovence.com/article/economie/19565506434813/guerre-au-moyen-orient-le-monde-puise-dans-ses-reserves-de-petrole-a-une-vitesse-record-alerte-laie",
-      "source": "La Provence",
+      "title": "Brent 96 USD : stabilité énergétique favorable secteur tertiaire",
+      "body": "Le pétrole Brent se maintient à 96 USD/baril, reflétant stabilité géopolitique relative et offre-demande équilibrée. Cette stabilité énergétique limite risque choc inflation et soutient prévisibilité des charges d'exploitation immobilière.",
+      "impact": "Charges immobilière previsibles ; margarine immobilière tertiaire PACA non dégradée par volatilité énergétique.",
+      "date": "14/05/2026",
+      "url": "https://www.laprovence.com/",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Géopolitique-Énergie",
           "cls": "tg"
         }
       ]

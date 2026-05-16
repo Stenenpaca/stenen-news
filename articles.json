@@ -1,98 +1,98 @@
 {
-  "generated_at": "14/05/2026",
+  "generated_at": "16/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Peypin : nouveau commerce de proximité au centre-ville",
-      "body": "La Maison Cueillette, primeur tenu par Samy Messaoudi, a ouvert fin avril au cœur du village de Peypin, renforçant l'offre commerciale locale. Cette implantation illustre la dynamique des petits commerces de centres-villes en zone périurbaine PACA.",
-      "impact": "Opportunité d'identification de locaux commerciaux vacants en centres-villes de petites communes PACA pour reconversion retail.",
-      "date": "14/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2798734997892214/un-nouveau-primeur-la-maison-cueillette-s-installe-au-centre-du-village-de-peypin",
+      "title": "Indus'3Days : tournée d'entreprises écoresponsables à Marseille",
+      "body": "Les Indus'3Days reviennent à Marseille avec une nouveauté : la visite de Château-Gombert (13e arr.), mettant en avant des entreprises du territoire engagées dans la transition écologique. Cette manifestation annuelle organisée depuis 2016 favorise la découverte et les échanges B2B locaux.",
+      "impact": "Opportunité de réseautage pour identifier des locataires potentiels et des espaces tertiaires à vocation durable en zone Marseille métropole.",
+      "date": "16/05/2026",
+      "url": "https://www.laprovence.com/article/economie/4440057673474314/les-indus-3days-offrent-une-tournee-dans-des-entreprises-ecoresponsables-a-chateau-gombert-a-marseille",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Retail",
+          "label": "Tendance ESG",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Minelli ferme ses 21 magasins en PACA : fin d'une icône",
-      "body": "L'enseigne provençale Minelli officialise la fermeture définitive de ses 21 points de vente à Gémenos, Aix et Avignon au 30 mai 2026. Cette disparition libère des surfaces commerciales significatives dans des zones urbaines stratégiques de la région.",
-      "impact": "Reprendre rapidement contact avec propriétaires/bailleurs des 21 locaux Minelli pour identifier opportunités de relocation commerciale ou reconversion activité PACA.",
-      "date": "13/05/2026",
-      "url": "https://www.laprovence.com/article/economie/44425990541876/naufrage-de-minelli-a-gemenos-aix-et-avignon-les-derniers-pas-d-une-icone-provencale",
+      "title": "Secteur hôtelier-touristique : essor formations luxe Marseille-PACA",
+      "body": "Douze jeunes Marseillais ont suivi une formation intensive de six semaines en hôtellerie de luxe à Barcelone et Marrakech. Cette dynamique de professionnalisation dans le secteur touristique reflète la croissance des investissements en locaux d'activité touristique et tertiaire en région.",
+      "impact": "Demande croissante de locaux mixtes (bureaux+accueil) pour acteurs du tourisme et hôtellerie ; à privilégier en zones côtières et métropoles PACA.",
+      "date": "15/05/2026",
+      "url": "https://www.laprovence.com/article/economie/3982104925172514/a-barcelone-et-marrakech-douze-marseillais-ont-decouvert-l-hotellerie-de-luxe",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Secteur touristique",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Village de Marques Miramas recrute 50+ postes estivaux",
-      "body": "Le centre McArthurGlen Provence organise un job dating le 20 mai avec une vingtaine de boutiques recrutant pour la saison estivale. Cette dynamique commerciale reflète la vitalité du secteur retail en PACA malgré un contexte économique tendu.",
-      "impact": "Valider auprès des gestionnaires McArthurGlen Provence les conditions actuelles d'occupation et disponibilités de locaux commerciaux pour nouvelle clientèle.",
-      "date": "13/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2071332422843114/une-cinquantaine-doffres-demploi-au-job-dating-du-village-des-marques-de-miramas",
+      "title": "Pasino Grand Aix : flagship immobilier tertiaire & loisirs PACA",
+      "body": "Le Pasino Grand d'Aix-en-Provence, ouvert en 2000 par Isidore Partouche, demeure le plus grand casino de France avec des standards de luxe reconnus. Cet établissement représente un modèle d'immobilier tertiaire à haute valeur ajoutée en zone métropole.",
+      "impact": "Référence pour évaluer les baux commerciaux haut de gamme et les locaux loisirs en Provence ; à considérer pour comparables de standing premium.",
+      "date": "15/05/2026",
+      "url": "https://www.laprovence.com/article/economie/3950184844768414/la-poker-room-en-france-elle-est-a-aix-affiche-le-directeur-general-du-pasino-grand-laurent-mizoule",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Commerce",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Conjoncture",
+          "label": "Immobilier commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Rénovation hôtel Mercure Pont d'Avignon : cycle investissement",
-      "body": "L'hôtel Mercure Pont d'Avignon finalise une rénovation de 6 mois sous pilotage du groupe J. CAP. Ces cycles d'investissement en immobilier tertiaire témoignent de la confiance dans l'attractivité touristique avignonnaise.",
-      "impact": "Monitorer les projets de rénovation hôtelière PACA pour identifier services annexes (bureaux, locaux activité) à commercialiser pendant chantiers.",
-      "date": "13/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2136892406827514/six-mois-de-renovation-le-mercure-pont-d-avignon-fait-peau-neuve",
+      "title": "Campings PACA : immobilier touristique stable, famille Ferrando La Ciotat",
+      "body": "Le camping de la Sauge à La Ciotat, exploité par la famille Ferrando depuis les années 1960, illustre la pérennité du segment touristique côtier en région. Son positionnement stratégique (proximité mer, avenue dynamique) confirme la valeur des locaux d'activité touristique.",
+      "impact": "Marché des locaux d'activité touristique (campings, gîtes, hébergements) reste stable ; opportunités de reprises ou extensions à évaluer sur littoral PACA.",
+      "date": "15/05/2026",
+      "url": "https://www.laprovence.com/article/tourisme/3692173614379814/le-camping-de-la-sauge-a-la-ciotat-l-ecrin-de-verdure-de-la-famille-ferrando-depuis-les-annees-1960",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Immobilier PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Secteur touristique",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Ligne THT stratégique : accélération rindustrialisation PACA",
-      "body": "L'État lance l'instruction de la déclaration d'utilité publique pour la future ligne à très haute tension, infrastructure clé de la réindustrialisation provençale. Ce chantier électrique débloque les conditions pour implantations industrielles et activité tertiaire supportive.",
-      "impact": "Anticiper hausse demande locaux activité/bureaux en zones d'implantation industrielle projetées post-THT ; cartographier corridors infrastructurels.",
-      "date": "13/05/2026",
-      "url": "https://www.laprovence.com/article/economie/2162389569382614/ligne-a-tres-haute-tension-l-etat-accelere-le-chantier-electrique-cle-de-la-reindustrialisation-provencale",
-      "source": "La Provence",
+      "title": "Taux OAT & financement immobilier : données marché 16/05/2026",
+      "body": "Taux OAT à 3,70%, Euribor 3M à 2,15%, politique BCE stable à 2,15%. Inflation France à 1,7%, Brent à 96 USD/bbl. Ces paramètres maintiennent une stabilité relative du coût du crédit immobilier PACA.",
+      "impact": "Coûts de financement en légère baisse relative ; négocier auprès banques PACA les conditions LTV/différentiel sur acquisitions bureaux/commerce locatifs.",
+      "date": "16/05/2026",
+      "url": "https://www.laprovence.com/article/economie",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Stratégie PACA",
-          "cls": "tp"
+          "label": "Taux financement",
+          "cls": "tt"
         },
         {
-          "label": "Infrastructure",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,46 +100,54 @@
   "macro": [
     {
       "id": "m1",
-      "title": "OAT 10Y stable 3.70% : conditions financement tertiaire inchangées",
-      "body": "Les taux obligataires français restent orientés vers 3.70% sur 10 ans en stable, maintenant les conditions de financement immobilier dans une bande étroite. Euribor 3M à 2.15% et taux directeur BCE à 2.15% encadrent une courbe normalisée post-cycle restrictif.",
-      "impact": "Tarification crédit immobilier tertiaire PACA inchangée ; fenêtre financement toujours ouverte pour transaction bureaux/activité sans impact taux.",
-      "date": "14/05/2026",
-      "url": "https://www.laprovence.com/",
-      "source": "Données marché",
+      "title": "Accords commerciaux USA-Chine : stabilité géopolitique relative mai 2026",
+      "body": "Donald Trump a quitté la Chine après deux jours de sommet en revendiquant des accords commerciaux « fantastiques », sans avancée majeure sur tensions Iran/désaccords structurels. La situation reste fragmentée sur les grands dossiers commerciaux internationaux.",
+      "impact": "Volatilité géopolitique modérée ; maintenir prudence sur risques change EUR/USD et coûts d'importation matériaux construction locaux tertiairies PACA.",
+      "date": "15/05/2026",
+      "url": "https://www.laprovence.com/article/france-monde/3837173467545514/donald-trump-quitte-la-chine-en-revendiquant-des-accords-commerciaux-fantastiques",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux OAT",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France 1.7% : modération contextuelle pour immobilier",
-      "body": "L'inflation française revient à 1.7%, bien en dessous du seuil BCE, traduisant une modération économique générale. Ce contexte déflationniste ralentit pression hausse loyers commerciaux et préserve compétitivité espaces PACA vs régions concurrentes.",
-      "impact": "Valorisation bureaux/activité PACA moins exposée à renchérissement ; fenêtre acquisition intéressante avant potentiel retour inflation.",
+      "title": "Projets THT Camargue : tensions infra énergétiques France",
+      "body": "Militants et élus arlésiens restent mobilisés avant enquête publique sur la ligne THT en Camargue ; le ministère de l'Énergie annonce l'instruction de la demande. Ces oppositions locales reflètent les tensions croissantes sur l'énergie et l'infrastructure en France.",
+      "impact": "Risques réglementaires et permis sur projets immobiliers tertiaires/activité en zones rurales ; valider acceptabilité locale avant transactions PACA périphérique.",
       "date": "14/05/2026",
-      "url": "https://www.laprovence.com/",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/ecoplanete/3084860601119814/ligne-tht-en-camargue-militants-et-elus-arlesiens-restent-mobilises-a-l-approche-de-l-enquete-publique",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
+          "label": "Énergie",
           "cls": "tg"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Brent 96 USD : stabilité énergétique favorable secteur tertiaire",
-      "body": "Le pétrole Brent se maintient à 96 USD/baril, reflétant stabilité géopolitique relative et offre-demande équilibrée. Cette stabilité énergétique limite risque choc inflation et soutient prévisibilité des charges d'exploitation immobilière.",
-      "impact": "Charges immobilière previsibles ; margarine immobilière tertiaire PACA non dégradée par volatilité énergétique.",
-      "date": "14/05/2026",
-      "url": "https://www.laprovence.com/",
+      "title": "Contexte macro France : inflation maitrisée, taux stables mai 2026",
+      "body": "Inflation France à 1,7%, OAT 3,70%, BCE à 2,15%, Euribor 3M 2,15%, Brent 96 USD/bbl. Environnement macro-économique stable et peu inflationniste en zone euro. Stabilité relative des conditions monétaires favorise investissement immobilier.",
+      "impact": "Fenêtre favorable pour closing transactions immobilières tertiairies/commerce PACA ; taux réels attractifs, saisir opportunités cédants avant potentielles révisions policy.",
+      "date": "16/05/2026",
+      "url": "https://www.laprovence.com/article/economie",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique-Énergie",
-          "cls": "tg"
+          "label": "Inflation/BCE",
+          "cls": "tt"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     }

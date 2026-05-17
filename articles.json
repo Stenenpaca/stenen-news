@@ -1,13 +1,13 @@
 {
-  "generated_at": "16/05/2026",
+  "generated_at": "17/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Indus'3Days : tournée d'entreprises écoresponsables à Marseille",
-      "body": "Les Indus'3Days reviennent à Marseille avec une nouveauté : la visite de Château-Gombert (13e arr.), mettant en avant des entreprises du territoire engagées dans la transition écologique. Cette manifestation annuelle organisée depuis 2016 favorise la découverte et les échanges B2B locaux.",
-      "impact": "Opportunité de réseautage pour identifier des locataires potentiels et des espaces tertiaires à vocation durable en zone Marseille métropole.",
-      "date": "16/05/2026",
-      "url": "https://www.laprovence.com/article/economie/4440057673474314/les-indus-3days-offrent-une-tournee-dans-des-entreprises-ecoresponsables-a-chateau-gombert-a-marseille",
+      "title": "Groupe Sebban acquiert l'ex-hôtel Artea à Aix-en-Provence",
+      "body": "Le groupe Sebban poursuit sa stratégie d'acquisition immobilière en reprenant l'ancienne propriété Milhaud rue de la République à Aix-en-Provence. Cette opération illustre la dynamique de repositionnement des actifs commerciaux et hôteliers en centre-ville provençal.",
+      "impact": "Opportunité de transaction : identifier les reconversions potentielles de patrimoine hôtelier vers des usages bureaux/services dans les centres historiques aixois.",
+      "date": "17/05/2026",
+      "url": "https://www.laprovence.com/article/economie/5279580178126214/le-groupe-sebban-achete-lex-hotel-artea-ancienne-propriete-des-milhaud-a-aix-en-provence",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Tendance ESG",
+          "label": "Transaction",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Secteur hôtelier-touristique : essor formations luxe Marseille-PACA",
-      "body": "Douze jeunes Marseillais ont suivi une formation intensive de six semaines en hôtellerie de luxe à Barcelone et Marrakech. Cette dynamique de professionnalisation dans le secteur touristique reflète la croissance des investissements en locaux d'activité touristique et tertiaire en région.",
-      "impact": "Demande croissante de locaux mixtes (bureaux+accueil) pour acteurs du tourisme et hôtellerie ; à privilégier en zones côtières et métropoles PACA.",
-      "date": "15/05/2026",
-      "url": "https://www.laprovence.com/article/economie/3982104925172514/a-barcelone-et-marrakech-douze-marseillais-ont-decouvert-l-hotellerie-de-luxe",
+      "title": "Sophie Ferjani réinvente son agence à Marseille",
+      "body": "L'architecte d'intérieur Sophie Ferjani déménage son showroom depuis la rue de la République où elle opérait depuis 2017. Ce changement de localisation reflète une évolution stratégique de positionnement dans l'offre marseillaise de services aux entreprises.",
+      "impact": "Signal de mobilité des prestataires tertiaires : surveiller les migrations de cabinets conseil/design vers de nouveaux quartiers dynamiques marseillais pour anticiper les flux de demande d'espaces.",
+      "date": "17/05/2026",
+      "url": "https://www.laprovence.com/article/region/5296603927225614/cetait-le-moment-de-se-repenser-la-selection-de-sophie-ferjani-prend-un-nouveau-tournant-a-marseille",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Secteur touristique",
+          "label": "Bureaux",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Pasino Grand Aix : flagship immobilier tertiaire & loisirs PACA",
-      "body": "Le Pasino Grand d'Aix-en-Provence, ouvert en 2000 par Isidore Partouche, demeure le plus grand casino de France avec des standards de luxe reconnus. Cet établissement représente un modèle d'immobilier tertiaire à haute valeur ajoutée en zone métropole.",
-      "impact": "Référence pour évaluer les baux commerciaux haut de gamme et les locaux loisirs en Provence ; à considérer pour comparables de standing premium.",
-      "date": "15/05/2026",
-      "url": "https://www.laprovence.com/article/economie/3950184844768414/la-poker-room-en-france-elle-est-a-aix-affiche-le-directeur-general-du-pasino-grand-laurent-mizoule",
+      "title": "Attractivité centre-ville : Aubagne agit sur parkings et commerces",
+      "body": "L'association des artisans, commerçants et professions libérales d'Aubagne se mobilise pour revitaliser le centre-ville via des mesures d'accessibilité et de stationnement. Cette initiative collective traduit les enjeux de compétitivité des centres commerciaux régionaux.",
+      "impact": "Pour les acteurs CRE : intégrer les politiques locales d'attractivité (parkings, services) dans les études de viabilité des implantations commerciales/activité en zones périurbaines.",
+      "date": "17/05/2026",
+      "url": "https://www.laprovence.com/article/economie/5237495176738514/parkings-gratuits-attractivite-lassociation-des-commercants-daubagne-se-penche-sur-le-centre-ville",
       "source": "La Provence",
       "tags": [
         {
@@ -53,18 +53,37 @@
           "cls": "tp"
         },
         {
-          "label": "Immobilier commerce",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Campings PACA : immobilier touristique stable, famille Ferrando La Ciotat",
-      "body": "Le camping de la Sauge à La Ciotat, exploité par la famille Ferrando depuis les années 1960, illustre la pérennité du segment touristique côtier en région. Son positionnement stratégique (proximité mer, avenue dynamique) confirme la valeur des locaux d'activité touristique.",
-      "impact": "Marché des locaux d'activité touristique (campings, gîtes, hébergements) reste stable ; opportunités de reprises ou extensions à évaluer sur littoral PACA.",
-      "date": "15/05/2026",
-      "url": "https://www.laprovence.com/article/tourisme/3692173614379814/le-camping-de-la-sauge-a-la-ciotat-l-ecrin-de-verdure-de-la-famille-ferrando-depuis-les-annees-1960",
+      "title": "Financement immobilier : OAT à 3,70%, Euribor3M à 2,15%",
+      "body": "Les conditions de financement demeurent stables avec des taux OAT soutenus et Euribor 3M à 2,15%. Cet environnement conduit les investisseurs à privilégier les actifs décorrélés avec des cash-flows prévisibles.",
+      "impact": "Conseiller les vendeurs/acquéreurs CRE sur l'opportunité des montages mixtes dettes/fonds propres face à la persistance des taux moyen-long terme élevés.",
+      "date": "17/05/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-marche",
+      "source": "Donnees Marche",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Innovation tertiaire : IA de well-being pour dirigeants d'entreprises",
+      "body": "Une entrepreneuse aixoise lance une solution IA destinée à prévenir le burn-out chez les dirigeants. Cette émergence d'outils de santé managériale reflète l'intégration croissante du bien-être au travail dans les stratégies locales.",
+      "impact": "Opportunité de positionnement : identifier les locaux activité/bureaux offrant espaces wellness, flexibilité et services digitaux pour attirer les PME-TPE en quête de nouvelles conditions de travail.",
+      "date": "16/05/2026",
+      "url": "https://www.laprovence.com/article/economie/4530416673264314/a-aix-une-entrepreneuse-lance-une-ia-pour-aider-les-dirigeants-a-eviter-le-burn-out",
       "source": "La Provence",
       "tags": [
         {
@@ -72,27 +91,8 @@
           "cls": "tp"
         },
         {
-          "label": "Secteur touristique",
+          "label": "Flex-office",
           "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Taux OAT & financement immobilier : données marché 16/05/2026",
-      "body": "Taux OAT à 3,70%, Euribor 3M à 2,15%, politique BCE stable à 2,15%. Inflation France à 1,7%, Brent à 96 USD/bbl. Ces paramètres maintiennent une stabilité relative du coût du crédit immobilier PACA.",
-      "impact": "Coûts de financement en légère baisse relative ; négocier auprès banques PACA les conditions LTV/différentiel sur acquisitions bureaux/commerce locatifs.",
-      "date": "16/05/2026",
-      "url": "https://www.laprovence.com/article/economie",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Taux financement",
-          "cls": "tt"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
         }
       ]
     }
@@ -100,53 +100,57 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Accords commerciaux USA-Chine : stabilité géopolitique relative mai 2026",
-      "body": "Donald Trump a quitté la Chine après deux jours de sommet en revendiquant des accords commerciaux « fantastiques », sans avancée majeure sur tensions Iran/désaccords structurels. La situation reste fragmentée sur les grands dossiers commerciaux internationaux.",
-      "impact": "Volatilité géopolitique modérée ; maintenir prudence sur risques change EUR/USD et coûts d'importation matériaux construction locaux tertiairies PACA.",
-      "date": "15/05/2026",
-      "url": "https://www.laprovence.com/article/france-monde/3837173467545514/donald-trump-quitte-la-chine-en-revendiquant-des-accords-commerciaux-fantastiques",
-      "source": "La Provence",
+      "title": "Brent stable à 96 USD/baril, énergie : context géopolitique latent",
+      "body": "Le prix du baril Brent demeure stable à 96 USD dans un contexte de tensions géopolitiques persistantes. L'absence de volatilité extrême suggère un équilibre offre-demande ancré.",
+      "impact": "Stabilité énergétique favorable aux coûts d'exploitation CRE PACA : maintenir le suivi des primes de risque géopolitique pouvant affecter les charges tertiaires.",
+      "date": "17/05/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-marche-brent",
+      "source": "Donnees Marche",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Geopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "Energie",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Projets THT Camargue : tensions infra énergétiques France",
-      "body": "Militants et élus arlésiens restent mobilisés avant enquête publique sur la ligne THT en Camargue ; le ministère de l'Énergie annonce l'instruction de la demande. Ces oppositions locales reflètent les tensions croissantes sur l'énergie et l'infrastructure en France.",
-      "impact": "Risques réglementaires et permis sur projets immobiliers tertiaires/activité en zones rurales ; valider acceptabilité locale avant transactions PACA périphérique.",
-      "date": "14/05/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/3084860601119814/ligne-tht-en-camargue-militants-et-elus-arlesiens-restent-mobilises-a-l-approche-de-l-enquete-publique",
-      "source": "La Provence",
+      "title": "Inflation France modérée à 1,7%, support BCE à 2,15%",
+      "body": "L'inflation française poursuit sa décélération à 1,7% tandis que la BCE maintient ses taux directeurs à 2,15%. Ce cadre restrictif modéré crée une fenêtre de refinancement favorable.",
+      "impact": "Contexte favorable aux montages de refinancement long-terme : négocier auprès des banques les maturités sur investissements CRE PACA avant normalisations de politique monétaire.",
+      "date": "17/05/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-cbe",
+      "source": "Donnees Marche",
       "tags": [
         {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Inflation",
+          "cls": "tt"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "BCE",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macro France : inflation maitrisée, taux stables mai 2026",
-      "body": "Inflation France à 1,7%, OAT 3,70%, BCE à 2,15%, Euribor 3M 2,15%, Brent 96 USD/bbl. Environnement macro-économique stable et peu inflationniste en zone euro. Stabilité relative des conditions monétaires favorise investissement immobilier.",
-      "impact": "Fenêtre favorable pour closing transactions immobilières tertiairies/commerce PACA ; taux réels attractifs, saisir opportunités cédants avant potentielles révisions policy.",
-      "date": "16/05/2026",
-      "url": "https://www.laprovence.com/article/economie",
-      "source": "Données marché",
+      "title": "OAT 10Y à 3,70% : marché obligataire France stable",
+      "body": "Les obligations assimilables du Trésor (OAT) 10 ans demeurent ancrées à 3,70%, reflétant la confiance relative des marchés envers le profil de risque souverain français. Cet équilibre taux/croissance soutient les arbitrages investissement immobilier.",
+      "impact": "Valorisations CRE PACA : utiliser les rendements OAT comme benchmark pour ajuster les taux de capitalisation demandés (spreads de risque immobilier vs taux souverain).",
+      "date": "17/05/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-oat",
+      "source": "Donnees Marche",
       "tags": [
         {
-          "label": "Inflation/BCE",
+          "label": "Taux",
           "cls": "tt"
         },
         {
-          "label": "Conjoncture",
+          "label": "Marche",
           "cls": "tm"
         }
       ]

@@ -1,74 +1,17 @@
 {
-  "generated_at": "18/05/2026",
+  "generated_at": "19/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Pélissanne : nouvelle dynamique commerciale en centre-ville",
-      "body": "Le primeur des Costes ouvre ses portes rue Carnot ce 19 mai, marquant le retour d'une offre de proximité en centre-ville de Pélissanne après deux fermetures antérieures. Cette réouverture illustre la demande persistante pour les commerces de centre-bourg dans les petites agglomérations PACA.",
-      "impact": "Opportunité pour identifier des locaux commerciaux disponibles à Pélissanne auprès de propriétaires cherchant à redynamiser leurs centres-villes.",
-      "date": "18/05/2026",
-      "url": "https://www.laprovence.com/article/economie/6222875308046414/le-primeur-des-costes-un-nouveau-commerce-de-proximite-en-centre-ville-de-pelissanne",
+      "title": "Marseille hub attractif : 400 décideurs aux Rencontres du Made in France",
+      "body": "La Friche la Belle-de-Mai accueillera en juin les Rencontres du Made in France, rassemblant plus de 400 entrepreneurs et experts. Cette dynamique démontre la capacité de Marseille à fédérer les acteurs économiques régionaux autour de projets structurants.",
+      "impact": "Opportunité de sourcing de locaux d'activité et espaces événementiels pour entreprises manufacturières en quête de visibilité PACA.",
+      "date": "19/05/2026",
+      "url": "https://www.laprovence.com/article/economie/7038307101268514/rencontres-du-made-in-france-plus-de-400-decideurs-entrepreneurs-et-experts-attendus-a-marseille-en-juin",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Centre-ville",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Tarascon : succès du concept hybride loisirs-sport-restauration",
-      "body": "Le Central Club de Tarascon enregistre un démarrage très encourageant après un mois d'exploitation, proposant un concept peu développé localement combinant trois activités. Cette diversification fonctionnelle représente une tendance pour optimiser l'usage des surfaces commerciales.",
-      "impact": "À retenir pour conseiller sur les locaux d'activité hybrides et multi-fonctionnels en demande en PACA, nécessitant des surfaces flexibles et bien desservies.",
-      "date": "18/05/2026",
-      "url": "https://www.laprovence.com/article/economie/49906061786866/le-central-club-de-tarascon-trouve-deja-son-public-entre-loisirs-sport-et-restauration",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Activités PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Flex-office",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Aubagne : réouverture nocturne des commerces de nuit autorisée",
-      "body": "Depuis le 10 mai, l'arrêté municipal interdisant l'exploitation nocturne à Aubagne n'a plus cours, permettant aux épiceries de nuit de rouvrir sur horaires élargis. Cette assouplissement réglementaire crée des opportunités pour les commerces de proximité.",
-      "impact": "Vérifier auprès des collectivités PACA les restrictions d'horaires d'exploitation pour conseiller adéquatement sur la viabilité des locaux commerciaux.",
-      "date": "17/05/2026",
-      "url": "https://www.laprovence.com/article/faits-divers-justice/5686597629272414/a-aubagne-les-epiceries-de-nuit-peuvent-rouvrir-la-nuit-depuis-le-10-mai",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
-          "label": "Commerce PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Gardanne : réouverture d'une boulangerie après travaux",
-      "body": "La boulangerie du quartier Biver à Gardanne rouvre après plus d'un an de fermeture suite à travaux de rénovation. Cette reprise d'activité montre la viabilité des commerces essentiels en périphérie urbaine.",
-      "impact": "Surveiller les reprises d'exploitation et rénovations pour identifier des opportunités de transaction de fonds de commerce en PACA.",
-      "date": "17/05/2026",
-      "url": "https://www.laprovence.com/article/economie/5393498142693214/de-la-securite-a-la-boulangerie-anthony-a-change-de-vie-pour-rallumer-un-fournil-a-gardanne",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Commerce PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
@@ -78,16 +21,73 @@
       ]
     },
     {
-      "id": "f5",
-      "title": "Marseille : évolution du secteur design-décoration urbaine",
-      "body": "Sophie Ferjani déplace son activité d'architecture d'intérieur à Marseille après 9 ans rue de la République, illustrant la mobilité des professionnels du secteur. Cette mutation reflète les changements de dynamiques commerciales en centre-ville.",
-      "impact": "Analyser la mobilité des petits bureaux/services à Marseille pour identifier les zones en recomposition et les opportunités locatives.",
-      "date": "17/05/2026",
-      "url": "https://www.laprovence.com/article/region/5296603927225614/cetait-le-moment-de-se-repenser-la-selection-de-sophie-ferjani-prend-un-nouveau-tournant-a-marseille",
+      "id": "f2",
+      "title": "McArthurGlen Provence : croissance record malgré contexte difficile",
+      "body": "Le village de marques de Miramas affiche une croissance record en 2025 après un exercice jugé complexe statistiquement. Cette performance reflète la résilience du commerce de détail spécialisé en région PACA.",
+      "impact": "Contexte favorable pour les locaux commerciaux premium et outlets en PACA ; demande soutenue pour espaces retail haut de gamme.",
+      "date": "19/05/2026",
+      "url": "https://www.laprovence.com/article/economie/7055268584891914/mcarthurglen-provence-comment-le-village-des-marques-de-miramas-affiche-une-croissance-record",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Bureaux PACA",
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Prix Pépite 2026 : inscriptions ouvertes pour entrepreneurs PACA",
+      "body": "Le Prix Pépite 2026 accueille les candidatures d'étudiants entrepreneurs dessinant l'économie de demain. Ce programme structurant identifie les futurs créateurs d'emplois et d'activités dans la région.",
+      "impact": "Signal positif pour les besoins en petits locaux activité, bureaux flex et espaces partagés destinés aux jeunes entreprises de la région.",
+      "date": "19/05/2026",
+      "url": "https://www.laprovence.com/article/economie/7049639017293314/prix-pepite-2026-les-inscriptions-sont-ouvertes",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "PME PACA : records d'investissement en capital-investissement 2025",
+      "body": "France Invest souligne que Marseille et la région PACA deviennent des pôles majeurs du capital-investissement, historiquement concentré en Île-de-France. Cette décentralisation du financement renforce l'attractivité locale pour les PME en croissance.",
+      "impact": "Augmentation de la demande tertiaire (bureaux transactions, conseil) et locaux activité pour PME bénéficiaires de levées de fonds ; opportunités de croissance immobilière.",
+      "date": "19/05/2026",
+      "url": "https://www.laprovence.com/article/economie/33984786099224/pme-en-paca-innovation-transmission-et-records-dinvestissement-en-2025",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "LinkedIn Top Companies 2026 : Marseille pôle de trajectoires professionnelles",
+      "body": "Marseille figure pour la première fois dans le classement LinkedIn Top Companies, consacrant son émergence comme laboratoire des trajectoires professionnelles audacieuses. L'attractivité talent et l'écosystème entrepreneurial régional s'accélèrent.",
+      "impact": "Demande accrue en bureaux modernes, espaces collaboratifs et locaux flexibles pour entreprises de tech et services aux entreprises en quête de talents PACA.",
+      "date": "19/05/2026",
+      "url": "https://www.laprovence.com/article/economie/3747197342576114/linkedin-top-companies-2026-quelles-sont-les-meilleures-entreprises-de-marseille-ou-booster-votre-carriere",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
           "cls": "tp"
         },
         {
@@ -100,46 +100,50 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Taux OAT et financement : stabilité à 3.70%",
-      "body": "Les obligations assimilables du Trésor français se maintiennent à 3.70%, reflétant les anticipations de politique monétaire de la BCE. Cette stabilité tarifaire favorise les conditions de crédit bancaire pour les investisseurs immobiliers.",
-      "impact": "Les taux de crédit pour acquisition de locaux en PACA restent soutenus ; négocier les conditions de financement auprès des partenaires bancaires.",
-      "date": "18/05/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "title": "Besoins énergétiques Fos-Berre : +5000 à 8000 MW d'ici 2030",
+      "body": "RTE projette une croissance colossale des besoins électriques du complexe Fos-Berre (5000 à 8000 MW additionnels) rendue nécessaire par la décarbonation industrielle progressive. Cette transition énergétique impacte directement les investissements en infrastructure régionale.",
+      "impact": "Décarbonation industrielle accélérée : demande immobilière tertiaire/logistique décuplée pour secteur énergies renouvelables et industries vertes en PACA.",
+      "date": "19/05/2026",
+      "url": "https://www.laprovence.com/article/economie/35432372023380/ligne-a-tres-haute-tension-et-maintenant",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "Géopolitique/Énergie",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Euribor 3M à 2.15% : refinancement maîtrisé",
-      "body": "L'Euribor 3 mois se stabilise à 2.15%, en ligne avec les taux directeurs de la BCE également à 2.15%. Cette convergence indique une transmission effective de la politique monétaire aux marchés de refinancement.",
-      "impact": "Les crédits à taux variable pour les investisseurs institutionnels en immobilier PACA offrent une visibilité raisonnable sur les coûts futurs.",
-      "date": "18/05/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "title": "Ligne THT Gard-Fos : accélération de la DUP malgré résistances locales",
+      "body": "L'État poursuit la procédure de Déclaration d'utilité publique pour la ligne très haute tension vers Fos-sur-Mer, assumant la priorité de décarbonation industrielle. Ce choix politique accélère les transformations énergétiques du territoire malgré les oppositions du collectif Stop THT.",
+      "impact": "Infrastructure critique pour zones d'activité Fos-Berre : anticiper restructurations immobilières et relocalisations d'activités incompatibles avec corridors électriques.",
+      "date": "19/05/2026",
+      "url": "https://www.laprovence.com/article/economie/6974892283686414/billet-ligne-tht-entre-le-gard-et-fos-sur-mer-vite-trop-vite",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "Régulation",
+          "cls": "tr"
+        },
+        {
+          "label": "Géopolitique/Énergie",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France à 1.7% : context économique modéré",
-      "body": "L'inflation française reste contenue à 1.7%, bien en-deçà des seuils d'alerte de la BCE, confirmant la désinflation progressive en Europe. Cet environnement favorable réduit les pressions sur les coûts d'exploitation et les rents immobiliers.",
-      "impact": "Argument commercial solide pour rassurer les preneurs de locaux sur la stabilité des charges d'exploitation en PACA.",
-      "date": "18/05/2026",
-      "url": "https://www.laprovence.com",
+      "title": "Contexte macro-financier : stabilité OAT 3.70%, Euribor 2.15%, inflation 1.7%",
+      "body": "Les taux obligataires français restent stables (OAT 3.70%), l'Euribor 3M à 2.15% et l'inflation française modérée à 1.7%, maintenant un environnement de financement prévisible. Cette stabilité relative favorise les investissements immobiliers à moyen terme malgré les incertitudes géopolitiques.",
+      "impact": "Conditions de crédit stables pour acquisitions CRE PACA : OAT 3.70% et Euribor 2.15% permettent financement compétitif si conditions locales du marché le justifient.",
+      "date": "19/05/2026",
+      "url": "https://www.laprovence.com/article/economie/",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "Taux/Financement",
+          "cls": "tt"
         }
       ]
     }

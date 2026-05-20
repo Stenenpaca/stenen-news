@@ -1,13 +1,32 @@
 {
-  "generated_at": "19/05/2026",
+  "generated_at": "20/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Marseille hub attractif : 400 décideurs aux Rencontres du Made in France",
-      "body": "La Friche la Belle-de-Mai accueillera en juin les Rencontres du Made in France, rassemblant plus de 400 entrepreneurs et experts. Cette dynamique démontre la capacité de Marseille à fédérer les acteurs économiques régionaux autour de projets structurants.",
-      "impact": "Opportunité de sourcing de locaux d'activité et espaces événementiels pour entreprises manufacturières en quête de visibilité PACA.",
+      "title": "Télétravail : impact positif confirmé sur la productivité",
+      "body": "Une étude de l'INSEE et de la Dares démontre qu'une hausse de 10 points de télétravailleurs génère un gain de 0,7 à 1% de croissance de productivité. Ce résultat valide les stratégies flex-office et réduction d'espaces bureaux.",
+      "impact": "Opportunité de restructuration d'actifs tertiaires PACA : valorisation des espaces multi-usages et réduction des postes de travail fixes.",
+      "date": "20/05/2026",
+      "url": "https://www.laprovence.com/article/economie/7874316129966614/teletravail-une-etude-revele-un-impact-positif-sur-la-productivite",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Flex-office",
+          "cls": "tm"
+        },
+        {
+          "label": "Productivité",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Abandon du projet Carbon à Fos-sur-Mer : marché industriel fragilisé",
+      "body": "La gigafactory photovoltaïque Carbon sur 45-60 hectares de la zone industrialo-portuaire de Fos a officiellement cessé ses activités après 4 ans de développement. Cet effondrement révèle les risques structurels des projets industriels en PACA.",
+      "impact": "Disponibilités potentielles de grandes surfaces d'activité dans les zones portuaires PACA : négocier les reprises et repositionnements.",
       "date": "19/05/2026",
-      "url": "https://www.laprovence.com/article/economie/7038307101268514/rencontres-du-made-in-france-plus-de-400-decideurs-entrepreneurs-et-experts-attendus-a-marseille-en-juin",
+      "url": "https://www.laprovence.com/article/economie/7803911452197614/carbon-a-fos-sur-mer-l-effondrement-d-un-reve-industriel",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Activité",
           "cls": "tm"
         }
       ]
     },
     {
-      "id": "f2",
-      "title": "McArthurGlen Provence : croissance record malgré contexte difficile",
-      "body": "Le village de marques de Miramas affiche une croissance record en 2025 après un exercice jugé complexe statistiquement. Cette performance reflète la résilience du commerce de détail spécialisé en région PACA.",
-      "impact": "Contexte favorable pour les locaux commerciaux premium et outlets en PACA ; demande soutenue pour espaces retail haut de gamme.",
+      "id": "f3",
+      "title": "Conjoncture : difficultés en cascade dans le secteur agroalimentaire PACA",
+      "body": "Provence Chips (Allauch) a basculé en liquidation judiciaire, illustrant les tensions persistantes du tissu PME régional. Ces défaillances s'accumulent après la crise sanitaire et reflètent une fragilité des petits exploitants.",
+      "impact": "Vigilance accrue sur la solvabilité des preneurs en locaux d'activité et commerces PACA : durcir les critères de qualification.",
       "date": "19/05/2026",
-      "url": "https://www.laprovence.com/article/economie/7055268584891914/mcarthurglen-provence-comment-le-village-des-marques-de-miramas-affiche-une-croissance-record",
+      "url": "https://www.laprovence.com/article/region/14754030787256/un-creve-coeur-patrick-llerena-explique-ce-qui-a-conduit-la-chips-d-allauch-en-liquidation-judiciaire",
       "source": "La Provence",
       "tags": [
         {
@@ -40,59 +59,40 @@
       ]
     },
     {
-      "id": "f3",
-      "title": "Prix Pépite 2026 : inscriptions ouvertes pour entrepreneurs PACA",
-      "body": "Le Prix Pépite 2026 accueille les candidatures d'étudiants entrepreneurs dessinant l'économie de demain. Ce programme structurant identifie les futurs créateurs d'emplois et d'activités dans la région.",
-      "impact": "Signal positif pour les besoins en petits locaux activité, bureaux flex et espaces partagés destinés aux jeunes entreprises de la région.",
-      "date": "19/05/2026",
-      "url": "https://www.laprovence.com/article/economie/7049639017293314/prix-pepite-2026-les-inscriptions-sont-ouvertes",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
       "id": "f4",
-      "title": "PME PACA : records d'investissement en capital-investissement 2025",
-      "body": "France Invest souligne que Marseille et la région PACA deviennent des pôles majeurs du capital-investissement, historiquement concentré en Île-de-France. Cette décentralisation du financement renforce l'attractivité locale pour les PME en croissance.",
-      "impact": "Augmentation de la demande tertiaire (bureaux transactions, conseil) et locaux activité pour PME bénéficiaires de levées de fonds ; opportunités de croissance immobilière.",
-      "date": "19/05/2026",
-      "url": "https://www.laprovence.com/article/economie/33984786099224/pme-en-paca-innovation-transmission-et-records-dinvestissement-en-2025",
-      "source": "La Provence",
+      "title": "Financement & taux : stabilité des OAT à 3,70%, Euribor 3M à 2,15%",
+      "body": "Les conditions de financement immobilier restent encadrées par une OAT française stable à 3,70% et un Euribor 3 mois inchangé à 2,15%, supportant les structures de taux des actifs CRE PACA. L'environnement monétaire demeure restrictif mais prévisible.",
+      "impact": "Négocier à horizon 24-36 mois sur la base d'un taux plancher : les spreads bancaires offrent des marges pour les preneurs solvables en PACA.",
+      "date": "20/05/2026",
+      "url": "https://www.laprovence.com/article/economie/7874316129966614/teletravail-une-etude-revele-un-impact-positif-sur-la-productivite",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Financement",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "LinkedIn Top Companies 2026 : Marseille pôle de trajectoires professionnelles",
-      "body": "Marseille figure pour la première fois dans le classement LinkedIn Top Companies, consacrant son émergence comme laboratoire des trajectoires professionnelles audacieuses. L'attractivité talent et l'écosystème entrepreneurial régional s'accélèrent.",
-      "impact": "Demande accrue en bureaux modernes, espaces collaboratifs et locaux flexibles pour entreprises de tech et services aux entreprises en quête de talents PACA.",
-      "date": "19/05/2026",
-      "url": "https://www.laprovence.com/article/economie/3747197342576114/linkedin-top-companies-2026-quelles-sont-les-meilleures-entreprises-de-marseille-ou-booster-votre-carriere",
+      "title": "Décret tertiaire : dialogue urgent réclamé sur l'infrastructure énergétique",
+      "body": "La CCI du Pays d'Arles appelle au dialogue sur les projets de ligne THT 400kV (DUP en cours), directement impactants pour l'accueil de nouveaux actifs consommateurs d'énergie intensive. Les délais d'enlisement menacent les projets multi-activité.",
+      "impact": "Vérifier la conformité énergétique future des bâtiments tertiaires PACA : les coûts de raccordement et délais d'infrastructure deviennent critiques.",
+      "date": "20/05/2026",
+      "url": "https://www.laprovence.com/article/economie/68179587474802/ligne-a-tres-haute-tension-la-cci-du-pays-d-arles-appelle-a-un-dialogue-urgent-pour-eviter-l-enlisement",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Réglementation",
+          "cls": "tr"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,50 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Besoins énergétiques Fos-Berre : +5000 à 8000 MW d'ici 2030",
-      "body": "RTE projette une croissance colossale des besoins électriques du complexe Fos-Berre (5000 à 8000 MW additionnels) rendue nécessaire par la décarbonation industrielle progressive. Cette transition énergétique impacte directement les investissements en infrastructure régionale.",
-      "impact": "Décarbonation industrielle accélérée : demande immobilière tertiaire/logistique décuplée pour secteur énergies renouvelables et industries vertes en PACA.",
-      "date": "19/05/2026",
-      "url": "https://www.laprovence.com/article/economie/35432372023380/ligne-a-tres-haute-tension-et-maintenant",
+      "title": "Négociations Samsung : risque grève et impacts chaîne approvisionnement",
+      "body": "Samsung Electronics et les syndicats reprennent les négociations sous médiation gouvernementale le 20 mai pour éviter une grève imminente en Corée du Sud. Une rupture impacterait directement la chaîne d'approvisionnement Tech/électronique européenne.",
+      "impact": "Surveiller les impacts indirects sur les projets logistiques ou R&D high-tech en PACA : retards probables de composants et inflation des coûts de sourcing.",
+      "date": "20/05/2026",
+      "url": "https://www.laprovence.com/article/economie/7911003175710214/greve-imminente-chez-samsung-les-negociations-reprennent-avec-la-mediation-du-gouvernement",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Chaîne",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Ligne THT Gard-Fos : accélération de la DUP malgré résistances locales",
-      "body": "L'État poursuit la procédure de Déclaration d'utilité publique pour la ligne très haute tension vers Fos-sur-Mer, assumant la priorité de décarbonation industrielle. Ce choix politique accélère les transformations énergétiques du territoire malgré les oppositions du collectif Stop THT.",
-      "impact": "Infrastructure critique pour zones d'activité Fos-Berre : anticiper restructurations immobilières et relocalisations d'activités incompatibles avec corridors électriques.",
-      "date": "19/05/2026",
-      "url": "https://www.laprovence.com/article/economie/6974892283686414/billet-ligne-tht-entre-le-gard-et-fos-sur-mer-vite-trop-vite",
-      "source": "La Provence",
+      "title": "Inflation France : stabilité à 1,7%, BCE à 2,15%",
+      "body": "L'inflation française reste maîtrisée à 1,7% avec un taux directeur BCE maintenu à 2,15%, signalant une probable pause des hausses monétaires. Le contexte restrictif perdure mais laisse entrevoir une normalisation progressive.",
+      "impact": "Anticiper un assouplissement progressif des conditions de crédit immobilier PACA d'ici Q3/Q4 2026 : négocier les clauses de révision longue durée.",
+      "date": "20/05/2026",
+      "url": "https://www.laprovence.com/article/economie/7874316129966614/teletravail-une-etude-revele-un-impact-positif-sur-la-productivite",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Inflation",
+          "cls": "tg"
         },
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macro-financier : stabilité OAT 3.70%, Euribor 2.15%, inflation 1.7%",
-      "body": "Les taux obligataires français restent stables (OAT 3.70%), l'Euribor 3M à 2.15% et l'inflation française modérée à 1.7%, maintenant un environnement de financement prévisible. Cette stabilité relative favorise les investissements immobiliers à moyen terme malgré les incertitudes géopolitiques.",
-      "impact": "Conditions de crédit stables pour acquisitions CRE PACA : OAT 3.70% et Euribor 2.15% permettent financement compétitif si conditions locales du marché le justifient.",
-      "date": "19/05/2026",
-      "url": "https://www.laprovence.com/article/economie/",
+      "title": "Énergie : Brent stable à 96 USD, tensions géopolitiques persistantes",
+      "body": "Le prix du Brent se stabilise à 96 USD/baril, reflétant une tension géopolitique latente (Moyen-Orient, Russie). Les risques d'approvisionnement énergétique restent élevés pour l'Europe et l'inflation de l'énergie impacte les coûts d'exploitation immobilière.",
+      "impact": "Intégrer les clauses d'ajustement énergétique et les bilans thermiques renforcés dans les baux tertiaires/activité PACA : sécuriser les marges.",
+      "date": "20/05/2026",
+      "url": "https://www.laprovence.com/article/economie/68179587474802/ligne-a-tres-haute-tension-la-cci-du-pays-d-arles-appelle-a-un-dialogue-urgent-pour-eviter-l-enlisement",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "Énergie",
+          "cls": "tg"
+        },
+        {
+          "label": "Brent",
+          "cls": "tg"
         }
       ]
     }

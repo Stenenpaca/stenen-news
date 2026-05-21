@@ -1,89 +1,70 @@
 {
-  "generated_at": "20/05/2026",
+  "generated_at": "21/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Télétravail : impact positif confirmé sur la productivité",
-      "body": "Une étude de l'INSEE et de la Dares démontre qu'une hausse de 10 points de télétravailleurs génère un gain de 0,7 à 1% de croissance de productivité. Ce résultat valide les stratégies flex-office et réduction d'espaces bureaux.",
-      "impact": "Opportunité de restructuration d'actifs tertiaires PACA : valorisation des espaces multi-usages et réduction des postes de travail fixes.",
+      "title": "Financement immobilier en région Sud : rôle clé du conseil",
+      "body": "Votre conseiller bancaire dépasse la gestion courante pour transformer vos projets immobiliers en réalité. En période de transition économique, ce partenariat devient un levier stratégique pour les investisseurs et entreprises PACA.",
+      "impact": "Renforcer vos relations bancaires pour optimiser l'accès au financement des acquisitions et développements immobiliers tertiaires.",
       "date": "20/05/2026",
-      "url": "https://www.laprovence.com/article/economie/7874316129966614/teletravail-une-etude-revele-un-impact-positif-sur-la-productivite",
+      "url": "https://www.laprovence.com/article/economie/14969897368012/financer-ses-projets-de-vie-en-region-sud-le-role-cle-de-votre-partenaire-bancaire",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Flex-office",
-          "cls": "tm"
+          "label": "Financement",
+          "cls": "tt"
         },
         {
-          "label": "Productivité",
+          "label": "PACA",
           "cls": "tp"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Abandon du projet Carbon à Fos-sur-Mer : marché industriel fragilisé",
-      "body": "La gigafactory photovoltaïque Carbon sur 45-60 hectares de la zone industrialo-portuaire de Fos a officiellement cessé ses activités après 4 ans de développement. Cet effondrement révèle les risques structurels des projets industriels en PACA.",
-      "impact": "Disponibilités potentielles de grandes surfaces d'activité dans les zones portuaires PACA : négocier les reprises et repositionnements.",
-      "date": "19/05/2026",
-      "url": "https://www.laprovence.com/article/economie/7803911452197614/carbon-a-fos-sur-mer-l-effondrement-d-un-reve-industriel",
+      "title": "Petits commerces PACA : résistance face aux géants du marché",
+      "body": "Les petits garages et ateliers aubagnais conservent leur clientèle malgré la concurrence des constructeurs et des réseaux nationaux. Cette résilience des PME locales démontre la persistance des modèles commerciaux de proximité en région PACA.",
+      "impact": "Identifier des opportunités de locaux d'activité et commerce pour les PME locales qui maintiennent leur avantage compétitif.",
+      "date": "21/05/2026",
+      "url": "https://www.laprovence.com/article/societe/8696658540217614/contrats-d-entretien-automobile-comment-les-garages-d-aubagne-resistent-ils-face-aux-geants",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce",
           "cls": "tp"
         },
         {
-          "label": "Activité",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Conjoncture : difficultés en cascade dans le secteur agroalimentaire PACA",
-      "body": "Provence Chips (Allauch) a basculé en liquidation judiciaire, illustrant les tensions persistantes du tissu PME régional. Ces défaillances s'accumulent après la crise sanitaire et reflètent une fragilité des petits exploitants.",
-      "impact": "Vigilance accrue sur la solvabilité des preneurs en locaux d'activité et commerces PACA : durcir les critères de qualification.",
-      "date": "19/05/2026",
-      "url": "https://www.laprovence.com/article/region/14754030787256/un-creve-coeur-patrick-llerena-explique-ce-qui-a-conduit-la-chips-d-allauch-en-liquidation-judiciaire",
+      "title": "Transition énergétique : photovoltaïque en question sur Fos-Berre",
+      "body": "L'abandon du projet Carbon met en lumière les défis du modèle économique des gigafactories photovoltaïques face à la concurrence asiatique. Cette désillusion impacte les perspectives de réindustrialisation décarbonée du site majeur PACA.",
+      "impact": "Anticiper une évolution des demandes de locaux industriels et d'activité liée aux changements d'orientation des grands projets énergétiques régionaux.",
+      "date": "20/05/2026",
+      "url": "https://www.laprovence.com/article/economie/95252025987391/abandon-de-carbon-a-fos-sur-mer-le-projet-industriel-est-il-menace",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Marché PACA",
+          "cls": "tm"
         },
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "Activité",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Financement & taux : stabilité des OAT à 3,70%, Euribor 3M à 2,15%",
-      "body": "Les conditions de financement immobilier restent encadrées par une OAT française stable à 3,70% et un Euribor 3 mois inchangé à 2,15%, supportant les structures de taux des actifs CRE PACA. L'environnement monétaire demeure restrictif mais prévisible.",
-      "impact": "Négocier à horizon 24-36 mois sur la base d'un taux plancher : les spreads bancaires offrent des marges pour les preneurs solvables en PACA.",
+      "title": "Annonces légales : pilier sécurité des entreprises PACA",
+      "body": "Chaque étape de la vie d'une structure, de l'immatriculation à la dissolution, doit être publiée légalement. Cette obligation garantit la transparence et la sécurité des transactions commerciales et immobilières en région.",
+      "impact": "Vérifier systématiquement les publications légales des entreprises avant toute transaction ou signature de bail.",
       "date": "20/05/2026",
-      "url": "https://www.laprovence.com/article/economie/7874316129966614/teletravail-une-etude-revele-un-impact-positif-sur-la-productivite",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Décret tertiaire : dialogue urgent réclamé sur l'infrastructure énergétique",
-      "body": "La CCI du Pays d'Arles appelle au dialogue sur les projets de ligne THT 400kV (DUP en cours), directement impactants pour l'accueil de nouveaux actifs consommateurs d'énergie intensive. Les délais d'enlisement menacent les projets multi-activité.",
-      "impact": "Vérifier la conformité énergétique future des bâtiments tertiaires PACA : les coûts de raccordement et délais d'infrastructure deviennent critiques.",
-      "date": "20/05/2026",
-      "url": "https://www.laprovence.com/article/economie/68179587474802/ligne-a-tres-haute-tension-la-cci-du-pays-d-arles-appelle-a-un-dialogue-urgent-pour-eviter-l-enlisement",
+      "url": "https://www.laprovence.com/article/economie/1313449695669614/les-annonces-legales-un-pilier-meconnu-de-la-securite-des-entreprises",
       "source": "La Provence",
       "tags": [
         {
@@ -95,62 +76,69 @@
           "cls": "tp"
         }
       ]
+    },
+    {
+      "id": "f5",
+      "title": "Électrification des transports : défi pour PME et petits commerces",
+      "body": "La montée des véhicules électriques perturbe le secteur automobile PACA, fragilisant les petits ateliers. Cette transition technologique remet en question la viabilité de certains modèles commerciaux traditionnels régionaux.",
+      "impact": "Anticiper une restructuration du marché des locaux d'activité automobile avec adaptation des besoins en espaces d'atelier et de maintenance.",
+      "date": "20/05/2026",
+      "url": "https://www.laprovence.com/article/societe/1592868256554214/les-petits-garages-aubagnais-face-au-defi-de-l-electrique-ca-commence-legerement-a-perturber-le-marche",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Activité",
+          "cls": "tp"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "Négociations Samsung : risque grève et impacts chaîne approvisionnement",
-      "body": "Samsung Electronics et les syndicats reprennent les négociations sous médiation gouvernementale le 20 mai pour éviter une grève imminente en Corée du Sud. Une rupture impacterait directement la chaîne d'approvisionnement Tech/électronique européenne.",
-      "impact": "Surveiller les impacts indirects sur les projets logistiques ou R&D high-tech en PACA : retards probables de composants et inflation des coûts de sourcing.",
-      "date": "20/05/2026",
-      "url": "https://www.laprovence.com/article/economie/7911003175710214/greve-imminente-chez-samsung-les-negociations-reprennent-avec-la-mediation-du-gouvernement",
-      "source": "La Provence",
+      "title": "OAT 10Y stable à 3.70%, Euribor3M à 2.15%",
+      "body": "Les taux obligataires français restent stables malgré les tensions macroéconomiques. L'Euribor 3 mois se maintient à 2.15%, reflétant les attentes de stabilité monétaire de la BCE.",
+      "impact": "Contexte de financement stable pour les investisseurs immobiliers : valoriser les opportunités avant une éventuelle remontée des taux.",
+      "date": "21/05/2026",
+      "url": "https://www.laprovence.com/",
+      "source": "Marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Chaîne",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France : stabilité à 1,7%, BCE à 2,15%",
-      "body": "L'inflation française reste maîtrisée à 1,7% avec un taux directeur BCE maintenu à 2,15%, signalant une probable pause des hausses monétaires. Le contexte restrictif perdure mais laisse entrevoir une normalisation progressive.",
-      "impact": "Anticiper un assouplissement progressif des conditions de crédit immobilier PACA d'ici Q3/Q4 2026 : négocier les clauses de révision longue durée.",
-      "date": "20/05/2026",
-      "url": "https://www.laprovence.com/article/economie/7874316129966614/teletravail-une-etude-revele-un-impact-positif-sur-la-productivite",
-      "source": "Données marché",
+      "title": "Inflation France maîtrisée à 1.7%, cible BCE stable",
+      "body": "L'inflation française modérée à 1.7% permet à la BCE de maintenir ses taux directeurs à 2.15%. Cette stabilité relative soutient la confiance économique et les décisions d'investissement.",
+      "impact": "Environnement de prix immobiliers tertiaires plus prévisible : anticiper une stabilisation des valeurs avant d'éventuels mouvements baissiers.",
+      "date": "21/05/2026",
+      "url": "https://www.laprovence.com/",
+      "source": "Marché",
       "tags": [
         {
           "label": "Inflation",
-          "cls": "tg"
-        },
-        {
-          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Énergie : Brent stable à 96 USD, tensions géopolitiques persistantes",
-      "body": "Le prix du Brent se stabilise à 96 USD/baril, reflétant une tension géopolitique latente (Moyen-Orient, Russie). Les risques d'approvisionnement énergétique restent élevés pour l'Europe et l'inflation de l'énergie impacte les coûts d'exploitation immobilière.",
-      "impact": "Intégrer les clauses d'ajustement énergétique et les bilans thermiques renforcés dans les baux tertiaires/activité PACA : sécuriser les marges.",
-      "date": "20/05/2026",
-      "url": "https://www.laprovence.com/article/economie/68179587474802/ligne-a-tres-haute-tension-la-cci-du-pays-d-arles-appelle-a-un-dialogue-urgent-pour-eviter-l-enlisement",
-      "source": "Données marché",
+      "title": "Tensions géopolitiques : Brent stable à 96 USD/baril",
+      "body": "Le prix du Brent se maintient à 96 USD/baril malgré les incertitudes géopolitiques persistantes. Cette stabilité énergétique limite l'inflation des coûts d'exploitation régionaux.",
+      "impact": "Coûts énergétiques régionaux maîtrisés : facteur favorable pour la rentabilité des investissements tertiaires PACA.",
+      "date": "21/05/2026",
+      "url": "https://www.laprovence.com/",
+      "source": "Marché",
       "tags": [
         {
-          "label": "Énergie",
-          "cls": "tg"
-        },
-        {
-          "label": "Brent",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]

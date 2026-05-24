@@ -1,32 +1,13 @@
 {
-  "generated_at": "23/05/2026",
+  "generated_at": "24/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "L'immobilier aubagnais regagne son niveau d'avant Covid",
-      "body": "Aubagne bénéficie d'une position stratégique entre Aix-en-Provence, Marseille et le littoral, avec un cadre verdoyant aux portes des collines de Pagnol. Le secteur immobilier local retrouve son attractivité et regagne les niveaux pré-pandémie.",
-      "impact": "Aubagne offre une opportunité de transaction bureaux/activité accessible aux entreprises fuyant les centres saturés d'Aix ou Marseille.",
+      "title": "Aubagne regagne son attractivité immobilière pré-Covid",
+      "body": "L'immobilier aubagnais retrouve ses niveaux d'avant pandémie grâce à ses atouts naturels et sa position stratégique entre Aix, Marseille et le littoral. Le secteur bénéficie d'une dynamique positive alimentée par la proximité des collines et l'accessibilité régionale.",
+      "impact": "Opportunité de transaction bureaux/activité à Aubagne : marché en récupération avec demande soutenue sur les zones intermédiaires PACA.",
       "date": "23/05/2026",
       "url": "https://www.laprovence.com/article/economie/1042152564908215/limmobilier-aubagnais-toujours-attractif-regagne-son-niveau-davant-covid",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché immobilier",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "PACA : 5e région la plus attractive de France selon EY",
-      "body": "La région PACA conserve son positionnement en 5e place du classement d'attractivité française malgré un contexte marqué par les tensions géopolitiques et économiques. Les investissements internationaux en Europe marquent le pas en 2026.",
-      "impact": "Maintenir une stratégie commerciale offensive sur les locaux activité et bureaux pour capter les investisseurs toujours attirés par le positionnement PACA.",
-      "date": "22/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1955578132326614/provence-alpes-cote-dazur-cinquieme-region-la-plus-attractive-de-france-selon-le-barometre-ey",
       "source": "La Provence",
       "tags": [
         {
@@ -40,10 +21,29 @@
       ]
     },
     {
+      "id": "f2",
+      "title": "Val'tram Aubagne : effets immobiliers avant mise en service 2027",
+      "body": "Le Val'tram transforme déjà l'organisation du pays d'Aubagne avant son entrée en service prévue début 2027. L'infrastructure promet une connexion majeure Aubagne-La Ciotat avec impacts anticipés sur les valeurs immobilières.",
+      "impact": "Conseil en transaction : anticiper hausse des zones accessibles par le Val'tram pour les bureaux et locaux d'activité dans l'axe Aubagne-Ciotat.",
+      "date": "23/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1063466313810415/immobilier-deja-un-effet-val-tram-avant-meme-sa-mise-en-service-au-pays-d-aubagne",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Infrastructure",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
       "id": "f3",
-      "title": "Croisières Marseille : 2,6M passagers, dynamique qualité",
-      "body": "Marseille enregistre 2,6 millions de passagers croisière en 2025 avec une croissance des clientèles étrangères (+21% américains, +41% canadiens, +16% chinois). Cette dynamique soutient l'économie locale et la demande tertiaire.",
-      "impact": "La vitalité du secteur touristique/croisière à Marseille renforce la demande de bureaux, espaces événementiels et locaux d'activité dans l'agglomération.",
+      "title": "Croisières Marseille : 2,6M passagers 2025, croissance clientèles étrangères",
+      "body": "Le secteur croisiériste marseillais affiche 2,6 millions de passagers en 2025 avec progression forte des clientèles étrangères (Américains +21%, Canadiens +41%, Chinois +16%). Cette dynamique renforce l'attractivité économique du port et ses secteurs connexes.",
+      "impact": "Opportunité commerces/services de proximité au port : demande en hausse pour espaces retail et bureaux liés au tourisme croisiériste marseillais.",
       "date": "22/05/2026",
       "url": "https://www.laprovence.com/article/economie/1001284928004715/croisieres-a-marseille-2-6-millions-de-passagers-et-une-ambition-tournee-vers-la-qualite",
       "source": "La Provence",
@@ -60,30 +60,11 @@
     },
     {
       "id": "f4",
-      "title": "OAT 3.70% | Euribor 3M 2.15% | Taux financement stable",
-      "body": "Les taux obligataires restent stables à 3.70% sur les OAT10Y tandis que l'Euribor 3M se maintient à 2.15%. Cet environnement de taux modérés facilite l'accès au financement pour les acquisitions immobilières.",
-      "impact": "Les conditions de financement restent favorables pour les opérations de transaction bureaux et locaux activité en PACA ; opportunité avant tout resserrement monétaire potentiel.",
-      "date": "23/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1042152564908215/limmobilier-aubagnais-toujours-attractif-regagne-son-niveau-davant-covid",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Taux/Financement",
-          "cls": "tt"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Gare Avignon Centre reconnue : infrastructure tertiaire dynamique",
-      "body": "La gare centre d'Avignon a reçu le titre de plus belle gare de France 2026, symbolisant sa renaissance urbaine et son rôle de hub multi-modal. Cette reconnaissance renforce l'attractivité du centre-ville avignonnais.",
-      "impact": "Le renouveau d'Avignon centre offre des opportunités de transaction pour bureaux et espaces commerciaux valorisés par le rayonnement de la gare régénérée.",
+      "title": "PACA 5ème région attractive France : contexte inversement proportionnel",
+      "body": "Malgré un contexte européen marqué par la baisse des investissements internationaux (tensions géopolitiques/commerciales), PACA conserve sa 5ème position d'attractivité en France. La région résiste à la tendance générale négative observée en Europe.",
+      "impact": "Conseil transaction CRE : positionner PACA comme refuge relatif pour investissements bureaux/activité face à l'incertitude géopolitique européenne.",
       "date": "22/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1003082616247615/le-quai-des-saveurs-deraille-a-avignon-le-restaurant-de-la-cci-de-vaucluse-place-en-redressement-judiciaire",
+      "url": "https://www.laprovence.com/article/economie/1955578132326614/provence-alpes-cote-dazur-cinquieme-region-la-plus-attractive-de-france-selon-le-barometre-ey",
       "source": "La Provence",
       "tags": [
         {
@@ -91,8 +72,27 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Taux OAT 10Y stable 3.70% / Euribor3M 2.15% - contexte financement",
+      "body": "Dans le contexte d'investissements immobiliers PACA, les conditions de financement restent stables avec OAT 10 ans à 3.70% et Euribor 3 mois à 2.15%. Ces niveaux de taux influencent les arbitrages acquisition/location-gestion pour les actifs CRE.",
+      "impact": "Pour transactions bureaux/activité PACA : taux de financement stables favorisent les montages d'acquisition avec effet de levier sur périodes longues.",
+      "date": "24/05/2026",
+      "url": "https://stenen-immobilier.fr/donnees-marche-taux",
+      "source": "Données marché 24/05/2026",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     }
@@ -100,24 +100,9 @@
   "macro": [
     {
       "id": "m1",
-      "title": "BCE : taux 2.15%, vigilance inflationniste",
-      "body": "La Banque centrale européenne maintient son taux directeur à 2.15% face à un contexte inflationniste français contenu à 1.7%. L'attention reste portée sur les tensions géopolitiques affectant l'économie européenne.",
-      "impact": "Anticipate la stabilité monétaire court-terme ; ajuster les offres commerciales sur les taux de financement immobilier en conséquence.",
-      "date": "23/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1042152564908215/limmobilier-aubagnais-toujours-attractif-regagne-son-niveau-davant-covid",
-      "source": "Données BCE",
-      "tags": [
-        {
-          "label": "Géopolitique/Monétaire",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "France : contexte incertain marqué par tensions géopolitiques",
-      "body": "Les investissements internationaux en Europe fléchissent en 2026 sous le poids des tensions géopolitiques, commerciales et économiques. La France subit ces contrecoups malgré une inflation modérée à 1.7%.",
-      "impact": "Anticiper une demande de bureaux/activité atone en PACA ; valoriser la stabilité régionale et les avantages coût pour capter les relocalistes français.",
+      "title": "Tensions géopolitiques freinent investissements internationaux Europe",
+      "body": "Le baromètre EY confirme une baisse générale des investissements internationaux en Europe, causée par les tensions géopolitiques, commerciales et économiques persistantes. Cette tendance inverse l'attrait traditionnel du continent pour les capitaux étrangers.",
+      "impact": "Contexte macro moins porteur : ne pas survaloriser les actifs CRE PACA sur hypothèse d'investisseurs internationaux, privilégier demande domestique.",
       "date": "22/05/2026",
       "url": "https://www.laprovence.com/article/economie/1955578132326614/provence-alpes-cote-dazur-cinquieme-region-la-plus-attractive-de-france-selon-le-barometre-ey",
       "source": "La Provence",
@@ -125,25 +110,36 @@
         {
           "label": "Géopolitique",
           "cls": "tg"
-        },
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Inflation France modérée 1.70% - environnement favorable CRE",
+      "body": "L'inflation française reste contenue à 1.70%, signalant une stabilité macroéconomique relative. Cet environnement bas-inflation soutient les décisions d'investissement immobilier et les évaluations de rendement.",
+      "impact": "Conjoncture française stable : spreads immobiliers préservés, valorisations CRE PACA maintenues sans pression déflationniste.",
+      "date": "24/05/2026",
+      "url": "https://stenen-immobilier.fr/donnees-macro-inflation",
+      "source": "Données marché 24/05/2026",
+      "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "Inflation",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Brent 96 USD : énergie stable dans contexte incertain",
-      "body": "Le pétrole Brent se stabilise à 96 USD/baril dans un environnement de tensions géopolitiques persistantes. L'énergie reste un facteur de coût clé pour les exploitants de locaux en PACA.",
-      "impact": "Les charges énergétiques des immeubles tertiaires restent élevées ; insister sur la certification énergétique et les solutions smart-building auprès des prospects.",
-      "date": "23/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1042152564908215/limmobilier-aubagnais-toujours-attractif-regagne-son-niveau-davant-covid",
-      "source": "Données marché",
+      "title": "BCE politique monétaire : taux 2.15%, stabilité post-mai 2026",
+      "body": "La Banque Centrale Européenne maintient ses taux directeurs à 2.15%, confirmant une politique monétaire accommodante face aux incertitudes. Cette stabilité réduit les chocs de refinancement pour les investisseurs immobiliers.",
+      "impact": "Environnement BCE stable : fenêtre de financement immobilier PACA reste ouverte avec coûts de capital prévisibles à CT.",
+      "date": "24/05/2026",
+      "url": "https://stenen-immobilier.fr/donnees-bce-taux",
+      "source": "Données marché 24/05/2026",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

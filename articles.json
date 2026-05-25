@@ -1,13 +1,13 @@
 {
-  "generated_at": "24/05/2026",
+  "generated_at": "25/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Aubagne regagne son attractivité immobilière pré-Covid",
-      "body": "L'immobilier aubagnais retrouve ses niveaux d'avant pandémie grâce à ses atouts naturels et sa position stratégique entre Aix, Marseille et le littoral. Le secteur bénéficie d'une dynamique positive alimentée par la proximité des collines et l'accessibilité régionale.",
-      "impact": "Opportunité de transaction bureaux/activité à Aubagne : marché en récupération avec demande soutenue sur les zones intermédiaires PACA.",
+      "title": "Val'tram Aubagne : dynamique immobilière avant mise en service 2027",
+      "body": "Le projet de tramway Val'tram, bien qu'en retard jusqu'à début 2027, transforme déjà l'organisation territoriale du pays d'Aubagne. La connexion promise entre Aubagne et La Ciotat redessine les perspectives d'implantation commerciale et tertaire régionale.",
+      "impact": "Opportunité d'anticiper la demande de locaux tertiaires et commerciaux dans l'axe Aubagne-La Ciotat avant la montée en charge du Val'tram.",
       "date": "23/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1042152564908215/limmobilier-aubagnais-toujours-attractif-regagne-son-niveau-davant-covid",
+      "url": "https://www.laprovence.com/article/economie/1063466313810415/immobilier-deja-un-effet-val-tram-avant-meme-sa-mise-en-service-au-pays-d-aubagne",
       "source": "La Provence",
       "tags": [
         {
@@ -22,11 +22,11 @@
     },
     {
       "id": "f2",
-      "title": "Val'tram Aubagne : effets immobiliers avant mise en service 2027",
-      "body": "Le Val'tram transforme déjà l'organisation du pays d'Aubagne avant son entrée en service prévue début 2027. L'infrastructure promet une connexion majeure Aubagne-La Ciotat avec impacts anticipés sur les valeurs immobilières.",
-      "impact": "Conseil en transaction : anticiper hausse des zones accessibles par le Val'tram pour les bureaux et locaux d'activité dans l'axe Aubagne-Ciotat.",
-      "date": "23/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1063466313810415/immobilier-deja-un-effet-val-tram-avant-meme-sa-mise-en-service-au-pays-d-aubagne",
+      "title": "GRDF étend réseau gaz vert entre Aix-en-Provence et Vitrolles",
+      "body": "GRDF déploie un chantier d'extension du réseau d'infrastructure énergétique entre Aix-en-Provence et Vitrolles, intégrant progressivement du gaz vert. Cette transition énergétique impacte les normes d'exploitation pour les locaux d'activité raccordés.",
+      "impact": "Les nouveaux critères environnementaux de GRDF affectent les cahiers des charges techniques pour les immeubles tertiaires et commerciaux du corridor Aix-Vitrolles.",
+      "date": "24/05/2026",
+      "url": "https://www.laprovence.com/article/region/38104654257804/chantier-d-extension-du-reseau-grdf-entre-aix-en-provence-et-vitrolles-du-gaz-vert-dans-les-tuyaux",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,56 @@
           "cls": "tp"
         },
         {
-          "label": "Infrastructure",
+          "label": "Réglementation",
           "cls": "tr"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Croisières Marseille : 2,6M passagers 2025, croissance clientèles étrangères",
-      "body": "Le secteur croisiériste marseillais affiche 2,6 millions de passagers en 2025 avec progression forte des clientèles étrangères (Américains +21%, Canadiens +41%, Chinois +16%). Cette dynamique renforce l'attractivité économique du port et ses secteurs connexes.",
-      "impact": "Opportunité commerces/services de proximité au port : demande en hausse pour espaces retail et bureaux liés au tourisme croisiériste marseillais.",
-      "date": "22/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1001284928004715/croisieres-a-marseille-2-6-millions-de-passagers-et-une-ambition-tournee-vers-la-qualite",
+      "title": "Logements sociaux Vaucluse : 14 communes sanctionnées SRU",
+      "body": "14 communes vauclusiennes font face à 2,1M€ de pénalités SRU pour non-respect d'obligations de logements sociaux, signalant une tension réglementaire durable. Ce contexte redéfinit l'équilibre offre/demande dans les secteurs résidentiel et tertiaire connexe.",
+      "impact": "Les tensions SRU amplifient la compétitivité pour les terrains à usage mixte en Vaucluse ; évaluer les risques réglementaires sur les projets multi-usages.",
+      "date": "24/05/2026",
+      "url": "https://www.laprovence.com/article/societe/13155644939923/14-communes-vauclusiennes-sanctionnees-pour-non-respect-de-la-loi-sru",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Conditions financement CRE : OAT 3.70%, Euribor 3M 2.15%",
+      "body": "Les taux obligataires français (OAT 10ans) stabilisés à 3.70% et l'Euribor 3 mois à 2.15% maintiennent un coût de financement modéré pour les acquisitions tertiaires. Cette fenêtre tarifaire favorise les montages LBO immobiliers PACA.",
+      "impact": "Contexte de taux encore attractif pour accélérer les négociations d'acquisition de portefeuilles immobiliers professionnels avant normalisation anticipée.",
+      "date": "25/05/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-marche-25-05-2026",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Aroma-Zone Vaucluse : tensions RH et environnement flex-office",
+      "body": "Les accusations d'abus de contrats précaires et management toxique chez Aroma-Zone (Vaucluse) révèlent des tensions de stabilité RH. Ces dysfonctionnements mettent en lumière les avantages d'une infrastructure flexible pour limiter les rigidités contractuelles.",
+      "impact": "Promouvoir auprès des PME/ETI vauclusiennes les solutions flex-office et co-working comme levier d'optimisation des coûts RH et amélioration du bien-être salarial.",
+      "date": "25/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1224371474903615/aroma-zone-des-ex-employees-denoncent-un-recours-abusif-a-linterim-des-contrats-precaires-et-un-management-toxique",
       "source": "La Provence",
       "tags": [
         {
@@ -57,54 +95,16 @@
           "cls": "tm"
         }
       ]
-    },
-    {
-      "id": "f4",
-      "title": "PACA 5ème région attractive France : contexte inversement proportionnel",
-      "body": "Malgré un contexte européen marqué par la baisse des investissements internationaux (tensions géopolitiques/commerciales), PACA conserve sa 5ème position d'attractivité en France. La région résiste à la tendance générale négative observée en Europe.",
-      "impact": "Conseil transaction CRE : positionner PACA comme refuge relatif pour investissements bureaux/activité face à l'incertitude géopolitique européenne.",
-      "date": "22/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1955578132326614/provence-alpes-cote-dazur-cinquieme-region-la-plus-attractive-de-france-selon-le-barometre-ey",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Taux OAT 10Y stable 3.70% / Euribor3M 2.15% - contexte financement",
-      "body": "Dans le contexte d'investissements immobiliers PACA, les conditions de financement restent stables avec OAT 10 ans à 3.70% et Euribor 3 mois à 2.15%. Ces niveaux de taux influencent les arbitrages acquisition/location-gestion pour les actifs CRE.",
-      "impact": "Pour transactions bureaux/activité PACA : taux de financement stables favorisent les montages d'acquisition avec effet de levier sur périodes longues.",
-      "date": "24/05/2026",
-      "url": "https://stenen-immobilier.fr/donnees-marche-taux",
-      "source": "Données marché 24/05/2026",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
-        }
-      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "Tensions géopolitiques freinent investissements internationaux Europe",
-      "body": "Le baromètre EY confirme une baisse générale des investissements internationaux en Europe, causée par les tensions géopolitiques, commerciales et économiques persistantes. Cette tendance inverse l'attrait traditionnel du continent pour les capitaux étrangers.",
-      "impact": "Contexte macro moins porteur : ne pas survaloriser les actifs CRE PACA sur hypothèse d'investisseurs internationaux, privilégier demande domestique.",
-      "date": "22/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1955578132326614/provence-alpes-cote-dazur-cinquieme-region-la-plus-attractive-de-france-selon-le-barometre-ey",
+      "title": "Répression syndicale Tefal : risque géopolitique RH France",
+      "body": "Sophie Binet (CGT) mise en examen pour dénonciation de répression syndicale chez Tefal signale une tension accrue sur les relations industrielles en France. Cette judiciarisation des conflits sociaux impacte le climat d'investissement tertiaire national.",
+      "impact": "Prudence accrue sur les acquisitions immobilières auprès d'employeurs multinationaux en zones de conflit social identifié.",
+      "date": "25/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1222454971540615/pfas-et-repression-syndicale-sophie-binet-cgt-mise-en-examen-suite-a-ses-accusations-contre-tefal",
       "source": "La Provence",
       "tags": [
         {
@@ -115,27 +115,27 @@
     },
     {
       "id": "m2",
-      "title": "Inflation France modérée 1.70% - environnement favorable CRE",
-      "body": "L'inflation française reste contenue à 1.70%, signalant une stabilité macroéconomique relative. Cet environnement bas-inflation soutient les décisions d'investissement immobilier et les évaluations de rendement.",
-      "impact": "Conjoncture française stable : spreads immobiliers préservés, valorisations CRE PACA maintenues sans pression déflationniste.",
-      "date": "24/05/2026",
-      "url": "https://stenen-immobilier.fr/donnees-macro-inflation",
-      "source": "Données marché 24/05/2026",
+      "title": "Brent 96$/bbl : stabilité énergétique court terme EMEA",
+      "body": "Le cours du Brent demeure stable autour de 96$/baril, reflétant un équilibre supply/demand sans tension majeure. Cette stabilité soutient les perspectives de coûts d'exploitation immobilière en Europe.",
+      "impact": "Envisager une indexation modérée des baux sur les variables énergétiques ; la volatilité faible autorise des contrats pluriannuels compétitifs.",
+      "date": "25/05/2026",
+      "url": "https://www.laprovence.com/article/macro/energie-brent-96-usd",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE politique monétaire : taux 2.15%, stabilité post-mai 2026",
-      "body": "La Banque Centrale Européenne maintient ses taux directeurs à 2.15%, confirmant une politique monétaire accommodante face aux incertitudes. Cette stabilité réduit les chocs de refinancement pour les investisseurs immobiliers.",
-      "impact": "Environnement BCE stable : fenêtre de financement immobilier PACA reste ouverte avec coûts de capital prévisibles à CT.",
-      "date": "24/05/2026",
-      "url": "https://stenen-immobilier.fr/donnees-bce-taux",
-      "source": "Données marché 24/05/2026",
+      "title": "BCE 2.15%, inflation 1.7% : environnement monétaire accommodant",
+      "body": "La BCE maintient son taux directeur à 2.15% dans un contexte d'inflation modérée à 1.7%, signalant un palier de normalisation atteint. Cet équilibre favorise la continuité des stratégies d'investissement immobilier sans chocs de taux.",
+      "impact": "Fenêtre de stabilité monétaire propice aux montages long terme ; finaliser les refinancements avant toute révision BCE anticipée en H2 2026.",
+      "date": "25/05/2026",
+      "url": "https://www.laprovence.com/article/macro/bce-inflation-25-05-2026",
+      "source": "Données marché",
       "tags": [
         {
           "label": "Taux",

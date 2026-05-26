@@ -1,13 +1,32 @@
 {
-  "generated_at": "25/05/2026",
+  "generated_at": "26/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Val'tram Aubagne : dynamique immobilière avant mise en service 2027",
-      "body": "Le projet de tramway Val'tram, bien qu'en retard jusqu'à début 2027, transforme déjà l'organisation territoriale du pays d'Aubagne. La connexion promise entre Aubagne et La Ciotat redessine les perspectives d'implantation commerciale et tertaire régionale.",
-      "impact": "Opportunité d'anticiper la demande de locaux tertiaires et commerciaux dans l'axe Aubagne-La Ciotat avant la montée en charge du Val'tram.",
-      "date": "23/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1063466313810415/immobilier-deja-un-effet-val-tram-avant-meme-sa-mise-en-service-au-pays-d-aubagne",
+      "title": "Électrification des secteurs BTP et industrie : enjeux pour l'immobilier d'activité",
+      "body": "Emmanuel Macron reçoit les responsables de la filière électrique pour engager l'électrification du BTP, industrie et transports dans les années à venir. Cette transition impactera les standards de conception des locaux d'activité et les normes de consommation énergétique.",
+      "impact": "Les conseils en transaction doivent anticiper la demande croissante de locaux d'activité conformes aux normes d'électrification, notamment dans la région PACA où les secteurs industriels sont importants.",
+      "date": "26/05/2026",
+      "url": "https://www.laprovence.com/article/economie/13050422593115/industrie-transports-btp-emmanuel-macron-recoit-ce-mardi-la-filiere-electrique-a-lelysee",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Réglementation",
+          "cls": "tr"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Entreprises PACA : opportunités de visibilité avec portes ouvertes secteur écologique",
+      "body": "L'usine Qista à Sénas ouvre ses portes au public vendredi 29 mai pour présenter ses solutions écologiques, illustrant la dynamique des entreprises innovantes en région PACA. Cette tendance reflète l'attractivité croissante des locaux d'activité durables.",
+      "impact": "Les conseillers CRE pourront valoriser auprès de leurs clients la tendance positive des locaux d'activité écologiques et innovants, secteur en expansion dans la région.",
+      "date": "26/05/2026",
+      "url": "https://www.laprovence.com/article/economie/130225241194415/comme-les-journees-du-patrimoine-mais-en-entreprise-cette-usine-de-senas-ouvre-ses-portes-vendredi-29-mai",
       "source": "La Provence",
       "tags": [
         {
@@ -21,31 +40,12 @@
       ]
     },
     {
-      "id": "f2",
-      "title": "GRDF étend réseau gaz vert entre Aix-en-Provence et Vitrolles",
-      "body": "GRDF déploie un chantier d'extension du réseau d'infrastructure énergétique entre Aix-en-Provence et Vitrolles, intégrant progressivement du gaz vert. Cette transition énergétique impacte les normes d'exploitation pour les locaux d'activité raccordés.",
-      "impact": "Les nouveaux critères environnementaux de GRDF affectent les cahiers des charges techniques pour les immeubles tertiaires et commerciaux du corridor Aix-Vitrolles.",
-      "date": "24/05/2026",
-      "url": "https://www.laprovence.com/article/region/38104654257804/chantier-d-extension-du-reseau-grdf-entre-aix-en-provence-et-vitrolles-du-gaz-vert-dans-les-tuyaux",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
       "id": "f3",
-      "title": "Logements sociaux Vaucluse : 14 communes sanctionnées SRU",
-      "body": "14 communes vauclusiennes font face à 2,1M€ de pénalités SRU pour non-respect d'obligations de logements sociaux, signalant une tension réglementaire durable. Ce contexte redéfinit l'équilibre offre/demande dans les secteurs résidentiel et tertiaire connexe.",
-      "impact": "Les tensions SRU amplifient la compétitivité pour les terrains à usage mixte en Vaucluse ; évaluer les risques réglementaires sur les projets multi-usages.",
-      "date": "24/05/2026",
-      "url": "https://www.laprovence.com/article/societe/13155644939923/14-communes-vauclusiennes-sanctionnees-pour-non-respect-de-la-loi-sru",
+      "title": "Entrepreneuriat et création de commerce : dynamique locale PACA en effervescence",
+      "body": "Une ancien militaire lance une cordonnerie innovante à Saint-Martin-de-Crau dans un camion aménagé, tandis que Jérôme Lambruschini, parfumeur marseillais, développe une activité internationale. Ces initiatives témoignent de la vitalité entrepreneuriale et de la demande en petits espaces commerciaux flexibles.",
+      "impact": "Conseillez vos clients sur les opportunités de petits locaux commerciaux flexibles (pop-ups, espaces itinérants) qui répondent à cette nouvelle génération d'entrepreneurs PACA.",
+      "date": "25/05/2026",
+      "url": "https://www.laprovence.com/article/economie/after-20-ans-passes-dans-l-armee-de-l-air-elle-ouvre-sa-cordonnerie-dans-un-camion-de-pompiers-a-saint-martin-de-crau",
       "source": "La Provence",
       "tags": [
         {
@@ -53,42 +53,42 @@
           "cls": "tp"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Conditions financement CRE : OAT 3.70%, Euribor 3M 2.15%",
-      "body": "Les taux obligataires français (OAT 10ans) stabilisés à 3.70% et l'Euribor 3 mois à 2.15% maintiennent un coût de financement modéré pour les acquisitions tertiaires. Cette fenêtre tarifaire favorise les montages LBO immobiliers PACA.",
-      "impact": "Contexte de taux encore attractif pour accélérer les négociations d'acquisition de portefeuilles immobiliers professionnels avant normalisation anticipée.",
-      "date": "25/05/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-marche-25-05-2026",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Aroma-Zone Vaucluse : tensions RH et environnement flex-office",
-      "body": "Les accusations d'abus de contrats précaires et management toxique chez Aroma-Zone (Vaucluse) révèlent des tensions de stabilité RH. Ces dysfonctionnements mettent en lumière les avantages d'une infrastructure flexible pour limiter les rigidités contractuelles.",
-      "impact": "Promouvoir auprès des PME/ETI vauclusiennes les solutions flex-office et co-working comme levier d'optimisation des coûts RH et amélioration du bien-être salarial.",
-      "date": "25/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1224371474903615/aroma-zone-des-ex-employees-denoncent-un-recours-abusif-a-linterim-des-contrats-precaires-et-un-management-toxique",
+      "title": "Marchés artisanaux PACA : 107 dates programmées jusqu'en novembre 2026",
+      "body": "La Chambre des métiers et de l'artisanat organise 107 dates de marchés créateurs et saveurs dans le sud PACA jusqu'au 4 novembre 2026, quatre de plus qu'en 2025. Cette dynamique témoigne de l'attractivité des espaces commerciaux temporaires et de l'activité artisanale régionale.",
+      "impact": "Identifiez auprès de vos clients les opportunités de location de locaux commerciaux saisonniers en région PACA, marché en croissance avec 4 dates supplémentaires en 2026.",
+      "date": "26/05/2026",
+      "url": "https://www.laprovence.com/article/region/1306074611416215/la-chambre-des-metiers-et-de-l-artisanat-anime-votre-ete-avec-les-marches-createurs-et-saveurs",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Contexte macro : OAT 3.70%, Euribor 2.15%, Brent 96$/bbl, inflation 1.7%",
+      "body": "Le contexte financier actuel se caractérise par des taux OAT à 3.70% et Euribor 3M à 2.15%, reflet d'une inflation maîtrisée à 1.7% en zone euro. Le prix du Brent se stabilise à 96$/baril.",
+      "impact": "Les taux de financement CRE restent favorables pour les acquisitions en région PACA ; conseillez vos clients à sécuriser leurs financements avant tout resserrement monétaire potentiel.",
+      "date": "26/05/2026",
+      "url": "https://www.laprovence.com/article/economie/context-macro",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
         },
         {
           "label": "Marché",
@@ -100,45 +100,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Répression syndicale Tefal : risque géopolitique RH France",
-      "body": "Sophie Binet (CGT) mise en examen pour dénonciation de répression syndicale chez Tefal signale une tension accrue sur les relations industrielles en France. Cette judiciarisation des conflits sociaux impacte le climat d'investissement tertiaire national.",
-      "impact": "Prudence accrue sur les acquisitions immobilières auprès d'employeurs multinationaux en zones de conflit social identifié.",
-      "date": "25/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1222454971540615/pfas-et-repression-syndicale-sophie-binet-cgt-mise-en-examen-suite-a-ses-accusations-contre-tefal",
+      "title": "Électrification et transition énergétique : accélération gouvernementale BTP-industrie",
+      "body": "Le gouvernement français accélère l'électrification des secteurs BTP, industrie et transports avec une rencontre à l'Élysée des responsables des grandes filières économiques. Cet engagement gouvernemental renforce les perspectives d'investissement dans les solutions écologiques.",
+      "impact": "La transition énergétique créera des besoins nouveaux en locaux d'activité conformes aux normes d'électrification ; positionnez Stenen Immobilier comme expert en immobilier durable.",
+      "date": "26/05/2026",
+      "url": "https://www.laprovence.com/article/economie/13050422593115/industrie-transports-btp-emmanuel-macron-recoit-ce-mardi-la-filiere-electrique-a-lelysee",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Géopolitique/Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Brent 96$/bbl : stabilité énergétique court terme EMEA",
-      "body": "Le cours du Brent demeure stable autour de 96$/baril, reflétant un équilibre supply/demand sans tension majeure. Cette stabilité soutient les perspectives de coûts d'exploitation immobilière en Europe.",
-      "impact": "Envisager une indexation modérée des baux sur les variables énergétiques ; la volatilité faible autorise des contrats pluriannuels compétitifs.",
-      "date": "25/05/2026",
-      "url": "https://www.laprovence.com/article/macro/energie-brent-96-usd",
-      "source": "Données marché",
+      "title": "Conjoncture PACA : dynamique entrepreneuriale et innovation locale positive",
+      "body": "La région PACA affiche une dynamique entrepreneuriale robuste avec l'émergence de nouveaux modèles commerciaux innovants (e-commerce, flex-retail) et une croissance des marchés artisanaux (+4 dates en 2026). L'écosystème local bénéficie d'une attractivité accrue pour les startups et PME.",
+      "impact": "La conjoncture régionale est favorable aux acquisitions immobilières CRE ; capitalisez sur cette dynamique pour développer votre portefeuille transactions en PACA.",
+      "date": "26/05/2026",
+      "url": "https://www.laprovence.com/article/region/1306074611416215/la-chambre-des-metiers-et-de-l-artisanat-anime-votre-ete-avec-les-marches-createurs-et-saveurs",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE 2.15%, inflation 1.7% : environnement monétaire accommodant",
-      "body": "La BCE maintient son taux directeur à 2.15% dans un contexte d'inflation modérée à 1.7%, signalant un palier de normalisation atteint. Cet équilibre favorise la continuité des stratégies d'investissement immobilier sans chocs de taux.",
-      "impact": "Fenêtre de stabilité monétaire propice aux montages long terme ; finaliser les refinancements avant toute révision BCE anticipée en H2 2026.",
-      "date": "25/05/2026",
-      "url": "https://www.laprovence.com/article/macro/bce-inflation-25-05-2026",
-      "source": "Données marché",
+      "title": "BCE : inflation maîtrisée à 1.7%, taux directeurs stables à 2.15%",
+      "body": "L'inflation zone euro se stabilise à 1.7%, permettant à la BCE de maintenir ses taux directeurs à 2.15%. L'environnement monétaire reste accommodant avec des OAT à 3.70%, soutenant l'accès au crédit des entreprises.",
+      "impact": "L'environnement de taux reste favorable au financement CRE en PACA ; conseiller vos clients à finaliser leurs acquisitions avant tout resserrement cyclique.",
+      "date": "26/05/2026",
+      "url": "https://www.laprovence.com/article/economie/context-bce-inflation",
+      "source": "Données marché BCE",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Taux/Inflation",
           "cls": "tt"
         }
       ]

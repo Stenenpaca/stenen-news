@@ -1,32 +1,32 @@
 {
-  "generated_at": "26/05/2026",
+  "generated_at": "27/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Électrification des secteurs BTP et industrie : enjeux pour l'immobilier d'activité",
-      "body": "Emmanuel Macron reçoit les responsables de la filière électrique pour engager l'électrification du BTP, industrie et transports dans les années à venir. Cette transition impactera les standards de conception des locaux d'activité et les normes de consommation énergétique.",
-      "impact": "Les conseils en transaction doivent anticiper la demande croissante de locaux d'activité conformes aux normes d'électrification, notamment dans la région PACA où les secteurs industriels sont importants.",
-      "date": "26/05/2026",
-      "url": "https://www.laprovence.com/article/economie/13050422593115/industrie-transports-btp-emmanuel-macron-recoit-ce-mardi-la-filiere-electrique-a-lelysee",
+      "title": "Lidl au Pontet : relocalisations commerciales en PACA",
+      "body": "Le transfert du Lidl route de Lyon vers l'ancien site Point P avenue Charles-de-Gaulle marque une réorganisation du retail PACA. Cette opération illustre la dynamique de repositionnement des surfaces commerciales dans les centres-villes régionaux.",
+      "impact": "Surveiller les opportunités de reprise de locaux commerciaux libérés et les valeurs locatives en centres secondaires PACA.",
+      "date": "27/05/2026",
+      "url": "https://www.laprovence.com/article/economie/3755013370944314/lidl-u-express-auchan-la-guerre-des-trois-aura-t-elle-lieu-au-pontet",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Entreprises PACA : opportunités de visibilité avec portes ouvertes secteur écologique",
-      "body": "L'usine Qista à Sénas ouvre ses portes au public vendredi 29 mai pour présenter ses solutions écologiques, illustrant la dynamique des entreprises innovantes en région PACA. Cette tendance reflète l'attractivité croissante des locaux d'activité durables.",
-      "impact": "Les conseillers CRE pourront valoriser auprès de leurs clients la tendance positive des locaux d'activité écologiques et innovants, secteur en expansion dans la région.",
+      "title": "Indus'Days 2026 : redynamisation des zones d'activité",
+      "body": "La Bastide Bourrelly à Cabriès ouvre ses portes lors des Indus'Days, mettant en avant l'excellence industrielle régionale. Cet événement souligne l'attractivité des locaux d'activité et l'innovation en PACA.",
+      "impact": "Identifier les secteurs d'activité dynamiques en PACA pour orienter les acquisitions et locations de locaux tertiaires et industriels.",
       "date": "26/05/2026",
-      "url": "https://www.laprovence.com/article/economie/130225241194415/comme-les-journees-du-patrimoine-mais-en-entreprise-cette-usine-de-senas-ouvre-ses-portes-vendredi-29-mai",
+      "url": "https://www.laprovence.com/article/economie/322097263563714/indus-days-2026-une-immersion-au-coeur-de-l-excellence-a-la-bastide-bourrelly-a-cabries",
       "source": "La Provence",
       "tags": [
         {
@@ -34,37 +34,37 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Entrepreneuriat et création de commerce : dynamique locale PACA en effervescence",
-      "body": "Une ancien militaire lance une cordonnerie innovante à Saint-Martin-de-Crau dans un camion aménagé, tandis que Jérôme Lambruschini, parfumeur marseillais, développe une activité internationale. Ces initiatives témoignent de la vitalité entrepreneuriale et de la demande en petits espaces commerciaux flexibles.",
-      "impact": "Conseillez vos clients sur les opportunités de petits locaux commerciaux flexibles (pop-ups, espaces itinérants) qui répondent à cette nouvelle génération d'entrepreneurs PACA.",
-      "date": "25/05/2026",
-      "url": "https://www.laprovence.com/article/economie/after-20-ans-passes-dans-l-armee-de-l-air-elle-ouvre-sa-cordonnerie-dans-un-camion-de-pompiers-a-saint-martin-de-crau",
+      "title": "Okaïdi restructuration : fermetures commerciales en cascade",
+      "body": "Okaïdi prévoit la suppression de 290 postes et la fermeture de 60 magasins en France dans son redressement judiciaire. Cette contraction du retail affecte aussi les zones commerciales PACA.",
+      "impact": "Évaluer les reprises de baux commerciaux vacants en PACA suite aux fermetures d'enseignes nationales en difficulté.",
+      "date": "26/05/2026",
+      "url": "https://www.laprovence.com/article/economie/3230831170403714/okaidi-specialiste-des-vetements-pour-enfants-veut-supprimer-jusqu-a-290-postes-et-fermer-60-magasins-en-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Marché",
+          "cls": "tm"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Marchés artisanaux PACA : 107 dates programmées jusqu'en novembre 2026",
-      "body": "La Chambre des métiers et de l'artisanat organise 107 dates de marchés créateurs et saveurs dans le sud PACA jusqu'au 4 novembre 2026, quatre de plus qu'en 2025. Cette dynamique témoigne de l'attractivité des espaces commerciaux temporaires et de l'activité artisanale régionale.",
-      "impact": "Identifiez auprès de vos clients les opportunités de location de locaux commerciaux saisonniers en région PACA, marché en croissance avec 4 dates supplémentaires en 2026.",
+      "title": "Cadres PACA : 257 000 professionnels dynamisant les locaux",
+      "body": "PACA et la Corse représentent plus de 257 000 cadres, terrain privilégié pour la demande de bureaux et flex-office. Cette démographie professionnelle soutient la demande de surfaces tertiaires modernes.",
+      "impact": "Privilégier les projets de flex-office et coworking en PACA pour capter une demande croissante de cadres mobiles.",
       "date": "26/05/2026",
-      "url": "https://www.laprovence.com/article/region/1306074611416215/la-chambre-des-metiers-et-de-l-artisanat-anime-votre-ete-avec-les-marches-createurs-et-saveurs",
+      "url": "https://www.laprovence.com/article/economie/6649751465574914/statut-cadre-en-entreprise-bousculer-les-codes",
       "source": "La Provence",
       "tags": [
         {
@@ -72,26 +72,26 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Bureaux",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Contexte macro : OAT 3.70%, Euribor 2.15%, Brent 96$/bbl, inflation 1.7%",
-      "body": "Le contexte financier actuel se caractérise par des taux OAT à 3.70% et Euribor 3M à 2.15%, reflet d'une inflation maîtrisée à 1.7% en zone euro. Le prix du Brent se stabilise à 96$/baril.",
-      "impact": "Les taux de financement CRE restent favorables pour les acquisitions en région PACA ; conseillez vos clients à sécuriser leurs financements avant tout resserrement monétaire potentiel.",
+      "title": "Marché Manosque : étude gestion déchet et local",
+      "body": "L'étude DLVAgglo sur le marché de Manosque analyse les déchet et produits locaux. Elle révèle les attentes des consommateurs pour des commerces responsables en zone PACA.",
+      "impact": "Adapter les offres de locaux commerciaux PACA aux critères ESG et de commercialité durable pour les commerçants.",
       "date": "26/05/2026",
-      "url": "https://www.laprovence.com/article/economie/context-macro",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/ecoplanete/1335261180290915/quantite-de-dechet-taux-de-produits-locaux-une-etude-sur-le-marche-de-manosque-devoilee-par-l-intercommunalite",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
@@ -100,45 +100,49 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Électrification et transition énergétique : accélération gouvernementale BTP-industrie",
-      "body": "Le gouvernement français accélère l'électrification des secteurs BTP, industrie et transports avec une rencontre à l'Élysée des responsables des grandes filières économiques. Cet engagement gouvernemental renforce les perspectives d'investissement dans les solutions écologiques.",
-      "impact": "La transition énergétique créera des besoins nouveaux en locaux d'activité conformes aux normes d'électrification ; positionnez Stenen Immobilier comme expert en immobilier durable.",
-      "date": "26/05/2026",
-      "url": "https://www.laprovence.com/article/economie/13050422593115/industrie-transports-btp-emmanuel-macron-recoit-ce-mardi-la-filiere-electrique-a-lelysee",
+      "title": "Accor audit interne : stabilité secteur hôtellerie-tertiaire",
+      "body": "Accor présente un audit interne montrant l'absence de défaillances systémiques malgré les accusations. Ce résultat rassure sur la solidité du secteur tertiaire hospitalité en France.",
+      "impact": "Confirmer la confiance dans les projets tertiaires d'hôtellerie pour les investissements PACA moyen terme.",
+      "date": "27/05/2026",
+      "url": "https://www.laprovence.com/article/economie/38786714098614/accor-face-aux-accusations-de-traite-detres-humains-laudit-interne-conclut-a-labsence-de-defaillances-systemiques",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture PACA : dynamique entrepreneuriale et innovation locale positive",
-      "body": "La région PACA affiche une dynamique entrepreneuriale robuste avec l'émergence de nouveaux modèles commerciaux innovants (e-commerce, flex-retail) et une croissance des marchés artisanaux (+4 dates en 2026). L'écosystème local bénéficie d'une attractivité accrue pour les startups et PME.",
-      "impact": "La conjoncture régionale est favorable aux acquisitions immobilières CRE ; capitalisez sur cette dynamique pour développer votre portefeuille transactions en PACA.",
+      "title": "Otrera : levée 17M€ nucléaire avancé France",
+      "body": "Otrera lève 17 millions d'euros pour accélérer son réacteur nucléaire avancé, marquant l'innovation énergétique française. Cet investissement renforce la souveraineté énergétique nationale et le tissu industriel.",
+      "impact": "Monitorer les zones d'activité PACA proches des projets nucléaires pour les relocalisations d'entreprises tech et industrielles.",
       "date": "26/05/2026",
-      "url": "https://www.laprovence.com/article/region/1306074611416215/la-chambre-des-metiers-et-de-l-artisanat-anime-votre-ete-avec-les-marches-createurs-et-saveurs",
+      "url": "https://www.laprovence.com/article/economie/1332681952221915/otrera-accelere-dans-le-nucleaire-avance-avec-une-levee-de-fonds-de-17-millions-d-euros",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Énergie",
           "cls": "tg"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE : inflation maîtrisée à 1.7%, taux directeurs stables à 2.15%",
-      "body": "L'inflation zone euro se stabilise à 1.7%, permettant à la BCE de maintenir ses taux directeurs à 2.15%. L'environnement monétaire reste accommodant avec des OAT à 3.70%, soutenant l'accès au crédit des entreprises.",
-      "impact": "L'environnement de taux reste favorable au financement CRE en PACA ; conseiller vos clients à finaliser leurs acquisitions avant tout resserrement cyclique.",
-      "date": "26/05/2026",
-      "url": "https://www.laprovence.com/article/economie/context-bce-inflation",
-      "source": "Données marché BCE",
+      "title": "OAT/Euribor/BCE : contexte taux stable mai 2026",
+      "body": "OAT 3.70%, Euribor 3M 2.15%, BCE 2.15%, reflet d'une inflation France à 1.7%. Les taux restent stables soutenant les financements immobiliers moyen terme.",
+      "impact": "Profiter de la stabilité des taux 2.15% Euribor pour sécuriser les montages de financement CRE PACA long terme.",
+      "date": "27/05/2026",
+      "url": "https://www.laprovence.com/article/economie/taux-oat-euribor-mai-2026",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Taux/Inflation",
+          "label": "Taux",
           "cls": "tt"
         }
       ]

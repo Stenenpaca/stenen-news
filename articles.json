@@ -1,32 +1,13 @@
 {
-  "generated_at": "27/05/2026",
+  "generated_at": "28/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Lidl au Pontet : relocalisations commerciales en PACA",
-      "body": "Le transfert du Lidl route de Lyon vers l'ancien site Point P avenue Charles-de-Gaulle marque une réorganisation du retail PACA. Cette opération illustre la dynamique de repositionnement des surfaces commerciales dans les centres-villes régionaux.",
-      "impact": "Surveiller les opportunités de reprise de locaux commerciaux libérés et les valeurs locatives en centres secondaires PACA.",
-      "date": "27/05/2026",
-      "url": "https://www.laprovence.com/article/economie/3755013370944314/lidl-u-express-auchan-la-guerre-des-trois-aura-t-elle-lieu-au-pontet",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Indus'Days 2026 : redynamisation des zones d'activité",
-      "body": "La Bastide Bourrelly à Cabriès ouvre ses portes lors des Indus'Days, mettant en avant l'excellence industrielle régionale. Cet événement souligne l'attractivité des locaux d'activité et l'innovation en PACA.",
-      "impact": "Identifier les secteurs d'activité dynamiques en PACA pour orienter les acquisitions et locations de locaux tertiaires et industriels.",
-      "date": "26/05/2026",
-      "url": "https://www.laprovence.com/article/economie/322097263563714/indus-days-2026-une-immersion-au-coeur-de-l-excellence-a-la-bastide-bourrelly-a-cabries",
+      "title": "Airbus Helicopters affiche des objectifs ambitieux en PACA",
+      "body": "Matthieu Louvot, nouveau leader d'Airbus Helicopters, fixe l'objectif de livrer plus de 400 hélicoptères cette année, impliquant des développements majeurs pour le long terme. Cette dynamique confirme le maintien de l'attractivité économique et industrielle de la région PACA malgré les tensions mondiales.",
+      "impact": "Renforcement des besoins en locaux d'activité et services pour les équipementiers aéronautiques en PACA ; opportunités transactionnelles dans les zones industrielles de Marignane et périphérie.",
+      "date": "28/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1480770750600515/livrer-un-carnet-de-commandes-historique-la-feuille-de-route-de-matthieu-louvot-pour-airbus-helicopters",
       "source": "La Provence",
       "tags": [
         {
@@ -40,50 +21,69 @@
       ]
     },
     {
-      "id": "f3",
-      "title": "Okaïdi restructuration : fermetures commerciales en cascade",
-      "body": "Okaïdi prévoit la suppression de 290 postes et la fermeture de 60 magasins en France dans son redressement judiciaire. Cette contraction du retail affecte aussi les zones commerciales PACA.",
-      "impact": "Évaluer les reprises de baux commerciaux vacants en PACA suite aux fermetures d'enseignes nationales en difficulté.",
-      "date": "26/05/2026",
-      "url": "https://www.laprovence.com/article/economie/3230831170403714/okaidi-specialiste-des-vetements-pour-enfants-veut-supprimer-jusqu-a-290-postes-et-fermer-60-magasins-en-france",
+      "id": "f2",
+      "title": "La région PACA consolide son attractivité économique en 2025",
+      "body": "L'agence risingSUD rapporte une année 2025 marquée par la consolidation plutôt que l'expansion, avec des indicateurs jugés positifs malgré les tensions géopolitiques globales. Cette stabilité reflète la résilience du marché immobilier d'entreprise régional.",
+      "impact": "Contexte favorable pour des transactions de consolidation ; préconiser des stratégies d'optimisation immobilière aux entreprises PACA plutôt que des expansions agressives.",
+      "date": "27/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1426997845612515/malgre-les-tensions-mondiales-la-region-paca-maintient-son-attractivite-economique",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Who's Who lance son réseau d'excellence en région PACA",
+      "body": "Le célèbre annuaire Who's Who a inauguré son réseau régional à Marseille le 27 mai, rassemblant décideurs et leaders économiques. Cette initiative renforce la visibilité et le prestige du tissu économique PACA.",
+      "impact": "Opportunité de networking pour propriétaires et gestionnaires immobiliers ; promotion des actifs tertiaires haut de gamme auprès d'une clientèle décisionnelle locale.",
+      "date": "27/05/2026",
+      "url": "https://www.laprovence.com/article/economie/143910670412215/video-le-who-s-who-veut-valoriser-l-excellence-de-la-region-paca",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Réseau",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Cadres PACA : 257 000 professionnels dynamisant les locaux",
-      "body": "PACA et la Corse représentent plus de 257 000 cadres, terrain privilégié pour la demande de bureaux et flex-office. Cette démographie professionnelle soutient la demande de surfaces tertiaires modernes.",
-      "impact": "Privilégier les projets de flex-office et coworking en PACA pour capter une demande croissante de cadres mobiles.",
-      "date": "26/05/2026",
-      "url": "https://www.laprovence.com/article/economie/6649751465574914/statut-cadre-en-entreprise-bousculer-les-codes",
-      "source": "La Provence",
+      "title": "OAT et Euribor maintiennent la stabilité : contexte favorable aux financements",
+      "body": "Dans un contexte macroéconomique stable, l'OAT s'établit à 3,70% et l'Euribor 3M à 2,15%, offrant des conditions de financement prévisibles pour les investisseurs immobiliers. Ces niveaux permettent d'évaluer les rendements requis sur les actifs tertiaires PACA.",
+      "impact": "Conditions de taux actuelles soutiennent les rendements nets sur bureaux/activité 4-5% en PACA ; recommander des arbitrages avant tout mouvement de la BCE.",
+      "date": "28/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1480770750600515/livrer-un-carnet-de-commandes-historique-la-feuille-de-route-de-matthieu-louvot-pour-airbus-helicopters",
+      "source": "Donnees marche",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Bureaux",
-          "cls": "tm"
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Marché Manosque : étude gestion déchet et local",
-      "body": "L'étude DLVAgglo sur le marché de Manosque analyse les déchet et produits locaux. Elle révèle les attentes des consommateurs pour des commerces responsables en zone PACA.",
-      "impact": "Adapter les offres de locaux commerciaux PACA aux critères ESG et de commercialité durable pour les commerçants.",
-      "date": "26/05/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/1335261180290915/quantite-de-dechet-taux-de-produits-locaux-une-etude-sur-le-marche-de-manosque-devoilee-par-l-intercommunalite",
+      "title": "Perturbations SNCF : impact sur l'accessibilité des sites tertiaires PACA",
+      "body": "La SNCF annule six trains Bordeaux-Marseille les 27-28 mai par crainte de pannes climatisation en période de canicule. Ces disruptions affectent temporairement l'accessibilité aux sites tertiaires et la mobilité des collaborateurs en région.",
+      "impact": "Considérer les critères d'accessibilité transport collectif et de résilience climatique dans l'évaluation des sites tertiaires ; valoriser les zones bien desservies par alternatives de mobilité.",
+      "date": "28/05/2026",
+      "url": "https://www.laprovence.com/article/economie/40112583778718/canicule-six-trains-bordeaux-marseille-annules-par-la-sncf-ce-jeudi-par-crainte-de-pannes-de-la-climatisation",
       "source": "La Provence",
       "tags": [
         {
@@ -91,8 +91,8 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     }
@@ -100,50 +100,54 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Accor audit interne : stabilité secteur hôtellerie-tertiaire",
-      "body": "Accor présente un audit interne montrant l'absence de défaillances systémiques malgré les accusations. Ce résultat rassure sur la solidité du secteur tertiaire hospitalité en France.",
-      "impact": "Confirmer la confiance dans les projets tertiaires d'hôtellerie pour les investissements PACA moyen terme.",
-      "date": "27/05/2026",
-      "url": "https://www.laprovence.com/article/economie/38786714098614/accor-face-aux-accusations-de-traite-detres-humains-laudit-interne-conclut-a-labsence-de-defaillances-systemiques",
+      "title": "Meta diversifie ses revenus : abonnements payants lancés",
+      "body": "Meta a lancé le 27 mai des formules payantes d'abonnement pour Instagram, Facebook et WhatsApp (à partir de 2,99$/mois), réduisant sa dépendance à la publicité. Cette transition stratégique reflète les pressions réglementaires et les opportunités de monétisation directe.",
+      "impact": "Tendance de concentration des géants tech sur leur écosystème interne ; implications pour les stratégies de marketing des entreprises tertiaires localisées.",
+      "date": "28/05/2026",
+      "url": "https://www.laprovence.com/article/economie/14899172923515/meta-lance-des-abonnements-payants-pour-instagram-facebook-et-whatsapp-a-partir-de-2-99-dollars-par-mois",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Geopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Otrera : levée 17M€ nucléaire avancé France",
-      "body": "Otrera lève 17 millions d'euros pour accélérer son réacteur nucléaire avancé, marquant l'innovation énergétique française. Cet investissement renforce la souveraineté énergétique nationale et le tissu industriel.",
-      "impact": "Monitorer les zones d'activité PACA proches des projets nucléaires pour les relocalisations d'entreprises tech et industrielles.",
-      "date": "26/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1332681952221915/otrera-accelere-dans-le-nucleaire-avance-avec-une-levee-de-fonds-de-17-millions-d-euros",
-      "source": "La Provence",
+      "title": "Conjoncture France : inflation à 1,7%, taux BCE stable à 2,15%",
+      "body": "L'inflation française se maintient à 1,7%, bien en deçà de la cible de 2% de la BCE, tandis que le taux directeur reste à 2,15%. Ce contexte déflationniste apaise les craintes sur les dépenses d'énergie et les coûts d'exploitation.",
+      "impact": "Environnement macro favorable aux décisions d'investissement immobilier tertiaire ; refinancement avantageux pour les sociétés existantes en PACA.",
+      "date": "28/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1426997845612515/malgre-les-tensions-mondiales-la-region-paca-maintient-son-attractivite-economique",
+      "source": "Donnees marche",
       "tags": [
         {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Inflation",
+          "cls": "tt"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "OAT/Euribor/BCE : contexte taux stable mai 2026",
-      "body": "OAT 3.70%, Euribor 3M 2.15%, BCE 2.15%, reflet d'une inflation France à 1.7%. Les taux restent stables soutenant les financements immobiliers moyen terme.",
-      "impact": "Profiter de la stabilité des taux 2.15% Euribor pour sécuriser les montages de financement CRE PACA long terme.",
-      "date": "27/05/2026",
-      "url": "https://www.laprovence.com/article/economie/taux-oat-euribor-mai-2026",
-      "source": "Données marché",
+      "title": "Brent à 96 USD : stabilité énergétique malgré tensions géopolitiques",
+      "body": "Le pétrole Brent se négocie autour de 96 USD/baril, reflétant un équilibre entre tensions géopolitiques et craintes de ralentissement économique. Cette stabilité réduit les volatilités sur les coûts d'exploitation immobilière.",
+      "impact": "Prévisions d'exploitation stables pour les charges énergétiques des actifs tertiaires PACA ; moindre risque d'inflation des coûts de gestion sur 2026.",
+      "date": "28/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1426997845612515/malgre-les-tensions-mondiales-la-region-paca-maintient-son-attractivite-economique",
+      "source": "Donnees marche",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Energie",
+          "cls": "tg"
+        },
+        {
+          "label": "Geopolitique",
+          "cls": "tg"
         }
       ]
     }

@@ -1,32 +1,32 @@
 {
-  "generated_at": "28/05/2026",
+  "generated_at": "29/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Airbus Helicopters affiche des objectifs ambitieux en PACA",
-      "body": "Matthieu Louvot, nouveau leader d'Airbus Helicopters, fixe l'objectif de livrer plus de 400 hélicoptères cette année, impliquant des développements majeurs pour le long terme. Cette dynamique confirme le maintien de l'attractivité économique et industrielle de la région PACA malgré les tensions mondiales.",
-      "impact": "Renforcement des besoins en locaux d'activité et services pour les équipementiers aéronautiques en PACA ; opportunités transactionnelles dans les zones industrielles de Marignane et périphérie.",
-      "date": "28/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1480770750600515/livrer-un-carnet-de-commandes-historique-la-feuille-de-route-de-matthieu-louvot-pour-airbus-helicopters",
+      "title": "Inflation à 2,4% : impact sur les coûts d'exploitation PACA",
+      "body": "L'inflation accélère à 2,4% sur un an en mai 2026, portée par la hausse des prix de l'énergie. Cette tendance affecte directement les charges d'exploitation des immeubles tertiaires et commerciaux en région PACA.",
+      "impact": "Anticiper une réévaluation des charges locatives et renégocier les contrats d'énergie pour les immeubles de bureaux et activité en portefeuille.",
+      "date": "29/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1571749084021115/hausse-de-linflation-a-2-4-sur-un-an-en-mai-selon-linsee",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Inflation",
+          "cls": "tt"
         },
         {
-          "label": "Activité",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "La région PACA consolide son attractivité économique en 2025",
-      "body": "L'agence risingSUD rapporte une année 2025 marquée par la consolidation plutôt que l'expansion, avec des indicateurs jugés positifs malgré les tensions géopolitiques globales. Cette stabilité reflète la résilience du marché immobilier d'entreprise régional.",
-      "impact": "Contexte favorable pour des transactions de consolidation ; préconiser des stratégies d'optimisation immobilière aux entreprises PACA plutôt que des expansions agressives.",
-      "date": "27/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1426997845612515/malgre-les-tensions-mondiales-la-region-paca-maintient-son-attractivite-economique",
+      "title": "RTE accélère l'électrification en PACA : opportunités tertiaire",
+      "body": "RTE présente son bilan électrique régional 2025 et annonce un plan d'accélération de l'électrification des usages en Provence-Alpes-Côte d'Azur. Cette dynamique crée des besoins en rénovation d'immeubles de bureaux et locaux d'activité.",
+      "impact": "Valoriser les actifs tertiaires et commerciaux PACA offrant une accessibilité électrique renforcée pour attirer locataires sensibles à la transition énergétique.",
+      "date": "29/05/2026",
+      "url": "https://www.laprovence.com/article/economie/73437867414559/comment-rte-veut-accelerer-lelectrification-des-usages-en-paca",
       "source": "La Provence",
       "tags": [
         {
@@ -34,56 +34,37 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Reglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Who's Who lance son réseau d'excellence en région PACA",
-      "body": "Le célèbre annuaire Who's Who a inauguré son réseau régional à Marseille le 27 mai, rassemblant décideurs et leaders économiques. Cette initiative renforce la visibilité et le prestige du tissu économique PACA.",
-      "impact": "Opportunité de networking pour propriétaires et gestionnaires immobiliers ; promotion des actifs tertiaires haut de gamme auprès d'une clientèle décisionnelle locale.",
-      "date": "27/05/2026",
-      "url": "https://www.laprovence.com/article/economie/143910670412215/video-le-who-s-who-veut-valoriser-l-excellence-de-la-region-paca",
+      "title": "Dynamique commerciale estivale en PACA : Digne-les-Bains",
+      "body": "Les commerçants de Digne-les-Bains lancent la saison estivale avec des animations revitalisantes au centre-ville. Cette activation commerciale reflète une volonté de dynamiser les espaces de vente et d'atténuer la saisonnalité.",
+      "impact": "Identifier les petits centres commerciaux PACA bénéficiant d'une gestion événementielle active pour proposer des locations à locataires retail avec fort potentiel de chiffre d'affaires.",
+      "date": "28/05/2026",
+      "url": "https://www.laprovence.com/article/societe/1512869095276615/les-commercants-lancent-la-saison-estivale-en-fanfare-avec-la-fete-des-meres-a-digne-les-bains",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce",
           "cls": "tp"
         },
         {
-          "label": "Réseau",
+          "label": "Marche",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "OAT et Euribor maintiennent la stabilité : contexte favorable aux financements",
-      "body": "Dans un contexte macroéconomique stable, l'OAT s'établit à 3,70% et l'Euribor 3M à 2,15%, offrant des conditions de financement prévisibles pour les investisseurs immobiliers. Ces niveaux permettent d'évaluer les rendements requis sur les actifs tertiaires PACA.",
-      "impact": "Conditions de taux actuelles soutiennent les rendements nets sur bureaux/activité 4-5% en PACA ; recommander des arbitrages avant tout mouvement de la BCE.",
+      "title": "Tuilerie Bossy Gardanne : réhabilitation site industriel PACA",
+      "body": "La Tuilerie Bossy à Gardanne conjugue patrimoine industriel et création contemporaine, illustrant la tendance de conversion des anciens sites en tiers-lieux tertiaires mixtes. Le projet valorise l'héritage bâti tout en restant vivant économiquement.",
+      "impact": "Prospecter les anciens sites industriels PACA convertibles en espaces de bureaux partagés ou locaux d'activité créative pour répondre à la demande flex-office et tiers-lieux.",
       "date": "28/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1480770750600515/livrer-un-carnet-de-commandes-historique-la-feuille-de-route-de-matthieu-louvot-pour-airbus-helicopters",
-      "source": "Donnees marche",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Perturbations SNCF : impact sur l'accessibilité des sites tertiaires PACA",
-      "body": "La SNCF annule six trains Bordeaux-Marseille les 27-28 mai par crainte de pannes climatisation en période de canicule. Ces disruptions affectent temporairement l'accessibilité aux sites tertiaires et la mobilité des collaborateurs en région.",
-      "impact": "Considérer les critères d'accessibilité transport collectif et de résilience climatique dans l'évaluation des sites tertiaires ; valoriser les zones bien desservies par alternatives de mobilité.",
-      "date": "28/05/2026",
-      "url": "https://www.laprovence.com/article/economie/40112583778718/canicule-six-trains-bordeaux-marseille-annules-par-la-sncf-ce-jeudi-par-crainte-de-pannes-de-la-climatisation",
+      "url": "https://www.laprovence.com/article/economie/1506573078968615/indus-3days-a-la-tuilerie-bossy-de-gardanne-l-histoire-de-famille-continue-de-faire-vivre-la-creation",
       "source": "La Provence",
       "tags": [
         {
@@ -91,8 +72,27 @@
           "cls": "tp"
         },
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Marche",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Ressourcerie Venelles : modèle économique tiers-lieu PACA",
+      "body": "La Ressourcerie Histoires sans fin de Venelles ouvre ses portes aux visiteurs, conjuguant atelier de réparation et boutique de réemploi. Ce modèle de tiers-lieu économique crée une demande nouvelle en locaux d'activité multifonctionnels.",
+      "impact": "Cibler les structures d'économie sociale et solidaire PACA en recherche de locaux flexibles pour proposer des surfaces d'activité à loyers modérés avec fiscalité avantageuse.",
+      "date": "28/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1495779489930815/indus3days-la-ressourcerie-histoires-sans-fin-a-venelles-ouvre-ses-portes-et-partage-son-heritage",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }
@@ -100,27 +100,12 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Meta diversifie ses revenus : abonnements payants lancés",
-      "body": "Meta a lancé le 27 mai des formules payantes d'abonnement pour Instagram, Facebook et WhatsApp (à partir de 2,99$/mois), réduisant sa dépendance à la publicité. Cette transition stratégique reflète les pressions réglementaires et les opportunités de monétisation directe.",
-      "impact": "Tendance de concentration des géants tech sur leur écosystème interne ; implications pour les stratégies de marketing des entreprises tertiaires localisées.",
-      "date": "28/05/2026",
-      "url": "https://www.laprovence.com/article/economie/14899172923515/meta-lance-des-abonnements-payants-pour-instagram-facebook-et-whatsapp-a-partir-de-2-99-dollars-par-mois",
+      "title": "Inflation accélère à 2,4% en mai : impact BCE et taux",
+      "body": "L'inflation s'accélère à 2,4% sur un an en mai 2026 en France, portée par la hausse des prix de l'énergie après une hausse de 2,2% en avril. Cette tendance devrait influencer les décisions monétaires de la BCE et maintenir la pression sur les taux de financement.",
+      "impact": "Verrouiller les financements longs PACA avant une possible hausse des taux OAT/Euribor ; simuler coûts crédit pour refinancement immobilier.",
+      "date": "29/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1571749084021115/hausse-de-linflation-a-2-4-sur-un-an-en-mai-selon-linsee",
       "source": "La Provence",
-      "tags": [
-        {
-          "label": "Geopolitique",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Conjoncture France : inflation à 1,7%, taux BCE stable à 2,15%",
-      "body": "L'inflation française se maintient à 1,7%, bien en deçà de la cible de 2% de la BCE, tandis que le taux directeur reste à 2,15%. Ce contexte déflationniste apaise les craintes sur les dépenses d'énergie et les coûts d'exploitation.",
-      "impact": "Environnement macro favorable aux décisions d'investissement immobilier tertiaire ; refinancement avantageux pour les sociétés existantes en PACA.",
-      "date": "28/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1426997845612515/malgre-les-tensions-mondiales-la-region-paca-maintient-son-attractivite-economique",
-      "source": "Donnees marche",
       "tags": [
         {
           "label": "Inflation",
@@ -133,20 +118,39 @@
       ]
     },
     {
-      "id": "m3",
-      "title": "Brent à 96 USD : stabilité énergétique malgré tensions géopolitiques",
-      "body": "Le pétrole Brent se négocie autour de 96 USD/baril, reflétant un équilibre entre tensions géopolitiques et craintes de ralentissement économique. Cette stabilité réduit les volatilités sur les coûts d'exploitation immobilière.",
-      "impact": "Prévisions d'exploitation stables pour les charges énergétiques des actifs tertiaires PACA ; moindre risque d'inflation des coûts de gestion sur 2026.",
-      "date": "28/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1426997845612515/malgre-les-tensions-mondiales-la-region-paca-maintient-son-attractivite-economique",
-      "source": "Donnees marche",
+      "id": "m2",
+      "title": "SNCF TGV M reporte mise en service septembre 2026",
+      "body": "SNCF Voyageurs annonce un nouveau retard de la mise en exploitation commerciale du futur TGV M, désormais attendue en septembre au lieu du 1er juillet 2026. Ce retard affecte les projections de développement des corridors de transport et accessibilité régionale.",
+      "impact": "Recalibrer les stratégies de localisation de bureaux et locaux près des gares PACA ; anticiper report des projets d'amélioration d'accessibilité.",
+      "date": "29/05/2026",
+      "url": "https://www.laprovence.com/article/economie/5547408284758814/sncf-le-futur-tgv-m-attendu-en-septembre-apres-un-nouveau-retard",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Energie",
+          "label": "Geopolitique",
           "cls": "tg"
         },
         {
-          "label": "Geopolitique",
+          "label": "Conjoncture",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Brent 96 USD, OAT 3,70%, Euribor 2,15% : contexte crédit",
+      "body": "Le contexte énergétique reste soutenu (Brent 96 USD), tandis que les taux obligataires français se stabilisent à 3,70% et l'Euribor 3M à 2,15%, reflétant les anticipations de politique monétaire BCE à 2,15%. Cette configuration maintient un environnement de crédit restrictif.",
+      "impact": "Conseiller aux clients CRE PACA de privilégier structures fixes sur financement longs et optimiser gestion trésorerie sur baux commerciaux à révision.",
+      "date": "29/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1571749084021115/hausse-de-linflation-a-2-4-sur-un-an-en-mai-selon-linsee",
+      "source": "Donnees Marche",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]

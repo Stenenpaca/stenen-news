@@ -1,11 +1,87 @@
 {
-  "generated_at": "29/05/2026",
+  "generated_at": "30/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Inflation à 2,4% : impact sur les coûts d'exploitation PACA",
-      "body": "L'inflation accélère à 2,4% sur un an en mai 2026, portée par la hausse des prix de l'énergie. Cette tendance affecte directement les charges d'exploitation des immeubles tertiaires et commerciaux en région PACA.",
-      "impact": "Anticiper une réévaluation des charges locatives et renégocier les contrats d'énergie pour les immeubles de bureaux et activité en portefeuille.",
+      "title": "100M€ investis à Fos pour la décarbonation industrielle",
+      "body": "Ecolab annonce 100 millions d'euros d'investissement pour deux projets décarbonés en France, dont GravitHy à Fos-sur-Mer qui produira 2 millions de tonnes d'acier bas carbone annuels dès 2030. Cette réindustrialisation majeure de la vallée de Fos créera une forte demande de locaux d'activité et de bureaux tertiaires.",
+      "impact": "Opportunité majeure de croissance immobilière d'activité PACA : anticiper acquisitions de terrains et locaux logistiques/bureaux à proximité de Fos pour accueillir PME/ETI sous-traitantes.",
+      "date": "30/05/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/69584998136853/exclusif-100-millions-d-euros-pour-fos-et-la-decarbonation-annonce-le-ministre-de-la-transition-ecologie-mathieu-lefevre",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Ligne 400kV Fos-Jonquières : accélération de la réindustrialisation",
+      "body": "L'État accélère le déploiement de la ligne électrique à très haute tension Jonquières-Saint-Vincent/Fos-sur-Mer pour sécuriser la réindustrialisation de la vallée. Cette infrastructure critique franchit une nouvelle étape politique avec le soutien de la présidence.",
+      "impact": "Sécurisation énergétique des projets industriels PACA : valorise fortement les emplacements stratégiques en zone Fos pour locaux d'activité haute consommation électrique.",
+      "date": "29/05/2026",
+      "url": "https://www.laprovence.com/article/economie/9104824382503214/l-etat-accelere-sur-la-ligne-400-kv-fos-jonquieres-pour-securiser-la-reindustrialisation-de-la-vallee-de-fos",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Infrastructure",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Nouveau campus formation hôtellerie-restauration à Aix",
+      "body": "Le Greta-CFA Provence crée un campus 'Aixcellence' dédié aux métiers du tourisme, de l'hôtellerie-restauration et de la sécurité, du CAP au BTS. Cette formation professionnelle renforce l'écosystème tertaire et touristique d'Aix-en-Provence.",
+      "impact": "Demande croissante de surfaces bureaux/formation à Aix : opérateurs immobiliers doivent anticiper besoins en locaux pédagogiques et administratifs pour filières tourisme/services.",
+      "date": "30/05/2026",
+      "url": "https://www.laprovence.com/article/societe/1654673770932715/un-nouveau-campus-pour-former-aux-metiers-de-lhotellerie-restauration-et-de-la-securite-a-aix-en-provence",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Tertaire",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "PME PACA : 9000 demandes de prêts flash carburant",
+      "body": "Environ 9000 entreprises françaises ont sollicité des 'prêts flash carburant' via Bpifrance pour absorber la hausse des prix liée à la géopolitique moyen-orientale. Cette tension financière affecte directement la trésorerie des PME régionales.",
+      "impact": "Fragilité accrue des PME/ETI PACA : valoriser offres de location flexible et espaces mutualisés pour réduire leurs coûts immobiliers fixes face aux surcoûts opérationnels.",
+      "date": "29/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1573199848400315/environ-9-000-entreprises-ont-demande-des-prets-flash-carburant-selon-bpifrance",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PME PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Financement",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Inflation à 2.4% : pression sur les coûts immobiliers",
+      "body": "Les prix à la consommation augmentent de 2.4% sur 12 mois en mai 2026, amplifiés par l'accélération des prix de l'énergie. Cette inflation structurelle impacte les charges d'exploitation et valuations immobilières.",
+      "impact": "Réviser à la hausse les yield requirements et charges prévisionnelles : l'inflation 2.4% justifie des clauses d'indexation renforcées dans les baux tertaires PACA.",
       "date": "29/05/2026",
       "url": "https://www.laprovence.com/article/economie/1571749084021115/hausse-de-linflation-a-2-4-sur-un-an-en-mai-selon-linsee",
       "source": "La Provence",
@@ -15,84 +91,8 @@
           "cls": "tt"
         },
         {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "RTE accélère l'électrification en PACA : opportunités tertiaire",
-      "body": "RTE présente son bilan électrique régional 2025 et annonce un plan d'accélération de l'électrification des usages en Provence-Alpes-Côte d'Azur. Cette dynamique crée des besoins en rénovation d'immeubles de bureaux et locaux d'activité.",
-      "impact": "Valoriser les actifs tertiaires et commerciaux PACA offrant une accessibilité électrique renforcée pour attirer locataires sensibles à la transition énergétique.",
-      "date": "29/05/2026",
-      "url": "https://www.laprovence.com/article/economie/73437867414559/comment-rte-veut-accelerer-lelectrification-des-usages-en-paca",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Reglementation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Dynamique commerciale estivale en PACA : Digne-les-Bains",
-      "body": "Les commerçants de Digne-les-Bains lancent la saison estivale avec des animations revitalisantes au centre-ville. Cette activation commerciale reflète une volonté de dynamiser les espaces de vente et d'atténuer la saisonnalité.",
-      "impact": "Identifier les petits centres commerciaux PACA bénéficiant d'une gestion événementielle active pour proposer des locations à locataires retail avec fort potentiel de chiffre d'affaires.",
-      "date": "28/05/2026",
-      "url": "https://www.laprovence.com/article/societe/1512869095276615/les-commercants-lancent-la-saison-estivale-en-fanfare-avec-la-fete-des-meres-a-digne-les-bains",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Commerce",
-          "cls": "tp"
-        },
-        {
-          "label": "Marche",
+          "label": "Marché",
           "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Tuilerie Bossy Gardanne : réhabilitation site industriel PACA",
-      "body": "La Tuilerie Bossy à Gardanne conjugue patrimoine industriel et création contemporaine, illustrant la tendance de conversion des anciens sites en tiers-lieux tertiaires mixtes. Le projet valorise l'héritage bâti tout en restant vivant économiquement.",
-      "impact": "Prospecter les anciens sites industriels PACA convertibles en espaces de bureaux partagés ou locaux d'activité créative pour répondre à la demande flex-office et tiers-lieux.",
-      "date": "28/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1506573078968615/indus-3days-a-la-tuilerie-bossy-de-gardanne-l-histoire-de-famille-continue-de-faire-vivre-la-creation",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marche",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Ressourcerie Venelles : modèle économique tiers-lieu PACA",
-      "body": "La Ressourcerie Histoires sans fin de Venelles ouvre ses portes aux visiteurs, conjuguant atelier de réparation et boutique de réemploi. Ce modèle de tiers-lieu économique crée une demande nouvelle en locaux d'activité multifonctionnels.",
-      "impact": "Cibler les structures d'économie sociale et solidaire PACA en recherche de locaux flexibles pour proposer des surfaces d'activité à loyers modérés avec fiscalité avantageuse.",
-      "date": "28/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1495779489930815/indus3days-la-ressourcerie-histoires-sans-fin-a-venelles-ouvre-ses-portes-et-partage-son-heritage",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
         }
       ]
     }
@@ -100,9 +100,28 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Inflation accélère à 2,4% en mai : impact BCE et taux",
-      "body": "L'inflation s'accélère à 2,4% sur un an en mai 2026 en France, portée par la hausse des prix de l'énergie après une hausse de 2,2% en avril. Cette tendance devrait influencer les décisions monétaires de la BCE et maintenir la pression sur les taux de financement.",
-      "impact": "Verrouiller les financements longs PACA avant une possible hausse des taux OAT/Euribor ; simuler coûts crédit pour refinancement immobilier.",
+      "title": "Notation S&P France stable à A+ (dette souveraine)",
+      "body": "S&P confirme vendredi 29 mai la note de la dette française à A+ avec perspective stable, qualifiée de 'moyenne supérieure'. L'agence n'a publié aucun commentaire justificatif sur sa décision.",
+      "impact": "Contexte d'emprunt stable pour financement immobilier : conditions OAT maintenues, pas de dégradation souveraine à court terme menaçant les crédits CRE.",
+      "date": "30/05/2026",
+      "url": "https://www.laprovence.com/article/economie/6434570515782614/dette-de-la-france-s-p-laisse-la-note-inchangee-etablie-a-a",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Souveraineté",
+          "cls": "tg"
+        },
+        {
+          "label": "Taux",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Inflation France 2.4% YoY : accélération énergétique",
+      "body": "L'inflation s'accélère à 2.4% en mai 2026 (vs 2.2% en avril), tirée par la forte hausse des prix de l'énergie suite aux tensions géopolitiques moyen-orientales. Cette dynamique inflationniste retrouverait niveaux 2023-2024.",
+      "impact": "Anticipation d'une BCE moins accommodante : hausse probable de l'Euribor 3M au-delà de 2.15% et taux de crédits immobiliers renforcés, durcissant le financement de projets CRE.",
       "date": "29/05/2026",
       "url": "https://www.laprovence.com/article/economie/1571749084021115/hausse-de-linflation-a-2-4-sur-un-an-en-mai-selon-linsee",
       "source": "La Provence",
@@ -113,44 +132,25 @@
         },
         {
           "label": "Conjoncture",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "SNCF TGV M reporte mise en service septembre 2026",
-      "body": "SNCF Voyageurs annonce un nouveau retard de la mise en exploitation commerciale du futur TGV M, désormais attendue en septembre au lieu du 1er juillet 2026. Ce retard affecte les projections de développement des corridors de transport et accessibilité régionale.",
-      "impact": "Recalibrer les stratégies de localisation de bureaux et locaux près des gares PACA ; anticiper report des projets d'amélioration d'accessibilité.",
-      "date": "29/05/2026",
-      "url": "https://www.laprovence.com/article/economie/5547408284758814/sncf-le-futur-tgv-m-attendu-en-septembre-apres-un-nouveau-retard",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Geopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Brent 96 USD, OAT 3,70%, Euribor 2,15% : contexte crédit",
-      "body": "Le contexte énergétique reste soutenu (Brent 96 USD), tandis que les taux obligataires français se stabilisent à 3,70% et l'Euribor 3M à 2,15%, reflétant les anticipations de politique monétaire BCE à 2,15%. Cette configuration maintient un environnement de crédit restrictif.",
-      "impact": "Conseiller aux clients CRE PACA de privilégier structures fixes sur financement longs et optimiser gestion trésorerie sur baux commerciaux à révision.",
+      "title": "Réindustrialisation PACA : enjeu énergétique géopolitique",
+      "body": "L'accélération de la ligne THT Fos-Jonquières et investissements décarbonés (100M€ Ecolab) reflètent stratégie française de sécurisation énergétique face aux tensions moyen-orientales. L'électrification devient levier de souveraineté industrielle.",
+      "impact": "Brent volatile (référence 96$/bbl) renforce attractivité PACA comme région stratégique : projets décarbonés sécurisent demande immobilière long terme, réduisant risque de dévaluation des actifs tertiaires/activité.",
       "date": "29/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1571749084021115/hausse-de-linflation-a-2-4-sur-un-an-en-mai-selon-linsee",
-      "source": "Donnees Marche",
+      "url": "https://www.laprovence.com/article/economie/9104824382503214/l-etat-accelere-sur-la-ligne-400-kv-fos-jonquieres-pour-securiser-la-reindustrialisation-de-la-vallee-de-fos",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         },
         {
-          "label": "Conjoncture",
+          "label": "Énergie",
           "cls": "tg"
         }
       ]

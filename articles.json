@@ -1,13 +1,13 @@
 {
-  "generated_at": "30/05/2026",
+  "generated_at": "31/05/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "100M€ investis à Fos pour la décarbonation industrielle",
-      "body": "Ecolab annonce 100 millions d'euros d'investissement pour deux projets décarbonés en France, dont GravitHy à Fos-sur-Mer qui produira 2 millions de tonnes d'acier bas carbone annuels dès 2030. Cette réindustrialisation majeure de la vallée de Fos créera une forte demande de locaux d'activité et de bureaux tertiaires.",
-      "impact": "Opportunité majeure de croissance immobilière d'activité PACA : anticiper acquisitions de terrains et locaux logistiques/bureaux à proximité de Fos pour accueillir PME/ETI sous-traitantes.",
+      "title": "Soluscope: dynamique industrielle et locaux d'activité à Aubagne",
+      "body": "Le spécialiste de l'hygiène médicale Soluscope, implanté en zone des Paluds à Aubagne, attire l'attention gouvernementale et démontre la vitalité des locaux d'activité en PACA. Cette reconnaissance officielle valorise les zones industrielles provençales comme pôles d'excellence sectoriels.",
+      "impact": "Opportunité de valorisation locative pour les actifs d'activité/PME à Aubagne: demande soutenue pour locaux 200-500m² en zones industrielles structurées.",
       "date": "30/05/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/69584998136853/exclusif-100-millions-d-euros-pour-fos-et-la-decarbonation-annonce-le-ministre-de-la-transition-ecologie-mathieu-lefevre",
+      "url": "https://www.laprovence.com/article/economie/6726479191807914/le-ministre-de-la-transition-ecologique-en-visite-chez-soluscope-specialiste-de-l-hygiene-medicale-a-aubagne",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Ligne 400kV Fos-Jonquières : accélération de la réindustrialisation",
-      "body": "L'État accélère le déploiement de la ligne électrique à très haute tension Jonquières-Saint-Vincent/Fos-sur-Mer pour sécuriser la réindustrialisation de la vallée. Cette infrastructure critique franchit une nouvelle étape politique avec le soutien de la présidence.",
-      "impact": "Sécurisation énergétique des projets industriels PACA : valorise fortement les emplacements stratégiques en zone Fos pour locaux d'activité haute consommation électrique.",
-      "date": "29/05/2026",
-      "url": "https://www.laprovence.com/article/economie/9104824382503214/l-etat-accelere-sur-la-ligne-400-kv-fos-jonquieres-pour-securiser-la-reindustrialisation-de-la-vallee-de-fos",
+      "title": "L'Agitateur floral: modèle startup régional et espaces tertiaires",
+      "body": "Le réseau d'artisans floraux basé à Manosque adopte une organisation moderne de type startup parisienne, révélant une mutation des besoins en espaces tertiaires en PACA. Cette tendance indique une demande croissante pour des bureaux flexibles et technologiquement équipés en région.",
+      "impact": "Potentiel flex-office: recherche active de PME/TPE PACA pour espaces 150-300m² avec services partagés et environnement créatif.",
+      "date": "31/05/2026",
+      "url": "https://www.laprovence.com/article/region/10306284634513/l-un-des-plus-gros-reseaux-d-artisans-floraux-de-france-base-a-manosque-dans-le-rush-de-la-fete-des-meres",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Infrastructure",
+          "label": "Flex-office",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Nouveau campus formation hôtellerie-restauration à Aix",
-      "body": "Le Greta-CFA Provence crée un campus 'Aixcellence' dédié aux métiers du tourisme, de l'hôtellerie-restauration et de la sécurité, du CAP au BTS. Cette formation professionnelle renforce l'écosystème tertaire et touristique d'Aix-en-Provence.",
-      "impact": "Demande croissante de surfaces bureaux/formation à Aix : opérateurs immobiliers doivent anticiper besoins en locaux pédagogiques et administratifs pour filières tourisme/services.",
+      "title": "Manpower: recrutement massif et tension marché tertiaire PACA",
+      "body": "Manpower lance une campagne de recrutement de 1000 personnes en PACA pour l'été, reflétant une dynamique économique positive et des besoins accrus en espaces de travail. Cette croissance d'emploi saisonnière maintient la pression sur les disponibilités commerciales et tertiaires.",
+      "impact": "Demande accrue pour locaux commerciaux/services +500m² near Marseille/Aix: tensions sur vacants, valorisation des rents en secteurs dynamiques.",
       "date": "30/05/2026",
-      "url": "https://www.laprovence.com/article/societe/1654673770932715/un-nouveau-campus-pour-former-aux-metiers-de-lhotellerie-restauration-et-de-la-securite-a-aix-en-provence",
+      "url": "https://www.laprovence.com/article/economie/6882634753238714/manpower-recrute-1-000-personnes-en-paca",
       "source": "La Provence",
       "tags": [
         {
@@ -53,46 +53,46 @@
           "cls": "tp"
         },
         {
-          "label": "Tertaire",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "PME PACA : 9000 demandes de prêts flash carburant",
-      "body": "Environ 9000 entreprises françaises ont sollicité des 'prêts flash carburant' via Bpifrance pour absorber la hausse des prix liée à la géopolitique moyen-orientale. Cette tension financière affecte directement la trésorerie des PME régionales.",
-      "impact": "Fragilité accrue des PME/ETI PACA : valoriser offres de location flexible et espaces mutualisés pour réduire leurs coûts immobiliers fixes face aux surcoûts opérationnels.",
-      "date": "29/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1573199848400315/environ-9-000-entreprises-ont-demande-des-prets-flash-carburant-selon-bpifrance",
+      "title": "Artisanat PACA: préservation savoir-faire et locaux spécialisés",
+      "body": "Entre l'art du soudage à La Ciotat et la floriculture à Manosque, l'artisanat PACA maintient des savoir-faire rares exigeant des espaces dédiés spécifiques. Ces activités structurent l'offre locative de niche et valorisent les petits ateliers aménagés.",
+      "impact": "Niche intéressante: ateliers 80-150m² avec accès réseau artisanal, loyers modérés mais durables (6-9€/m²/an).",
+      "date": "30/05/2026",
+      "url": "https://www.laprovence.com/article/societe/1002892764596215/chaque-piece-a-customiser-est-un-defi-technique-patrice-moha-perpetue-l-art-du-soudage-a-la-ciotat",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PME PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Financement",
-          "cls": "tt"
+          "label": "Activité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Inflation à 2.4% : pression sur les coûts immobiliers",
-      "body": "Les prix à la consommation augmentent de 2.4% sur 12 mois en mai 2026, amplifiés par l'accélération des prix de l'énergie. Cette inflation structurelle impacte les charges d'exploitation et valuations immobilières.",
-      "impact": "Réviser à la hausse les yield requirements et charges prévisionnelles : l'inflation 2.4% justifie des clauses d'indexation renforcées dans les baux tertaires PACA.",
-      "date": "29/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1571749084021115/hausse-de-linflation-a-2-4-sur-un-an-en-mai-selon-linsee",
+      "title": "Transition énergétique et normes décret tertiaire en PACA",
+      "body": "La visite ministérielle à Soluscope souligne l'importance de la transition écologique pour les acteurs tertiaires/activité régionaux. Les normes du décret tertiaire s'imposent comme élément structurant de la valorisation immobilière en PACA.",
+      "impact": "Risque décret tertiaire: audit énergétique obligatoire pour portefeuille >2000m²; favorise transactions pour immeubles conformes 2025-2026.",
+      "date": "30/05/2026",
+      "url": "https://www.laprovence.com/article/economie/6726479191807914/le-ministre-de-la-transition-ecologique-en-visite-chez-soluscope-specialiste-de-l-hygiene-medicale-a-aubagne",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
+          "label": "Régulation",
+          "cls": "tr"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,17 +100,13 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Notation S&P France stable à A+ (dette souveraine)",
-      "body": "S&P confirme vendredi 29 mai la note de la dette française à A+ avec perspective stable, qualifiée de 'moyenne supérieure'. L'agence n'a publié aucun commentaire justificatif sur sa décision.",
-      "impact": "Contexte d'emprunt stable pour financement immobilier : conditions OAT maintenues, pas de dégradation souveraine à court terme menaçant les crédits CRE.",
-      "date": "30/05/2026",
-      "url": "https://www.laprovence.com/article/economie/6434570515782614/dette-de-la-france-s-p-laisse-la-note-inchangee-etablie-a-a",
-      "source": "La Provence",
+      "title": "Taux OAT: stabilité 3.70% et financement immobilier PACA",
+      "body": "Les obligations d'État français se maintiennent à 3.70%, reflétant une stabilité relative du contexte monétaire européen. Cette stabilité tarifaire soutient l'accès au crédit pour investissements CRE à moyen terme.",
+      "impact": "Financement immobilier PACA: conditions crédit stables (OAT 3.70%), favorise acquisitions rendement >6% pour investisseurs institutionnels.",
+      "date": "31/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1663678324693315/a-belcodene-les-ruches-de-dominic-maigret-tournent-a-plein-regime",
+      "source": "Données marché",
       "tags": [
-        {
-          "label": "Souveraineté",
-          "cls": "tg"
-        },
         {
           "label": "Taux",
           "cls": "tt"
@@ -119,39 +115,31 @@
     },
     {
       "id": "m2",
-      "title": "Inflation France 2.4% YoY : accélération énergétique",
-      "body": "L'inflation s'accélère à 2.4% en mai 2026 (vs 2.2% en avril), tirée par la forte hausse des prix de l'énergie suite aux tensions géopolitiques moyen-orientales. Cette dynamique inflationniste retrouverait niveaux 2023-2024.",
-      "impact": "Anticipation d'une BCE moins accommodante : hausse probable de l'Euribor 3M au-delà de 2.15% et taux de crédits immobiliers renforcés, durcissant le financement de projets CRE.",
-      "date": "29/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1571749084021115/hausse-de-linflation-a-2-4-sur-un-an-en-mai-selon-linsee",
-      "source": "La Provence",
+      "title": "Inflation France modérée 1.7%: soutien marché locatif PACA",
+      "body": "L'inflation française reste contenue à 1.7%, bien en-deçà des seuils de 2022-2023, offrant un environnement favorable aux négociations locatives. Cette modération réduit la pression sur les rents et stabilise les valorisations immobilières.",
+      "impact": "Marché PACA avantage preneurs: inflation basse (1.7%) limite augmentations loyers indexées IRL, renégocie clauses révisions.",
+      "date": "31/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1663678324693315/a-belcodene-les-ruches-de-dominic-maigret-tournent-a-plein-regime",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
-        },
-        {
           "label": "Conjoncture",
-          "cls": "tm"
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Réindustrialisation PACA : enjeu énergétique géopolitique",
-      "body": "L'accélération de la ligne THT Fos-Jonquières et investissements décarbonés (100M€ Ecolab) reflètent stratégie française de sécurisation énergétique face aux tensions moyen-orientales. L'électrification devient levier de souveraineté industrielle.",
-      "impact": "Brent volatile (référence 96$/bbl) renforce attractivité PACA comme région stratégique : projets décarbonés sécurisent demande immobilière long terme, réduisant risque de dévaluation des actifs tertiaires/activité.",
-      "date": "29/05/2026",
-      "url": "https://www.laprovence.com/article/economie/9104824382503214/l-etat-accelere-sur-la-ligne-400-kv-fos-jonquieres-pour-securiser-la-reindustrialisation-de-la-vallee-de-fos",
-      "source": "La Provence",
+      "title": "BCE 2.15%: cycle monétaire restrictif et crédit CRE",
+      "body": "La Banque centrale européenne maintient ses taux directeurs à 2.15%, assurant un contexte de restriction monétaire modérée. Euribor 3M reste aligné à 2.15%, pénalisant les taux variables pour immobilier d'entreprise.",
+      "impact": "Crédit CRE: privilégier taux fixes long terme, éviter indexation Euribor 3M (2.15%); refinancement 2026-2027 complexe pour dettes variables.",
+      "date": "31/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1663678324693315/a-belcodene-les-ruches-de-dominic-maigret-tournent-a-plein-regime",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

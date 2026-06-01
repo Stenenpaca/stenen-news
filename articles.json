@@ -1,13 +1,13 @@
 {
-  "generated_at": "31/05/2026",
+  "generated_at": "01/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Soluscope: dynamique industrielle et locaux d'activité à Aubagne",
-      "body": "Le spécialiste de l'hygiène médicale Soluscope, implanté en zone des Paluds à Aubagne, attire l'attention gouvernementale et démontre la vitalité des locaux d'activité en PACA. Cette reconnaissance officielle valorise les zones industrielles provençales comme pôles d'excellence sectoriels.",
-      "impact": "Opportunité de valorisation locative pour les actifs d'activité/PME à Aubagne: demande soutenue pour locaux 200-500m² en zones industrielles structurées.",
-      "date": "30/05/2026",
-      "url": "https://www.laprovence.com/article/economie/6726479191807914/le-ministre-de-la-transition-ecologique-en-visite-chez-soluscope-specialiste-de-l-hygiene-medicale-a-aubagne",
+      "title": "Dynamique économique PACA : les acteurs du centre-ville se mobilisent",
+      "body": "À Digne-les-Bains, les acteurs économiques du centre-ville se réunissent pour renforcer leurs liens et coordonner leurs stratégies commerciales. Cette mobilisation locale illustre la volonté de revitaliser les espaces commerciaux en région PACA.",
+      "impact": "Opportunité pour les conseils en transaction tertiaire : identifier les besoins d'optimisation locative des petits commerces et bureaux en centre-ville provençal.",
+      "date": "01/06/2026",
+      "url": "https://www.laprovence.com/article/economie/13586722352696/a-digne-les-bains-les-acteurs-economiques-reunis-pour-renforcer-les-liens-du-centre-ville",
       "source": "La Provence",
       "tags": [
         {
@@ -15,56 +15,56 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "L'Agitateur floral: modèle startup régional et espaces tertiaires",
-      "body": "Le réseau d'artisans floraux basé à Manosque adopte une organisation moderne de type startup parisienne, révélant une mutation des besoins en espaces tertiaires en PACA. Cette tendance indique une demande croissante pour des bureaux flexibles et technologiquement équipés en région.",
-      "impact": "Potentiel flex-office: recherche active de PME/TPE PACA pour espaces 150-300m² avec services partagés et environnement créatif.",
-      "date": "31/05/2026",
-      "url": "https://www.laprovence.com/article/region/10306284634513/l-un-des-plus-gros-reseaux-d-artisans-floraux-de-france-base-a-manosque-dans-le-rush-de-la-fete-des-meres",
+      "title": "Inflation et augmentation du Smic : impact sur les charges d'exploitation",
+      "body": "Le Smic augmente de 2,41% au 1er juin 2026 pour suivre la reprise de l'inflation liée aux tensions géopolitiques. Cette hausse automatique des salaires affecte directement les budgets de fonctionnement des PME et entreprises tertiaires.",
+      "impact": "Les propriétaires d'immeubles de bureaux et locaux d'activité doivent anticiper l'augmentation des charges sociales et de fonctionnement de leurs locataires.",
+      "date": "01/06/2026",
+      "url": "https://www.laprovence.com/article/societe/45871200645146/inflation-et-smic-une-augmentation-automatique-qui-ne-satisfait-pas-les-syndicats",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Inflation",
+          "cls": "tt"
         },
         {
-          "label": "Flex-office",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Manpower: recrutement massif et tension marché tertiaire PACA",
-      "body": "Manpower lance une campagne de recrutement de 1000 personnes en PACA pour l'été, reflétant une dynamique économique positive et des besoins accrus en espaces de travail. Cette croissance d'emploi saisonnière maintient la pression sur les disponibilités commerciales et tertiaires.",
-      "impact": "Demande accrue pour locaux commerciaux/services +500m² near Marseille/Aix: tensions sur vacants, valorisation des rents en secteurs dynamiques.",
-      "date": "30/05/2026",
-      "url": "https://www.laprovence.com/article/economie/6882634753238714/manpower-recrute-1-000-personnes-en-paca",
+      "title": "Investissements étrangers en France : record de 93 milliards d'euros",
+      "body": "La 9e édition de Choose France annonce un montant record de 93 milliards d'euros d'investissements étrangers, générant plus de 15 000 emplois. Cette dynamique d'attractivité bénéficie aux régions et secteurs tertiaires.",
+      "impact": "Accélération prévisible de la demande d'immeubles de bureaux et locaux d'activité en PACA, en particulier près des zones d'implantation de sièges sociaux et centres d'affaires.",
+      "date": "01/06/2026",
+      "url": "https://www.laprovence.com/article/economie/41340405822446/choose-france-un-montant-record-de-93-milliards-deuros-dinvestissements-etrangers-annonces",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Investissement",
+          "cls": "ti2"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Artisanat PACA: préservation savoir-faire et locaux spécialisés",
-      "body": "Entre l'art du soudage à La Ciotat et la floriculture à Manosque, l'artisanat PACA maintient des savoir-faire rares exigeant des espaces dédiés spécifiques. Ces activités structurent l'offre locative de niche et valorisent les petits ateliers aménagés.",
-      "impact": "Niche intéressante: ateliers 80-150m² avec accès réseau artisanal, loyers modérés mais durables (6-9€/m²/an).",
-      "date": "30/05/2026",
-      "url": "https://www.laprovence.com/article/societe/1002892764596215/chaque-piece-a-customiser-est-un-defi-technique-patrice-moha-perpetue-l-art-du-soudage-a-la-ciotat",
+      "title": "Taxe de séjour Airbnb en Provence : enjeux de financement local",
+      "body": "La taxe de séjour générée par Airbnb devient stratégique pour les collectivités provençales, chaque nuit générant des revenus additionnels. Ces ressources redéfinissent les priorités d'aménagement local et de développement économique.",
+      "impact": "Les modifications d'usage des immeubles (résidentiel/commercial) et l'impact sur l'immobilier d'activité en centre-ville méritent d'être monitorées pour anticiper les évolutions de demande foncière.",
+      "date": "31/05/2026",
+      "url": "https://www.laprovence.com/article/economie/1120174721474915/taxe-de-sejour-airbnb-ou-part-l-argent-paye-par-les-vacanciers-en-provence",
       "source": "La Provence",
       "tags": [
         {
@@ -72,23 +72,23 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
-          "cls": "tm"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Transition énergétique et normes décret tertiaire en PACA",
-      "body": "La visite ministérielle à Soluscope souligne l'importance de la transition écologique pour les acteurs tertiaires/activité régionaux. Les normes du décret tertiaire s'imposent comme élément structurant de la valorisation immobilière en PACA.",
-      "impact": "Risque décret tertiaire: audit énergétique obligatoire pour portefeuille >2000m²; favorise transactions pour immeubles conformes 2025-2026.",
-      "date": "30/05/2026",
-      "url": "https://www.laprovence.com/article/economie/6726479191807914/le-ministre-de-la-transition-ecologique-en-visite-chez-soluscope-specialiste-de-l-hygiene-medicale-a-aubagne",
+      "title": "Marché automobile et électrique : reprise de la demande en mai",
+      "body": "Les ventes de voitures neuves repartent à la hausse en mai (+15% auprès des particuliers), portées par le segment électrique. Cette reprise reflète une amélioration du pouvoir d'achat et du financement automobile.",
+      "impact": "Renforcement de la demande en locaux logistiques et showrooms automobiles en PACA ; surveiller les besoins en surfaces commerciales des constructeurs électriques.",
+      "date": "01/06/2026",
+      "url": "https://www.laprovence.com/article/economie/1828217795440915/voitures-neuves-les-ventes-repartent-a-la-hausse-en-mai-portees-par-lelectrique",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Marché",
+          "cls": "tm"
         },
         {
           "label": "PACA",
@@ -100,27 +100,31 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Taux OAT: stabilité 3.70% et financement immobilier PACA",
-      "body": "Les obligations d'État français se maintiennent à 3.70%, reflétant une stabilité relative du contexte monétaire européen. Cette stabilité tarifaire soutient l'accès au crédit pour investissements CRE à moyen terme.",
-      "impact": "Financement immobilier PACA: conditions crédit stables (OAT 3.70%), favorise acquisitions rendement >6% pour investisseurs institutionnels.",
-      "date": "31/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1663678324693315/a-belcodene-les-ruches-de-dominic-maigret-tournent-a-plein-regime",
-      "source": "Données marché",
+      "title": "Géopolitique et énergie : tensions persistantes et impact tarifaire",
+      "body": "La guerre au Moyen-Orient entretient une volatilité des prix énergétiques et du carburant, influençant l'inflation à 1,7% en France. Le Brent reste à 96 USD, maintenant une pression sur les coûts logistiques et opérationnels.",
+      "impact": "Contexte d'inflation maîtrisée mais persistante justifiant une prudence accrue dans les négociations de révision de loyers commerciaux et contrats d'activité.",
+      "date": "01/06/2026",
+      "url": "https://www.laprovence.com/article/societe/45871200645146/inflation-et-smic-une-augmentation-automatique-qui-ne-satisfait-pas-les-syndicats",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Énergie",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France modérée 1.7%: soutien marché locatif PACA",
-      "body": "L'inflation française reste contenue à 1.7%, bien en-deçà des seuils de 2022-2023, offrant un environnement favorable aux négociations locatives. Cette modération réduit la pression sur les rents et stabilise les valorisations immobilières.",
-      "impact": "Marché PACA avantage preneurs: inflation basse (1.7%) limite augmentations loyers indexées IRL, renégocie clauses révisions.",
-      "date": "31/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1663678324693315/a-belcodene-les-ruches-de-dominic-maigret-tournent-a-plein-regime",
-      "source": "Données marché",
+      "title": "Conjoncture France : attractivité renforcée et création d'emplois",
+      "body": "Les investissements étrangers records (93 Md€) et la croissance de l'emploi (+15 000 postes) témoignent d'une amélioration de la conjoncture française post-élections et de la confiance des investisseurs. Cette dynamique bénéficie aux zones tertiaires structurées.",
+      "impact": "Amélioration du contexte de demande locative tertiaire et commerciale ; expect une hausse des valuations immobilières tertiaires dans les 12 prochains mois.",
+      "date": "01/06/2026",
+      "url": "https://www.laprovence.com/article/economie/41340405822446/choose-france-un-montant-record-de-93-milliards-deuros-dinvestissements-etrangers-annonces",
+      "source": "La Provence",
       "tags": [
         {
           "label": "Conjoncture",
@@ -130,12 +134,12 @@
     },
     {
       "id": "m3",
-      "title": "BCE 2.15%: cycle monétaire restrictif et crédit CRE",
-      "body": "La Banque centrale européenne maintient ses taux directeurs à 2.15%, assurant un contexte de restriction monétaire modérée. Euribor 3M reste aligné à 2.15%, pénalisant les taux variables pour immobilier d'entreprise.",
-      "impact": "Crédit CRE: privilégier taux fixes long terme, éviter indexation Euribor 3M (2.15%); refinancement 2026-2027 complexe pour dettes variables.",
-      "date": "31/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1663678324693315/a-belcodene-les-ruches-de-dominic-maigret-tournent-a-plein-regime",
-      "source": "Données marché",
+      "title": "Taux et financement : OAT 3,70%, Euribor 3M stable, BCE maintient son cap",
+      "body": "Les taux OAT s'établissent à 3,70% et l'Euribor 3M à 2,15%, reflétant une BCE maintenant ses taux directeurs à 2,15% face à une inflation maîtrisée à 1,7%. La trajectoire de baisse des taux pourrait s'accélérer si les tensions géopolitiques s'apaisent.",
+      "impact": "Contexte de financement immobilier graduellement plus favorable ; anticiper une amélioration des conditions de crédit pour les transactions et refinancements tertiaires en H2 2026.",
+      "date": "01/06/2026",
+      "url": "https://www.laprovence.com/article/economie/41340405822446/choose-france-un-montant-record-de-93-milliards-deuros-dinvestissements-etrangers-annonces",
+      "source": "La Provence",
       "tags": [
         {
           "label": "Taux",

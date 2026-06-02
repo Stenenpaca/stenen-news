@@ -1,13 +1,13 @@
 {
-  "generated_at": "01/06/2026",
+  "generated_at": "02/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Dynamique économique PACA : les acteurs du centre-ville se mobilisent",
-      "body": "À Digne-les-Bains, les acteurs économiques du centre-ville se réunissent pour renforcer leurs liens et coordonner leurs stratégies commerciales. Cette mobilisation locale illustre la volonté de revitaliser les espaces commerciaux en région PACA.",
-      "impact": "Opportunité pour les conseils en transaction tertiaire : identifier les besoins d'optimisation locative des petits commerces et bureaux en centre-ville provençal.",
-      "date": "01/06/2026",
-      "url": "https://www.laprovence.com/article/economie/13586722352696/a-digne-les-bains-les-acteurs-economiques-reunis-pour-renforcer-les-liens-du-centre-ville",
+      "title": "INA Campus renforce sa présence à Marseille",
+      "body": "L'INA Campus, spécialisée dans l'audiovisuel, les médias et le numérique, déploie ses formations à Marseille après son ancrage historique en Île-de-France. Cette expansion régionale crée une demande de locaux d'activité et de bureaux pour accueillir les nouveaux pôles de formation.",
+      "impact": "Opportunité de transaction pour locaux d'activité/bureaux à Marseille destinés aux secteurs créatifs et technologiques.",
+      "date": "02/06/2026",
+      "url": "https://www.laprovence.com/article/economie/27453343042202/audiovisuel-medias-numerique-ina-campus-ouvre-ses-formations-a-marseille",
       "source": "La Provence",
       "tags": [
         {
@@ -15,56 +15,56 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Inflation et augmentation du Smic : impact sur les charges d'exploitation",
-      "body": "Le Smic augmente de 2,41% au 1er juin 2026 pour suivre la reprise de l'inflation liée aux tensions géopolitiques. Cette hausse automatique des salaires affecte directement les budgets de fonctionnement des PME et entreprises tertiaires.",
-      "impact": "Les propriétaires d'immeubles de bureaux et locaux d'activité doivent anticiper l'augmentation des charges sociales et de fonctionnement de leurs locataires.",
-      "date": "01/06/2026",
-      "url": "https://www.laprovence.com/article/societe/45871200645146/inflation-et-smic-une-augmentation-automatique-qui-ne-satisfait-pas-les-syndicats",
+      "title": "NGE renforce sa présence régionale via acquisition",
+      "body": "Le groupe provençal de BTP NGE intègre Clarac Espaces Verts et s'implante en Haute-Garonne, signalant une stratégie d'expansion territoriale. Cette croissance externe illustre la dynamique des acteurs majeurs du BTP régional.",
+      "impact": "Suivi de la consolidation du secteur tertiaire et activités : acteurs en expansion recherchent nouveaux espaces pour héberger les entités acquises.",
+      "date": "02/06/2026",
+      "url": "https://www.laprovence.com/article/economie/18313812403179/le-groupe-provencal-de-btp-nge-achete-clarac-espaces-verts-et-simplante-a-muret-en-haute-garonne",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Investissements étrangers en France : record de 93 milliards d'euros",
-      "body": "La 9e édition de Choose France annonce un montant record de 93 milliards d'euros d'investissements étrangers, générant plus de 15 000 emplois. Cette dynamique d'attractivité bénéficie aux régions et secteurs tertiaires.",
-      "impact": "Accélération prévisible de la demande d'immeubles de bureaux et locaux d'activité en PACA, en particulier près des zones d'implantation de sièges sociaux et centres d'affaires.",
-      "date": "01/06/2026",
-      "url": "https://www.laprovence.com/article/economie/41340405822446/choose-france-un-montant-record-de-93-milliards-deuros-dinvestissements-etrangers-annonces",
+      "title": "Corsair renforce son ancrage stratégique à Marseille",
+      "body": "La compagnie aérienne Corsair mise sur Marseille pour consolider ses liaisons régionales vers l'océan Indien avec une nouvelle liaison directe. Cette investiture aéroportuaire génère une demande d'espaces logistiques et de bureaux.",
+      "impact": "Intérêt pour les locaux d'activité portuaires et aéroportuaires à Marseille destinés aux opérateurs aériens.",
+      "date": "02/06/2026",
+      "url": "https://www.laprovence.com/article/economie/16800636682026/corsair-mise-sur-marseille-pour-renforcer-son-ancrage-regional-vers-les-outre-mer",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Investissement",
-          "cls": "ti2"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Taxe de séjour Airbnb en Provence : enjeux de financement local",
-      "body": "La taxe de séjour générée par Airbnb devient stratégique pour les collectivités provençales, chaque nuit générant des revenus additionnels. Ces ressources redéfinissent les priorités d'aménagement local et de développement économique.",
-      "impact": "Les modifications d'usage des immeubles (résidentiel/commercial) et l'impact sur l'immobilier d'activité en centre-ville méritent d'être monitorées pour anticiper les évolutions de demande foncière.",
-      "date": "31/05/2026",
-      "url": "https://www.laprovence.com/article/economie/1120174721474915/taxe-de-sejour-airbnb-ou-part-l-argent-paye-par-les-vacanciers-en-provence",
+      "title": "Taxe d'apprentissage : 13% affectable en Vaucluse",
+      "body": "La période de répartition de la taxe d'apprentissage a démarré le 26 mai 2026, permettant aux entreprises d'au moins un salarié d'affecter 13% de cet impôt à l'artisanat local. Cette mesure favorise l'engagement des TPE/PME dans l'écosystème de formation régional.",
+      "impact": "Counsel auprès des PME artisanales vauclusiennes : optimiser l'imposition via l'affectation de la taxe d'apprentissage pour améliorer la trésorerie locative.",
+      "date": "02/06/2026",
+      "url": "https://www.laprovence.com/article/region/24157232343118/favoriser-lartisanat-local-via-la-taxe-dapprentissage-dans-le-vaucluse",
       "source": "La Provence",
       "tags": [
         {
@@ -79,20 +79,20 @@
     },
     {
       "id": "f5",
-      "title": "Marché automobile et électrique : reprise de la demande en mai",
-      "body": "Les ventes de voitures neuves repartent à la hausse en mai (+15% auprès des particuliers), portées par le segment électrique. Cette reprise reflète une amélioration du pouvoir d'achat et du financement automobile.",
-      "impact": "Renforcement de la demande en locaux logistiques et showrooms automobiles en PACA ; surveiller les besoins en surfaces commerciales des constructeurs électriques.",
-      "date": "01/06/2026",
-      "url": "https://www.laprovence.com/article/economie/1828217795440915/voitures-neuves-les-ventes-repartent-a-la-hausse-en-mai-portees-par-lelectrique",
+      "title": "Forum emploi à Jouques : dynamique locale",
+      "body": "Jouques a accueilli un forum emploi et formations professionnelles qui a mobilisé largement les acteurs économiques et institutionnels locaux. Cet événement reflète la vitalité du marché du travail et de l'insertion professionnelle en zones rurales.",
+      "impact": "Identifier les secteurs moteurs (PME locales) à Jouques pour cibler les offres de petits bureaux et locaux d'activité flexibles.",
+      "date": "02/06/2026",
+      "url": "https://www.laprovence.com/article/region/23200480082006/a-jouques-le-forum-emploi-et-formations-professionnelles-fait-le-plein-pour-sa-premiere-edition",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché",
-          "cls": "tm"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,50 +100,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Géopolitique et énergie : tensions persistantes et impact tarifaire",
-      "body": "La guerre au Moyen-Orient entretient une volatilité des prix énergétiques et du carburant, influençant l'inflation à 1,7% en France. Le Brent reste à 96 USD, maintenant une pression sur les coûts logistiques et opérationnels.",
-      "impact": "Contexte d'inflation maîtrisée mais persistante justifiant une prudence accrue dans les négociations de révision de loyers commerciaux et contrats d'activité.",
-      "date": "01/06/2026",
-      "url": "https://www.laprovence.com/article/societe/45871200645146/inflation-et-smic-une-augmentation-automatique-qui-ne-satisfait-pas-les-syndicats",
-      "source": "La Provence",
+      "title": "OAT 10Y stable à 3,70% - contexte de refinancement",
+      "body": "Les obligations d'État français demeurent à 3,70%, reflétant les attentes de politique monétaire accommodante. L'Euribor 3M reste à 2,15%, aligné sur les taux directeurs de la BCE.",
+      "impact": "Taux de financement stables favorable aux projets d'acquisition/transformation immobilière en PACA ; consolider les dossiers actuels avant tout resserrement monétaire.",
+      "date": "02/06/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : attractivité renforcée et création d'emplois",
-      "body": "Les investissements étrangers records (93 Md€) et la croissance de l'emploi (+15 000 postes) témoignent d'une amélioration de la conjoncture française post-élections et de la confiance des investisseurs. Cette dynamique bénéficie aux zones tertiaires structurées.",
-      "impact": "Amélioration du contexte de demande locative tertiaire et commerciale ; expect une hausse des valuations immobilières tertiaires dans les 12 prochains mois.",
-      "date": "01/06/2026",
-      "url": "https://www.laprovence.com/article/economie/41340405822446/choose-france-un-montant-record-de-93-milliards-deuros-dinvestissements-etrangers-annonces",
-      "source": "La Provence",
+      "title": "Inflation France 1,7% - modération durable",
+      "body": "L'inflation française reste maîtrisée à 1,7%, soutenant une politique monétaire graduée de la BCE à 2,15%. Cet environnement favorise la stabilité des coûts d'exploitation immobilière.",
+      "impact": "Environnement favorable pour négocier les baux tertiaires/activité : inflation basse limite les clauses d'indexation agressives.",
+      "date": "02/06/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Taux et financement : OAT 3,70%, Euribor 3M stable, BCE maintient son cap",
-      "body": "Les taux OAT s'établissent à 3,70% et l'Euribor 3M à 2,15%, reflétant une BCE maintenant ses taux directeurs à 2,15% face à une inflation maîtrisée à 1,7%. La trajectoire de baisse des taux pourrait s'accélérer si les tensions géopolitiques s'apaisent.",
-      "impact": "Contexte de financement immobilier graduellement plus favorable ; anticiper une amélioration des conditions de crédit pour les transactions et refinancements tertiaires en H2 2026.",
-      "date": "01/06/2026",
-      "url": "https://www.laprovence.com/article/economie/41340405822446/choose-france-un-montant-record-de-93-milliards-deuros-dinvestissements-etrangers-annonces",
-      "source": "La Provence",
+      "title": "Brent 96 USD/bl - énergie stable en PACA",
+      "body": "Le prix du Brent se stabilise à 96 USD/baril, soutenant une trajectoire d'énergie accessible pour les entreprises régionales. Cet équilibre réduit la pression inflationniste sur les charges immobilières.",
+      "impact": "Stabilité des charges énergétiques pour les occupants tertaires PACA ; argumenter auprès des preneurs sur la prévisibilité des coûts d'exploitation.",
+      "date": "02/06/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     }

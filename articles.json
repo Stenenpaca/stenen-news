@@ -1,13 +1,13 @@
 {
-  "generated_at": "02/06/2026",
+  "generated_at": "03/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "INA Campus renforce sa présence à Marseille",
-      "body": "L'INA Campus, spécialisée dans l'audiovisuel, les médias et le numérique, déploie ses formations à Marseille après son ancrage historique en Île-de-France. Cette expansion régionale crée une demande de locaux d'activité et de bureaux pour accueillir les nouveaux pôles de formation.",
-      "impact": "Opportunité de transaction pour locaux d'activité/bureaux à Marseille destinés aux secteurs créatifs et technologiques.",
-      "date": "02/06/2026",
-      "url": "https://www.laprovence.com/article/economie/27453343042202/audiovisuel-medias-numerique-ina-campus-ouvre-ses-formations-a-marseille",
+      "title": "Devenir débat financement immobilier à Aix-en-Provence",
+      "body": "L'association Devenir, regroupant 40+ architectes et urbanistes, organise le 11 juin 2026 une conférence à Aix sur l'influence de la finance dans l'immobilier. Débat structurant pour comprendre les enjeux de financement des projets urbains en PACA.",
+      "impact": "À suivre pour identifier les tendances de financement et les attentes des développeurs PACA en matière de structuration de projets tertiaires.",
+      "date": "03/06/2026",
+      "url": "https://www.laprovence.com/article/region/1225549760151/lassociation-devenir-ouvre-le-debat-a-aix-sur-linfluence-du-monde-de-la-finance-dans-limmobilier",
       "source": "La Provence",
       "tags": [
         {
@@ -22,11 +22,11 @@
     },
     {
       "id": "f2",
-      "title": "NGE renforce sa présence régionale via acquisition",
-      "body": "Le groupe provençal de BTP NGE intègre Clarac Espaces Verts et s'implante en Haute-Garonne, signalant une stratégie d'expansion territoriale. Cette croissance externe illustre la dynamique des acteurs majeurs du BTP régional.",
-      "impact": "Suivi de la consolidation du secteur tertiaire et activités : acteurs en expansion recherchent nouveaux espaces pour héberger les entités acquises.",
-      "date": "02/06/2026",
-      "url": "https://www.laprovence.com/article/economie/18313812403179/le-groupe-provencal-de-btp-nge-achete-clarac-espaces-verts-et-simplante-a-muret-en-haute-garonne",
+      "title": "Perrimond réunit 100 entreprises sur intégration générations",
+      "body": "Le 28 mai, l'établissement Perrimond a accueilli plus de 100 représentants économiques pour débattre de l'intégration des nouvelles générations en entreprise. Événement clé montrant la dynamique du marché de l'emploi et des besoins en espaces adapté.",
+      "impact": "Opportunité pour identifier les besoins de locaux tertiaires flexibles et modernes répondant aux attentes des jeunes professionnels en région PACA.",
+      "date": "03/06/2026",
+      "url": "https://www.laprovence.com/article/economie/1073262920135514/a-marseille-perrimond-reunit-entreprises-et-experts-autour-de-lengagement-des-nouvelles-generations",
       "source": "La Provence",
       "tags": [
         {
@@ -41,16 +41,16 @@
     },
     {
       "id": "f3",
-      "title": "Corsair renforce son ancrage stratégique à Marseille",
-      "body": "La compagnie aérienne Corsair mise sur Marseille pour consolider ses liaisons régionales vers l'océan Indien avec une nouvelle liaison directe. Cette investiture aéroportuaire génère une demande d'espaces logistiques et de bureaux.",
-      "impact": "Intérêt pour les locaux d'activité portuaires et aéroportuaires à Marseille destinés aux opérateurs aériens.",
-      "date": "02/06/2026",
-      "url": "https://www.laprovence.com/article/economie/16800636682026/corsair-mise-sur-marseille-pour-renforcer-son-ancrage-regional-vers-les-outre-mer",
+      "title": "Ruptures conventionnelles : durcissement indemnisation sept 2026",
+      "body": "L'Assemblée nationale approuve le durcissement des règles d'indemnisation des ruptures conventionnelles dès le 1er septembre 2026 avec 353 voix pour. Réforme impactant les coûts RH des entreprises et potentiellement leur capacité d'investissement immobilier.",
+      "impact": "Conseil aux propriétaires de surveiller l'impact sur la demande tertiaire : les coûts de rupture accrus pourraient réduire les expansions de surfaces chez les PME/ETI PACA.",
+      "date": "03/06/2026",
+      "url": "https://www.laprovence.com/article/economie/1053593801458314/ruptures-conventionnelles-tout-comprendre-au-durcissement-des-regles-dindemnisation-a-partir-du-1er-septembre",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Réglementation",
+          "cls": "tr"
         },
         {
           "label": "Marché",
@@ -60,52 +60,12 @@
     },
     {
       "id": "f4",
-      "title": "Taxe d'apprentissage : 13% affectable en Vaucluse",
-      "body": "La période de répartition de la taxe d'apprentissage a démarré le 26 mai 2026, permettant aux entreprises d'au moins un salarié d'affecter 13% de cet impôt à l'artisanat local. Cette mesure favorise l'engagement des TPE/PME dans l'écosystème de formation régional.",
-      "impact": "Counsel auprès des PME artisanales vauclusiennes : optimiser l'imposition via l'affectation de la taxe d'apprentissage pour améliorer la trésorerie locative.",
-      "date": "02/06/2026",
-      "url": "https://www.laprovence.com/article/region/24157232343118/favoriser-lartisanat-local-via-la-taxe-dapprentissage-dans-le-vaucluse",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Forum emploi à Jouques : dynamique locale",
-      "body": "Jouques a accueilli un forum emploi et formations professionnelles qui a mobilisé largement les acteurs économiques et institutionnels locaux. Cet événement reflète la vitalité du marché du travail et de l'insertion professionnelle en zones rurales.",
-      "impact": "Identifier les secteurs moteurs (PME locales) à Jouques pour cibler les offres de petits bureaux et locaux d'activité flexibles.",
-      "date": "02/06/2026",
-      "url": "https://www.laprovence.com/article/region/23200480082006/a-jouques-le-forum-emploi-et-formations-professionnelles-fait-le-plein-pour-sa-premiere-edition",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "id": "m1",
-      "title": "OAT 10Y stable à 3,70% - contexte de refinancement",
-      "body": "Les obligations d'État français demeurent à 3,70%, reflétant les attentes de politique monétaire accommodante. L'Euribor 3M reste à 2,15%, aligné sur les taux directeurs de la BCE.",
-      "impact": "Taux de financement stables favorable aux projets d'acquisition/transformation immobilière en PACA ; consolider les dossiers actuels avant tout resserrement monétaire.",
-      "date": "02/06/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "title": "Taux OAT 3.70% et Euribor 3M stabilisés juin 2026",
+      "body": "Contexte de taux stables avec OAT à 3.70% et Euribor 3M à 2.15%, soutenant une certaine prévisibilité financière. Environnement favorable au refinancement des opérations immobilières commerciales.",
+      "impact": "Fenêtre opportune pour négocier les financements de transactions CRE avant volatilité estivale anticipée.",
+      "date": "03/06/2026",
+      "url": "https://stenen-immobilier.paca",
+      "source": "Marché",
       "tags": [
         {
           "label": "Taux",
@@ -114,13 +74,34 @@
       ]
     },
     {
-      "id": "m2",
-      "title": "Inflation France 1,7% - modération durable",
-      "body": "L'inflation française reste maîtrisée à 1,7%, soutenant une politique monétaire graduée de la BCE à 2,15%. Cet environnement favorise la stabilité des coûts d'exploitation immobilière.",
-      "impact": "Environnement favorable pour négocier les baux tertiaires/activité : inflation basse limite les clauses d'indexation agressives.",
-      "date": "02/06/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "id": "f5",
+      "title": "Vitrines Venelles : restructuration commerciale locale",
+      "body": "L'association Les Vitrines de Venelles valide son évolution et s'intègre dans une nouvelle structure locale validée par les élus. Repositionnement stratégique du commerce local et des espaces commerciaux.",
+      "impact": "Signal positif : dynamique de restructuration commerciale en PACA ouvre opportunités de transactions de petites surfaces commerciales et d'ateliers.",
+      "date": "03/06/2026",
+      "url": "https://www.laprovence.com/article/economie/13237798641506/lassociation-les-vitrines-de-venelles-evolue-et-integre-une-nouvelle-structure-locale",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "id": "m1",
+      "title": "Inflation France à 1.7% : modération conjoncturelle",
+      "body": "L'inflation française modérée à 1.7% reflète la désinflation progressive observée en zone euro. Contexte macroéconomique stable supportant la consommation et l'investissement.",
+      "impact": "Stabilité des prix immobiliers attendue : opportunité window pour transactions sans pression inflationniste à court terme.",
+      "date": "03/06/2026",
+      "url": "https://stenen-immobilier.paca",
+      "source": "Marché",
       "tags": [
         {
           "label": "Géopolitique",
@@ -129,17 +110,36 @@
       ]
     },
     {
+      "id": "m2",
+      "title": "BCE maintient taux de refinancement à 2.15%",
+      "body": "La Banque Centrale Européenne confirme sa politique de taux accommodants à 2.15% en juin 2026. Soutien à la liquidité bancaire et stabilité du crédit immobilier.",
+      "impact": "Environnement favorable aux montages financiers structurés en CRE : coûts de financement avantageux pour gros actifs PACA.",
+      "date": "03/06/2026",
+      "url": "https://stenen-immobilier.paca",
+      "source": "Marché",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
       "id": "m3",
-      "title": "Brent 96 USD/bl - énergie stable en PACA",
-      "body": "Le prix du Brent se stabilise à 96 USD/baril, soutenant une trajectoire d'énergie accessible pour les entreprises régionales. Cet équilibre réduit la pression inflationniste sur les charges immobilières.",
-      "impact": "Stabilité des charges énergétiques pour les occupants tertaires PACA ; argumenter auprès des preneurs sur la prévisibilité des coûts d'exploitation.",
+      "title": "Énergie nucléaire : renforcement sûreté Tricastin",
+      "body": "La Force d'action rapide nucléaire du Tricastin se prépare aux risques géophysiques (séismes, inondations) dans un contexte post-Fukushima. Enjeu de sécurité énergétique structurant pour région PACA.",
+      "impact": "Opportunité de développements immobiliers tertiaires/activité à proximité centres nucléaires : demande de locaux sécurisés pour ETI énergétiques croissante.",
       "date": "02/06/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/5056625859178/seisme-inondation-la-force-d-action-rapide-du-nucleaire-se-prepare-aux-catastrophes-naturelles-au-tricastin",
+      "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }

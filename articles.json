@@ -1,13 +1,13 @@
 {
-  "generated_at": "03/06/2026",
+  "generated_at": "04/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Devenir débat financement immobilier à Aix-en-Provence",
-      "body": "L'association Devenir, regroupant 40+ architectes et urbanistes, organise le 11 juin 2026 une conférence à Aix sur l'influence de la finance dans l'immobilier. Débat structurant pour comprendre les enjeux de financement des projets urbains en PACA.",
-      "impact": "À suivre pour identifier les tendances de financement et les attentes des développeurs PACA en matière de structuration de projets tertiaires.",
+      "title": "Sartorius investit 15M€ à Aubagne : signal positif pour les locaux d'activité",
+      "body": "Le leader mondial de la biopharmaceutique Sartorius Stedim Biotech annonce un investissement majeur de plus de 15 millions d'euros sur son site d'Aubagne, dans le cadre du sommet Choose France. Cette injection de capital démontre la vitalité des secteurs high-tech en région PACA malgré les fermetures d'autres fleurons régionaux.",
+      "impact": "Opportunité de repositionnement pour les locaux d'activité et ateliers de la zone Aubagne-Gémenos vers les standards biotech (climatisation, conformité, accessibilité).",
       "date": "03/06/2026",
-      "url": "https://www.laprovence.com/article/region/1225549760151/lassociation-devenir-ouvre-le-debat-a-aix-sur-linfluence-du-monde-de-la-finance-dans-limmobilier",
+      "url": "https://www.laprovence.com/article/economie/1411136872799114/leader-mondial-de-la-biopharmaceutique-sartorius-investit-plus-de-15-millions-d-euros-pour-son-site-d-aubagne",
       "source": "La Provence",
       "tags": [
         {
@@ -22,11 +22,11 @@
     },
     {
       "id": "f2",
-      "title": "Perrimond réunit 100 entreprises sur intégration générations",
-      "body": "Le 28 mai, l'établissement Perrimond a accueilli plus de 100 représentants économiques pour débattre de l'intégration des nouvelles générations en entreprise. Événement clé montrant la dynamique du marché de l'emploi et des besoins en espaces adapté.",
-      "impact": "Opportunité pour identifier les besoins de locaux tertiaires flexibles et modernes répondant aux attentes des jeunes professionnels en région PACA.",
-      "date": "03/06/2026",
-      "url": "https://www.laprovence.com/article/economie/1073262920135514/a-marseille-perrimond-reunit-entreprises-et-experts-autour-de-lengagement-des-nouvelles-generations",
+      "title": "Gestion de l'eau : 50 acteurs se mobilisent à Marseille pour l'économie bleue",
+      "body": "La Société des Eaux de Marseille réunit 50 acteurs économiques pour anticiper les défis de demain face au changement climatique. Cet événement souligne la transformation des besoins en infrastructures et services liés à la gestion hydrique en région méditerranéenne.",
+      "impact": "Demande croissante de locaux tertiaires et R&D pour les entreprises de l'eau et des cleantech : opportunités de transaction et restructuration immobilière autour de Marseille.",
+      "date": "04/06/2026",
+      "url": "https://www.laprovence.com/article/economie/1881934351007314/gestion-de-leau-50-acteurs-reunis-a-marseille-pour-trouver-des-solutions-aux-defis-de-demain",
       "source": "La Provence",
       "tags": [
         {
@@ -41,16 +41,35 @@
     },
     {
       "id": "f3",
-      "title": "Ruptures conventionnelles : durcissement indemnisation sept 2026",
-      "body": "L'Assemblée nationale approuve le durcissement des règles d'indemnisation des ruptures conventionnelles dès le 1er septembre 2026 avec 353 voix pour. Réforme impactant les coûts RH des entreprises et potentiellement leur capacité d'investissement immobilier.",
-      "impact": "Conseil aux propriétaires de surveiller l'impact sur la demande tertiaire : les coûts de rupture accrus pourraient réduire les expansions de surfaces chez les PME/ETI PACA.",
+      "title": "Changement climatique : la CCIAMP mobilise les entreprises pour l'adaptation",
+      "body": "La Chambre de Commerce et de l'Industrie Aix-Marseille-Provence (CCIAMP) lance un programme d'adaptation au changement climatique combinant atténuation et résilience. Cet effort régional valorise les entreprises engagées dans la transition écologique et la sobriété énergétique.",
+      "impact": "Renforcement des exigences de conformité décret tertiaire : accélération de la rénovation énergétique des bureaux et locaux d'activité PACA pour atteindre les seuils de consommation.",
       "date": "03/06/2026",
-      "url": "https://www.laprovence.com/article/economie/1053593801458314/ruptures-conventionnelles-tout-comprendre-au-durcissement-des-regles-dindemnisation-a-partir-du-1er-septembre",
+      "url": "https://www.laprovence.com/article/economie/145488011304614/changement-climatique-la-cciamp-et-les-entreprises-locales-s-arment-face-a-l-urgence",
       "source": "La Provence",
       "tags": [
         {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
           "label": "Réglementation",
           "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Rencontres économiques d'Aix 2026 : le Off transforme la ville en hub",
+      "body": "Les Rencontres économiques d'Aix-en-Provence reviennent du 27 juin au 4 juillet avec une édition Off amplifiée pour démocratiser l'économie. Cet événement majeur positionne Aix comme centre d'échanges et d'innovation pour les décideurs régionaux et nationaux.",
+      "impact": "Dynamique positive pour les bureaux premium et espaces de co-working d'Aix : forte demande temporaire et opportunité de visibilité pour offres flex-office et meeting centers.",
+      "date": "03/06/2026",
+      "url": "https://www.laprovence.com/article/economie/1358493103221214/rencontres-economiques-d-aix-le-off-s-etoffe-pour-sensibiliser-le-plus-grand-nombre-a-l-univers-de-l-economie",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
         },
         {
           "label": "Marché",
@@ -59,35 +78,20 @@
       ]
     },
     {
-      "id": "f4",
-      "title": "Taux OAT 3.70% et Euribor 3M stabilisés juin 2026",
-      "body": "Contexte de taux stables avec OAT à 3.70% et Euribor 3M à 2.15%, soutenant une certaine prévisibilité financière. Environnement favorable au refinancement des opérations immobilières commerciales.",
-      "impact": "Fenêtre opportune pour négocier les financements de transactions CRE avant volatilité estivale anticipée.",
-      "date": "03/06/2026",
-      "url": "https://stenen-immobilier.paca",
-      "source": "Marché",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
       "id": "f5",
-      "title": "Vitrines Venelles : restructuration commerciale locale",
-      "body": "L'association Les Vitrines de Venelles valide son évolution et s'intègre dans une nouvelle structure locale validée par les élus. Repositionnement stratégique du commerce local et des espaces commerciaux.",
-      "impact": "Signal positif : dynamique de restructuration commerciale en PACA ouvre opportunités de transactions de petites surfaces commerciales et d'ateliers.",
-      "date": "03/06/2026",
-      "url": "https://www.laprovence.com/article/economie/13237798641506/lassociation-les-vitrines-de-venelles-evolue-et-integre-une-nouvelle-structure-locale",
+      "title": "Millionnaires mondiaux : fortune record en 2025, stimulus pour l'immobilier premium",
+      "body": "Le nombre de millionnaires mondiaux et leur patrimoine ont atteint des records en 2025, portés par les performances boursières et la contraction de l'inflation. Cette accumulation de richesse bénéficie aux segments premium de l'immobilier et des actifs alternatifs.",
+      "impact": "Opportunité d'investissement SCPI tertiaire haut de gamme et immobilier de prestige en PACA : intérêt croissant pour les portefeuilles diversifiés et l'immobilier commercial.",
+      "date": "04/06/2026",
+      "url": "https://www.laprovence.com/article/economie/11268124151967/le-nombre-de-millionnaires-et-leur-fortune-a-un-niveau-record-en-2025-selon-une-etude",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Investissement",
+          "cls": "ti2"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
@@ -96,27 +100,27 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Inflation France à 1.7% : modération conjoncturelle",
-      "body": "L'inflation française modérée à 1.7% reflète la désinflation progressive observée en zone euro. Contexte macroéconomique stable supportant la consommation et l'investissement.",
-      "impact": "Stabilité des prix immobiliers attendue : opportunité window pour transactions sans pression inflationniste à court terme.",
-      "date": "03/06/2026",
-      "url": "https://stenen-immobilier.paca",
-      "source": "Marché",
+      "title": "Inflation France : contention à 1,7% et stabilité monétaire",
+      "body": "L'inflation française se maintient à un niveau modéré de 1,7%, soutenant la stabilité des conditions de financement. Ce contexte désinflationniste prolonge les conditions favorables pour les investissements immobiliers et les acquisitions de portefeuilles.",
+      "impact": "Financement CRE et crédit-bail tertiaire bénéficiant d'une conjoncture stable : taux d'intérêt soutenus sans tension inflationniste majeure.",
+      "date": "04/06/2026",
+      "url": "https://www.laprovence.com/article/economie/11268124151967/le-nombre-de-millionnaires-et-leur-fortune-a-un-niveau-record-en-2025-selon-une-etude",
+      "source": "La Provence (données marché)",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "BCE maintient taux de refinancement à 2.15%",
-      "body": "La Banque Centrale Européenne confirme sa politique de taux accommodants à 2.15% en juin 2026. Soutien à la liquidité bancaire et stabilité du crédit immobilier.",
-      "impact": "Environnement favorable aux montages financiers structurés en CRE : coûts de financement avantageux pour gros actifs PACA.",
-      "date": "03/06/2026",
-      "url": "https://stenen-immobilier.paca",
-      "source": "Marché",
+      "title": "OAT 3,70% : conditions de refinancement stables pour investisseurs institutionnels",
+      "body": "Les obligations assimilables du Trésor français (OAT) se négocient à 3,70%, reflétant la confiance dans la trajectoire budgétaire française. Les investisseurs institutionnels et SCPI bénéficient de rendements stables sur les placements longs.",
+      "impact": "Financement et refinancement des SCPI immobilières tertiaires à conditions compétitives : rendement OAT attractif encourage les levées de fonds immobiliers.",
+      "date": "04/06/2026",
+      "url": "https://www.laprovence.com/article/economie/11268124151967/le-nombre-de-millionnaires-et-leur-fortune-a-un-niveau-record-en-2025-selon-une-etude",
+      "source": "La Provence (données marché)",
       "tags": [
         {
           "label": "Taux",
@@ -126,20 +130,16 @@
     },
     {
       "id": "m3",
-      "title": "Énergie nucléaire : renforcement sûreté Tricastin",
-      "body": "La Force d'action rapide nucléaire du Tricastin se prépare aux risques géophysiques (séismes, inondations) dans un contexte post-Fukushima. Enjeu de sécurité énergétique structurant pour région PACA.",
-      "impact": "Opportunité de développements immobiliers tertiaires/activité à proximité centres nucléaires : demande de locaux sécurisés pour ETI énergétiques croissante.",
-      "date": "02/06/2026",
-      "url": "https://www.laprovence.com/article/economie/5056625859178/seisme-inondation-la-force-d-action-rapide-du-nucleaire-se-prepare-aux-catastrophes-naturelles-au-tricastin",
+      "title": "Ligne THT Camargue-Fos : tensions énergétiques et impact régional",
+      "body": "Le projet de ligne électrique 400kV Jonquières-Fos durcit la contestation environnementale locale, illustrant les tensions géopolitiques et énergétiques en Méditerranée. Les débats d'infrastructure énergétique impactent la disponibilité de locaux et les coûts d'électricité tertiaire.",
+      "impact": "Facteurs géopolitiques et énergétiques affectant les coûts d'exploitation et la viabilité de zones logistiques/tertiaires en Camargue-Crau : anticiper les surcoûts énergétiques pour 2027-2028.",
+      "date": "03/06/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/27275630126977/ligne-tht-en-camargue-et-en-crau-avant-les-premieres-visites-de-terrain-de-rte-la-contestation-se-durcit",
       "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
           "cls": "tg"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
         }
       ]
     }

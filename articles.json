@@ -1,13 +1,13 @@
 {
-  "generated_at": "05/06/2026",
+  "generated_at": "06/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Marseille accueille 2,8M croisiéristes en 2026, boom touristique",
-      "body": "Marseille enregistre une explosion du trafic croisiériste : passage de 62 000 visiteurs en 1996 à 2,8 millions en 2026. Cette affluence massive crée une demande structurelle en locaux commerciaux, hôtellerie et services.",
-      "impact": "Opportunité immédiate pour transaction de petits commerces/services (restauration, retail) dans le secteur portuaire marseillais avec démographie client record.",
+      "title": "Marché du travail PACA : 8000 recrutements prévus malgré 8% de chômage",
+      "body": "Les Alpes-de-Haute-Provence connaissent un paradoxe : les entreprises projettent 8000 recrutements tandis que le chômage reste à 8%. Cette dynamique reflète des besoins sectoriels croissants dans la région et une tension sur les compétences disponibles.",
+      "impact": "Les tensions du marché du travail PACA justifient une relocalisation d'activités tertiaires et de services vers des espaces de coworking et locaux flexibles pour attirer les talents.",
       "date": "05/06/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/1750839504893/2-8-millions-de-croisieristes-accueillis-a-marseille-en-2026-un-marche-qui-explose",
+      "url": "https://www.laprovence.com/article/region/3192995293872714/filieres-emplois-formations-comment-les-alpes-de-haute-provence-s-adaptent-au-marche-du-travail",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Marché travail",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Slow Fashion Week 2026 : Marseille hub mode international",
-      "body": "La Slow Fashion Week attire journalistes nord-américains et médias prestigieux (Vogue Italie, Harper's Bazaar Corée) à Marseille. Cet événement positionne la ville comme destination créative majeure.",
-      "impact": "Demande accrue pour espaces événementiels, showrooms et locaux activité flexibles dans le centre/Vieux-Port pour accueil créatifs et marques mode.",
-      "date": "05/06/2026",
-      "url": "https://www.laprovence.com/article/societe/2783888419382214/la-slow-fashion-week-de-retour-a-marseille-programme-nouveautes-temps-forts-tout-ce-quil-faut-savoir",
+      "title": "Commerce local en PACA : redynamisation par les événements régionaux",
+      "body": "Le Salon des agricultures de Provence attire 67000 visiteurs et Saint-Cyr 100 Pressions double ses soirées (12-13 juin), témoignant d'une appétence forte pour les événements commerciaux locaux. Ces initiatives revitalisent les centres-villes et créent des opportunités de pop-up retail.",
+      "impact": "Les collectivités PACA recherchent des espaces commerciaux modulables pour accueillir événements et animations : une opportunité de transaction et location courte durée à valoriser.",
+      "date": "06/06/2026",
+      "url": "https://www.laprovence.com/article/food/3615196645045914/saint-cyr-100-pressions-la-fete-de-la-biere-artisanale-passe-a-la-vitesse-superieure",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Legrand ferme 4 sites, 178 suppressions d'emplois d'ici 2028",
-      "body": "Le fabricant Legrand réorganise son maillage français en consolidant sites et réduisant l'effectif pour renforcer compétitivité du secteur électrique. Restructuration majeure du tissu industriel tertiaire/activité.",
-      "impact": "Opportunités de reprendre locaux activité libérés en zones PACA (Provence, Côte-d'Azur) ; surveiller sites fermés pour conversion bureaux/services.",
-      "date": "04/06/2026",
-      "url": "https://www.laprovence.com/article/economie/53851595085575/legrand-fabricant-de-materiel-electrique-regroupe-des-sites-et-supprime-178-postes-d-ici-2028-en-france",
+      "title": "Associations commerciales PACA : risques de gouvernance et continuité",
+      "body": "L'association pour la promotion et l'animation du commerce sisteronais (Apacs) est au point mort après 14 ans, soulevant des questions de pérennité et de gouvernance des structures commerciales régionales. Cette situation expose des faiblesses dans l'animation des centres-villes PACA.",
+      "impact": "Les dysfonctionnements des associations commerciales PACA créent des niches pour des opérateurs privés de gestion immobilière tertiaire et commerciale offrant des services intégrés.",
+      "date": "06/06/2026",
+      "url": "https://www.laprovence.com/article/sortie-loisirs/359958890912414/on-navait-peut-etre-pas-les-epaules-autour-de-lassociation-des-commercants-de-sisteron-le-grand-flou",
       "source": "La Provence",
       "tags": [
         {
@@ -53,18 +53,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Gouvernance",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "OK Corral 60 ans : parc loisirs PACA vecteur immobilier",
-      "body": "OK Corral à Cuges-les-Pins poursuit son activité sexagénaire sur thématique western, conservant attractivité touristique régionale. Infrastructure loisirs génère besoins en services/commerces périphériques.",
-      "impact": "Clientèle captive (familles/touristes) justifie offre commerciale/restauration à proximité ; intéressant pour petits locaux commerce en zone touristique PACA.",
-      "date": "04/06/2026",
-      "url": "https://www.laprovence.com/article/economie/2037265103531814/le-parc-ok-corral-de-cuges-les-pins-toujours-en-selle-du-haut-de-ses-60-ans",
+      "title": "Secteur hôtelier PACA : consolidation et reprises post-liquidation",
+      "body": "B & B Hotels reprend l'ancien hôtel Moxy à La Ciotat six mois après sa fermeture en liquidation judiciaire (décembre 2025), montrant une consolidation du marché hôtelier régional. Cette transaction signale une reprise des investissements dans l'immobilier touristique PACA.",
+      "impact": "Les reprises d'actifs touristiques en distress en PACA offrent des opportunités d'optimisation immobilière : counsel sur restructurations de baux et réaffectations de locaux.",
+      "date": "05/06/2026",
+      "url": "https://www.laprovence.com/article/tourisme/2934487624050914/l-enseigne-b-b-hotels-reprend-l-ancien-hotel-moxy-a-la-ciotat",
       "source": "La Provence",
       "tags": [
         {
@@ -72,18 +72,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Tourisme",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Contexte macro PACA : taux OAT 3,70%, Euribor 2,15%",
-      "body": "Environnement de taux stable (OAT 3,70%, Euribor3M 2,15%, inflation 1,7%) soutient financement immobilier entreprise. Conditions favorables aux transactions CRE sans volatilité majeure attendue.",
-      "impact": "Contexte de taux modérés propice aux montages financiers bureaux/activité en PACA ; consolider offres avant évolution BCE (taux directeur 2,15%).",
-      "date": "05/06/2026",
-      "url": "https://www.laprovence.com/article/economie/53851595085575/legrand-fabricant-de-materiel-electrique-regroupe-des-sites-et-supprime-178-postes-d-ici-2028-en-france",
+      "title": "Taux Euribor 3M stable à 2.15% : conditions de financement immobilier maintenues",
+      "body": "L'Euribor 3 mois reste stable à 2.15% en juin 2026, maintenant des conditions de financement prévisibles pour les opérations immobilières PACA. L'OAT française à 3.70% reflète une trajectoire de normalisation progressive des taux.",
+      "impact": "Les acquéreurs immobiliers PACA bénéficient de taux stables permettant la structuration prévisible des acquisitions tertiaires et commerciales sans volatilité taux à court terme.",
+      "date": "06/06/2026",
+      "url": "https://donnees-marche.fr/taux-euribor",
       "source": "Données marché",
       "tags": [
         {
@@ -91,8 +91,8 @@
           "cls": "tt"
         },
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     }
@@ -100,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Marseille : hub touristique majeur 2,8M croisiéristes/an",
-      "body": "Multiplication par 45 du trafic croisiériste en 30 ans (62k→2,8M) positionne Marseille en leader méditerranéen. Flux transforme économie locale et infrastructure urbaine.",
-      "impact": "Attractivité Marseille/PACA renforçée pour investisseurs immobilier ; demande bureaux/services/commerce structurelle long terme liée tourisme croissance.",
+      "title": "Secteur portuaire français : priorité à la sécurité et réduction des risques",
+      "body": "Le Grand Port Maritime de Marseille-Fos place la sécurité des salariés au cœur de ses enjeux, avec des efforts accrus pour réduire nombre et gravité des accidents en 2025. Cette réorientation reflète une tendance nationale de renforcement des normes de travail.",
+      "impact": "Les normes de sécurité renforcées aux ports impactent les standards immobiliers d'activité logistique PACA : investisseurs doivent anticiper conformité accrue des locaux.",
       "date": "05/06/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/1750839504893/2-8-millions-de-croisieristes-accueillis-a-marseille-en-2026-un-marche-qui-explose",
+      "url": "https://www.laprovence.com/article/economie/3157399255562514/la-securite-des-salaries-au-coeur-des-priorites-au-grand-port-maritime-de-marseille-fos",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géo/Conjoncture",
+          "label": "Conjoncture",
           "cls": "tg"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "France : restructuration industrielle, -178 emplois Legrand",
-      "body": "Legrand consolide 4 sites français pour renforcer compétitivité 'made in France'. Mouvement reflète pression sur secteurs traditionnels et besoin d'efficacité productive.",
-      "impact": "Contexte de ralentissement emploi/activité dans zones manufacturières PACA ; attendre stabilisation avant relancer offre bureaux/activité en régions affectées.",
-      "date": "04/06/2026",
-      "url": "https://www.laprovence.com/article/economie/53851595085575/legrand-fabricant-de-materiel-electrique-regroupe-des-sites-et-supprime-178-postes-d-ici-2028-en-france",
-      "source": "La Provence",
+      "title": "Inflation France : modérée à 1.7% en juin 2026",
+      "body": "L'inflation française s'établit à 1.7% en juin 2026, confirmant une trajectoire maîtrisée et en ligne avec la moyenne zone euro. Cette stabilité inflationniste soutient la continuité de la politique monétaire de la BCE à 2.15%.",
+      "impact": "L'inflation maîtrisée préserve le pouvoir d'achat des locataires tertaires et commerciaux PACA, soutenant la demande immobilière et stabilisant les valeurs d'actifs.",
+      "date": "06/06/2026",
+      "url": "https://donnees-marche.fr/inflation-france",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture France",
+          "label": "Inflation",
           "cls": "tg"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE stabilité monétaire : OAT 3,70%, inflation 1,7%",
-      "body": "Taux BCE 2,15% et inflation modérée (1,7%) maintiennent stabilité financière sans chocs attendus. Environnement propice aux investissements immobiliers entreprise structurés.",
-      "impact": "Financement CRE PACA demeurable à conditions régulières ; valider pricing long terme sans anticiper hausse taux avant signaux BCE clairs.",
-      "date": "05/06/2026",
-      "url": "https://www.laprovence.com/article/economie/53851595085575/legrand-fabricant-de-materiel-electrique-regroupe-des-sites-et-supprime-178-postes-d-ici-2028-en-france",
-      "source": "Données marché BCE",
+      "title": "Énergie : Brent stable à 96 USD/baril, contexte géopolitique contenu",
+      "body": "Le pétrole Brent se maintient à 96 USD/baril en juin 2026, reflétant un équilibre offre-demande stable sans chocs géopolitiques majeurs. Cette stabilité énergétique soutient la prévisibilité des coûts d'exploitation immobilière.",
+      "impact": "Les coûts énergétiques stables en PACA réduisent l'imprévisibilité des charges d'exploitation tertiaire et commerciale, renforçant la valorisation des actifs efficaces énergétiquement.",
+      "date": "06/06/2026",
+      "url": "https://donnees-marche.fr/brent-petrole",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Taux/BCE",
-          "cls": "tt"
+          "label": "Énergie",
+          "cls": "tg"
+        },
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     }

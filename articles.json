@@ -1,97 +1,77 @@
 {
-  "generated_at": "06/06/2026",
+  "generated_at": "07/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Marché du travail PACA : 8000 recrutements prévus malgré 8% de chômage",
-      "body": "Les Alpes-de-Haute-Provence connaissent un paradoxe : les entreprises projettent 8000 recrutements tandis que le chômage reste à 8%. Cette dynamique reflète des besoins sectoriels croissants dans la région et une tension sur les compétences disponibles.",
-      "impact": "Les tensions du marché du travail PACA justifient une relocalisation d'activités tertiaires et de services vers des espaces de coworking et locaux flexibles pour attirer les talents.",
-      "date": "05/06/2026",
-      "url": "https://www.laprovence.com/article/region/3192995293872714/filieres-emplois-formations-comment-les-alpes-de-haute-provence-s-adaptent-au-marche-du-travail",
+      "title": "Entrepreneuriat féminin : l'Adie accélère à Aix-en-Provence",
+      "body": "L'Adie poursuit son engagement pour l'égalité de genre via sa structure aixoise du Passage, ouverte en novembre 2024. Le dispositif lève les freins financiers pour les créatrices d'entreprise en région PACA.",
+      "impact": "Dynamique positive pour les petites entreprises de services et commerces locaux ; opportunités de conseils en transaction pour micro-entrepreneurs et PME-PMI.",
+      "date": "07/06/2026",
+      "url": "https://www.laprovence.com/article/economie/4453868732590714/a-aix-en-provence-l-adie-leve-les-freins-financiers-pour-entreprendre-au-feminin",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché travail",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Commerce local en PACA : redynamisation par les événements régionaux",
-      "body": "Le Salon des agricultures de Provence attire 67000 visiteurs et Saint-Cyr 100 Pressions double ses soirées (12-13 juin), témoignant d'une appétence forte pour les événements commerciaux locaux. Ces initiatives revitalisent les centres-villes et créent des opportunités de pop-up retail.",
-      "impact": "Les collectivités PACA recherchent des espaces commerciaux modulables pour accueillir événements et animations : une opportunité de transaction et location courte durée à valoriser.",
+      "title": "Congrès européen de meunerie : Marseille capitale de l'industrie",
+      "body": "Marseille accueille pendant trois jours des professionnels de toute l'Europe, du Maroc, de Turquie et d'Ukraine pour échanger sur le secteur. Un événement reflétant l'importance des activités agroalimentaires et logistiques régionales.",
+      "impact": "Indicateur d'attractivité de Marseille pour les activités tertiaires et locaux à vocation professionnelle ; opportunités de transactions pour immeubles de congrès et locaux d'activité.",
       "date": "06/06/2026",
-      "url": "https://www.laprovence.com/article/food/3615196645045914/saint-cyr-100-pressions-la-fete-de-la-biere-artisanale-passe-a-la-vitesse-superieure",
+      "url": "https://www.laprovence.com/article/economie/388190211700814/des-meuniers-de-toute-leurope-reunis-a-marseille-pour-leur-congres-europeen",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Associations commerciales PACA : risques de gouvernance et continuité",
-      "body": "L'association pour la promotion et l'animation du commerce sisteronais (Apacs) est au point mort après 14 ans, soulevant des questions de pérennité et de gouvernance des structures commerciales régionales. Cette situation expose des faiblesses dans l'animation des centres-villes PACA.",
-      "impact": "Les dysfonctionnements des associations commerciales PACA créent des niches pour des opérateurs privés de gestion immobilière tertiaire et commerciale offrant des services intégrés.",
+      "title": "Nature & Découvertes : fermeture d'un magasin à Marseille",
+      "body": "L'enseigne du groupe Fnac Darty ferme un site à Marseille ainsi que quatre magasins en Île-de-France. Cette rationalisation reflète les mutations du retail et de l'immobilier commercial régional.",
+      "impact": "Vigilance requise sur la vacance commerciale à Marseille ; occasionne des opportunités de reprise ou restructuration de locaux en centre-ville pour d'autres usages.",
       "date": "06/06/2026",
-      "url": "https://www.laprovence.com/article/sortie-loisirs/359958890912414/on-navait-peut-etre-pas-les-epaules-autour-de-lassociation-des-commercants-de-sisteron-le-grand-flou",
+      "url": "https://www.laprovence.com/article/economie/3877331514025614/nature-decouvertes-va-fermer-un-magasin-a-marseille-et-quatre-en-ile-de-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Gouvernance",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Secteur hôtelier PACA : consolidation et reprises post-liquidation",
-      "body": "B & B Hotels reprend l'ancien hôtel Moxy à La Ciotat six mois après sa fermeture en liquidation judiciaire (décembre 2025), montrant une consolidation du marché hôtelier régional. Cette transaction signale une reprise des investissements dans l'immobilier touristique PACA.",
-      "impact": "Les reprises d'actifs touristiques en distress en PACA offrent des opportunités d'optimisation immobilière : counsel sur restructurations de baux et réaffectations de locaux.",
-      "date": "05/06/2026",
-      "url": "https://www.laprovence.com/article/tourisme/2934487624050914/l-enseigne-b-b-hotels-reprend-l-ancien-hotel-moxy-a-la-ciotat",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Tourisme",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
-      "id": "f5",
-      "title": "Taux Euribor 3M stable à 2.15% : conditions de financement immobilier maintenues",
-      "body": "L'Euribor 3 mois reste stable à 2.15% en juin 2026, maintenant des conditions de financement prévisibles pour les opérations immobilières PACA. L'OAT française à 3.70% reflète une trajectoire de normalisation progressive des taux.",
-      "impact": "Les acquéreurs immobiliers PACA bénéficient de taux stables permettant la structuration prévisible des acquisitions tertiaires et commerciales sans volatilité taux à court terme.",
+      "id": "f4",
+      "title": "Magasin éphémère Classy Mastour : succès commercial à Marseille",
+      "body": "Le format éphémère de la marque francilienne attire des files d'attente Canebière samedi 6 juin, confirmant l'intérêt pour l'expérience commerciale temporaire. Tendance positive pour les espaces flexibles en zone urbaine dense.",
+      "impact": "Validation du modèle flex-office et espaces de commerce temporaire ; pertinent pour les propriétaires cherchant une meilleure rotation des espaces à Marseille.",
       "date": "06/06/2026",
-      "url": "https://donnees-marche.fr/taux-euribor",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/societe/3918325271543114/la-foule-pour-le-magasin-ephemere-de-la-marque-francilienne-classy-mastour-a-marseille",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Financement entrepreneurial : situation de quasi-égalité femmes-hommes",
+      "body": "Les études montrent une situation d'équilibre croissant dans l'accès au financement entre genres en région PACA. L'objectif d'égalité stricte demeure le cap de structures comme l'Adie.",
+      "impact": "Élargissement du vivier de demandeurs de locaux professionnels ; conseils d'immobilier d'entreprise à adapter aux nouveaux profils entrepreneuriaux diversifiés.",
+      "date": "07/06/2026",
+      "url": "https://www.laprovence.com/article/economie/4453868732590714/a-aix-en-provence-l-adie-leve-les-freins-financiers-pour-entreprendre-au-feminin",
+      "source": "La Provence",
+      "tags": [
         {
-          "label": "Financement",
+          "label": "Investissement",
           "cls": "ti2"
         }
       ]
@@ -100,55 +80,43 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Secteur portuaire français : priorité à la sécurité et réduction des risques",
-      "body": "Le Grand Port Maritime de Marseille-Fos place la sécurité des salariés au cœur de ses enjeux, avec des efforts accrus pour réduire nombre et gravité des accidents en 2025. Cette réorientation reflète une tendance nationale de renforcement des normes de travail.",
-      "impact": "Les normes de sécurité renforcées aux ports impactent les standards immobiliers d'activité logistique PACA : investisseurs doivent anticiper conformité accrue des locaux.",
-      "date": "05/06/2026",
-      "url": "https://www.laprovence.com/article/economie/3157399255562514/la-securite-des-salaries-au-coeur-des-priorites-au-grand-port-maritime-de-marseille-fos",
+      "title": "Accord rachat SFR : consolidation télécom française à 20,35 Md€",
+      "body": "Bouygues Telecom, Free et Orange trouvent un compromis pour acquérir SFR auprès d'Altice France. L'opération majeure redessine le paysage télécom français et les infrastructures d'entreprise associées.",
+      "impact": "Impact indirect sur les investissements en immeubles de bureaux pour opérateurs télécom et data centers ; surveillance des mutations immobilières liées au secteur télécom en PACA.",
+      "date": "07/06/2026",
+      "url": "https://www.laprovence.com/article/economie/4458860995731414/rachat-de-sfr-bouygues-telecom-free-et-orange-ont-trouve-un-accord-avec-altice-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
           "cls": "tg"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France : modérée à 1.7% en juin 2026",
-      "body": "L'inflation française s'établit à 1.7% en juin 2026, confirmant une trajectoire maîtrisée et en ligne avec la moyenne zone euro. Cette stabilité inflationniste soutient la continuité de la politique monétaire de la BCE à 2.15%.",
-      "impact": "L'inflation maîtrisée préserve le pouvoir d'achat des locataires tertaires et commerciaux PACA, soutenant la demande immobilière et stabilisant les valeurs d'actifs.",
-      "date": "06/06/2026",
-      "url": "https://donnees-marche.fr/inflation-france",
-      "source": "Données marché",
+      "title": "OAT 3,70% : taux souverains stables, financement immobilier maîtrisé",
+      "body": "Les obligations assimilables du Trésor restent à 3,70% avec Euribor 3M à 2,15%, confirmant un environnement de taux modérés. La BCE maintient son pilotage à 2,15%, soutenant la prévisibilité des coûts de financement.",
+      "impact": "Conditions favorables pour les montages financiers d'investissements immobiliers tertiaires en PACA ; recommander verrouillage à court terme sur les taux longs.",
+      "date": "07/06/2026",
+      "url": "https://www.laprovence.com/article/economie/4458860995731414/rachat-de-sfr-bouygues-telecom-free-et-orange-ont-trouve-un-accord-avec-altice-france",
+      "source": "Données marchés",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tg"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Énergie : Brent stable à 96 USD/baril, contexte géopolitique contenu",
-      "body": "Le pétrole Brent se maintient à 96 USD/baril en juin 2026, reflétant un équilibre offre-demande stable sans chocs géopolitiques majeurs. Cette stabilité énergétique soutient la prévisibilité des coûts d'exploitation immobilière.",
-      "impact": "Les coûts énergétiques stables en PACA réduisent l'imprévisibilité des charges d'exploitation tertiaire et commerciale, renforçant la valorisation des actifs efficaces énergétiquement.",
-      "date": "06/06/2026",
-      "url": "https://donnees-marche.fr/brent-petrole",
-      "source": "Données marché",
+      "title": "Inflation France 1,7% : contexte macro-économique stabilisé",
+      "body": "L'inflation française à 1,7% demeure modérée, soutenue par une BCE vigilante et des taux directeurs à 2,15%. Le contexte macroéconomique français reste stable malgré les tensions géopolitiques.",
+      "impact": "Environnement favorable pour les décisions d'investissement immobilier tertiaire ; inflation maîtrisée limite l'indexation des loyers commerciaux PACA à court terme.",
+      "date": "07/06/2026",
+      "url": "https://www.laprovence.com/article/economie/388190211700814/des-meuniers-de-toute-leurope-reunis-a-marseille-pour-leur-congres-europeen",
+      "source": "Données marchés",
       "tags": [
-        {
-          "label": "Énergie",
-          "cls": "tg"
-        },
         {
           "label": "Géopolitique",
           "cls": "tg"

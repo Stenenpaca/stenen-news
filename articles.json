@@ -1,11 +1,11 @@
 {
-  "generated_at": "07/06/2026",
+  "generated_at": "08/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Entrepreneuriat féminin : l'Adie accélère à Aix-en-Provence",
-      "body": "L'Adie poursuit son engagement pour l'égalité de genre via sa structure aixoise du Passage, ouverte en novembre 2024. Le dispositif lève les freins financiers pour les créatrices d'entreprise en région PACA.",
-      "impact": "Dynamique positive pour les petites entreprises de services et commerces locaux ; opportunités de conseils en transaction pour micro-entrepreneurs et PME-PMI.",
+      "title": "Entrepreneuriat féminin : l'Adie accélère l'accès au financement en PACA",
+      "body": "L'Adie renforce son accompagnement des femmes entrepreneurs à Aix-en-Provence via sa structure Le Passage, ouverte en novembre 2024. L'objectif affiché est d'atteindre une stricte égalité des genres dans l'accès au financement des créations d'entreprise.",
+      "impact": "Opportunité de dynamiser les transactions de petits locaux d'activité pour entrepreneures, notamment dans les zones aixoises avec offres de financement facilitées.",
       "date": "07/06/2026",
       "url": "https://www.laprovence.com/article/economie/4453868732590714/a-aix-en-provence-l-adie-leve-les-freins-financiers-pour-entreprendre-au-feminin",
       "source": "La Provence",
@@ -13,33 +13,26 @@
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Financement PME",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Congrès européen de meunerie : Marseille capitale de l'industrie",
-      "body": "Marseille accueille pendant trois jours des professionnels de toute l'Europe, du Maroc, de Turquie et d'Ukraine pour échanger sur le secteur. Un événement reflétant l'importance des activités agroalimentaires et logistiques régionales.",
-      "impact": "Indicateur d'attractivité de Marseille pour les activités tertiaires et locaux à vocation professionnelle ; opportunités de transactions pour immeubles de congrès et locaux d'activité.",
-      "date": "06/06/2026",
-      "url": "https://www.laprovence.com/article/economie/388190211700814/des-meuniers-de-toute-leurope-reunis-a-marseille-pour-leur-congres-europeen",
+      "title": "Trophée Entrepreneurs Positifs : 6 lauréats PACA en lice pour la finale régionale",
+      "body": "Six entrepreneurs provençaux ont été sélectionnés pour la finale régionale du Trophée des Entrepreneurs positifs, mettant en avant solidarité, écoresponsabilité et créativité. Cette initiative de la CPME récompense depuis 12 ans les valeurs durables dans l'entrepreneuriat local.",
+      "impact": "Signal positif sur la dynamique entrepreneuriale régionale et l'intérêt croissant pour les espaces de bureaux et d'activité respectueux des normes RSE/tertiaire durable.",
+      "date": "07/06/2026",
+      "url": "https://www.laprovence.com/article/economie/4765775226508714/trophee-des-entrepreneurs-positifs-6-laureats-provencaux-retenus-pour-la-finale-regionale",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Nature & Découvertes : fermeture d'un magasin à Marseille",
-      "body": "L'enseigne du groupe Fnac Darty ferme un site à Marseille ainsi que quatre magasins en Île-de-France. Cette rationalisation reflète les mutations du retail et de l'immobilier commercial régional.",
-      "impact": "Vigilance requise sur la vacance commerciale à Marseille ; occasionne des opportunités de reprise ou restructuration de locaux en centre-ville pour d'autres usages.",
-      "date": "06/06/2026",
-      "url": "https://www.laprovence.com/article/economie/3877331514025614/nature-decouvertes-va-fermer-un-magasin-a-marseille-et-quatre-en-ile-de-france",
-      "source": "La Provence",
-      "tags": [
+        },
         {
           "label": "Marché",
           "cls": "tm"
@@ -47,32 +40,59 @@
       ]
     },
     {
-      "id": "f4",
-      "title": "Magasin éphémère Classy Mastour : succès commercial à Marseille",
-      "body": "Le format éphémère de la marque francilienne attire des files d'attente Canebière samedi 6 juin, confirmant l'intérêt pour l'expérience commerciale temporaire. Tendance positive pour les espaces flexibles en zone urbaine dense.",
-      "impact": "Validation du modèle flex-office et espaces de commerce temporaire ; pertinent pour les propriétaires cherchant une meilleure rotation des espaces à Marseille.",
-      "date": "06/06/2026",
-      "url": "https://www.laprovence.com/article/societe/3918325271543114/la-foule-pour-le-magasin-ephemere-de-la-marque-francilienne-classy-mastour-a-marseille",
+      "id": "f3",
+      "title": "Modernisation réseau électrique : Enedis déploie 9 km à Beaurecueil",
+      "body": "Enedis a mené un chantier d'envergure à Beaurecueil avec 80 techniciens pour rénover 9 km de réseau électrique tout en préservant la biodiversité locale. Ce type d'infrastructure durable améliore les conditions d'implantation des entreprises en zones montagneuses.",
+      "impact": "Amélioration des connectivités électriques en zones périurbaines PACA, favorable aux relocalisations d'activités industrielles et artisanales cherchant stabilité énergétique.",
+      "date": "07/06/2026",
+      "url": "https://www.laprovence.com/article/economie/461798824037914/80-techniciens-9-kms-de-reseau-a-beaurecueil-enedis-jongle-entre-chantier-titanesque-et-respect-de-la-nature",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Infrastructure",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Innovation artisanale : menuisier marseillais remporte l'or au concours Lépine",
+      "body": "Frédéric Josseaux, ancien ingénieur devenu artisan menuisier à Marseille, a développé une table rétractable pour petits balcons et remporté une médaille d'or au concours Lépine. Cette innovation reflète l'adaptation croissante des micro-espaces urbains aux besoins résidentiels et d'activité.",
+      "impact": "Tendance de densification urbaine et petits formats d'espace à Marseille : oportunité de conseil sur micro-locaux multifonctionnels bureaux/atelier dans l'hypercentre.",
+      "date": "07/06/2026",
+      "url": "https://www.laprovence.com/article/economie/4856319690176814/il-cree-une-table-en-bois-retractable-a-installer-sur-son-balcon-et-gagne-une-medaille-d-or-au-concours-lepine",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Flex-office",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Financement entrepreneurial : situation de quasi-égalité femmes-hommes",
-      "body": "Les études montrent une situation d'équilibre croissant dans l'accès au financement entre genres en région PACA. L'objectif d'égalité stricte demeure le cap de structures comme l'Adie.",
-      "impact": "Élargissement du vivier de demandeurs de locaux professionnels ; conseils d'immobilier d'entreprise à adapter aux nouveaux profils entrepreneuriaux diversifiés.",
-      "date": "07/06/2026",
-      "url": "https://www.laprovence.com/article/economie/4453868732590714/a-aix-en-provence-l-adie-leve-les-freins-financiers-pour-entreprendre-au-feminin",
+      "title": "Salon Agricultures Provence : record d'affluence enregistré au Domaine du Merle",
+      "body": "La 9e édition du Salon des agricultures de Provence s'est déroulée du 5 au 7 juin au Domaine du Merle avec l'une des meilleures affluences jamais enregistrées. Rendez-vous incontournable du secteur agricole local, il valide la vitalité du tissu agro-économique régional.",
+      "impact": "Dynamisme confirmé du secteur agricole PACA induisant demande de locaux d'activité, stockage et espaces de transformation agroalimentaire périphériques.",
+      "date": "08/06/2026",
+      "url": "https://www.laprovence.com/article/sortie-loisirs/5398812043965114/l-une-des-meilleures-affluences-jamais-enregistrees-au-salon-des-agricultures-de-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -80,27 +100,27 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Accord rachat SFR : consolidation télécom française à 20,35 Md€",
-      "body": "Bouygues Telecom, Free et Orange trouvent un compromis pour acquérir SFR auprès d'Altice France. L'opération majeure redessine le paysage télécom français et les infrastructures d'entreprise associées.",
-      "impact": "Impact indirect sur les investissements en immeubles de bureaux pour opérateurs télécom et data centers ; surveillance des mutations immobilières liées au secteur télécom en PACA.",
-      "date": "07/06/2026",
-      "url": "https://www.laprovence.com/article/economie/4458860995731414/rachat-de-sfr-bouygues-telecom-free-et-orange-ont-trouve-un-accord-avec-altice-france",
-      "source": "La Provence",
+      "title": "OAT 10Y à 3,70% : stabilité des taux obligataires français",
+      "body": "Les obligations assimilables du Trésor français restent stables à 3,70% de rendement sur 10 ans. Cette stabilité reflète la confiance persistante des marchés dans la solvabilité publique française malgré les tensions budgétaires conjoncturelles.",
+      "impact": "Maintien des conditions de financement favorable aux montages de financement immobilier long terme pour acquisitions de murs de bureaux et locaux d'activité en PACA.",
+      "date": "08/06/2026",
+      "url": "https://donnees-marche.fr/oat-20260608",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "OAT 3,70% : taux souverains stables, financement immobilier maîtrisé",
-      "body": "Les obligations assimilables du Trésor restent à 3,70% avec Euribor 3M à 2,15%, confirmant un environnement de taux modérés. La BCE maintient son pilotage à 2,15%, soutenant la prévisibilité des coûts de financement.",
-      "impact": "Conditions favorables pour les montages financiers d'investissements immobiliers tertiaires en PACA ; recommander verrouillage à court terme sur les taux longs.",
-      "date": "07/06/2026",
-      "url": "https://www.laprovence.com/article/economie/4458860995731414/rachat-de-sfr-bouygues-telecom-free-et-orange-ont-trouve-un-accord-avec-altice-france",
-      "source": "Données marchés",
+      "title": "Euribor 3M à 2,15% : taux directeurs de la BCE confirmés",
+      "body": "L'Euribor 3 mois reste à 2,15% en ligne avec les taux directeurs de la BCE maintenus à 2,15%. Cette stabilité monétaire dans la zone euro soutient les conditions de crédit immobilier professionnel.",
+      "impact": "Contexte favorable au financement des acquisitions de petits immeubles tertiaires et locaux d'activité pour investisseurs à fort effet de levier.",
+      "date": "08/06/2026",
+      "url": "https://donnees-marche.fr/euribor-20260608",
+      "source": "Données Marché",
       "tags": [
         {
           "label": "Taux",
@@ -110,12 +130,12 @@
     },
     {
       "id": "m3",
-      "title": "Inflation France 1,7% : contexte macro-économique stabilisé",
-      "body": "L'inflation française à 1,7% demeure modérée, soutenue par une BCE vigilante et des taux directeurs à 2,15%. Le contexte macroéconomique français reste stable malgré les tensions géopolitiques.",
-      "impact": "Environnement favorable pour les décisions d'investissement immobilier tertiaire ; inflation maîtrisée limite l'indexation des loyers commerciaux PACA à court terme.",
-      "date": "07/06/2026",
-      "url": "https://www.laprovence.com/article/economie/388190211700814/des-meuniers-de-toute-leurope-reunis-a-marseille-pour-leur-congres-europeen",
-      "source": "Données marchés",
+      "title": "Pétrole Brent à 96 USD/baril : tensions géopolitiques persistantes",
+      "body": "Le prix du Brent se maintient à 96 USD/baril, reflétant les tensions géopolitiques en zone MENA et les incertitudes sur l'approvisionnement énergétique global. Cette pression inflationniste limite la baisse des taux directeurs de la BCE.",
+      "impact": "Coûts énergétiques élevés impactent les loyers d'immeubles tertiaires non-rénovés ; opportunité de valorisation des locaux d'activité aux normes RT2020 pour économies d'énergie.",
+      "date": "08/06/2026",
+      "url": "https://donnees-marche.fr/brent-20260608",
+      "source": "Données Marché",
       "tags": [
         {
           "label": "Géopolitique",

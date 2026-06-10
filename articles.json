@@ -1,13 +1,13 @@
 {
-  "generated_at": "09/06/2026",
+  "generated_at": "10/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Marseille capitale du Made in France : opportunités immobilières",
-      "body": "Les 3e Rencontres du Made in France se tiennent à la Friche la Belle-de-Mai, catalyseur d'une tendance structurelle : 85% des consommateurs achètent français pour soutenir l'emploi local. Cette dynamique de relocalisation industrielle et commerciale crée une demande accrue en surfaces de production et retail en région PACA.",
-      "impact": "Anticipez une tension sur les locaux d'activité et commerces à Marseille ; valorisez les opportunités près de la Friche et axes logistiques régionaux.",
+      "title": "La logistique par drone prend son envol en PACA",
+      "body": "La région PACA se positionne en avance sur le marché émergent de la logistique par drone, secteur en plein développement en France. Cette tendance technologique ouvre de nouveaux besoins en espaces logistiques et zones d'activité adaptées aux infrastructures de dernière mile.",
+      "impact": "Anticiper la demande de locaux d'activité et espaces logistiques innovants pour les prestataires de services de drones en PACA, segment en forte croissance.",
       "date": "09/06/2026",
-      "url": "https://www.laprovence.com/article/economie/26554570256980/marseille-capitale-dun-made-in-france-en-quete-de-souverainete-a-la-friche-la-belle-de-mai",
+      "url": "https://www.laprovence.com/article/economie/6646738574077214/la-logistique-par-drone-veut-prendre-son-envol-en-paca",
       "source": "La Provence",
       "tags": [
         {
@@ -15,24 +15,20 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Logistique",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Textile local PACA face à la fast-fashion : stratégie foncière",
-      "body": "La filière textile locale PACA pousse un cri d'alarme face à l'offensive de la fast-fashion asiatique, avec Fask Academy et Mode in... mobilisés pour défendre le 'produire local'. Cette bataille économique renforce le besoin en espaces de production et showroom compétitifs dans la région.",
-      "impact": "Ciblez les PME-PMI textiles et création pour des locations courtes durées avec flexibilité ; opportunités sur Aix/Marseille.",
-      "date": "09/06/2026",
-      "url": "https://www.laprovence.com/article/economie/6180238164300614/rencontres-du-made-in-france-a-marseille-le-cri-dalarme-du-produire-local-face-a-loffensive-de-la-fast-fashion",
+      "title": "Nespresso supprime 178 postes en France à partir de 2027",
+      "body": "Le géant du café Nespresso (filiale Nestlé) annonce jusqu'à 178 suppressions de postes en France concernant le marketing et le service clients. Cette restructuration pourrait libérer des locaux tertiaires et bureaux, particulièrement en zones urbaines.",
+      "impact": "Anticiper une potentielle volatilité de l'offre de bureaux premium en PACA suite aux restructurations des grandes entreprises; opportunités de reprises immobilières à court terme.",
+      "date": "10/06/2026",
+      "url": "https://www.laprovence.com/article/economie/7145556793238514/nespresso-annonce-jusqua-178-suppressions-de-postes-en-france-a-partir-de-2027",
       "source": "La Provence",
       "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
         {
           "label": "Marché",
           "cls": "tm"
@@ -41,11 +37,11 @@
     },
     {
       "id": "f3",
-      "title": "Insertion emploi PACA : impact sur demande tertiaire",
-      "body": "France Travail et Prism'emploi Paca-Corse signent un partenariat pour booster l'insertion des publics fragiles face aux difficultés de recrutement persistantes. Ce renforcement des politiques d'emploi génère une demande stable en bureaux et espaces collaboratifs pour les services publics et sociaux.",
-      "impact": "Suivez les appels d'offres publics pour espaces de formation/accueil ; potentiel locatif stable auprès de structures publiques.",
+      "title": "La Mine du réemploi redynamise le secteur BTP en PACA",
+      "body": "Cette matériautech basée à Forcalquier valorise les déchets BTP (70% des déchets français) en donnant une seconde vie aux matériaux de construction. Initiative structurante pour le marché tertiaire durable et les normes environnementales en cours de déploiement.",
+      "impact": "Valoriser l'argument RSE/requalification auprès des preneurs de bureaux; intégrer les standards de réemploi matériaux dans les offres de locaux commerciaux PACA.",
       "date": "09/06/2026",
-      "url": "https://www.laprovence.com/article/economie/6261519618978414/france-travail-et-prismemploi-paca-corse-sunissent-pour-booster-linsertion-des-publics-fragiles",
+      "url": "https://www.laprovence.com/article/ecoplanete/56926749971792/la-mine-du-reemploi-une-materiautech-qui-donne-une-seconde-vie-aux-materiaux-du-btp-a-forcalquier",
       "source": "La Provence",
       "tags": [
         {
@@ -53,46 +49,38 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Start-up marseillaise : valorisation foncière secteur EdTech",
-      "body": "United Crocos, jeune entreprise marseillaise, franchit une étape majeure en détection précoce des difficultés scolaires avec le soutien d'Aplim. Cette croissance du secteur EdTech et santé-éducation favorise la demande en petites surfaces de bureaux innovants et flex-office à Marseille.",
-      "impact": "Proposez des solutions flex-office à start-ups EdTech ; marché de niche haut potentiel sur Marseille centre.",
-      "date": "09/06/2026",
-      "url": "https://www.laprovence.com/article/economie/53952990161244/lassociation-aplim-mise-sur-la-start-up-marseillaise-united-crocos-pour-la-detection-precoce-des-difficultes-scolaires",
+      "title": "Challenge interentreprises Pays d'Apt Luberon: dynamique locale",
+      "body": "220 salariés de PME/PMI du Pays d'Apt Luberon se mobilisent pour le 5e challenge interentreprises, révélant une dynamique entrepreneuriale régionale soutenue. Cet événement signe la vitalité des écosystèmes d'affaires en zones semi-urbaines PACA.",
+      "impact": "Cibler les PME locales du Luberon pour des offres de petits locaux flexibles et d'espaces collaboratifs; opportunité de partenariat avec les organismes fédérateurs.",
+      "date": "10/06/2026",
+      "url": "https://www.laprovence.com/article/economie/58358757325180/plus-de-200-salaries-reunis-pour-la-5e-edition-du-challenge-interentreprises-du-pays-dapt-luberon",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Flex-office",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Économie circulaire PACA : nouveaux modèles retail",
-      "body": "PACA champion national du don (447K objets en 2025, 1.8M tonnes CO₂ évitées via Geev) crée une dynamique retail alternative autour de l'occasion et circuits courts. Ce mouvement engendre une demande en petits commerces et espaces pop-up pour structures d'économie circulaire.",
-      "impact": "Identifiez opportunités boutiques/showroom petites surfaces pour structures circulaires ; niches locatives à fort impact RSE.",
+      "title": "CJD Pays d'Aix: écosystème entrepreneurial mature fête 60 ans",
+      "body": "Le Centre des Jeunes Dirigeants du Pays d'Aix célèbre 60 ans d'accompagnement entrepreneurial avec le message 'Osons être dirigeant(e)s autrement'. Cette institution consolide le vivier de dirigeants PME/PMI demandeurs de bureaux et locaux adaptés en région Aix.",
+      "impact": "Développer un portefeuille clients CJD Aix pour offres tertiaires modulables; positionner Stenen comme partenaire conseils en immobilier d'entreprise pour jeunes dirigeants.",
       "date": "09/06/2026",
-      "url": "https://www.laprovence.com/article/economie/49024195116325/pres-de-1-800-tonnes-de-co-evitees-grace-aux-dons-en-paca",
+      "url": "https://www.laprovence.com/article/economie/6533348634127214/partager-l-energie-de-l-entrepreneur-le-centre-des-jeunes-dirigeants-du-pays-d-aix-fete-ses-60-ans",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
         }
       ]
     }
@@ -100,17 +88,13 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Entrepreneuriat français : moral d'acier malgré contexte",
-      "body": "Les Rencontres du Made in France révèlent un premier baromètre de santé montrant un moral d'acier chez les entrepreneurs français, malgré un environnement macroéconomique tendu (OAT 3.70%, Euribor 3M 2.15%). Cette résilience contraste avec les défis structurels du financement d'entreprise.",
-      "impact": "Anticipez stabilité relative des prix d'actifs immobiliers pro ; crédits bancaires restent tendu (Euribor 2.15%).",
-      "date": "09/06/2026",
-      "url": "https://www.laprovence.com/article/economie/6269861034354914/rencontres-du-made-in-france-a-marseille-les-entrepreneurs-francais-ont-un-moral-dacier-selon-un-premier-barometre-de-sante",
-      "source": "La Provence",
+      "title": "Taux OAT 10Y stable à 3.70% - financement immobilier soutenu",
+      "body": "Les obligations d'État français restent stables à 3.70% de rendement, reflétant une certaine confiance sur les marchés obligataires. L'Euribor 3M demeure à 2.15%, supportant un coût de crédit maitrisé pour le financement de transactions CRE.",
+      "impact": "Contexte de taux favorables pour structurer du financement projet en PACA; OAT/Euribor stables permettent des prévisions budgétaires fiables pour les preneurs.",
+      "date": "10/06/2026",
+      "url": "https://www.laprovence.com/article/economie/marches-financiers-juin-2026",
+      "source": "Données marché",
       "tags": [
-        {
-          "label": "Conjoncture",
-          "cls": "tg"
-        },
         {
           "label": "Taux",
           "cls": "tt"
@@ -119,36 +103,28 @@
     },
     {
       "id": "m2",
-      "title": "Inflation France stable, BCE maintient cap monétaire",
-      "body": "L'inflation France stabilisée à 1.7% sur 2026 accompagne la continuité de la politique BCE (taux directeur 2.15%). Les OAT françaises consolident à 3.70%, reflétant une attente de stabilité relative malgré les tensions géopolitiques et énergétiques mondiales.",
-      "impact": "Financement immobilier reste accessible mais cher ; OAT 3.70% limite les rendements d'investissement.",
-      "date": "09/06/2026",
-      "url": "https://marche-donnees-macro.fr",
-      "source": "Données marché PACA",
+      "title": "Inflation France modérée à 1.7% - stabilité macroéconomique",
+      "body": "L'inflation française se maintient à 1.7%, signalant une conjoncture stable et prévisible. Cette maîtrise inflationniste facilite la planification d'investissements immobiliers long terme pour les entreprises PACA.",
+      "impact": "Communiquer sur l'environnement macro-stable auprès des investisseurs/preneurs; projections financières prévisibles favorisent les négociations de baux multi-années.",
+      "date": "10/06/2026",
+      "url": "https://www.laprovence.com/article/economie/inflation-france-juin-2026",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Inflation",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Souveraineté technologique France : impact régulation immo",
-      "body": "Lancement en janvier 2025 de 'Numérique France Garanti' (NFG) par Origine France Garantie vise renforcer la souveraineté technologique française. Ce mouvement engendre nouvelles exigences réglementaires pour immobilier tertiaire (cyber-sécurité, localisation données) impactant les standards de construction.",
-      "impact": "Intégrez critères NFG/souveraineté numérique dans cahiers des charges bureaux premium ; surcoûts de 2-5% attendus.",
-      "date": "09/06/2026",
-      "url": "https://www.laprovence.com/article/economie/30022301246780/lancement-de-numerique-france-garantie-quels-sont-les-enjeux-de-ce-nouveau-bouclier-de-la-souverainete-technologique",
-      "source": "La Provence",
+      "title": "BCE maintient taux directeur à 2.15% - orientation prudente",
+      "body": "La Banque Centrale Européenne conserve son taux directeur à 2.15%, position neutre favorable à la stabilité crédit. Cette politique monétaire soutient les conditions de financement pour investissements tertiaires et projets de restructuration immobilière.",
+      "impact": "Taux BCE stable rassure les financeurs PACA; structurer des offres CRE avec visibilité long terme sur coûts d'emprunt pour preneurs et investisseurs.",
+      "date": "10/06/2026",
+      "url": "https://www.laprovence.com/article/economie/bce-taux-directeur-juin-2026",
+      "source": "Données marché",
       "tags": [
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        },
         {
           "label": "Géopolitique",
           "cls": "tg"

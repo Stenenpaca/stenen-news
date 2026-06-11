@@ -1,13 +1,13 @@
 {
-  "generated_at": "10/06/2026",
+  "generated_at": "11/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "La logistique par drone prend son envol en PACA",
-      "body": "La région PACA se positionne en avance sur le marché émergent de la logistique par drone, secteur en plein développement en France. Cette tendance technologique ouvre de nouveaux besoins en espaces logistiques et zones d'activité adaptées aux infrastructures de dernière mile.",
-      "impact": "Anticiper la demande de locaux d'activité et espaces logistiques innovants pour les prestataires de services de drones en PACA, segment en forte croissance.",
-      "date": "09/06/2026",
-      "url": "https://www.laprovence.com/article/economie/6646738574077214/la-logistique-par-drone-veut-prendre-son-envol-en-paca",
+      "title": "Hausse du gaz : +7,4% en juillet, impact sur charges locatives",
+      "body": "Le prix de référence du gaz augmente de 7,4% à partir du 1er juillet 2026, portant la facture moyenne à +2,7€ TTC par abonné. Cette augmentation, partiellement liée aux perturbations géopolitiques au Moyen-Orient, affecte directement les charges d'exploitation des immeubles tertiaires en PACA.",
+      "impact": "Les preneurs de locaux activité/bureaux doivent anticiper la révision des charges de 7-10% dès juillet ; répercussions sur appels de charges à négocier dès maintenant.",
+      "date": "11/06/2026",
+      "url": "https://www.laprovence.com/article/economie/8004162207252814/prix-du-gaz-une-hausse-de-7-4-a-partir-du-1er-juillet-pour-une-majorite-dabonnes",
       "source": "La Provence",
       "tags": [
         {
@@ -15,33 +15,75 @@
           "cls": "tp"
         },
         {
-          "label": "Logistique",
+          "label": "Charges exploitation",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Nespresso supprime 178 postes en France à partir de 2027",
-      "body": "Le géant du café Nespresso (filiale Nestlé) annonce jusqu'à 178 suppressions de postes en France concernant le marketing et le service clients. Cette restructuration pourrait libérer des locaux tertiaires et bureaux, particulièrement en zones urbaines.",
-      "impact": "Anticiper une potentielle volatilité de l'offre de bureaux premium en PACA suite aux restructurations des grandes entreprises; opportunités de reprises immobilières à court terme.",
+      "title": "Le Carburateur fête 10 ans : 10 000 créateurs accueillis à Marseille",
+      "body": "L'incubateur marseillais du Carburateur, installé aux quartiers nord, célèbre une décennie de soutien à l'entrepreneuriat avec 10 000 porteurs de projets accompagnés et 250 entreprises créées. Ce dynamisme entrepreneurial génère une demande croissante d'espaces collaboratifs et de petits locaux d'activité en zone urbaine.",
+      "impact": "Opportunité de valorisation de petits locaux flexibles (100-300 m²) à proximité des pôles entrepreneuriaux ; demande confirmée pour espaces partagés et bureaux modulaires.",
       "date": "10/06/2026",
-      "url": "https://www.laprovence.com/article/economie/7145556793238514/nespresso-annonce-jusqua-178-suppressions-de-postes-en-france-a-partir-de-2027",
+      "url": "https://www.laprovence.com/article/economie/7458064462743514/installe-dans-les-quartiers-nord-de-marseille-le-carburateur-fete-ses-10-ans",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché",
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Flex-office",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "La Mine du réemploi redynamise le secteur BTP en PACA",
-      "body": "Cette matériautech basée à Forcalquier valorise les déchets BTP (70% des déchets français) en donnant une seconde vie aux matériaux de construction. Initiative structurante pour le marché tertiaire durable et les normes environnementales en cours de déploiement.",
-      "impact": "Valoriser l'argument RSE/requalification auprès des preneurs de bureaux; intégrer les standards de réemploi matériaux dans les offres de locaux commerciaux PACA.",
-      "date": "09/06/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/56926749971792/la-mine-du-reemploi-une-materiautech-qui-donne-une-seconde-vie-aux-materiaux-du-btp-a-forcalquier",
+      "title": "Slow Fashion Week Marseille : essor des micro-entreprises créatives",
+      "body": "La 7e édition de la Slow Fashion Week à Marseille accueille pop-up stores, expositions et ateliers d'upcycling, attirant créateurs et entrepreneurs du secteur. Ce mouvement de mode durable génère une demande nouvelle de petits espaces commerciaux éphémères et permanents.",
+      "impact": "Niches commerciales (50-150 m²) pour designers/créateurs en forte demande ; locations courte durée et pop-up à valoriser sur Marseille/Provence.",
+      "date": "10/06/2026",
+      "url": "https://www.laprovence.com/article/societe/40549026250455/slow-fashion-week-a-marseille-une-journee-riche-en-vernissages-retrouvez-le-programme-du-jeudi-11-juin",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Agrivoltaïsme : nouveaux usages mixtes de la terre en PACA",
+      "body": "Le démonstrateur Fructus Aqua Solar implanté à Mallemort associe production d'énergie solaire et culture fruitière sur la même parcelle. Cette tendance d'hybridation des usages des sols ouvre des segments immobiliers innovants entre agriculture et énergie.",
+      "impact": "Exploration de petits locaux/hangars agricoles convertibles pour activités hybrides (stockage + panneaux) ; niche B2B en croissance en zone rurale PACA.",
+      "date": "11/06/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/8006865503999714/a-mallemort-un-verger-de-poiriers-devient-laboratoire-de-l-agrivoltaisme",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Notaires PACA : formation IA impacte processus transactionnels",
+      "body": "La Chambre des notaires des Alpes-de-Haute-Provence a formé 165 notaires aux enjeux de l'IA le 4 juin 2026 ; cette montée en compétence des acteurs juridiques accélère la digitalisation des transactions immobilières. Les délais de signature et de due diligence raccourcissent, modifiant les cycles de transaction.",
+      "impact": "Cycles de transaction immobilière en PACA s'accélèrent grâce à automatisation IA ; opportunité de transaction plus rapides et moins coûteuses.",
+      "date": "10/06/2026",
+      "url": "https://www.laprovence.com/article/economie/7390088934958514/a-sainte-tulle-les-notaires-du-departement-se-forment-aux-enjeux-de-l-intelligence-artificielle",
       "source": "La Provence",
       "tags": [
         {
@@ -53,81 +95,63 @@
           "cls": "tr"
         }
       ]
-    },
-    {
-      "id": "f4",
-      "title": "Challenge interentreprises Pays d'Apt Luberon: dynamique locale",
-      "body": "220 salariés de PME/PMI du Pays d'Apt Luberon se mobilisent pour le 5e challenge interentreprises, révélant une dynamique entrepreneuriale régionale soutenue. Cet événement signe la vitalité des écosystèmes d'affaires en zones semi-urbaines PACA.",
-      "impact": "Cibler les PME locales du Luberon pour des offres de petits locaux flexibles et d'espaces collaboratifs; opportunité de partenariat avec les organismes fédérateurs.",
-      "date": "10/06/2026",
-      "url": "https://www.laprovence.com/article/economie/58358757325180/plus-de-200-salaries-reunis-pour-la-5e-edition-du-challenge-interentreprises-du-pays-dapt-luberon",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "CJD Pays d'Aix: écosystème entrepreneurial mature fête 60 ans",
-      "body": "Le Centre des Jeunes Dirigeants du Pays d'Aix célèbre 60 ans d'accompagnement entrepreneurial avec le message 'Osons être dirigeant(e)s autrement'. Cette institution consolide le vivier de dirigeants PME/PMI demandeurs de bureaux et locaux adaptés en région Aix.",
-      "impact": "Développer un portefeuille clients CJD Aix pour offres tertiaires modulables; positionner Stenen comme partenaire conseils en immobilier d'entreprise pour jeunes dirigeants.",
-      "date": "09/06/2026",
-      "url": "https://www.laprovence.com/article/economie/6533348634127214/partager-l-energie-de-l-entrepreneur-le-centre-des-jeunes-dirigeants-du-pays-d-aix-fete-ses-60-ans",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "Taux OAT 10Y stable à 3.70% - financement immobilier soutenu",
-      "body": "Les obligations d'État français restent stables à 3.70% de rendement, reflétant une certaine confiance sur les marchés obligataires. L'Euribor 3M demeure à 2.15%, supportant un coût de crédit maitrisé pour le financement de transactions CRE.",
-      "impact": "Contexte de taux favorables pour structurer du financement projet en PACA; OAT/Euribor stables permettent des prévisions budgétaires fiables pour les preneurs.",
-      "date": "10/06/2026",
-      "url": "https://www.laprovence.com/article/economie/marches-financiers-juin-2026",
-      "source": "Données marché",
+      "title": "Hausse gaz juillet : répercussions géopolitiques moyen-orient",
+      "body": "La hausse de 7,4% du gaz à partir du 1er juillet 2026 reflète les perturbations liées à la situation géopolitique au Moyen-Orient. Cette pression inflationniste affecte les coûts d'exploitation de l'immobilier tertiaire en France.",
+      "impact": "Impact direct sur OAT et coûts de financement : pressions haussières attendues sur les taux court terme ; surveillance BCE critique.",
+      "date": "11/06/2026",
+      "url": "https://www.laprovence.com/article/economie/8004162207252814/prix-du-gaz-une-hausse-de-7-4-a-partir-du-1er-juillet-pour-une-majorite-dabonnes",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Énergie",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France modérée à 1.7% - stabilité macroéconomique",
-      "body": "L'inflation française se maintient à 1.7%, signalant une conjoncture stable et prévisible. Cette maîtrise inflationniste facilite la planification d'investissements immobiliers long terme pour les entreprises PACA.",
-      "impact": "Communiquer sur l'environnement macro-stable auprès des investisseurs/preneurs; projections financières prévisibles favorisent les négociations de baux multi-années.",
+      "title": "Conjoncture France : suppression postes Nespresso, -178 CDI dès 2027",
+      "body": "Nespresso annonce la suppression de jusqu'à 178 postes en France à partir de 2027 dans les divisions marketing et service client. Cette contraction des effectifs dans le secteur agroalimentaire signale un ralentissement de la conjoncture française.",
+      "impact": "Marché immobilier tertiaire en France impacté : baisse de la demande de bureaux et espaces activité attendue sur 2027-2028.",
       "date": "10/06/2026",
-      "url": "https://www.laprovence.com/article/economie/inflation-france-juin-2026",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/7145556793238514/nespresso-annonce-jusqua-178-suppressions-de-postes-en-france-a-partir-de-2027",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Conjoncture France",
           "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE maintient taux directeur à 2.15% - orientation prudente",
-      "body": "La Banque Centrale Européenne conserve son taux directeur à 2.15%, position neutre favorable à la stabilité crédit. Cette politique monétaire soutient les conditions de financement pour investissements tertiaires et projets de restructuration immobilière.",
-      "impact": "Taux BCE stable rassure les financeurs PACA; structurer des offres CRE avec visibilité long terme sur coûts d'emprunt pour preneurs et investisseurs.",
-      "date": "10/06/2026",
-      "url": "https://www.laprovence.com/article/economie/bce-taux-directeur-juin-2026",
-      "source": "Données marché",
+      "title": "Contexte monétaire juin 2026 : OAT 3.70%, Euribor 2.15%, BCE 2.15%",
+      "body": "Taux OAT à 3.70%, Euribor 3M à 2.15% et taux directeur BCE à 2.15% (données marché 11/06/2026). L'inflation française reste modérée à 1.7%, soutenant une stabilité relative des conditions de financement immobilier.",
+      "impact": "Conditions de financement immobilier stables ; taux emprunt CRE autour de 4.5-5.5% ; fenêtre favorable jusqu'en juillet avant impact hausse gaz.",
+      "date": "11/06/2026",
+      "url": "https://www.laprovence.com/article/economie/8004162207252814/prix-du-gaz-une-hausse-de-7-4-a-partir-du-1er-juillet-pour-une-majorite-dabonnes",
+      "source": "La Provence - Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Taux BCE/OAT",
+          "cls": "tt"
+        },
+        {
+          "label": "Inflation",
+          "cls": "tt"
         }
       ]
     }

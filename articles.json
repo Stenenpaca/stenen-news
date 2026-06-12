@@ -1,13 +1,13 @@
 {
-  "generated_at": "11/06/2026",
+  "generated_at": "12/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Hausse du gaz : +7,4% en juillet, impact sur charges locatives",
-      "body": "Le prix de référence du gaz augmente de 7,4% à partir du 1er juillet 2026, portant la facture moyenne à +2,7€ TTC par abonné. Cette augmentation, partiellement liée aux perturbations géopolitiques au Moyen-Orient, affecte directement les charges d'exploitation des immeubles tertiaires en PACA.",
-      "impact": "Les preneurs de locaux activité/bureaux doivent anticiper la révision des charges de 7-10% dès juillet ; répercussions sur appels de charges à négocier dès maintenant.",
+      "title": "Entrepreneuriat au féminin : dynamique PACA avec OSE! en Pays d'Arles",
+      "body": "La 5e édition d'OSE ! Le Cercle Business des Entrepreneures se tiendra le 16 juin à Arles, confirmant l'émergence d'un écosystème entrepreneurial dynamique en région PACA. Cet événement incontournable fédère les entrepreneures et renforce les initiatives économiques locales.",
+      "impact": "Opportunité de proximité commerciale : identifier les besoins en locaux tertiaires et commerciaux pour les entrepreneures PACA en croissance, particulièrement en Pays d'Arles.",
       "date": "11/06/2026",
-      "url": "https://www.laprovence.com/article/economie/8004162207252814/prix-du-gaz-une-hausse-de-7-4-a-partir-du-1er-juillet-pour-une-majorite-dabonnes",
+      "url": "https://www.laprovence.com/article/economie/828021589596314/entrepreneuriat-au-feminin-ose-signe-sa-5e-edition-a-la-cci-du-pays-d-arles-ce-mardi-16-juin",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Charges exploitation",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Le Carburateur fête 10 ans : 10 000 créateurs accueillis à Marseille",
-      "body": "L'incubateur marseillais du Carburateur, installé aux quartiers nord, célèbre une décennie de soutien à l'entrepreneuriat avec 10 000 porteurs de projets accompagnés et 250 entreprises créées. Ce dynamisme entrepreneurial génère une demande croissante d'espaces collaboratifs et de petits locaux d'activité en zone urbaine.",
-      "impact": "Opportunité de valorisation de petits locaux flexibles (100-300 m²) à proximité des pôles entrepreneuriaux ; demande confirmée pour espaces partagés et bureaux modulaires.",
-      "date": "10/06/2026",
-      "url": "https://www.laprovence.com/article/economie/7458064462743514/installe-dans-les-quartiers-nord-de-marseille-le-carburateur-fete-ses-10-ans",
+      "title": "Joyia : innovation tech marseillaise dans les lunettes connectées",
+      "body": "La startup marseillaise Joyia bouscule le marché des lunettes connectées avec une innovation née d'un voyage en Thaïlande. Cette pépite régionale illustre la dynamique entrepreneuriale PACA en secteur high-tech.",
+      "impact": "Analyser la demande en locaux d'activité pour PME/startups tech à Marseille ; opportunité de flex-office adapté aux jeunes entreprises innovantes.",
+      "date": "11/06/2026",
+      "url": "https://www.laprovence.com/article/economie/8405054246997914/joyia-la-pepite-marseillaise-qui-bouscule-le-marche-des-lunettes-connectees",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Flex-office",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Slow Fashion Week Marseille : essor des micro-entreprises créatives",
-      "body": "La 7e édition de la Slow Fashion Week à Marseille accueille pop-up stores, expositions et ateliers d'upcycling, attirant créateurs et entrepreneurs du secteur. Ce mouvement de mode durable génère une demande nouvelle de petits espaces commerciaux éphémères et permanents.",
-      "impact": "Niches commerciales (50-150 m²) pour designers/créateurs en forte demande ; locations courte durée et pop-up à valoriser sur Marseille/Provence.",
-      "date": "10/06/2026",
-      "url": "https://www.laprovence.com/article/societe/40549026250455/slow-fashion-week-a-marseille-une-journee-riche-en-vernissages-retrouvez-le-programme-du-jeudi-11-juin",
+      "title": "Maamyi : surteinture et relance du vintage à Marseille",
+      "body": "Maamyi répond concrètement à la surproduction textile via la surteinture, portée par Frédérique Dessemond et Sébastien Brun. Ce projet artisanal-industriel ancré à Marseille incarne une économie circulaire régionale.",
+      "impact": "Évaluer les besoins en locaux d'activité (ateliers, magasins) pour les entreprises circulaires et vintage PACA ; segment commercial en croissance.",
+      "date": "12/06/2026",
+      "url": "https://www.laprovence.com/article/economie/8822203458322414/maamyi-quand-la-surteinture-relance-le-vintage-a-marseille",
       "source": "La Provence",
       "tags": [
         {
@@ -60,11 +60,30 @@
     },
     {
       "id": "f4",
-      "title": "Agrivoltaïsme : nouveaux usages mixtes de la terre en PACA",
-      "body": "Le démonstrateur Fructus Aqua Solar implanté à Mallemort associe production d'énergie solaire et culture fruitière sur la même parcelle. Cette tendance d'hybridation des usages des sols ouvre des segments immobiliers innovants entre agriculture et énergie.",
-      "impact": "Exploration de petits locaux/hangars agricoles convertibles pour activités hybrides (stockage + panneaux) ; niche B2B en croissance en zone rurale PACA.",
+      "title": "Myrtille à Digne-les-Bains : pérennité du commerce de centre-ville",
+      "body": "Alexandra Lecampion pérennise depuis 2006 son concept store féminin Myrtille (prêt-à-porter, bijoux, accessoires) sur le boulevard Gassendi à Digne-les-Bains. Son engagement pour la longévité illustre les enjeux du commerce PACA hors métropoles.",
+      "impact": "Sécuriser les locations commerciales en centre-ville PACA : accompagner les commerçants installés via baux stables et adaptés à la requalification urbaine.",
+      "date": "12/06/2026",
+      "url": "https://www.laprovence.com/article/economie/37334382972971/je-m-installe-pour-la-longevite-du-magasin-a-digne-les-bains-le-renouveau-de-myrtille-sur-le-boulevard-gassendi",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Corsica Linea : 10 ans d'opérations maritimes et croissance en Méditerranée",
+      "body": "Corsica Linea franchit son 10e anniversaire avec la mise en service d'un nouveau géant vert en Méditerranée, confirme son président Pierre-Antoine Villanova. Cet acteur clé des transports régionaux renforce l'économie portuaire PACA.",
+      "impact": "Analyser les besoins en locaux logistiques et portuaires PACA liés aux flux maritimes croissants ; zones de stockage et bureaux à proximité des ports.",
       "date": "11/06/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/8006865503999714/a-mallemort-un-verger-de-poiriers-devient-laboratoire-de-l-agrivoltaisme",
+      "url": "https://www.laprovence.com/article/economie/8790735307899714/corsica-linea-dix-ans-de-tempetes-surmontees-et-un-nouveau-geant-vert-en-mediterranee",
       "source": "La Provence",
       "tags": [
         {
@@ -76,82 +95,51 @@
           "cls": "tm"
         }
       ]
-    },
-    {
-      "id": "f5",
-      "title": "Notaires PACA : formation IA impacte processus transactionnels",
-      "body": "La Chambre des notaires des Alpes-de-Haute-Provence a formé 165 notaires aux enjeux de l'IA le 4 juin 2026 ; cette montée en compétence des acteurs juridiques accélère la digitalisation des transactions immobilières. Les délais de signature et de due diligence raccourcissent, modifiant les cycles de transaction.",
-      "impact": "Cycles de transaction immobilière en PACA s'accélèrent grâce à automatisation IA ; opportunité de transaction plus rapides et moins coûteuses.",
-      "date": "10/06/2026",
-      "url": "https://www.laprovence.com/article/economie/7390088934958514/a-sainte-tulle-les-notaires-du-departement-se-forment-aux-enjeux-de-l-intelligence-artificielle",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        }
-      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "Hausse gaz juillet : répercussions géopolitiques moyen-orient",
-      "body": "La hausse de 7,4% du gaz à partir du 1er juillet 2026 reflète les perturbations liées à la situation géopolitique au Moyen-Orient. Cette pression inflationniste affecte les coûts d'exploitation de l'immobilier tertiaire en France.",
-      "impact": "Impact direct sur OAT et coûts de financement : pressions haussières attendues sur les taux court terme ; surveillance BCE critique.",
-      "date": "11/06/2026",
-      "url": "https://www.laprovence.com/article/economie/8004162207252814/prix-du-gaz-une-hausse-de-7-4-a-partir-du-1er-juillet-pour-une-majorite-dabonnes",
+      "title": "Conjoncture France : enjeux budgétaires majeurs sur la pérennisation de dispositifs sociaux",
+      "body": "Le gouvernement français fait face à un revers important avec la mise en péril des Territoires zéro chômeur de longue durée (TZCLD), expérimentés depuis dix ans. La question de leur pérennisation au-delà de 2027 reste suspendue, reflétant des enjeux budgétaires structurels.",
+      "impact": "Contexte macroéconomique d'incertitude budgétaire : anticiper possible modulation des aides régionales et des dynamiques d'emploi local en PACA.",
+      "date": "12/06/2026",
+      "url": "https://www.laprovence.com/article/economie/46551933673468/en-provence-le-dispositif-zero-chomeur-de-longue-duree-en-danger",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : suppression postes Nespresso, -178 CDI dès 2027",
-      "body": "Nespresso annonce la suppression de jusqu'à 178 postes en France à partir de 2027 dans les divisions marketing et service client. Cette contraction des effectifs dans le secteur agroalimentaire signale un ralentissement de la conjoncture française.",
-      "impact": "Marché immobilier tertiaire en France impacté : baisse de la demande de bureaux et espaces activité attendue sur 2027-2028.",
-      "date": "10/06/2026",
-      "url": "https://www.laprovence.com/article/economie/7145556793238514/nespresso-annonce-jusqua-178-suppressions-de-postes-en-france-a-partir-de-2027",
+      "title": "Marchés capitaux : SpaceX réalise la plus importante IPO de l'histoire",
+      "body": "SpaceX s'apprête à lever 75 milliards de dollars le 12 juin 2026, réalisant la plus importante entrée en bourse de l'histoire. Cet événement majeur traduit une appétence massive des investisseurs pour les secteurs technologiques et spatiaux.",
+      "impact": "Signaux haussiers sur l'appétit de risque global ; soutien aux valorisations d'actifs alternatifs et SCPI tech en France.",
+      "date": "12/06/2026",
+      "url": "https://www.laprovence.com/article/economie/8832004730556214/spacex-sapprete-a-realiser-la-plus-importante-entree-en-bourse-de-lhistoire-75-milliards-de-dollars-leves-en-objectif",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture France",
-          "cls": "tg"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte monétaire juin 2026 : OAT 3.70%, Euribor 2.15%, BCE 2.15%",
-      "body": "Taux OAT à 3.70%, Euribor 3M à 2.15% et taux directeur BCE à 2.15% (données marché 11/06/2026). L'inflation française reste modérée à 1.7%, soutenant une stabilité relative des conditions de financement immobilier.",
-      "impact": "Conditions de financement immobilier stables ; taux emprunt CRE autour de 4.5-5.5% ; fenêtre favorable jusqu'en juillet avant impact hausse gaz.",
+      "title": "Sécurité industrielle : prévention au travail renforcée sur les sites critiques",
+      "body": "Orano Tricastin déploie en juin 2026 un plan d'actions prévention sécurité au travail participatif sur l'ensemble de ses sites, confirmant les exigences accrues de conformité réglementaire. Ces initiatives reflètent la rigueur requise pour les actifs industriels sensibles.",
+      "impact": "Demande croissante pour locaux d'activité aux normes de sécurité renforcées ; certification et conformité deveniennent critères différenciants en immobilier industriel PACA.",
       "date": "11/06/2026",
-      "url": "https://www.laprovence.com/article/economie/8004162207252814/prix-du-gaz-une-hausse-de-7-4-a-partir-du-1er-juillet-pour-une-majorite-dabonnes",
-      "source": "La Provence - Données marché",
+      "url": "https://www.laprovence.com/article/faits-divers-justice/15147464959799/sur-le-site-nucleaire-dorano-tricastin-de-pierrelatte-la-securite-ca-concerne-tout-le-monde",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux BCE/OAT",
-          "cls": "tt"
-        },
-        {
-          "label": "Inflation",
-          "cls": "tt"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     }

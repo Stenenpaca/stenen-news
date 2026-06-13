@@ -1,13 +1,13 @@
 {
-  "generated_at": "12/06/2026",
+  "generated_at": "13/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Entrepreneuriat au féminin : dynamique PACA avec OSE! en Pays d'Arles",
-      "body": "La 5e édition d'OSE ! Le Cercle Business des Entrepreneures se tiendra le 16 juin à Arles, confirmant l'émergence d'un écosystème entrepreneurial dynamique en région PACA. Cet événement incontournable fédère les entrepreneures et renforce les initiatives économiques locales.",
-      "impact": "Opportunité de proximité commerciale : identifier les besoins en locaux tertiaires et commerciaux pour les entrepreneures PACA en croissance, particulièrement en Pays d'Arles.",
-      "date": "11/06/2026",
-      "url": "https://www.laprovence.com/article/economie/828021589596314/entrepreneuriat-au-feminin-ose-signe-sa-5e-edition-a-la-cci-du-pays-d-arles-ce-mardi-16-juin",
+      "title": "Marché du travail PACA : 175 postes en stores, volets et portails",
+      "body": "Les entreprises régionales spécialisées dans les stores, volets, portes et portails affichent des besoins de recrutement importants avec 175 postes à pourvoir. Cette dynamique témoigne d'une activité soutenue dans les secteurs de l'équipement et de la construction en PACA.",
+      "impact": "Les tensions de recrutement dans l'équipement bâtiment confirment une reprise d'activité pour les locaux d'activité PACA ; opportunité de valorisation des espaces logistiques et d'atelier.",
+      "date": "13/06/2026",
+      "url": "https://www.laprovence.com/article/economie/9716645023193614/metiers-des-stores-volets-et-portails-175-postes-a-pourvoir-en-provence-alpes-cote-d-azur",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,75 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Marché activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Joyia : innovation tech marseillaise dans les lunettes connectées",
-      "body": "La startup marseillaise Joyia bouscule le marché des lunettes connectées avec une innovation née d'un voyage en Thaïlande. Cette pépite régionale illustre la dynamique entrepreneuriale PACA en secteur high-tech.",
-      "impact": "Analyser la demande en locaux d'activité pour PME/startups tech à Marseille ; opportunité de flex-office adapté aux jeunes entreprises innovantes.",
-      "date": "11/06/2026",
-      "url": "https://www.laprovence.com/article/economie/8405054246997914/joyia-la-pepite-marseillaise-qui-bouscule-le-marche-des-lunettes-connectees",
+      "title": "Hevolya accélère son développement depuis Meyreuil",
+      "body": "Le groupe familial aixois Hevolya, présent depuis 25 ans dans la gestion des déchets, renforce son développement opérationnel avec quatre sociétés spécialisées. Cette expansion reflète la croissance des demandes en services environnementaux en région PACA.",
+      "impact": "Les besoins croissants en logistique environnementale augmentent la demande de locaux d'activité et d'entreposage en Aix-Marseille ; identifier les sites adaptés pour les opérateurs de tri et collecte.",
+      "date": "13/06/2026",
+      "url": "https://www.laprovence.com/article/economie/9690894443287814/tri-des-dechets-hevolya-accelere-son-developpement-depuis-meyreuil",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché services",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Cybersécurité : forum méditerranéen à Marseille face aux menaces",
+      "body": "La France enregistre 453 200 atteintes numériques en 2025, en hausse de 24% par rapport à 2024. Le Forum méditerranéen de cybersécurité à Marseille mobilise l'expertise collective face à cette croissance des cybermenaces.",
+      "impact": "Les normes de cybersécurité renforcées obligent les entreprises PACA à sécuriser davantage leurs locaux bureaux ; les prestataires tech et les cabinet de conseil immobilier doivent intégrer ces critères aux baux.",
+      "date": "13/06/2026",
+      "url": "https://www.laprovence.com/article/economie/9668159481348314/forum-mediterraneen-de-la-cybersecurite-a-marseille-face-aux-cybermenaces-lexpertise-collective-en-premiere-ligne",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Phocea Yachting : modèle d'usage vs propriété à Marseille",
+      "body": "Phocea Yachting, dirigée par Régis Del Sale depuis février 2025, propose un modèle de nautisme basé sur l'usage plutôt que la propriété. Cette innovation marseillaise illustre l'émergence de modèles économiques alternatifs en tertiaire.",
+      "impact": "Le développement des modèles d'économie de l'usage renforce la demande de petits espaces commerciaux et de bureaux flexibles à Marseille ; adapter l'offre immobilière aux nouveaux modèles d'affaires.",
+      "date": "13/06/2026",
+      "url": "https://www.laprovence.com/article/economie/9654976634557214/une-solution-marseillaise-pour-voyager-des-annees-en-mer-sans-acheter-son-bateau",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Flex-office",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Secteurs en tension PACA : bilan France Travail Manosque",
+      "body": "Après un an à la tête de l'agence France Travail de Manosque, Claude Dimitropoulos constate des secteurs moteurs et des tensions persistantes sur le territoire des Alpes-de-Haute-Provence. Cette dynamique confirme une reprise ciblée dans certains secteurs régionaux.",
+      "impact": "Les secteurs en tension PACA (stores, bâtiment, services) génèrent une demande accrue de locaux activité et d'entreposage ; consolider l'offre immobilière sur les zones de croissance identifiées.",
+      "date": "13/06/2026",
+      "url": "https://www.laprovence.com/article/economie/34584041179299/entreprises-motrices-et-secteurs-en-tensions-le-bilan-du-directeur-de-france-travail-manosque-au-bout-d-un-an",
       "source": "La Provence",
       "tags": [
         {
@@ -35,63 +92,6 @@
         },
         {
           "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Maamyi : surteinture et relance du vintage à Marseille",
-      "body": "Maamyi répond concrètement à la surproduction textile via la surteinture, portée par Frédérique Dessemond et Sébastien Brun. Ce projet artisanal-industriel ancré à Marseille incarne une économie circulaire régionale.",
-      "impact": "Évaluer les besoins en locaux d'activité (ateliers, magasins) pour les entreprises circulaires et vintage PACA ; segment commercial en croissance.",
-      "date": "12/06/2026",
-      "url": "https://www.laprovence.com/article/economie/8822203458322414/maamyi-quand-la-surteinture-relance-le-vintage-a-marseille",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Myrtille à Digne-les-Bains : pérennité du commerce de centre-ville",
-      "body": "Alexandra Lecampion pérennise depuis 2006 son concept store féminin Myrtille (prêt-à-porter, bijoux, accessoires) sur le boulevard Gassendi à Digne-les-Bains. Son engagement pour la longévité illustre les enjeux du commerce PACA hors métropoles.",
-      "impact": "Sécuriser les locations commerciales en centre-ville PACA : accompagner les commerçants installés via baux stables et adaptés à la requalification urbaine.",
-      "date": "12/06/2026",
-      "url": "https://www.laprovence.com/article/economie/37334382972971/je-m-installe-pour-la-longevite-du-magasin-a-digne-les-bains-le-renouveau-de-myrtille-sur-le-boulevard-gassendi",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Corsica Linea : 10 ans d'opérations maritimes et croissance en Méditerranée",
-      "body": "Corsica Linea franchit son 10e anniversaire avec la mise en service d'un nouveau géant vert en Méditerranée, confirme son président Pierre-Antoine Villanova. Cet acteur clé des transports régionaux renforce l'économie portuaire PACA.",
-      "impact": "Analyser les besoins en locaux logistiques et portuaires PACA liés aux flux maritimes croissants ; zones de stockage et bureaux à proximité des ports.",
-      "date": "11/06/2026",
-      "url": "https://www.laprovence.com/article/economie/8790735307899714/corsica-linea-dix-ans-de-tempetes-surmontees-et-un-nouveau-geant-vert-en-mediterranee",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Activité",
           "cls": "tm"
         }
       ]
@@ -100,11 +100,26 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Conjoncture France : enjeux budgétaires majeurs sur la pérennisation de dispositifs sociaux",
-      "body": "Le gouvernement français fait face à un revers important avec la mise en péril des Territoires zéro chômeur de longue durée (TZCLD), expérimentés depuis dix ans. La question de leur pérennisation au-delà de 2027 reste suspendue, reflétant des enjeux budgétaires structurels.",
-      "impact": "Contexte macroéconomique d'incertitude budgétaire : anticiper possible modulation des aides régionales et des dynamiques d'emploi local en PACA.",
-      "date": "12/06/2026",
-      "url": "https://www.laprovence.com/article/economie/46551933673468/en-provence-le-dispositif-zero-chomeur-de-longue-duree-en-danger",
+      "title": "Cybersécurité France : 453 200 atteintes numériques en 2025",
+      "body": "La France connaît une augmentation de 24% des atteintes numériques en 2025 par rapport à 2024, atteignant 453 200 incidents selon le ministère de l'Intérieur. Cette hausse reflète une menace croissante pour la sécurité des données économiques nationales.",
+      "impact": "Les entreprises et collectivités renforcent leurs investissements en cybersécurité, impactant les budgets IT et les demandes d'espaces sécurisés pour data centers.",
+      "date": "13/06/2026",
+      "url": "https://www.laprovence.com/article/economie/9668159481348314/forum-mediterraneen-de-la-cybersecurite-a-marseille-face-aux-cybermenaces-lexpertise-collective-en-premiere-ligne",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique-Sécurité",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Conjoncture France : dynamique sectorielle et emploi en juin 2026",
+      "body": "Les données France Travail et les enquêtes d'emploi du juin 2026 montrent des secteurs moteurs (bâtiment, services, environnement) et des tensions de recrutement persistantes. La prime carburant 2026 rencontre un succès massif avec 833 000 demandes dépôt en deux semaines.",
+      "impact": "La reprise sectorielle ciblée et le maintien du pouvoir d'achat favorisent la stabilité de la demande en locaux professionnels PACA pour l'année 2026.",
+      "date": "13/06/2026",
+      "url": "https://www.laprovence.com/article/economie/9619047345552714/prime-carburant-grands-rouleurs-toujours-rien-sur-mon-compte-ces-automobilistes-attendent-toujours-leurs-100-euros",
       "source": "La Provence",
       "tags": [
         {
@@ -114,32 +129,21 @@
       ]
     },
     {
-      "id": "m2",
-      "title": "Marchés capitaux : SpaceX réalise la plus importante IPO de l'histoire",
-      "body": "SpaceX s'apprête à lever 75 milliards de dollars le 12 juin 2026, réalisant la plus importante entrée en bourse de l'histoire. Cet événement majeur traduit une appétence massive des investisseurs pour les secteurs technologiques et spatiaux.",
-      "impact": "Signaux haussiers sur l'appétit de risque global ; soutien aux valorisations d'actifs alternatifs et SCPI tech en France.",
-      "date": "12/06/2026",
-      "url": "https://www.laprovence.com/article/economie/8832004730556214/spacex-sapprete-a-realiser-la-plus-importante-entree-en-bourse-de-lhistoire-75-milliards-de-dollars-leves-en-objectif",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Investissement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
       "id": "m3",
-      "title": "Sécurité industrielle : prévention au travail renforcée sur les sites critiques",
-      "body": "Orano Tricastin déploie en juin 2026 un plan d'actions prévention sécurité au travail participatif sur l'ensemble de ses sites, confirmant les exigences accrues de conformité réglementaire. Ces initiatives reflètent la rigueur requise pour les actifs industriels sensibles.",
-      "impact": "Demande croissante pour locaux d'activité aux normes de sécurité renforcées ; certification et conformité deveniennent critères différenciants en immobilier industriel PACA.",
-      "date": "11/06/2026",
-      "url": "https://www.laprovence.com/article/faits-divers-justice/15147464959799/sur-le-site-nucleaire-dorano-tricastin-de-pierrelatte-la-securite-ca-concerne-tout-le-monde",
-      "source": "La Provence",
+      "title": "Environnement macro : taux OAT 3.70%, Euribor 2.15%, inflation 1.7%",
+      "body": "Les conditions macroéconomiques restent favorables avec une inflation modérée à 1.7% et des taux de financement stables (OAT 3.70%, Euribor 3M 2.15%, BCE 2.15%). Le contexte géopolitique et les prix du Brent à 96 USD maintiennent la vigilance.",
+      "impact": "Les conditions de financement restent accessibles pour les investisseurs immobiliers PACA ; le coût du crédit reste favorable pour les transactions CRE malgré la vigilance conjoncturelle.",
+      "date": "13/06/2026",
+      "url": "https://www.laprovence.com/article/economie/9716645023193614/metiers-des-stores-volets-et-portails-175-postes-a-pourvoir-en-provence-alpes-cote-d-azur",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Taux-Financement",
+          "cls": "tt"
+        },
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     }

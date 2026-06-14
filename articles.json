@@ -1,13 +1,13 @@
 {
-  "generated_at": "13/06/2026",
+  "generated_at": "14/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Marché du travail PACA : 175 postes en stores, volets et portails",
-      "body": "Les entreprises régionales spécialisées dans les stores, volets, portes et portails affichent des besoins de recrutement importants avec 175 postes à pourvoir. Cette dynamique témoigne d'une activité soutenue dans les secteurs de l'équipement et de la construction en PACA.",
-      "impact": "Les tensions de recrutement dans l'équipement bâtiment confirment une reprise d'activité pour les locaux d'activité PACA ; opportunité de valorisation des espaces logistiques et d'atelier.",
-      "date": "13/06/2026",
-      "url": "https://www.laprovence.com/article/economie/9716645023193614/metiers-des-stores-volets-et-portails-175-postes-a-pourvoir-en-provence-alpes-cote-d-azur",
+      "title": "Île de Bendor : reconversion hôtelière de prestige en PACA",
+      "body": "Paul Ricard confie l'exploitation opérationnelle de l'île de Bendor à Zannier Hotels, spécialiste du luxe discret. Cette reconversion d'un patrimoine emblématique régional illustre la demande persistante pour des espaces événementiels et hôteliers de haut standing en PACA.",
+      "impact": "Opportunité de transaction pour espaces événementiels et locaux d'accueil premium sur la côte varoise.",
+      "date": "14/06/2026",
+      "url": "https://www.laprovence.com/article/economie/1057515720044215/bendor-la-renaissance-d-une-ile-monde-sous-l-egide-de-l-excellence",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché activité",
+          "label": "Hôtellerie",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Hevolya accélère son développement depuis Meyreuil",
-      "body": "Le groupe familial aixois Hevolya, présent depuis 25 ans dans la gestion des déchets, renforce son développement opérationnel avec quatre sociétés spécialisées. Cette expansion reflète la croissance des demandes en services environnementaux en région PACA.",
-      "impact": "Les besoins croissants en logistique environnementale augmentent la demande de locaux d'activité et d'entreposage en Aix-Marseille ; identifier les sites adaptés pour les opérateurs de tri et collecte.",
-      "date": "13/06/2026",
-      "url": "https://www.laprovence.com/article/economie/9690894443287814/tri-des-dechets-hevolya-accelere-son-developpement-depuis-meyreuil",
+      "title": "Slow Fashion Week : 20 000 visiteurs, ancrage urbain confirmé à Marseille",
+      "body": "La Slow Fashion Week enregistre 20 000 visiteurs en 9 jours, doublant sa fréquentation d'édition antérieure. Cet événement majeur consolide l'attractivité commerciale et événementielle du centre-ville marseillais.",
+      "impact": "Valorisation des espaces commerciaux et locaux d'activité au cœur de Marseille, intérêt pour surfaces événementielles flexibles.",
+      "date": "14/06/2026",
+      "url": "https://www.laprovence.com/article/culture-loisirs/3103986830950414/2-000-spectateurs-un-mannequin-guest-sous-le-regard-de-la-major-la-slow-fashion-week-se-termine-en-beaute",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché services",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Cybersécurité : forum méditerranéen à Marseille face aux menaces",
-      "body": "La France enregistre 453 200 atteintes numériques en 2025, en hausse de 24% par rapport à 2024. Le Forum méditerranéen de cybersécurité à Marseille mobilise l'expertise collective face à cette croissance des cybermenaces.",
-      "impact": "Les normes de cybersécurité renforcées obligent les entreprises PACA à sécuriser davantage leurs locaux bureaux ; les prestataires tech et les cabinet de conseil immobilier doivent intégrer ces critères aux baux.",
+      "title": "Artisanat et création : dynamique entrepreneuriale en PACA",
+      "body": "Marie Saeki crée des pochettes en velours à La Ciotat après reconversion professionnelle, exemplifiant la transition vers l'artisanat local. Ce mouvement reflète une demande croissante pour petits ateliers et espaces de création en PACA.",
+      "impact": "Offre de petites surfaces d'atelier (20-50 m²) à valoriser auprès d'entrepreneurs créatifs et artisans en zones côtières.",
       "date": "13/06/2026",
-      "url": "https://www.laprovence.com/article/economie/9668159481348314/forum-mediterraneen-de-la-cybersecurite-a-marseille-face-aux-cybermenaces-lexpertise-collective-en-premiere-ligne",
+      "url": "https://www.laprovence.com/article/economie/9816340287699714/dans-son-atelier-de-la-ciotat-elle-coud-des-pochettes-en-velours-pour-tous-les-passionnes-de-lecture",
       "source": "La Provence",
       "tags": [
         {
@@ -53,18 +53,18 @@
           "cls": "tp"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Activité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Phocea Yachting : modèle d'usage vs propriété à Marseille",
-      "body": "Phocea Yachting, dirigée par Régis Del Sale depuis février 2025, propose un modèle de nautisme basé sur l'usage plutôt que la propriété. Cette innovation marseillaise illustre l'émergence de modèles économiques alternatifs en tertiaire.",
-      "impact": "Le développement des modèles d'économie de l'usage renforce la demande de petits espaces commerciaux et de bureaux flexibles à Marseille ; adapter l'offre immobilière aux nouveaux modèles d'affaires.",
+      "title": "Secteur BTP-ameublement : 175 postes à pourvoir en PACA",
+      "body": "Le Groupement Actibaie recense 175 postes vacants dans les métiers des stores, volets et portails en région PACA. Cette tension sur le marché du travail témoigne d'une activité soutenue du secteur secondaire régional.",
+      "impact": "Hausse des besoins immobiliers pour ateliers et locaux logistiques de PME/PMI en secteur BTP-menuiserie.",
       "date": "13/06/2026",
-      "url": "https://www.laprovence.com/article/economie/9654976634557214/une-solution-marseillaise-pour-voyager-des-annees-en-mer-sans-acheter-son-bateau",
+      "url": "https://www.laprovence.com/article/economie/9716645023193614/metiers-des-stores-volets-et-portails-175-postes-a-pourvoir-en-provence-alpes-cote-dazur",
       "source": "La Provence",
       "tags": [
         {
@@ -72,27 +72,27 @@
           "cls": "tp"
         },
         {
-          "label": "Flex-office",
+          "label": "Marché emploi",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Secteurs en tension PACA : bilan France Travail Manosque",
-      "body": "Après un an à la tête de l'agence France Travail de Manosque, Claude Dimitropoulos constate des secteurs moteurs et des tensions persistantes sur le territoire des Alpes-de-Haute-Provence. Cette dynamique confirme une reprise ciblée dans certains secteurs régionaux.",
-      "impact": "Les secteurs en tension PACA (stores, bâtiment, services) génèrent une demande accrue de locaux activité et d'entreposage ; consolider l'offre immobilière sur les zones de croissance identifiées.",
-      "date": "13/06/2026",
-      "url": "https://www.laprovence.com/article/economie/34584041179299/entreprises-motrices-et-secteurs-en-tensions-le-bilan-du-directeur-de-france-travail-manosque-au-bout-d-un-an",
-      "source": "La Provence",
+      "title": "Contexte de financement CRE : OAT 3.70% juin 2026",
+      "body": "Les taux d'emprunt long terme (OAT 10 ans à 3.70%) et les taux court terme (Euribor 3M à 2.15%) maintiennent un contexte de financement stable pour les acquisitions immobilières. La BCE stabilise les taux directeurs à 2.15%.",
+      "impact": "Fenêtre de financement favorable pour projets de transaction bureaux/activité ; recommander accélération des dossiers avant resserrement potentiel.",
+      "date": "14/06/2026",
+      "url": "https://www.laprovence.com/article/economie/",
+      "source": "Données marché juin 2026",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     }
@@ -100,27 +100,27 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Cybersécurité France : 453 200 atteintes numériques en 2025",
-      "body": "La France connaît une augmentation de 24% des atteintes numériques en 2025 par rapport à 2024, atteignant 453 200 incidents selon le ministère de l'Intérieur. Cette hausse reflète une menace croissante pour la sécurité des données économiques nationales.",
-      "impact": "Les entreprises et collectivités renforcent leurs investissements en cybersécurité, impactant les budgets IT et les demandes d'espaces sécurisés pour data centers.",
-      "date": "13/06/2026",
-      "url": "https://www.laprovence.com/article/economie/9668159481348314/forum-mediterraneen-de-la-cybersecurite-a-marseille-face-aux-cybermenaces-lexpertise-collective-en-premiere-ligne",
-      "source": "La Provence",
+      "title": "Contexte énergétique : Brent stable à 96 USD/baril",
+      "body": "Le cours du Brent se maintient à 96 USD/baril en juin 2026, garantissant une stabilité relative des coûts énergétiques pour les actifs immobiliers régionaux. Cette stabilité supporte la rentabilité des opérations.",
+      "impact": "Coûts d'exploitation stables pour les immeubles tertiaires PACA ; argument de vente pour investisseurs instititionnels.",
+      "date": "14/06/2026",
+      "url": "https://www.laprovence.com/article/economie/",
+      "source": "Données marché juin 2026",
       "tags": [
         {
-          "label": "Géopolitique-Sécurité",
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : dynamique sectorielle et emploi en juin 2026",
-      "body": "Les données France Travail et les enquêtes d'emploi du juin 2026 montrent des secteurs moteurs (bâtiment, services, environnement) et des tensions de recrutement persistantes. La prime carburant 2026 rencontre un succès massif avec 833 000 demandes dépôt en deux semaines.",
-      "impact": "La reprise sectorielle ciblée et le maintien du pouvoir d'achat favorisent la stabilité de la demande en locaux professionnels PACA pour l'année 2026.",
-      "date": "13/06/2026",
-      "url": "https://www.laprovence.com/article/economie/9619047345552714/prime-carburant-grands-rouleurs-toujours-rien-sur-mon-compte-ces-automobilistes-attendent-toujours-leurs-100-euros",
-      "source": "La Provence",
+      "title": "Inflation France : 1.7% - contexte de stabilité macro",
+      "body": "L'inflation française se modère à 1.7% en juin 2026, confirmant la normalisation post-choc énergétique. Ce contexte maîtrisé soutient la prévisibilité des valorisations immobilières.",
+      "impact": "Croissance des valeurs locatives tertiaires prévisible ; investisseurs institutionnels confiant pour acquisitions PACA.",
+      "date": "14/06/2026",
+      "url": "https://www.laprovence.com/article/economie/",
+      "source": "Données marché juin 2026",
       "tags": [
         {
           "label": "Conjoncture",
@@ -130,20 +130,20 @@
     },
     {
       "id": "m3",
-      "title": "Environnement macro : taux OAT 3.70%, Euribor 2.15%, inflation 1.7%",
-      "body": "Les conditions macroéconomiques restent favorables avec une inflation modérée à 1.7% et des taux de financement stables (OAT 3.70%, Euribor 3M 2.15%, BCE 2.15%). Le contexte géopolitique et les prix du Brent à 96 USD maintiennent la vigilance.",
-      "impact": "Les conditions de financement restent accessibles pour les investisseurs immobiliers PACA ; le coût du crédit reste favorable pour les transactions CRE malgré la vigilance conjoncturelle.",
-      "date": "13/06/2026",
-      "url": "https://www.laprovence.com/article/economie/9716645023193614/metiers-des-stores-volets-et-portails-175-postes-a-pourvoir-en-provence-alpes-cote-d-azur",
-      "source": "Données marché",
+      "title": "BCE/OAT : normalisation des taux à 2.15%-3.70%",
+      "body": "La Banque Centrale Européenne maintient son taux directeur à 2.15% tandis que les OAT 10 ans cotent 3.70%. Cette courbe de taux plates favorise le financement d'investissements immobiliers longs terme.",
+      "impact": "Conditions de crédit optimales pour montages SCPI ou fonds de commerce ; recommander structurage avant potentiel resserrement.",
+      "date": "14/06/2026",
+      "url": "https://www.laprovence.com/article/economie/",
+      "source": "Données marché juin 2026",
       "tags": [
         {
-          "label": "Taux-Financement",
+          "label": "Taux",
           "cls": "tt"
         },
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }

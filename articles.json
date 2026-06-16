@@ -1,13 +1,13 @@
 {
-  "generated_at": "15/06/2026",
+  "generated_at": "16/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Berre-L'étang : le site pétrochimique vise le leadership européen",
-      "body": "Le site de Berre-L'étang, après avoir été mis en vente il y a deux ans par Lyondellbasell, accélère son positionnement comme leader européen des polyoléfines. Cette dynamique témoigne d'une reprise d'intérêt pour les zones industrielles de la région PACA.",
-      "impact": "Opportunités de transaction de locaux d'activité et immeubles logistiques autour du pôle pétrochimique de Berre pour supporter la croissance industrielle.",
-      "date": "15/06/2026",
-      "url": "https://www.laprovence.com/article/economie/10699611131201/le-site-petrochimique-de-berre-l-etang-veut-s-imposer-comme-le-leader-europeen-des-polyolefines",
+      "title": "Tech régionale PACA : innovation et transformation des espaces",
+      "body": "La région PACA démontre une dynamique entrepreneuriale forte avec ses acteurs innovants présentés à VivaTech 2026. Cette vitalité économique impacte directement la demande en locaux d'activité et bureaux pour les PME/ETI technologiques régionales.",
+      "impact": "Augmentation de la demande de petits/moyens locaux flexibles et équipés pour startups tech en PACA, particulièrement en zones proches de pôles urbains innovants.",
+      "date": "16/06/2026",
+      "url": "https://www.laprovence.com/article/economie/29839045971118/vivatech-2026-la-region-provence-alpes-cote-dazur-deploie-ses-pepites-sur-la-scene-mondiale-a-paris",
       "source": "La Provence",
       "tags": [
         {
@@ -22,11 +22,11 @@
     },
     {
       "id": "f2",
-      "title": "Venelles : écoquartier de 77 logements et 40% social",
-      "body": "La ville de Venelles présente son nouveau projet d'écoquartier sur 37,7 hectares, comprenant 77 habitations dont 40% en logements sociaux. Ce projet d'aménagement mixte redéfinit l'attractivité résidentielle et commerciale de l'entrée nord de Venelles.",
-      "impact": "À suivre pour les opportunités de commerce et services au pied du nouvel écoquartier ; potentiel de petites surfaces commerciales et de bureaux partagés.",
-      "date": "15/06/2026",
-      "url": "https://www.laprovence.com/article/region/17157155641682/77-habitations-sur-3-5-hectares-40-de-logements-sociaux-a-venelles-la-ville-presente-son-ecoquartier-de-demain",
+      "title": "Secteur tertiaire PACA : dynamique commerciale et restauration",
+      "body": "Les changements d'exploitants dans le commerce régional (cas du Mar'so à Lagnes) reflètent une circulation active du foncier commercial. L'entrepreneuriat féminin en services (nettoyage à Salon-de-Provence) crée aussi de nouveaux besoins en locaux activité.",
+      "impact": "Opportunités de transaction et location de petits commerces/locaux en centre-bourg et zones urbaines secondaires de PACA.",
+      "date": "16/06/2026",
+      "url": "https://www.laprovence.com/article/region/1091091539052114/le-cafe-de-la-fontaine-devient-le-mar-so-dans-la-commune-de-lagnes",
       "source": "La Provence",
       "tags": [
         {
@@ -34,52 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Financement pro : panorama des meilleures banques en 2026",
-      "body": "La Provence publie un classement des meilleures banques professionnelles en ligne pour 2026, destiné aux créateurs et PME cherchant à optimiser leurs comptes bancaires. L'accès au financement reste un élément clé pour les entreprises de conseil et transaction immobilière.",
-      "impact": "Recommander aux clients CRE en besoin de liquidités court terme les solutions de financement digital et les conditions tarifaires compétitives des banques pro.",
-      "date": "15/06/2026",
-      "url": "https://www.laprovence.com/article/partenaires/49318739281495/meilleure-banque-pro-notre-top-5",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Taux & Financement",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Investissement : Seacure lève 7,4 millions pour protéger les côtes",
-      "body": "La startup Seacure annonce une levée de fonds de 7,4 millions d'euros dédiée à la protection des littoraux, malgré un contexte géopolitique difficile. Cette mobilisation de capital privé reflète un intérêt croissant pour les investissements durables et de transition.",
-      "impact": "Identifier des opportunités d'immobilier tertiaire côtier pour les entreprises de la cleantech et ESG ; demande croissante de bureaux aux normes environnementales.",
-      "date": "14/06/2026",
-      "url": "https://www.laprovence.com/article/economie/1098330179689215/seacure-leve-7-4-millions-d-euros-pour-sauver-les-littoraux",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Investissement",
-          "cls": "ti2"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Crise énergétique : impact sur le pouvoir d'achat en PACA",
-      "body": "Face à la crise énergétique, les ménages provençaux réduisent leurs dépenses de consommation, passant du bœuf au poulet et renégociant leur budget. Cette contraction du pouvoir d'achat affecte aussi les petits commerces et prestataires de services locaux.",
-      "impact": "Prévoir une baisse de la demande de surfaces commerciales haut de gamme ; privilégier les locaux avec faible charge énergétique et les espaces de coworking mutualisés.",
-      "date": "14/06/2026",
-      "url": "https://www.laprovence.com/article/societe/43720823889278/on-achete-du-poulet-a-la-place-du-boeuf-face-a-la-crise-energetique-quel-impact-sur-le-pouvoir-d-achat",
+      "title": "Grands groupes PACA : investissements et immobilier tertiaire",
+      "body": "L'Occitane en Provence, basée à Manosque, poursuit ses investissements dans ses manufactures régionales avec implication RH renforcée. Ces grands employeurs régionaux structurent la demande de bureaux et locaux logistiques en PACA.",
+      "impact": "Demande stable de locaux tertiaires/logistiques pour grands groupes et PME établis en PACA, notamment secteur bien-être et cosmétique.",
+      "date": "16/06/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/1060451485391414/pour-ses-50-ans-loccitane-en-provence-mobilise-ses-salaries-au-service-des-territoires",
       "source": "La Provence",
       "tags": [
         {
@@ -89,6 +55,36 @@
         {
           "label": "Marché",
           "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Services numériques : IA et optimisation de visibilité commerciale",
+      "body": "L'émergence du GEO (Generative Engine Optimization) transforme les stratégies digitales des commerces et services en 2026. Les PME/TPE commerciales doivent adapter leurs approches pour rester visibles face aux moteurs de réponse IA.",
+      "impact": "Conseil : accompagner les prestataires et commerces clients dans leurs stratégies digitales pour maintenir attractivité locative et valeur d'usage des locaux.",
+      "date": "16/06/2026",
+      "url": "https://www.laprovence.com/article/economie/1107139071443114/top-10-des-agences-seo-geo-a-connaitre-en-2026",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Tendance",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Hausse des coûts postaux : impacts sur secteur tertiaire PACA",
+      "body": "La Poste annonce +7,4% en 2026 sur services postaux, consolidant une tendance de hausse (+6,8% en 2025, +8,3% en 2024). Cette inflation des coûts de fonctionnement affecte directement la rentabilité des petits commerces et services PACA.",
+      "impact": "Clients commerces et services devront arbitrer espaces et densité : impact sur demande de petits locaux optimisés vs locaux actuels surdimensionnés.",
+      "date": "16/06/2026",
+      "url": "https://www.laprovence.com/article/economie/1024563088623514/avis-envoi-reco-une-alternative-face-a-la-hausse-des-tarifs-postaux",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Coûts",
+          "cls": "tr"
         }
       ]
     }
@@ -96,50 +92,50 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Accord Iran-USA : baisse attendue des prix à la pompe",
-      "body": "Les États-Unis et la Pennsylvanie ont annoncé un accord de cessez-le-feu au Moyen-Orient le 15 juin, ouvrant la voie à une réouverture potentielle du détroit d'Ormuz. Le gouvernement français demande une baisse rapide des prix à la pompe pour soutenir le pouvoir d'achat.",
-      "impact": "Stabilisation espérée du Brent (96 USD/baril) bénéfique aux coûts d'exploitation des immeubles tertiaires et locaux d'activité en PACA.",
-      "date": "15/06/2026",
-      "url": "https://www.laprovence.com/article/economie/13601113533763/accord-iran-usa-les-prix-a-la-pompe-devront-baisser-rapidement-previent-le-gouvernement",
+      "title": "Innovation PACA : positionnement en écosystème tech français",
+      "body": "La région PACA consolide son positionnement dans l'innovation française avec présence forte à VivaTech 2026 et entreprises comme Elpyoo (santé connectée) à Aix-en-Provence. Cet écosystème attire talents et investissements tech régionaux.",
+      "impact": "Dynamique structurelle positive pour attractivité PACA : création emplois cadres et augmentation demande immobilière tertiaire haut de gamme.",
+      "date": "16/06/2026",
+      "url": "https://www.laprovence.com/article/economie/99423961236122/sante-connectee-quatre-innovations-provencales-qui-revolutionnent-le-soin-et-le-quotidien",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique & Énergie",
+          "label": "Géopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Économie souterraine en Vaucluse : recours abusif aux indépendants",
-      "body": "Les autorités du Vaucluse alertent sur le développement d'une économie souterraine, amplifiée par le recours abusif aux travailleurs indépendants pour contourner les contraintes de recrutement. Cette tendance fragilise la stabilité de la fiscalité locale et de l'emploi formel.",
-      "impact": "Vigilance accrue sur les clauses de conformité fiscale/sociale dans les contrats de location de bureaux partagés et espaces de coworking.",
-      "date": "14/06/2026",
-      "url": "https://www.laprovence.com/article/economie/41920931612658/une-economie-souterraine-dans-le-vaucluse-le-recours-abusif-aux-travailleurs-independants-inquiete-les-autorites",
+      "title": "Contexte financier France : taux stables, OAT 3.70%, Euribor 2.15%",
+      "body": "En contexte de stabilité relative des taux directeurs BCE (2.15%), les conditions de financement immobilier restent contenues. OAT 10Y à 3.70% reflètent attentes modérées sur inflation France (1.7%).",
+      "impact": "Environnement de financement favorable pour investisseurs immobilier CRE : maintenir vigilance sur évolution BCE et spreads crédit.",
+      "date": "16/06/2026",
+      "url": "https://www.laprovence.com/article/economie/1024563088623514/avis-envoi-reco-une-alternative-face-a-la-hausse-des-tarifs-postaux",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Taux OAT & Euribor stables en juin 2026",
-      "body": "Dans le contexte de l'accord géopolitique, les taux obligataires français (OAT 10Y à 3.70%) et l'Euribor 3M (2.15%) restent stables, reflétant une confiance maintenue des marchés. La BCE maintient son taux directeur à 2.15%, soutenant une inflaton modérée à 1.7%.",
-      "impact": "Conditions de financement favorables pour les acquisitions et refinancements immobiliers ; maintien du pouvoir d'emprunt des investisseurs en PACA.",
-      "date": "15/06/2026",
-      "url": "https://www.laprovence.com/article/economie/13601113533763/accord-iran-usa-les-prix-a-la-pompe-devront-baisser-rapidement-previent-le-gouvernement",
-      "source": "La Provence / Données marché",
+      "title": "Conjoncture France : entrepreneuriat et dynamique locale en PACA",
+      "body": "Entrepreneuriat féminin en hausse et initiatives locales (Fuveau Business Club) montrent vitalité économique française régionale malgré contexte macroéconomique mixte. L'IA est au cœur des débats des décideurs économiques locaux.",
+      "impact": "Opportunités transactionnelles pour PME/ETI créatives et services en PACA ; favoriser locaux flexibles adaptés modèles entrepreneuriaux émergents.",
+      "date": "16/06/2026",
+      "url": "https://www.laprovence.com/article/region/99427705706542/l-intelligence-artificielle-au-coeur-du-debat-de-la-soiree-organisee-par-le-fuveau-business-club",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux & Inflation",
-          "cls": "tt"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     }

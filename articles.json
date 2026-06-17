@@ -1,90 +1,78 @@
 {
-  "generated_at": "16/06/2026",
+  "generated_at": "17/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Tech régionale PACA : innovation et transformation des espaces",
-      "body": "La région PACA démontre une dynamique entrepreneuriale forte avec ses acteurs innovants présentés à VivaTech 2026. Cette vitalité économique impacte directement la demande en locaux d'activité et bureaux pour les PME/ETI technologiques régionales.",
-      "impact": "Augmentation de la demande de petits/moyens locaux flexibles et équipés pour startups tech en PACA, particulièrement en zones proches de pôles urbains innovants.",
+      "title": "35 organisations patronales PACA expriment leur exaspération face au gel",
+      "body": "Réunies à la Maison des Entreprises d'Aix-en-Provence, 35 organisations patronales de Provence-Alpes-Côte d'Azur ont affiché un front commun d'exaspération. Le mouvement symbolise une mobilisation inédite du tissu économique régional face aux enjeux actuels.",
+      "impact": "Conseil: surveiller les mesures de soutien aux TPE/PME bureaux et activité en PACA; risque de baisse d'appétence pour nouveaux locaux.",
       "date": "16/06/2026",
-      "url": "https://www.laprovence.com/article/economie/29839045971118/vivatech-2026-la-region-provence-alpes-cote-dazur-deploie-ses-pepites-sur-la-scene-mondiale-a-paris",
+      "url": "https://www.laprovence.com/article/economie/1447375120326514/stop-stop-stop-le-coup-de-colere-de-35-organisations-patronales",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Secteur tertiaire PACA : dynamique commerciale et restauration",
-      "body": "Les changements d'exploitants dans le commerce régional (cas du Mar'so à Lagnes) reflètent une circulation active du foncier commercial. L'entrepreneuriat féminin en services (nettoyage à Salon-de-Provence) crée aussi de nouveaux besoins en locaux activité.",
-      "impact": "Opportunités de transaction et location de petits commerces/locaux en centre-bourg et zones urbaines secondaires de PACA.",
+      "title": "Entrepreneuriat féminin en PACA: 36% des chefs d'entreprise sont des femmes",
+      "body": "La CCI du Pays d'Arles lance son « Café de l'Éco » pour mettre l'entrepreneuriat féminin sur la table. Avec 36% de femmes chefs d'entreprise en France (contre 50% de population), la région PACA cherche à réduire ce décalage.",
+      "impact": "Opportunité: identifier et accompagner les créatrices/TPE féminines en quête de locaux bureaux/commerce en PACA.",
       "date": "16/06/2026",
-      "url": "https://www.laprovence.com/article/region/1091091539052114/le-cafe-de-la-fontaine-devient-le-mar-so-dans-la-commune-de-lagnes",
+      "url": "https://www.laprovence.com/article/economie/1379473095698114/au-premier-rendez-vous-du-cafe-de-leco-arles-met-lentrepreneuriat-feminin-sur-la-table",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Grands groupes PACA : investissements et immobilier tertiaire",
-      "body": "L'Occitane en Provence, basée à Manosque, poursuit ses investissements dans ses manufactures régionales avec implication RH renforcée. Ces grands employeurs régionaux structurent la demande de bureaux et locaux logistiques en PACA.",
-      "impact": "Demande stable de locaux tertiaires/logistiques pour grands groupes et PME établis en PACA, notamment secteur bien-être et cosmétique.",
-      "date": "16/06/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/1060451485391414/pour-ses-50-ans-loccitane-en-provence-mobilise-ses-salaries-au-service-des-territoires",
+      "title": "Artisans/producteurs PACA: label « Fabriqué à Allauch » renforce attractivité locale",
+      "body": "Camille Jaafar Mougel et autres producteurs régionaux reçoivent le label « Fabriqué à Allauch », consolidant le savoir-faire artisanal. Cette reconnaissance valorise les PME/ETI régionales dans l'économie productive.",
+      "impact": "Effet positif: demande croissante d'ateliers/locaux d'activité certifiés ou labellisés en PACA pour artisans/producteurs.",
+      "date": "17/06/2026",
+      "url": "https://www.laprovence.com/article/economie/1851994595852714/excellence-savoir-faire-ces-artisans-et-producteurs-viennent-de-decrocher-le-label-fabrique-a-allauch",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Services numériques : IA et optimisation de visibilité commerciale",
-      "body": "L'émergence du GEO (Generative Engine Optimization) transforme les stratégies digitales des commerces et services en 2026. Les PME/TPE commerciales doivent adapter leurs approches pour rester visibles face aux moteurs de réponse IA.",
-      "impact": "Conseil : accompagner les prestataires et commerces clients dans leurs stratégies digitales pour maintenir attractivité locative et valeur d'usage des locaux.",
-      "date": "16/06/2026",
-      "url": "https://www.laprovence.com/article/economie/1107139071443114/top-10-des-agences-seo-geo-a-connaitre-en-2026",
-      "source": "La Provence",
+      "title": "Euribor 3M stable à 2.15%: financement des locaux moins cher qu'attendu",
+      "body": "Le taux Euribor 3 mois se maintient à 2.15% en juin 2026, offrant une stabilité pour le financement immobilier. Les emprunteurs bénéficient d'un environnement moins volatil pour leurs investissements CRE.",
+      "impact": "Conseil: taux d'emprunt favorable (2.15%) pour présenter des opportunités d'acquisition bureaux/activité avec rendements attractifs.",
+      "date": "17/06/2026",
+      "url": "https://donnees-marche.paca",
+      "source": "Donnees Marche",
       "tags": [
         {
-          "label": "Tendance",
-          "cls": "tm"
+          "label": "Taux Euribor",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Hausse des coûts postaux : impacts sur secteur tertiaire PACA",
-      "body": "La Poste annonce +7,4% en 2026 sur services postaux, consolidant une tendance de hausse (+6,8% en 2025, +8,3% en 2024). Cette inflation des coûts de fonctionnement affecte directement la rentabilité des petits commerces et services PACA.",
-      "impact": "Clients commerces et services devront arbitrer espaces et densité : impact sur demande de petits locaux optimisés vs locaux actuels surdimensionnés.",
-      "date": "16/06/2026",
-      "url": "https://www.laprovence.com/article/economie/1024563088623514/avis-envoi-reco-une-alternative-face-a-la-hausse-des-tarifs-postaux",
+      "title": "Fête du rosé Cornillon-Confoux: dynamique commerciale/tourisme PACA confirmée",
+      "body": "La Fête du rosé s'impose comme rendez-vous incontournable à Cornillon-Confoux, confirmant la dynamique événementielle régionale. L'attractivité touristique et commerciale de la PACA reste robuste et génère flux clients.",
+      "impact": "Positif: demande soutenue pour locaux commerciaux/points de vente en zone touristique/événementielle PACA.",
+      "date": "17/06/2026",
+      "url": "https://www.laprovence.com/article/economie/1878654588446714/la-fete-du-rose-confirme-son-succes-grandissant-a-cornillon-confoux",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Coûts",
-          "cls": "tr"
+          "label": "Marche Commerce PACA",
+          "cls": "tm"
         }
       ]
     }
@@ -92,50 +80,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Innovation PACA : positionnement en écosystème tech français",
-      "body": "La région PACA consolide son positionnement dans l'innovation française avec présence forte à VivaTech 2026 et entreprises comme Elpyoo (santé connectée) à Aix-en-Provence. Cet écosystème attire talents et investissements tech régionaux.",
-      "impact": "Dynamique structurelle positive pour attractivité PACA : création emplois cadres et augmentation demande immobilière tertiaire haut de gamme.",
+      "title": "Accord commercial UE-États-Unis: cadre juridique établi, impact mitigé",
+      "body": "L'UE et les États-Unis parviennent à limiter la casse dans les négociations commerciales du 16 juin 2026. Faute d'équilibre parfait, le cadre juridique minimal crée une stabilité nouvelle où naviguait auparavant l'incertitude.",
+      "impact": "Conseil: évaluer l'impact sur filières internationales/import-export PACA; risque de renchérissement sur certains matériaux/services.",
       "date": "16/06/2026",
-      "url": "https://www.laprovence.com/article/economie/99423961236122/sante-connectee-quatre-innovations-provencales-qui-revolutionnent-le-soin-et-le-quotidien",
+      "url": "https://www.laprovence.com/article/economie/1430474186993514/accord-commercial-leurope-a-t-elle-capitule-devant-les-etats-unis",
       "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
           "cls": "tg"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Contexte financier France : taux stables, OAT 3.70%, Euribor 2.15%",
-      "body": "En contexte de stabilité relative des taux directeurs BCE (2.15%), les conditions de financement immobilier restent contenues. OAT 10Y à 3.70% reflètent attentes modérées sur inflation France (1.7%).",
-      "impact": "Environnement de financement favorable pour investisseurs immobilier CRE : maintenir vigilance sur évolution BCE et spreads crédit.",
-      "date": "16/06/2026",
-      "url": "https://www.laprovence.com/article/economie/1024563088623514/avis-envoi-reco-une-alternative-face-a-la-hausse-des-tarifs-postaux",
-      "source": "La Provence",
+      "title": "Inflation France: stable à 1.7% en juin 2026",
+      "body": "L'inflation française reste maîtrisée à 1.7% en juin 2026, bien en deçà des seuils d'alerte BCE. La conjoncture française bénéficie d'une stabilité des prix à la consommation.",
+      "impact": "Favorable: pouvoir d'achat préservé pour locataires/preneurs; loyers et charges immobilières moins pressés à la hausse.",
+      "date": "17/06/2026",
+      "url": "https://donnees-marche.france",
+      "source": "Donnees Marche",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Inflation/Conjoncture",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Conjoncture France : entrepreneuriat et dynamique locale en PACA",
-      "body": "Entrepreneuriat féminin en hausse et initiatives locales (Fuveau Business Club) montrent vitalité économique française régionale malgré contexte macroéconomique mixte. L'IA est au cœur des débats des décideurs économiques locaux.",
-      "impact": "Opportunités transactionnelles pour PME/ETI créatives et services en PACA ; favoriser locaux flexibles adaptés modèles entrepreneuriaux émergents.",
-      "date": "16/06/2026",
-      "url": "https://www.laprovence.com/article/region/99427705706542/l-intelligence-artificielle-au-coeur-du-debat-de-la-soiree-organisee-par-le-fuveau-business-club",
-      "source": "La Provence",
+      "title": "BCE maintient taux directeur à 2.15%: OAT 10Y à 3.70%, financement stable",
+      "body": "La Banque Centrale Européenne confirme son taux directeur à 2.15% en juin 2026; les obligations d'État (OAT) 10 ans s'établissent à 3.70%. Cet environnement soutient la stabilité des marchés de financement immobilier.",
+      "impact": "Contexte favorable pour projets d'investissement tertiaire PACA; coût du capital en ligne avec les attentes, rentabilités CRE justifiées.",
+      "date": "17/06/2026",
+      "url": "https://donnees-marche.bce",
+      "source": "Donnees Marche",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "BCE/Taux",
+          "cls": "tt"
         }
       ]
     }

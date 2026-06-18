@@ -1,77 +1,97 @@
 {
-  "generated_at": "17/06/2026",
+  "generated_at": "18/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "35 organisations patronales PACA expriment leur exaspération face au gel",
-      "body": "Réunies à la Maison des Entreprises d'Aix-en-Provence, 35 organisations patronales de Provence-Alpes-Côte d'Azur ont affiché un front commun d'exaspération. Le mouvement symbolise une mobilisation inédite du tissu économique régional face aux enjeux actuels.",
-      "impact": "Conseil: surveiller les mesures de soutien aux TPE/PME bureaux et activité en PACA; risque de baisse d'appétence pour nouveaux locaux.",
-      "date": "16/06/2026",
-      "url": "https://www.laprovence.com/article/economie/1447375120326514/stop-stop-stop-le-coup-de-colere-de-35-organisations-patronales",
+      "title": "Entrepreneuriat PACA: dynamique de création en Vaucluse et Aubagne",
+      "body": "Le Grand Avignon lance son festival entrepreneurial « Bien joué » transformant l'entreprise en terrain de jeu immersif, tandis qu'Aubagne voit l'ouverture d'un nouveau commerce de détail avant l'été. Ces initiatives témoignent d'une dynamique entrepreneuriale soutenue dans la région Sud.",
+      "impact": "Opportunités d'occupation de petits locaux commerciaux et espaces d'activité en centre-ville pour jeunes entreprises et commerces de proximité.",
+      "date": "17/06/2026",
+      "url": "https://www.laprovence.com/article/economie/2170320895656214/bien-joue-le-nouveau-festival-entrepreneurial-du-grand-avignon-transforme-lentreprise-en-terrain-de-jeu",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Entrepreneuriat féminin en PACA: 36% des chefs d'entreprise sont des femmes",
-      "body": "La CCI du Pays d'Arles lance son « Café de l'Éco » pour mettre l'entrepreneuriat féminin sur la table. Avec 36% de femmes chefs d'entreprise en France (contre 50% de population), la région PACA cherche à réduire ce décalage.",
-      "impact": "Opportunité: identifier et accompagner les créatrices/TPE féminines en quête de locaux bureaux/commerce en PACA.",
-      "date": "16/06/2026",
-      "url": "https://www.laprovence.com/article/economie/1379473095698114/au-premier-rendez-vous-du-cafe-de-leco-arles-met-lentrepreneuriat-feminin-sur-la-table",
+      "title": "Solidarité et commerce: essor des modèles alternatifs en Vaucluse",
+      "body": "Une nouvelle épicerie solidaire antigaspi a ouvert à Sorgues le 21 mai, portée par l'Association antigaspi et solidaire Vaucluse. Ce modèle économique social gagne du terrain dans la région, répondant à une demande croissante.",
+      "impact": "Demande croissante de petits locaux commerciaux adaptés aux structures sociales et solidaires en centre-bourg, avec besoin de flexibilité tarifaire.",
+      "date": "17/06/2026",
+      "url": "https://www.laprovence.com/article/food/10144516062591/une-nouvelle-epicerie-solidaire-et-antigaspi-a-ouvert-ses-portes-a-sorgues",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Artisans/producteurs PACA: label « Fabriqué à Allauch » renforce attractivité locale",
-      "body": "Camille Jaafar Mougel et autres producteurs régionaux reçoivent le label « Fabriqué à Allauch », consolidant le savoir-faire artisanal. Cette reconnaissance valorise les PME/ETI régionales dans l'économie productive.",
-      "impact": "Effet positif: demande croissante d'ateliers/locaux d'activité certifiés ou labellisés en PACA pour artisans/producteurs.",
-      "date": "17/06/2026",
-      "url": "https://www.laprovence.com/article/economie/1851994595852714/excellence-savoir-faire-ces-artisans-et-producteurs-viennent-de-decrocher-le-label-fabrique-a-allauch",
+      "title": "Artisanat et production locale: label Fabriqué à Allauch pour PME",
+      "body": "Des artisans et producteurs obtiennent le label « Fabriqué à Allauch », dont la créatrice textile Camille Jaafar Mougel, renforçant l'attractivité des territoires pour l'artisanat. Cette dynamique de certification valorise les savoir-faire locaux et les structures productives.",
+      "impact": "Opportunités d'occupation de locaux d'activité artisanale et de petite production en zones dynamiques, avec potentiel de valorisation immobilière.",
+      "date": "18/06/2026",
+      "url": "https://www.laprovence.com/article/economie/2749099098142514/excellence-savoir-faire-ces-artisans-et-producteurs-viennent-de-decrocher-le-label-fabrique-a-allauch",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Euribor 3M stable à 2.15%: financement des locaux moins cher qu'attendu",
-      "body": "Le taux Euribor 3 mois se maintient à 2.15% en juin 2026, offrant une stabilité pour le financement immobilier. Les emprunteurs bénéficient d'un environnement moins volatil pour leurs investissements CRE.",
-      "impact": "Conseil: taux d'emprunt favorable (2.15%) pour présenter des opportunités d'acquisition bureaux/activité avec rendements attractifs.",
-      "date": "17/06/2026",
-      "url": "https://donnees-marche.paca",
-      "source": "Donnees Marche",
+      "title": "OAT: rendement stable à 3.70% en contexte géopolitique apaisé",
+      "body": "Les taux obligataires français se stabilisent à 3.70% sur 10 ans tandis que l'Euribor 3M se maintient à 2.15%, reflétant un environnement de taux relativement favorable post-accord géopolitique. Les conditions de financement demeurent accessibles pour les projets immobiliers d'entreprise.",
+      "impact": "Conditions de financement stables favorables aux montages d'acquisition et développement immobilier tertiaire en PACA sans dégradation des coûts emprunt.",
+      "date": "18/06/2026",
+      "url": "https://www.laprovence.com/article/economie/2703147578402814/guerre-au-moyen-orient-le-plus-dur-est-passe-roland-lescure-prevoit-une-baisse-des-prix-du-carburant",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux Euribor",
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Fête du rosé Cornillon-Confoux: dynamique commerciale/tourisme PACA confirmée",
-      "body": "La Fête du rosé s'impose comme rendez-vous incontournable à Cornillon-Confoux, confirmant la dynamique événementielle régionale. L'attractivité touristique et commerciale de la PACA reste robuste et génère flux clients.",
-      "impact": "Positif: demande soutenue pour locaux commerciaux/points de vente en zone touristique/événementielle PACA.",
-      "date": "17/06/2026",
-      "url": "https://www.laprovence.com/article/economie/1878654588446714/la-fete-du-rose-confirme-son-succes-grandissant-a-cornillon-confoux",
+      "title": "Événementiel et tourisme tertiaire: Marseille hub d'attractivité estival",
+      "body": "Le Vélodrome accueille Bad Bunny en juillet (1er, 4-5 juillet 2026), générant flux touristiques et économie événementielle pour la région. Cette dynamique culturelle renforce l'attractivité territoriale et les besoins d'espaces commerciaux et de services connexes.",
+      "impact": "Hausse saisonnière de demande pour espaces commerciaux, restaurants et services à Marseille centre; opportunités de courtes locations et flex-office pour secteur événementiel.",
+      "date": "18/06/2026",
+      "url": "https://www.laprovence.com/article/culture-loisirs/2649486002589614/concerts-et-matches-au-velodrome-moteur-rugissant-de-l-economie-touristique-a-marseille",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marche Commerce PACA",
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
           "cls": "tm"
         }
       ]
@@ -80,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Accord commercial UE-États-Unis: cadre juridique établi, impact mitigé",
-      "body": "L'UE et les États-Unis parviennent à limiter la casse dans les négociations commerciales du 16 juin 2026. Faute d'équilibre parfait, le cadre juridique minimal crée une stabilité nouvelle où naviguait auparavant l'incertitude.",
-      "impact": "Conseil: évaluer l'impact sur filières internationales/import-export PACA; risque de renchérissement sur certains matériaux/services.",
-      "date": "16/06/2026",
-      "url": "https://www.laprovence.com/article/economie/1430474186993514/accord-commercial-leurope-a-t-elle-capitule-devant-les-etats-unis",
+      "title": "Géopolitique: accord USA-Iran apaise tensions énergétiques mondiales",
+      "body": "Donald Trump a signé un accord avec l'Iran à Versailles pour mettre fin à la guerre au Moyen-Orient, annoncé comme une solution majeure par le ministre Roland Lescure. Cette déescalade devrait réduire les tensions sur les prix du pétrole Brent (96 USD) et favoriser la stabilité économique.",
+      "impact": "Apaisement des risques géopolitiques affectant les coûts énergétiques et les conditions macroéconomiques, soutien indirect aux valorisations immobilières tertiaires.",
+      "date": "18/06/2026",
+      "url": "https://www.laprovence.com/article/economie/2703147578402814/guerre-au-moyen-orient-le-plus-dur-est-passe-roland-lescure-prevoit-une-baisse-des-prix-du-carburant",
       "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France: stable à 1.7% en juin 2026",
-      "body": "L'inflation française reste maîtrisée à 1.7% en juin 2026, bien en deçà des seuils d'alerte BCE. La conjoncture française bénéficie d'une stabilité des prix à la consommation.",
-      "impact": "Favorable: pouvoir d'achat préservé pour locataires/preneurs; loyers et charges immobilières moins pressés à la hausse.",
+      "title": "Innovation France: VivaTech 2026 consacre l'IA et startups européennes",
+      "body": "VivaTech 2026 accueille 180 000 visiteurs et 15 000 startups avec la présence de Jeff Bezos, confirmant Paris comme centre mondial de l'innovation technologique. La Région Sud affiche son ambition de devenir la « Californie de l'Europe » avec une participation active.",
+      "impact": "Dynamique d'attractivité pour secteurs tech et innovation en PACA, potentiel de croissance pour espaces de bureaux et incubateurs dans zones métropolitaines.",
       "date": "17/06/2026",
-      "url": "https://donnees-marche.france",
-      "source": "Donnees Marche",
+      "url": "https://www.laprovence.com/article/economie/1957126413530614/vivatech-2026-a-paris-le-choc-mondial-de-lia-sest-ouvert-ce-mercredi-avec-en-invite-surprise-jeff-bezos",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation/Conjoncture",
-          "cls": "tg"
+          "label": "Conjoncture",
+          "cls": "tm"
+        },
+        {
+          "label": "Innovation",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE maintient taux directeur à 2.15%: OAT 10Y à 3.70%, financement stable",
-      "body": "La Banque Centrale Européenne confirme son taux directeur à 2.15% en juin 2026; les obligations d'État (OAT) 10 ans s'établissent à 3.70%. Cet environnement soutient la stabilité des marchés de financement immobilier.",
-      "impact": "Contexte favorable pour projets d'investissement tertiaire PACA; coût du capital en ligne avec les attentes, rentabilités CRE justifiées.",
+      "title": "Foncier PACA: préservation littoral et activités agricoles adaptées",
+      "body": "Un partenariat historique entre Safer et collectivités vise à concilier protection des espaces littoraux et maintien d'activités agricoles viables en PACA, signé le 17 juin à Manosque. Cette stratégie encadre la raréfaction du foncier et oriente l'usage des terres.",
+      "impact": "Ressérrement de l'offre foncière disponible pour immobilier d'entreprise côtier; attention accrue sur réglementation aménagement avec impact potentiel sur valorisations tertiaires littorales.",
       "date": "17/06/2026",
-      "url": "https://donnees-marche.bce",
-      "source": "Donnees Marche",
+      "url": "https://www.laprovence.com/article/societe/36616066245329/littoral-et-foncier-en-paca-comment-proteger-les-espaces-et-maintenir-des-activites-agricoles-adaptees",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "BCE/Taux",
-          "cls": "tt"
+          "label": "Réglementation",
+          "cls": "tr"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }

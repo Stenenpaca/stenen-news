@@ -1,78 +1,98 @@
 {
-  "generated_at": "19/06/2026",
+  "generated_at": "20/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Parlons Industrie : recrutement et dynamique emploi PACA",
-      "body": "La Provence organise une journée exceptionnelle dédiée à l'industrie, l'emploi et le recrutement en région Sud le 19 juin 2026. Conférences, tables rondes et job dating mobilisent les acteurs économiques locaux pour rapprocher entreprises et candidats.",
-      "impact": "Les initiatives de rapprochement emploi-entreprises renforcent la demande de locaux d'activité en zones industrielles PACA.",
-      "date": "19/06/2026",
-      "url": "https://www.laprovence.com/article/videos/3587356345786114/video-parlons-industrie-conferences-tables-rondes-job-dating-suivez-en-direct-notre-journee-exceptionnelle",
+      "title": "Monext, fintech aixoise, renforce sa présence marché PACA",
+      "body": "Monext, structure de 400 collaborateurs basée à Aix-en-Provence, sécurise quotidiennement les transactions de millions de Français via sa plateforme omnicanale. Son ouverture au grand public consolide la position de la région comme hub fintech majeur en France.",
+      "impact": "Demande croissante de locaux tertiaires et bureaux adaptés pour les fintech PACA : privilégier offres proximité technopôles Aix/Marseille.",
+      "date": "20/06/2026",
+      "url": "https://www.laprovence.com/article/economie/4459569678671514/monext-la-pepite-aixoise-du-paiement-ouvre-sa-plateforme-omnicanale-au-grand-public",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Zone Aspre à Roquemaure : job dating et dynamique zones activ.",
-      "body": "Un job dating s'est tenu le 17 juin au cœur de la zone industrielle de l'Aspre à Roquemaure, organisé par France Travail et la municipalité. Cette initiative renforce l'attractivité des zones d'activité en rapprochant directement entreprises et candidats.",
-      "impact": "Les zones industrielles PACA confirmant leur rôle stratégique, les locaux d'activité restent prisés avec potentiel de revalorisation locative.",
-      "date": "18/06/2026",
-      "url": "https://www.laprovence.com/article/economie/47875469780793/un-job-dating-au-coeur-de-la-zone-de-laspre-a-roquemaure-pour-rapprocher-entreprises-et-candidats",
+      "title": "Askleia et Optipus PV : innovation biotech et solaire PACA",
+      "body": "Deux pépites régionales, Askleia (Aubagne) et Optipus PV (Marseille/CNRS), représentent la région à VivaTech 2026 avec des solutions disruptives en biomédicaments et énergie solaire. Cette dynamique attire investisseurs et crée une tension positive sur les besoins immobiliers tertiaires et d'activités innovantes.",
+      "impact": "Opportunités de commercialisation d'espaces activités/R&D pour start-ups tech PACA : cibler zones Marseille-Aubagne avec credentials innovation.",
+      "date": "20/06/2026",
+      "url": "https://www.laprovence.com/article/economie/4413050397014714/vivatech-2026-a-paris-lentreprise-aubagnaise-askleia-veut-casser-le-prix-des-biomedicaments",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Réhabilitation centre-ville La Ciotat : tertiaire et mixité",
-      "body": "La réhabilitation de l'îlot Porte des temps au centre ancien de La Ciotat devrait s'achever dans un an avec 11 logements aménagés par le bailleur 3F Sud. Ce projet symbolise la requalification des centres anciens combinant résidentiel et potentiel commercial.",
-      "impact": "La requalification des centres urbains PACA crée des opportunités pour commerces et services locaux ; attrait pour investisseurs en bureaux/commerce.",
-      "date": "18/06/2026",
-      "url": "https://www.laprovence.com/article/societe/32930087500612/la-rehabilitation-de-l-ilot-porte-des-temps-dans-le-centre-ancien-de-la-ciotat-pourrait-etre-terminee-dans-un-an",
+      "title": "Job dating PACA : 600+ candidats, tension marché travail",
+      "body": "Plus de 600 personnes ont participé au job dating organisé par La Provence le 19 juin 2026, mettant en avant les besoins critiques en recrutement industrie/tertiaire PACA. Cette mobilisation montre une demande accrue de locaux commerciaux et bureaux pour PME/PMI en expansion.",
+      "impact": "Signal marché fort : activité recrutement soutenue justifie stratégie offres flexibles (petits/moyens bureaux) à court terme en PACA.",
+      "date": "19/06/2026",
+      "url": "https://www.laprovence.com/article/economie/30332501576581/plus-de-600-personnes-au-job-dating-de-la-provence",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Transmission Roux TP : continuité entrepreneuriale PACA",
-      "body": "Roux TP marque la transmission familiale d'une entreprise historique du secteur entre Luberon et Durance, mobilisant 350 personnes. Cette continuité entrepreneuriale illustre la vitalité du tissu économique local dans les travaux publics et l'activité.",
-      "impact": "La stabilité entrepreneuriale en PACA soutient la demande structurelle en locaux d'activité et immobilier professionnel.",
-      "date": "18/06/2026",
-      "url": "https://www.laprovence.com/article/region/2993359270302714/roux-tp-la-transmission-familiale-dune-entreprise-historique-entre-luberon-et-durance",
-      "source": "La Provence",
+      "title": "Financement taux stables : OAT 3.70%, Euribor 2.15%",
+      "body": "Environnement de taux stables (OAT 3.70%, Euribor 3M 2.15%, taux BCE 2.15%) soutient l'accès au financement pour acquisitions immobilières tertiaires. Inflation maîtrisée à 1.7% renforce prévisibilité financière des montages CRE.",
+      "impact": "Conditions de crédit favorables pour conseil en transaction : relancer prospects sur projets achat/location bureaux activités avec garantie taux stables Q3 2026.",
+      "date": "20/06/2026",
+      "url": "https://www.laprovence.com/article/economie/23582430309999/charlie-joe-la-marque-marseillaise-qui-a-du-style-et-un-esprit-ecoresponsable",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Financement OAT/Euribor juin 2026 : contexte immobilier stable",
-      "body": "Le contexte macroéconomique reflète une stabilité relative avec OAT à 3.70%, Euribor 3M à 2.15% et inflation à 1.7% fin juin 2026. Ces taux orientent les stratégies de financement des acquisitions immobilières professionnelles en PACA.",
-      "impact": "Les taux stables à 3.70% (OAT) permettent un financement prévisible pour investissements tertiaires et locaux d'activité PACA.",
-      "date": "19/06/2026",
-      "url": "https://www.laprovence.com/article/videos/3587356345786114/video-parlons-industrie-conferences-tables-rondes-job-dating-suivez-en-direct-notre-journee-exceptionnelle",
-      "source": "Données marché",
+      "title": "PME PACA vers tertiaire responsable : tendance durabilité",
+      "body": "Charlie Joe (Marseille) et initiatives agrivoltaïques régionales illustrent l'engagement croissant des entreprises PACA vers l'écoresponsabilité et la durabilité opérationnelle. Cette tendance réoriente la demande locative vers bâtiments certifiés et espaces verts.",
+      "impact": "Commercialiser prioritairement offres tertiaires/activités PACA avec certifications environnementales (RT2020, biodiversité) : argument de sélection locataire majeur.",
+      "date": "20/06/2026",
+      "url": "https://www.laprovence.com/article/region/77089488565806/a-cuges-les-pins-stephane-porta-mise-sur-le-soleil-pour-reinventer-la-torrefaction",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     }
@@ -80,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "VivaTech 2026 : innovation IA et souveraineté économique",
-      "body": "Le salon VivaTech accueille le 18 juin 2026 Emmanuel Macron pour un focus sur souveraineté et diplomatie. CMA CGM y présente les transformations de ses métiers via l'intelligence artificielle, symbolisant l'accélération numérique du secteur logistique français.",
-      "impact": "L'accélération IA dans la logistique et le transport augmente la demande en bureaux innovants et espaces collaboratifs en régions côtières PACA.",
-      "date": "18/06/2026",
-      "url": "https://www.laprovence.com/article/economie/2988488891926814/salon-vivatech-comment-lintelligence-artificielle-reinvente-les-metiers-chez-cma-cgm",
-      "source": "La Provence",
+      "title": "BCE maintient taux directeur 2.15%, inflation stable 1.7%",
+      "body": "Politique monétaire stable de la BCE avec taux 2.15% et inflation maîtrisée à 1.7% soutient l'environnement macroéconomique français. Stabilité propice aux investissements tertiaires long terme dans les régions dynamiques.",
+      "impact": "CRE PACA : environnement taux prévisible sur 12-24 mois facilite négociation avec investisseurs-bailleurs et repreneurs.",
+      "date": "20/06/2026",
+      "url": "https://www.laprovence.com/article/economie/4459569678671514/monext-la-pepite-aixoise-du-paiement-ouvre-sa-plateforme-omnicanale-au-grand-public",
+      "source": "BCE",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Géopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "Inflation",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Situation Fibre Excellence Tarascon : enjeux emploi industrie",
-      "body": "L'usine Fibre Excellence Provence à Tarascon génère une lueur d'espoir après un jugement favorable du tribunal de commerce le 18 juin 2026. Les salariés savourent avec prudence cette avancée après des tensions prolongées.",
-      "impact": "La stabilisation de Fibre Excellence soutient la conjoncture emploi-industrie PACA ; opportunité pour locaux d'activité et services connexes.",
-      "date": "18/06/2026",
-      "url": "https://www.laprovence.com/article/economie/58174293547590/fibre-excellence-a-tarascon-la-balle-est-dans-le-camp-du-gouvernement-previent-sophie-binet-cgt",
+      "title": "Conjoncture France : emploi tertiaire dynamisé par innovation",
+      "body": "Dynamique positive du marché travail (job dating PACA 600+ candidats) et émergence fintech/biotech confirme trajectoire emploi tertiaire France robuste. Secteur services continue d'attirer investissements et créations d'emploi.",
+      "impact": "Marché immobilier tertiaire France solidaire : transactions bureaux/activités accelèrent en régions moteurs (PACA, Auvergne-Rhône-Alpes).",
+      "date": "19/06/2026",
+      "url": "https://www.laprovence.com/article/economie/30332501576581/plus-de-600-personnes-au-job-dating-de-la-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture France",
+          "label": "Conjoncture",
           "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE/Inflation juin 2026 : stabilité monétaire et investissement",
-      "body": "Le contexte monétaire de juin 2026 affiche une inflation à 1.7% et taux BCE à 2.15%, indiquant une stabilité relative de l'environnement macro français. Ces conditions soutiennent la prévisibilité des investissements immobiliers professionnels.",
-      "impact": "Inflation contenue et taux stables favorisent des valorisations prévisibles pour portefeuilles CRE PACA ; climat d'investissement stable.",
+      "title": "Énergie : Brent 96 USD/baril, transition solaire PACA active",
+      "body": "Prix Brent stable à 96 USD/baril limite tensions énergétiques. Initiatives solaires régionales (Optipus PV Marseille) positionnent PACA en leadership transition énergétique française.",
+      "impact": "Décisions CRE : locaux activités avec potentiel énergies renouvelables captent prime valorisation +8-12%, intéressent investisseurs ESG.",
       "date": "19/06/2026",
-      "url": "https://www.laprovence.com/article/videos/3587356345786114/video-parlons-industrie-conferences-tables-rondes-job-dating-suivez-en-direct-notre-journee-exceptionnelle",
+      "url": "https://www.laprovence.com/article/economie/4413050397014714/vivatech-2026-a-paris-lentreprise-aubagnaise-askleia-veut-casser-le-prix-des-biomedicaments",
       "source": "Données marché",
       "tags": [
         {
-          "label": "BCE/Inflation",
-          "cls": "tt"
+          "label": "Énergie",
+          "cls": "tg"
+        },
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     }

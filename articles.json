@@ -1,13 +1,13 @@
 {
-  "generated_at": "21/06/2026",
+  "generated_at": "22/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Électrification régionale : nouvelle ligne THT 400kV Fos-sur-Mer 2029",
-      "body": "La mise en service de la ligne THT aérienne 400 kV entre Jonquières-Saint-Vincent et Fos-sur-Mer est programmée pour 2029, soutenue par Provence Fabrique des Possibles. Cette infrastructure est présentée comme une nécessité absolue pour l'avenir industriel et énergétique de la région.",
-      "impact": "Les zones d'activité et locaux industriels le long du corridor THT pourraient bénéficier d'une meilleure attractivité énergétique ; explorer les terrains en périphérie de Fos-sur-Mer pour les clients en secteur énergivore.",
+      "title": "Osco inaugure ses nouveaux locaux au Puy-Sainte-Réparade",
+      "body": "L'entreprise familiale Osco célèbre ses 10 ans en inaugurant de nouveaux locaux en plein cœur du Puy-Sainte-Réparade, marquant une phase d'expansion significative. Cette inauguration symbolise la dynamique de croissance des entreprises de services en région PACA.",
+      "impact": "Opportunité de transaction : identifier les besoins en locaux d'activité similaires pour entreprises en croissance dans l'axe Aix-Durance.",
       "date": "21/06/2026",
-      "url": "https://www.laprovence.com/article/economie/25342703740867/electrification-de-la-region-le-soutien-de-provence-fabrique-des-possibles-a-la-nouvelle-ligne-tht",
+      "url": "https://www.laprovence.com/article/region/44241705428652/l-entreprise-familiale-osco-fete-ses-10-ans-et-inaugure-ses-nouveaux-locaux-en-plein-coeur-du-puy-sainte-reparade",
       "source": "La Provence",
       "tags": [
         {
@@ -15,75 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Infrastructures",
+          "label": "Marché immobilier",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "895 projets innovants labellisés par Capenergies à Aix-en-Provence",
-      "body": "Capenergies a labellisé près de 895 projets innovants malgré un contexte de crise, intégrant la durabilité dans les stratégies d'entreprise. Des cabinets d'audit renforcent leurs équipes en ingénieurs pour accompagner cette transformation.",
-      "impact": "Les locaux d'activité abritant les PME/ETI innovantes labellisées offrent une stabilité locative accrue ; cibler les zones d'innovation autour d'Aix pour les clientèles tech/greentech.",
-      "date": "20/06/2026",
-      "url": "https://www.laprovence.com/article/economie/4768814206605314/malgre-la-crise-pres-de-895-projets-innovants-labellises-au-sein-de-capenergies-a-aix-en-provence",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Innovation",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Nimonik installe son premier bureau européen à Marseille",
-      "body": "L'entreprise québécoise Nimonik, spécialiste des logiciels de conformité réglementaire, a choisi Marseille pour accélérer son développement européen plutôt que Paris. Cette installation renforce l'attractivité de la métropole pour les secteurs innovants.",
-      "impact": "Le débarquement de scale-ups étrangères à Marseille crée une demande de bureaux premium ; proposer des espaces flexibles dans le secteur Euroméditerranée aux nouvelles implantations.",
-      "date": "20/06/2026",
-      "url": "https://www.laprovence.com/article/economie/4729513749309914/specialiste-de-la-conformite-reglementaire-le-quebecois-nimonik-choisit-marseille-pour-accelerer-son-essor-europeen",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Tertiaire",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Re-Lion Factory au Rove : innovation batterie et circularité",
-      "body": "La start-up Re-Lion Factory, basée au Rove près de Marseille, prolonge la durée de vie des batteries lithium-ion en les transformant en marathoniennes. Présentée à VivaTech 2026, elle représente un modèle industriel innovant soutenu par la Région Sud.",
-      "impact": "Les locaux d'activité aux normes environnementales élevées attirent les entreprises de l'économie circulaire ; valoriser les zones industrielles rénovées du Rove auprès des ETI greentech.",
-      "date": "20/06/2026",
-      "url": "https://www.laprovence.com/article/economie/30006845665339/vivatech-2026-a-paris-la-start-up-re-lion-factory-basee-au-rove-transforme-les-piles-sprinteuses-en-marathoniennes",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Greentech",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Aéroport Marseille-Provence : record d'affluence tourisme été 2026",
-      "body": "L'aéroport Marseille-Provence enregistre un nouveau record de passagers pour l'été 2026 malgré un contexte de budgets serrés, alimentant le secteur du tourisme régional. Cette affluence renforce la demande en services commerciaux et hôteliers.",
-      "impact": "La hausse du flux touristique justifie l'investissement en petits commerces/services aéroportuaires ; explorer les locations court terme à proximité des zones d'arrivées.",
-      "date": "21/06/2026",
-      "url": "https://www.laprovence.com/article/economie/5275847715225714/vacances-de-derniere-minute-depuis-marseille-les-bons-reflexes-pour-partir-au-meilleur-prix-cet-ete",
+      "title": "Nouvelle boutique Eclat by Marie à Saint-Christol",
+      "body": "Marie Le Bail inaugure son atelier-boutique sur la place de la Poste à Saint-Christol, valorisant un patrimoine immobilier historique du XVIIIe siècle en rez-de-chaussée. Ce projet illustre le potentiel commercial des centres-bourgs provençaux.",
+      "impact": "Conseil en transaction : valoriser les locaux commerciaux en centres historiques avec architecture classée pour artisans et créateurs.",
+      "date": "22/06/2026",
+      "url": "https://www.laprovence.com/article/economie/3207428663158614/le-nouvel-atelier-boutique-eclat-by-marie-propose-bijoux-et-decoration-a-saint-christol",
       "source": "La Provence",
       "tags": [
         {
@@ -95,63 +38,108 @@
           "cls": "tm"
         }
       ]
+    },
+    {
+      "id": "f3",
+      "title": "Conférence entrepreneuriat à la Bergerie Alpilles Tech",
+      "body": "Un événement à Fontvieille aborde le choix du statut juridique pour entrepreneurs, question cruciale souvent mal comprise lors de création d'activité. Cette initiative soutient l'écosystème entrepreneurial provençal.",
+      "impact": "Conseil transactionnel : accompagner les créateurs dans le choix d'immobilier professionnel adapté à leur statut juridique.",
+      "date": "22/06/2026",
+      "url": "https://www.laprovence.com/article/economie/3264108373340814/une-conference-pour-mieux-piloter-son-activite-professionnelle-a-la-bergerie-alpilles-tech-de-fontvieille",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Entrepreneuriat",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Rencontres Iter : 400 acteurs industrie à Aix-en-Provence",
+      "body": "La deuxième édition des Rencontres Iter le 7 juillet rassemble 400 professionnels en maintenance, ingénierie, robotique et usinage. Événement clé pour les secteurs de l'industrie innovante en Provence-Alpes-Côte d'Azur.",
+      "impact": "Prospection immobilière : identifier besoins en locaux d'activité/R&D pour entreprises présentes aux Rencontres Iter.",
+      "date": "21/06/2026",
+      "url": "https://www.laprovence.com/article/region/2376322266577614/industrie-et-innovation-400-acteurs-de-la-filiere-attendus-aux-rencontres-iter-le-7-juillet-a-aix-en-provence",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché immobilier",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Congrès experts-comptables PACA : focus transformation numérique",
+      "body": "Le 13e congrès régional de l'Ordre des experts-comptables PACA (9-10 juillet, Marseille) place la transformation numérique au cœur des enjeux. Rendez-vous stratégique pour networker avec décideurs financiers régionaux.",
+      "impact": "Opportunité : établir contacts avec experts-comptables prescripteurs pour accompagner clients en transaction immobilière d'entreprise.",
+      "date": "21/06/2026",
+      "url": "https://www.laprovence.com/article/region/53363435099065/lordre-des-experts-comptables-organise-son-congres-regional-en-juillet-a-marseille",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Financement",
+          "cls": "tt"
+        }
+      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "THT et infrastructure énergétique : enjeu géopolitique européen",
-      "body": "La nouvelle ligne THT 400 kV Fos-sur-Mer répond à une nécessité d'électrification face aux enjeux énergétiques européens post-transition. L'infrastructure renforce l'indépendance énergétique française et la compétitivité industrielle régionale.",
-      "impact": "Contexte favorable à la relocalisation industrielle énergivore en PACA ; surveiller les appels d'offres publics liés à cette infrastructure pour identifier les clients potentiels.",
+      "title": "Électrification régionale : nouvelle ligne THT 400kV Jonquières-Fos 2029",
+      "body": "La mise en service de la ligne THT aérienne 400 kV entre Jonquières-Saint-Vincent (Gard) et Fos-sur-Mer est confirmée pour 2029. Infrastructure critique pour l'avenir énergétique et industriel provençal, avec soutien de Provence Fabrique des Possibles.",
+      "impact": "Impact structurant sur attractivité immobilière tertiaire/activité zones Fos-sur-Mer et corridor énergétique PACA.",
       "date": "21/06/2026",
       "url": "https://www.laprovence.com/article/economie/25342703740867/electrification-de-la-region-le-soutien-de-provence-fabrique-des-possibles-a-la-nouvelle-ligne-tht",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Géopolitique/Énergie",
           "cls": "tg"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Taux OAT/Euribor : contexte de stabilisation monétaire",
-      "body": "En contexte de crise économique persistante, les taux d'intérêt demeurent stables : OAT 3.70%, Euribor 3M à 2.15%, reflétant une BCE prudente. Cette stabilité soutient le financement des investissements immobiliers français.",
-      "impact": "Conditions de taux favorables pour accompagner les clients en recherche de financement crédit locatif ; valoriser cette stabilité auprès des institutionnels investisseurs.",
+      "title": "Pouvoir d'achat : crise énergétique pénalise ménages PACA",
+      "body": "Dossier spécial La Provence montre réduction du pouvoir d'achat dans plusieurs métiers (auxiliaires, pêcheurs, taxis) dues à la crise énergétique. Baisse de consommation attendue impactant secteur tertiaire et services.",
+      "impact": "Risque de baisse demande locaux commerce/services ; opportunité reprises courtes durée pour restructurations.",
       "date": "21/06/2026",
-      "url": "https://www.laprovence.com/article/economie/4768814206605314/malgre-la-crise-pres-de-895-projets-innovants-labellises-au-sein-de-capenergies-a-aix-en-provence",
+      "url": "https://www.laprovence.com/article/economie/18469145900081/pouvoir-dachat-le-coup-de-pompe-retrouvez-tous-les-episodes-de-notre-dossier-special-a-travers-la-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Conjoncture France : résilience malgré crise, innovation moteur",
-      "body": "Malgré un contexte de crise, la France enregistre des records d'affluence touristique et 895 projets innovants labellisés, témoignant d'une économie résiliente. Les régions Sud comme PACA attirent les investissements étrangers en décalage avec Paris.",
-      "impact": "La décentralisation de l'innovation vers PACA crée une demande croissante en espaces tertiaires et d'activité ; positionner les offres sur la flexibilité et l'accès aux réseaux d'innovation.",
-      "date": "20/06/2026",
-      "url": "https://www.laprovence.com/article/economie/4729513749309914/specialiste-de-la-conformite-reglementaire-le-quebecois-nimonik-choisit-marseille-pour-accelerer-son-essor-europeen",
-      "source": "La Provence",
+      "title": "Contexte macro : OAT 3.70%, Euribor3M 2.15%, inflation 1.7%",
+      "body": "Environnement de taux stables : OAT long terme 3.70%, Euribor 3 mois 2.15%, BCE maintenant 2.15%, inflation modérée 1.7%. Marché énergétique : Brent 96 USD/baril. Contexte favorable au financement immobilier d'entreprise.",
+      "impact": "Fenêtre de refinancement attractive pour clients cherchant locaux ; recommander blocage taux long avant remontées potentielles.",
+      "date": "22/06/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tm"
-        },
-        {
-          "label": "France",
-          "cls": "tg"
+          "label": "Taux/Financement",
+          "cls": "tt"
         }
       ]
     }

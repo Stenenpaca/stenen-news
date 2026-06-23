@@ -1,13 +1,13 @@
 {
-  "generated_at": "22/06/2026",
+  "generated_at": "23/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Osco inaugure ses nouveaux locaux au Puy-Sainte-Réparade",
-      "body": "L'entreprise familiale Osco célèbre ses 10 ans en inaugurant de nouveaux locaux en plein cœur du Puy-Sainte-Réparade, marquant une phase d'expansion significative. Cette inauguration symbolise la dynamique de croissance des entreprises de services en région PACA.",
-      "impact": "Opportunité de transaction : identifier les besoins en locaux d'activité similaires pour entreprises en croissance dans l'axe Aix-Durance.",
-      "date": "21/06/2026",
-      "url": "https://www.laprovence.com/article/region/44241705428652/l-entreprise-familiale-osco-fete-ses-10-ans-et-inaugure-ses-nouveaux-locaux-en-plein-coeur-du-puy-sainte-reparade",
+      "title": "Réindustrialisation PACA : enjeux de souveraineté et attractivité territoriale",
+      "body": "La région PACA se positionne comme acteur stratégique de la réindustrialisation française, notamment sur les secteurs défense et décarbonation. Les acteurs régionaux soulignent que l'attractivité territoriale et la bataille pour l'emploi reposent sur des investissements massifs dans les infrastructures et les compétences locales.",
+      "impact": "Opportunités d'immobilier d'activité et locaux industriels en PACA, particulièrement sur l'axe Fos-Berre et Marseille pour accueillir les nouvelles implantations souveraines.",
+      "date": "23/06/2026",
+      "url": "https://www.laprovence.com/article/economie/4036380595585114/parlons-industrie-la-souverainete-industrielle-francaise-se-jouera-aussi-dans-les-territoires",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché immobilier",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Nouvelle boutique Eclat by Marie à Saint-Christol",
-      "body": "Marie Le Bail inaugure son atelier-boutique sur la place de la Poste à Saint-Christol, valorisant un patrimoine immobilier historique du XVIIIe siècle en rez-de-chaussée. Ce projet illustre le potentiel commercial des centres-bourgs provençaux.",
-      "impact": "Conseil en transaction : valoriser les locaux commerciaux en centres historiques avec architecture classée pour artisans et créateurs.",
-      "date": "22/06/2026",
-      "url": "https://www.laprovence.com/article/economie/3207428663158614/le-nouvel-atelier-boutique-eclat-by-marie-propose-bijoux-et-decoration-a-saint-christol",
+      "title": "Décarbonation industrielle : transformation rapide requise en PACA",
+      "body": "Le président de la CCI Aix-Marseille-Provence alerte sur l'urgence de la décarbonation dans la zone Fos-Berre, deuxième zone industrielle la plus polluée de France. Cette transformation implique des restructurations importantes des sites existants et la création de nouveaux espaces aux normes environnementales.",
+      "impact": "Demande accrue de locaux d'activité conformes aux standards de décarbonation ; opportunités de reconversion et modernisation d'immobilier industriel en PACA.",
+      "date": "23/06/2026",
+      "url": "https://www.laprovence.com/article/economie/4020741726494714/parlons-industrie-decarbonation-la-transformation-doit-etre-rapide",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Conférence entrepreneuriat à la Bergerie Alpilles Tech",
-      "body": "Un événement à Fontvieille aborde le choix du statut juridique pour entrepreneurs, question cruciale souvent mal comprise lors de création d'activité. Cette initiative soutient l'écosystème entrepreneurial provençal.",
-      "impact": "Conseil transactionnel : accompagner les créateurs dans le choix d'immobilier professionnel adapté à leur statut juridique.",
-      "date": "22/06/2026",
-      "url": "https://www.laprovence.com/article/economie/3264108373340814/une-conference-pour-mieux-piloter-son-activite-professionnelle-a-la-bergerie-alpilles-tech-de-fontvieille",
+      "title": "Formation et compétences : leviers critiques de la réindustrialisation",
+      "body": "La ministre Sabrina Roubache affirme que sans effort massif sur la formation, la réindustrialisation ne peut réussir. Les job datings en PACA (Grand Central Marseille) mettent déjà en lien entreprises et demandeurs d'emploi pour sécuriser l'accès aux talents.",
+      "impact": "Développement d'espaces de formation et de coworking en PACA ; demande de centres de formation professionnelle et locaux de réunion adaptés aux clusters sectoriels.",
+      "date": "23/06/2026",
+      "url": "https://www.laprovence.com/article/economie/76213092069472/parlons-industrie-sans-competences-il-ny-aura-pas-de-reindustrialisation-assure-la-ministre-sabrina-roubache",
       "source": "La Provence",
       "tags": [
         {
@@ -53,37 +53,33 @@
           "cls": "tp"
         },
         {
-          "label": "Entrepreneuriat",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Rencontres Iter : 400 acteurs industrie à Aix-en-Provence",
-      "body": "La deuxième édition des Rencontres Iter le 7 juillet rassemble 400 professionnels en maintenance, ingénierie, robotique et usinage. Événement clé pour les secteurs de l'industrie innovante en Provence-Alpes-Côte d'Azur.",
-      "impact": "Prospection immobilière : identifier besoins en locaux d'activité/R&D pour entreprises présentes aux Rencontres Iter.",
-      "date": "21/06/2026",
-      "url": "https://www.laprovence.com/article/region/2376322266577614/industrie-et-innovation-400-acteurs-de-la-filiere-attendus-aux-rencontres-iter-le-7-juillet-a-aix-en-provence",
-      "source": "La Provence",
+      "title": "Financement immobilier tertiaire : taux OAT 3.70%, Euribor 3M 2.15%",
+      "body": "Les conditions de financement restent stables avec un taux OAT à 3.70% et Euribor 3M à 2.15%. Ces niveaux continuent de peser sur la rentabilité des investissements immobiliers tertiaires en région.",
+      "impact": "Conseiller une stratégie de taux mixte et refinancement opportuniste pour les acquisitions de bureaux et locaux activité en PACA ; prioriser les actifs générant forte valeur ajoutée.",
+      "date": "23/06/2026",
+      "url": "https://www.marches-financiers.fr/",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché immobilier",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Congrès experts-comptables PACA : focus transformation numérique",
-      "body": "Le 13e congrès régional de l'Ordre des experts-comptables PACA (9-10 juillet, Marseille) place la transformation numérique au cœur des enjeux. Rendez-vous stratégique pour networker avec décideurs financiers régionaux.",
-      "impact": "Opportunité : établir contacts avec experts-comptables prescripteurs pour accompagner clients en transaction immobilière d'entreprise.",
-      "date": "21/06/2026",
-      "url": "https://www.laprovence.com/article/region/53363435099065/lordre-des-experts-comptables-organise-son-congres-regional-en-juillet-a-marseille",
+      "title": "Marché d'intérêt national Marseille : nouvelle gouvernance et dynamique",
+      "body": "La nouvelle présidente du MIN Marseille, Rebecca Bernardi, prend ses fonctions et souhaite remettre les compteurs à zéro pour relancer le marché. Cette transition offre l'opportunité d'optimiser les espaces commerciaux et les surfaces logistiques.",
+      "impact": "Perspective de réorganisation des locaux commerciaux et entrepôts au MIN Marseille ; audit de l'immobilier d'exploitation et opportunités de restructuration.",
+      "date": "23/06/2026",
+      "url": "https://www.laprovence.com/article/economie/71264744635282/marche-dinteret-national-a-marseille-il-faut-remettre-les-compteurs-a-zero-pour-la-nouvelle-presidente-rebecca-bernardi",
       "source": "La Provence",
       "tags": [
         {
@@ -91,8 +87,8 @@
           "cls": "tp"
         },
         {
-          "label": "Financement",
-          "cls": "tt"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,46 +96,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Électrification régionale : nouvelle ligne THT 400kV Jonquières-Fos 2029",
-      "body": "La mise en service de la ligne THT aérienne 400 kV entre Jonquières-Saint-Vincent (Gard) et Fos-sur-Mer est confirmée pour 2029. Infrastructure critique pour l'avenir énergétique et industriel provençal, avec soutien de Provence Fabrique des Possibles.",
-      "impact": "Impact structurant sur attractivité immobilière tertiaire/activité zones Fos-sur-Mer et corridor énergétique PACA.",
-      "date": "21/06/2026",
-      "url": "https://www.laprovence.com/article/economie/25342703740867/electrification-de-la-region-le-soutien-de-provence-fabrique-des-possibles-a-la-nouvelle-ligne-tht",
+      "title": "Défense : la région PACA renforce son rôle stratégique national",
+      "body": "Face aux tensions géopolitiques et à la guerre en Ukraine, la région PACA s'affirme comme acteur clé de la stratégie défense française. Cet enjeu de souveraineté transforme les investissements économiques régionaux et les relocalisations industrielles.",
+      "impact": "Accélération des investissements en immobilier de défense et sites sécurisés en PACA ; hausse de la demande de locaux d'activité certifiés pour l'industrie de défense.",
+      "date": "23/06/2026",
+      "url": "https://www.laprovence.com/article/economie/7081695335499514/parlons-industrie-sur-le-volet-defense-la-region-veut-renforcer-son-role-strategique-a-lechelle-nationale",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Pouvoir d'achat : crise énergétique pénalise ménages PACA",
-      "body": "Dossier spécial La Provence montre réduction du pouvoir d'achat dans plusieurs métiers (auxiliaires, pêcheurs, taxis) dues à la crise énergétique. Baisse de consommation attendue impactant secteur tertiaire et services.",
-      "impact": "Risque de baisse demande locaux commerce/services ; opportunité reprises courtes durée pour restructurations.",
-      "date": "21/06/2026",
-      "url": "https://www.laprovence.com/article/economie/18469145900081/pouvoir-dachat-le-coup-de-pompe-retrouvez-tous-les-episodes-de-notre-dossier-special-a-travers-la-provence",
-      "source": "La Provence",
+      "title": "Inflation France : stabilisation à 1.7%, contexte favorable au crédit",
+      "body": "L'inflation française demeure maîtrisée à 1.7%, offrant un environnement de stabilité relative pour les investissements long terme. La BCE maintient des taux directeurs à 2.15%, soutenant la demande de financement.",
+      "impact": "Environnement favorable au refinancement et aux nouveaux montages financiers immobiliers ; conditions propices pour structurer des SCPI et véhicules d'investissement.",
+      "date": "23/06/2026",
+      "url": "https://www.banque-france.fr/",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Inflation",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macro : OAT 3.70%, Euribor3M 2.15%, inflation 1.7%",
-      "body": "Environnement de taux stables : OAT long terme 3.70%, Euribor 3 mois 2.15%, BCE maintenant 2.15%, inflation modérée 1.7%. Marché énergétique : Brent 96 USD/baril. Contexte favorable au financement immobilier d'entreprise.",
-      "impact": "Fenêtre de refinancement attractive pour clients cherchant locaux ; recommander blocage taux long avant remontées potentielles.",
-      "date": "22/06/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "title": "Énergie : Brent stable à 96 USD/baril, facteur de stabilité",
+      "body": "Le prix du Brent demeure stable à 96 USD/baril, reflétant un équilibre des risques géopolitiques. Cette stabilité énergétique limite les volatilités d'exploitation pour les sites industriels et logistiques.",
+      "impact": "Coûts opérationnels prévisibles pour l'immobilier activité ; favorable aux calculs de rentabilité long terme des projets en PACA.",
+      "date": "23/06/2026",
+      "url": "https://www.energie-marches.fr/",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "Énergie",
+          "cls": "tg"
         }
       ]
     }

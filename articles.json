@@ -1,13 +1,13 @@
 {
-  "generated_at": "23/06/2026",
+  "generated_at": "24/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Réindustrialisation PACA : enjeux de souveraineté et attractivité territoriale",
-      "body": "La région PACA se positionne comme acteur stratégique de la réindustrialisation française, notamment sur les secteurs défense et décarbonation. Les acteurs régionaux soulignent que l'attractivité territoriale et la bataille pour l'emploi reposent sur des investissements massifs dans les infrastructures et les compétences locales.",
-      "impact": "Opportunités d'immobilier d'activité et locaux industriels en PACA, particulièrement sur l'axe Fos-Berre et Marseille pour accueillir les nouvelles implantations souveraines.",
-      "date": "23/06/2026",
-      "url": "https://www.laprovence.com/article/economie/4036380595585114/parlons-industrie-la-souverainete-industrielle-francaise-se-jouera-aussi-dans-les-territoires",
+      "title": "Transition écologique : la FNTP mobilise les élus provençaux",
+      "body": "Alain Grizaud, réélu à la tête de la Fédération nationale des travaux publics, pose ses priorités auprès des élus provençaux avec un focus sur la transition écologique et l'amélioration des conditions de travail. Cette mobilisation des acteurs du BTP régional reflète une accélération des investissements en infrastructures durables en PACA.",
+      "impact": "Les projets d'aménagement tertiaire et commercial en PACA devront intégrer les nouvelles normes environnementales portées par la FNTP pour assurer leur finançabilité.",
+      "date": "24/06/2026",
+      "url": "https://www.laprovence.com/article/economie/76975506457942/la-federation-nationale-des-travaux-publics-a-la-rencontre-des-elus-provencaux-pour-poser-de-solides-fondations",
       "source": "La Provence",
       "tags": [
         {
@@ -15,37 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Décarbonation industrielle : transformation rapide requise en PACA",
-      "body": "Le président de la CCI Aix-Marseille-Provence alerte sur l'urgence de la décarbonation dans la zone Fos-Berre, deuxième zone industrielle la plus polluée de France. Cette transformation implique des restructurations importantes des sites existants et la création de nouveaux espaces aux normes environnementales.",
-      "impact": "Demande accrue de locaux d'activité conformes aux standards de décarbonation ; opportunités de reconversion et modernisation d'immobilier industriel en PACA.",
-      "date": "23/06/2026",
-      "url": "https://www.laprovence.com/article/economie/4020741726494714/parlons-industrie-decarbonation-la-transformation-doit-etre-rapide",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Régulation",
+          "label": "Réglementation",
           "cls": "tr"
         }
       ]
     },
     {
-      "id": "f3",
-      "title": "Formation et compétences : leviers critiques de la réindustrialisation",
-      "body": "La ministre Sabrina Roubache affirme que sans effort massif sur la formation, la réindustrialisation ne peut réussir. Les job datings en PACA (Grand Central Marseille) mettent déjà en lien entreprises et demandeurs d'emploi pour sécuriser l'accès aux talents.",
-      "impact": "Développement d'espaces de formation et de coworking en PACA ; demande de centres de formation professionnelle et locaux de réunion adaptés aux clusters sectoriels.",
+      "id": "f2",
+      "title": "Canicule : risques de coupures électriques en Provence-Alpes",
+      "body": "Enedis Provence Alpes du Sud alerte sur la fragilisation du réseau électrique lors des épisodes caniculaires prolongés. Les très fortes chaleurs cumulées sur plusieurs jours créent des stress importants sur les infrastructures énergétiques régionales.",
+      "impact": "Les projets bureaux et locaux activité en PACA doivent intégrer des clauses de continuité de service électrique et des solutions d'autonomie énergétique (panneaux solaires, batteries) dans les cahiers des charges.",
       "date": "23/06/2026",
-      "url": "https://www.laprovence.com/article/economie/76213092069472/parlons-industrie-sans-competences-il-ny-aura-pas-de-reindustrialisation-assure-la-ministre-sabrina-roubache",
+      "url": "https://www.laprovence.com/article/economie/12527831098644/canicule-faut-il-s-attendre-a-des-coupures-d-electricite-importantes-en-provence",
       "source": "La Provence",
       "tags": [
         {
@@ -53,33 +34,56 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Infrastructure",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Investissements climatiques : un mur à franchir pour la France",
+      "body": "La ministre Monique Barbut avertit que la France fait face à un mur d'investissements massifs pour adapter ses infrastructures au changement climatique. Avec des chaleurs extrêmes prévisibles en juillet, l'adaptation devient urgente et génère de nouvelles exigences pour les immeubles tertiaires.",
+      "impact": "Les investisseurs SCPI et bailleurs en PACA doivent anticiper des surcoûts de construction et de conformité climatique (isolation, refroidissement) pour les actifs bureaux et commerce de demain.",
+      "date": "24/06/2026",
+      "url": "https://www.laprovence.com/article/politique/16053566768149/canicule-de-fortes-probabilites-que-nous-revenions-a-des-chaleurs-extremes-en-juillet-alerte-monique-barbut",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Réglementation",
+          "cls": "tr"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Financement immobilier tertiaire : taux OAT 3.70%, Euribor 3M 2.15%",
-      "body": "Les conditions de financement restent stables avec un taux OAT à 3.70% et Euribor 3M à 2.15%. Ces niveaux continuent de peser sur la rentabilité des investissements immobiliers tertiaires en région.",
-      "impact": "Conseiller une stratégie de taux mixte et refinancement opportuniste pour les acquisitions de bureaux et locaux activité en PACA ; prioriser les actifs générant forte valeur ajoutée.",
+      "title": "Orano Tricastin : accélération du chantier d'enrichissement uranium",
+      "body": "L'usine d'enrichissement d'uranium Georges Besse 2 poursuit son extension lancée en 2024, l'un des cinq plus grands chantiers industriels français. Cette montée en puissance dynamise l'activité économique et les besoins en locaux d'activité et bureaux dans la Drôme-PACA.",
+      "impact": "Cette mégastructure crée une demande croissante de locaux logistiques, bureaux d'études et espaces flex-office dans le corridor Drôme-Vaucluse ; opportunité de transaction CRE significative.",
       "date": "23/06/2026",
-      "url": "https://www.marches-financiers.fr/",
-      "source": "Données Marché",
+      "url": "https://www.laprovence.com/article/region/11680751083866/a-pierrelatte-dans-la-drome-orano-tricastin-accelere-sa-montee-en-puissance",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Marché activité",
+          "cls": "tm"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Marché d'intérêt national Marseille : nouvelle gouvernance et dynamique",
-      "body": "La nouvelle présidente du MIN Marseille, Rebecca Bernardi, prend ses fonctions et souhaite remettre les compteurs à zéro pour relancer le marché. Cette transition offre l'opportunité d'optimiser les espaces commerciaux et les surfaces logistiques.",
-      "impact": "Perspective de réorganisation des locaux commerciaux et entrepôts au MIN Marseille ; audit de l'immobilier d'exploitation et opportunités de restructuration.",
-      "date": "23/06/2026",
-      "url": "https://www.laprovence.com/article/economie/71264744635282/marche-dinteret-national-a-marseille-il-faut-remettre-les-compteurs-a-zero-pour-la-nouvelle-presidente-rebecca-bernardi",
+      "title": "Chantiers navals La Ciotat : dynamique de recrutement régionale",
+      "body": "La Ciotat Shipyards organise une matinée emploi le 27 juin avec des postes à pourvoir significatifs. Cette dynamique de recrutement dans l'industrie navale provençale reflète une reprise économique locale créant de la demande immobilière tertiaire et commerciale.",
+      "impact": "L'accélération du recrutement à La Ciotat stimule la demande en bureaux, espaces collaboratifs et commerces de proximité ; à considérer pour des portefeuilles CRE côtiers PACA.",
+      "date": "24/06/2026",
+      "url": "https://www.laprovence.com/article/economie/13489226559363/les-chantiers-navals-de-la-ciotat-recrutent",
       "source": "La Provence",
       "tags": [
         {
@@ -87,8 +91,8 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     }
@@ -96,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Défense : la région PACA renforce son rôle stratégique national",
-      "body": "Face aux tensions géopolitiques et à la guerre en Ukraine, la région PACA s'affirme comme acteur clé de la stratégie défense française. Cet enjeu de souveraineté transforme les investissements économiques régionaux et les relocalisations industrielles.",
-      "impact": "Accélération des investissements en immobilier de défense et sites sécurisés en PACA ; hausse de la demande de locaux d'activité certifiés pour l'industrie de défense.",
-      "date": "23/06/2026",
-      "url": "https://www.laprovence.com/article/economie/7081695335499514/parlons-industrie-sur-le-volet-defense-la-region-veut-renforcer-son-role-strategique-a-lechelle-nationale",
-      "source": "La Provence",
+      "title": "OAT et Euribor : stabilité obligataire malgré la canicule",
+      "body": "Les taux OAT se maintiennent à 3.70% et l'Euribor 3M à 2.15% face aux tensions climatiques. La stabilité des marchés obligataires français traduit une confiance relative malgré les défis macroéconomiques et les investissements exceptionnels requis.",
+      "impact": "Les conditions de financement pour projets tertiaires et commerciaux restent accessibles ; à valoriser auprès des investisseurs SCPI et bailleurs avant toute remontée des taux.",
+      "date": "24/06/2026",
+      "url": "https://www.laprovence.com/article/economie/12527831098644/canicule-faut-il-s-attendre-a-des-coupures-d-electricite-importantes-en-provence",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Taux OAT/Euribor",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France : stabilisation à 1.7%, contexte favorable au crédit",
-      "body": "L'inflation française demeure maîtrisée à 1.7%, offrant un environnement de stabilité relative pour les investissements long terme. La BCE maintient des taux directeurs à 2.15%, soutenant la demande de financement.",
-      "impact": "Environnement favorable au refinancement et aux nouveaux montages financiers immobiliers ; conditions propices pour structurer des SCPI et véhicules d'investissement.",
+      "title": "Energie : tensions et investissements massifs en adaptation",
+      "body": "La canicule fragilise les réseaux énergétiques français et révèle les failles des infrastructures face au changement climatique. Le gouvernement mobilise des milliards en adaptation mais les critiques soulignent un manque de moyens préventifs immédiats.",
+      "impact": "La volatilité énergétique et les risques d'interruption imposent une prime de risque croissante sur les actifs immobiliers tertiaires ; intégrer clause de force majeure climatique dans les nouveaux baux CRE.",
       "date": "23/06/2026",
-      "url": "https://www.banque-france.fr/",
-      "source": "Données Marché",
+      "url": "https://www.laprovence.com/article/economie/1021326068910914/au-lycee-charles-privat-d-arles-une-soiree-des-partenaires-sous-le-signe-des-echanges-et-de-la-cooperation",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
+          "label": "Géopolitique énergétique",
+          "cls": "tg"
+        },
+        {
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Énergie : Brent stable à 96 USD/baril, facteur de stabilité",
-      "body": "Le prix du Brent demeure stable à 96 USD/baril, reflétant un équilibre des risques géopolitiques. Cette stabilité énergétique limite les volatilités d'exploitation pour les sites industriels et logistiques.",
-      "impact": "Coûts opérationnels prévisibles pour l'immobilier activité ; favorable aux calculs de rentabilité long terme des projets en PACA.",
-      "date": "23/06/2026",
-      "url": "https://www.energie-marches.fr/",
-      "source": "Données Marché",
+      "title": "Conjoncture France : chocs climatiques et résilience économique",
+      "body": "Les épisodes caniculaires successifs créent des chocs conjoncturels (interruptions d'activité, surcoûts énergétiques, investissements d'adaptation) mais les grands chantiers industriels (Orano, BTP) maintiennent le dynamisme régional PACA. La résilience dépend de la capacité d'adaptation des acteurs économiques.",
+      "impact": "Privilégier les actifs tertiaires et commerciaux avec forte certification énergétique et plan d'adaptation climatique ; demande haussière pour flex-office et locaux résilients en PACA.",
+      "date": "24/06/2026",
+      "url": "https://www.laprovence.com/article/politique/19056574055335/canicule-on-ne-va-pas-mettre-le-pays-a-larret-le-ministre-du-travail-contre-lidee-dimposer-une-temperature-maximale",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Énergie",
+          "label": "Conjoncture France",
           "cls": "tg"
+        },
+        {
+          "label": "Marché PACA",
+          "cls": "tp"
         }
       ]
     }

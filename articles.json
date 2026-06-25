@@ -1,13 +1,13 @@
 {
-  "generated_at": "24/06/2026",
+  "generated_at": "25/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Transition écologique : la FNTP mobilise les élus provençaux",
-      "body": "Alain Grizaud, réélu à la tête de la Fédération nationale des travaux publics, pose ses priorités auprès des élus provençaux avec un focus sur la transition écologique et l'amélioration des conditions de travail. Cette mobilisation des acteurs du BTP régional reflète une accélération des investissements en infrastructures durables en PACA.",
-      "impact": "Les projets d'aménagement tertiaire et commercial en PACA devront intégrer les nouvelles normes environnementales portées par la FNTP pour assurer leur finançabilité.",
-      "date": "24/06/2026",
-      "url": "https://www.laprovence.com/article/economie/76975506457942/la-federation-nationale-des-travaux-publics-a-la-rencontre-des-elus-provencaux-pour-poser-de-solides-fondations",
+      "title": "Pikip Solar Speakers : innovation verte à Marseille",
+      "body": "La jeune entreprise marseillaise Pikip Solar Speakers développe des enceintes alimentées à l'énergie solaire, positionnant Marseille comme hub d'innovation durable. La journée portes ouvertes du 9 juin 2026 a consolidé sa présence commerciale locale.",
+      "impact": "Indicateur de demande croissante pour les locaux d'activité écologiques en PACA ; opportunité de baux verts pour PME innovantes.",
+      "date": "25/06/2026",
+      "url": "https://www.laprovence.com/article/economie/47712056072570/a-marseille-pikip-solar-speakers-fait-carburer-le-son-a-l-energie-verte",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Activité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Canicule : risques de coupures électriques en Provence-Alpes",
-      "body": "Enedis Provence Alpes du Sud alerte sur la fragilisation du réseau électrique lors des épisodes caniculaires prolongés. Les très fortes chaleurs cumulées sur plusieurs jours créent des stress importants sur les infrastructures énergétiques régionales.",
-      "impact": "Les projets bureaux et locaux activité en PACA doivent intégrer des clauses de continuité de service électrique et des solutions d'autonomie énergétique (panneaux solaires, batteries) dans les cahiers des charges.",
-      "date": "23/06/2026",
-      "url": "https://www.laprovence.com/article/economie/12527831098644/canicule-faut-il-s-attendre-a-des-coupures-d-electricite-importantes-en-provence",
+      "title": "bAAM ! : nutrition sportive, manufactur PACA en expansion",
+      "body": "La startup marseillaise fondée en 2019 cumule prix d'innovation et label 'Fabriqué à Marseille', consolidant l'écosystème agritech provençal. Cette dynamique attire de nouveaux talents et renforce la demande locales en espaces de production.",
+      "impact": "Croissance des besoins en locaux logistiques et de production pour PME label ; valorise les murs à usage commerce-activité mixte.",
+      "date": "25/06/2026",
+      "url": "https://www.laprovence.com/article/economie/44819797751543/baam-la-jeune-pousse-marseillaise-au-service-de-la-nutrition-sportive",
       "source": "La Provence",
       "tags": [
         {
@@ -34,56 +34,56 @@
           "cls": "tp"
         },
         {
-          "label": "Infrastructure",
-          "cls": "tg"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Investissements climatiques : un mur à franchir pour la France",
-      "body": "La ministre Monique Barbut avertit que la France fait face à un mur d'investissements massifs pour adapter ses infrastructures au changement climatique. Avec des chaleurs extrêmes prévisibles en juillet, l'adaptation devient urgente et génère de nouvelles exigences pour les immeubles tertiaires.",
-      "impact": "Les investisseurs SCPI et bailleurs en PACA doivent anticiper des surcoûts de construction et de conformité climatique (isolation, refroidissement) pour les actifs bureaux et commerce de demain.",
-      "date": "24/06/2026",
-      "url": "https://www.laprovence.com/article/politique/16053566768149/canicule-de-fortes-probabilites-que-nous-revenions-a-des-chaleurs-extremes-en-juillet-alerte-monique-barbut",
+      "title": "Letsignit : SaaS marseillaise en croissance B2B",
+      "body": "La pépite marseillaise Letsignit lance Letsignit Slides pour résoudre les présentations PowerPoint en entreprise, reflétant la maturation de l'écosystème tech PACA. Le codéveloppement stratégique signe une consolidation des compétences locales.",
+      "impact": "Demand soutenue pour espaces de bureaux modernes équipés (hub tech) à Marseille ; opportunité d'immeubles tertiaires premium pour scale-ups.",
+      "date": "25/06/2026",
+      "url": "https://www.laprovence.com/article/economie/42058101553025/depuis-marseille-letsignit-sattaque-aux-presentations-powerpoint-ratees-en-entreprise",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Bureaux",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Orano Tricastin : accélération du chantier d'enrichissement uranium",
-      "body": "L'usine d'enrichissement d'uranium Georges Besse 2 poursuit son extension lancée en 2024, l'un des cinq plus grands chantiers industriels français. Cette montée en puissance dynamise l'activité économique et les besoins en locaux d'activité et bureaux dans la Drôme-PACA.",
-      "impact": "Cette mégastructure crée une demande croissante de locaux logistiques, bureaux d'études et espaces flex-office dans le corridor Drôme-Vaucluse ; opportunité de transaction CRE significative.",
-      "date": "23/06/2026",
-      "url": "https://www.laprovence.com/article/region/11680751083866/a-pierrelatte-dans-la-drome-orano-tricastin-accelere-sa-montee-en-puissance",
+      "title": "Métiers du bâtiment PACA : défis RH et rénovation",
+      "body": "Les rencontres marseillaises du bâtiment révèlent des tensions structurelles (incertitudes économiques, réglementation, marché tendu). Santé-sécurité et parité restent des axes prioritaires malgré le contexte économique dégradé.",
+      "impact": "Pression baissière sur locations bureaux/activité secteur BTP ; surveiller le flux de défaillances et opportunités de reprises.",
+      "date": "24/06/2026",
+      "url": "https://www.laprovence.com/article/economie/36263587660970/rencontres-des-metiers-du-batiment-a-marseille-la-sante-et-la-parite-au-coeur-des-debats",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché activité",
-          "cls": "tm"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Chantiers navals La Ciotat : dynamique de recrutement régionale",
-      "body": "La Ciotat Shipyards organise une matinée emploi le 27 juin avec des postes à pourvoir significatifs. Cette dynamique de recrutement dans l'industrie navale provençale reflète une reprise économique locale créant de la demande immobilière tertiaire et commerciale.",
-      "impact": "L'accélération du recrutement à La Ciotat stimule la demande en bureaux, espaces collaboratifs et commerces de proximité ; à considérer pour des portefeuilles CRE côtiers PACA.",
+      "title": "Artisanat provençal : Parasols Flandin conquiert Miami",
+      "body": "Depuis La Valentine à Marseille, Parasols Flandin exporte son savoir-faire depuis 1982, témoignant de la solidité de l'artisanat PACA. L'expansion internationale valide le modèle économique des PME manufacturières locales.",
+      "impact": "Exemple de PME stable justifiant investissement en locaux activité long terme ; reconnaître valeur des quartiers semi-industriels.",
       "date": "24/06/2026",
-      "url": "https://www.laprovence.com/article/economie/13489226559363/les-chantiers-navals-de-la-ciotat-recrutent",
+      "url": "https://www.laprovence.com/article/economie/32842421865491/parasols-flandin-l-artisanat-provencal-increvable-qui-seduit-miami",
       "source": "La Provence",
       "tags": [
         {
@@ -91,8 +91,8 @@
           "cls": "tp"
         },
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     }
@@ -100,58 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "OAT et Euribor : stabilité obligataire malgré la canicule",
-      "body": "Les taux OAT se maintiennent à 3.70% et l'Euribor 3M à 2.15% face aux tensions climatiques. La stabilité des marchés obligataires français traduit une confiance relative malgré les défis macroéconomiques et les investissements exceptionnels requis.",
-      "impact": "Les conditions de financement pour projets tertiaires et commerciaux restent accessibles ; à valoriser auprès des investisseurs SCPI et bailleurs avant toute remontée des taux.",
+      "title": "Renault réduit effectifs ingénierie : signal récession",
+      "body": "Renault annonce 800 départs volontaires d'ingénieurs d'ici fin 2027, concentrés Île-de-France. Ce plan restructurant reflète les tensions du secteur automobile et la réorganisation industrielle française.",
+      "impact": "Indicateur baissier macro : risque contraction tertiaire national ; vérifier exposition portefeuille PACA aux secteurs cycliques connexes.",
       "date": "24/06/2026",
-      "url": "https://www.laprovence.com/article/economie/12527831098644/canicule-faut-il-s-attendre-a-des-coupures-d-electricite-importantes-en-provence",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/35433269857565/renault-annonce-un-plan-de-departs-volontaires-concernant-800-ingenieurs-en-france-dici-fin-2027",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux OAT/Euribor",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         },
         {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Energie : tensions et investissements massifs en adaptation",
-      "body": "La canicule fragilise les réseaux énergétiques français et révèle les failles des infrastructures face au changement climatique. Le gouvernement mobilise des milliards en adaptation mais les critiques soulignent un manque de moyens préventifs immédiats.",
-      "impact": "La volatilité énergétique et les risques d'interruption imposent une prime de risque croissante sur les actifs immobiliers tertiaires ; intégrer clause de force majeure climatique dans les nouveaux baux CRE.",
-      "date": "23/06/2026",
-      "url": "https://www.laprovence.com/article/economie/1021326068910914/au-lycee-charles-privat-d-arles-une-soiree-des-partenaires-sous-le-signe-des-echanges-et-de-la-cooperation",
+      "title": "Assises agriculture Vaucluse : crise filière persistante",
+      "body": "Mercredi 24 juin, les Assises agriculture Vaucluse montrent les vulnérabilités sectorielles : économie fragile, changement climatique, accès foncier. L'événement souligne les défis d'adaptation de la filière agricole provençale.",
+      "impact": "Secteur primaire en stress structurel ; risque baissier sur locaux commerciaux/activité en zones rurales PACA.",
+      "date": "25/06/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/34633276099081/des-assises-de-l-agriculture-du-vaucluse-pour-reflechir-ensemble-aux-solutions-de-sauvetage-de-la-filiere",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique énergétique",
-          "cls": "tg"
+          "label": "Conjoncture",
+          "cls": "tm"
         },
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Conjoncture France : chocs climatiques et résilience économique",
-      "body": "Les épisodes caniculaires successifs créent des chocs conjoncturels (interruptions d'activité, surcoûts énergétiques, investissements d'adaptation) mais les grands chantiers industriels (Orano, BTP) maintiennent le dynamisme régional PACA. La résilience dépend de la capacité d'adaptation des acteurs économiques.",
-      "impact": "Privilégier les actifs tertiaires et commerciaux avec forte certification énergétique et plan d'adaptation climatique ; demande haussière pour flex-office et locaux résilients en PACA.",
-      "date": "24/06/2026",
-      "url": "https://www.laprovence.com/article/politique/19056574055335/canicule-on-ne-va-pas-mettre-le-pays-a-larret-le-ministre-du-travail-contre-lidee-dimposer-une-temperature-maximale",
-      "source": "La Provence",
+      "title": "Marché taux : OAT 3.70%, Euribor 2.15%, BCE stable",
+      "body": "Contexte de taux stabilisé à court terme : OAT 3.70%, Euribor3M 2.15%, taux directeur BCE 2.15%, inflation 1.7%. L'environnement financier reste favorable aux financements tertiaires malgré les incertitudes macro.",
+      "impact": "Fenêtre de refinancement optimale pour baux CRE 2026-2027 ; cadencer négociations avant volatilité d'été.",
+      "date": "25/06/2026",
+      "url": "https://www.bce.europa.eu",
+      "source": "Données marché consensus",
       "tags": [
         {
-          "label": "Conjoncture France",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Marché PACA",
-          "cls": "tp"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "25/06/2026",
+  "generated_at": "26/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Pikip Solar Speakers : innovation verte à Marseille",
-      "body": "La jeune entreprise marseillaise Pikip Solar Speakers développe des enceintes alimentées à l'énergie solaire, positionnant Marseille comme hub d'innovation durable. La journée portes ouvertes du 9 juin 2026 a consolidé sa présence commerciale locale.",
-      "impact": "Indicateur de demande croissante pour les locaux d'activité écologiques en PACA ; opportunité de baux verts pour PME innovantes.",
+      "title": "Immobilier marseillais : incertitudes et recherche de solutions",
+      "body": "La 18e Journée de l'immobilier réunissait 130 professionnels au Dock des Suds pour débattre de l'immobilier de demain face aux enjeux actuels. Le secteur marseillais exprime son besoin de clarté réglementaire et de stabilité économique.",
+      "impact": "Pour les consultants transaction PACA, cette période d'incertitude rend crucial l'accompagnement clients sur valorisation et timing de cession/location bureaux et locaux d'activité.",
       "date": "25/06/2026",
-      "url": "https://www.laprovence.com/article/economie/47712056072570/a-marseille-pikip-solar-speakers-fait-carburer-le-son-a-l-energie-verte",
+      "url": "https://www.laprovence.com/article/economie/18722684258658/un-moment-rempli-d-incertitudes-le-secteur-de-l-immobilier-a-marseille-en-quete-de-solutions",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "bAAM ! : nutrition sportive, manufactur PACA en expansion",
-      "body": "La startup marseillaise fondée en 2019 cumule prix d'innovation et label 'Fabriqué à Marseille', consolidant l'écosystème agritech provençal. Cette dynamique attire de nouveaux talents et renforce la demande locales en espaces de production.",
-      "impact": "Croissance des besoins en locaux logistiques et de production pour PME label ; valorise les murs à usage commerce-activité mixte.",
+      "title": "Canicule : 58% des chantiers construction subissent retards",
+      "body": "Selon la Capeb, plus de la moitié des chantiers de construction en PACA enregistrent des retards dus aux conditions climatiques extrêmes. Cette situation affecte directement les calendriers de livraison immobilière régionale.",
+      "impact": "Les délais de constitution de stock tertiaire s'allongent ; conseiller les preneurs sur anticipation des besoins en bureau/activité dès H2 2026.",
       "date": "25/06/2026",
-      "url": "https://www.laprovence.com/article/economie/44819797751543/baam-la-jeune-pousse-marseillaise-au-service-de-la-nutrition-sportive",
+      "url": "https://www.laprovence.com/article/economie/1450207244337214/avec-la-canicule-58-des-chantiers-de-construction-subissent-des-retards",
       "source": "La Provence",
       "tags": [
         {
@@ -41,11 +41,11 @@
     },
     {
       "id": "f3",
-      "title": "Letsignit : SaaS marseillaise en croissance B2B",
-      "body": "La pépite marseillaise Letsignit lance Letsignit Slides pour résoudre les présentations PowerPoint en entreprise, reflétant la maturation de l'écosystème tech PACA. Le codéveloppement stratégique signe une consolidation des compétences locales.",
-      "impact": "Demand soutenue pour espaces de bureaux modernes équipés (hub tech) à Marseille ; opportunité d'immeubles tertiaires premium pour scale-ups.",
+      "title": "Tour résidentielle M99 : dynamique construction marseillaise",
+      "body": "Le chantier de la future tour M99 à Marseille progresse avec installation des éléments de façade (8.7t) au rythme de deux étages par demi-journée. Ce projet illustre la continuité des investissements en immobilier régional.",
+      "impact": "Opportunité pour sourcer terrains/bâtiments d'activité auprès des sous-traitants BTP mobilisés sur les grands chantiers marseillais.",
       "date": "25/06/2026",
-      "url": "https://www.laprovence.com/article/economie/42058101553025/depuis-marseille-letsignit-sattaque-aux-presentations-powerpoint-ratees-en-entreprise",
+      "url": "https://www.laprovence.com/article/economie/43045717231771/a-marseille-la-facade-de-la-future-tour-residentielle-m99-se-dessine",
       "source": "La Provence",
       "tags": [
         {
@@ -53,18 +53,18 @@
           "cls": "tp"
         },
         {
-          "label": "Bureaux",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Métiers du bâtiment PACA : défis RH et rénovation",
-      "body": "Les rencontres marseillaises du bâtiment révèlent des tensions structurelles (incertitudes économiques, réglementation, marché tendu). Santé-sécurité et parité restent des axes prioritaires malgré le contexte économique dégradé.",
-      "impact": "Pression baissière sur locations bureaux/activité secteur BTP ; surveiller le flux de défaillances et opportunités de reprises.",
-      "date": "24/06/2026",
-      "url": "https://www.laprovence.com/article/economie/36263587660970/rencontres-des-metiers-du-batiment-a-marseille-la-sante-et-la-parite-au-coeur-des-debats",
+      "title": "Saint-Martin-de-Crau dynamise son tissu économique",
+      "body": "Entreprises et compétences de Saint-Martin-de-Crau organisait une visite de Intermer, fleuron régional de la navigation, animée par élus et acteurs locaux. Cette initiative renforce le positionnement du territoire comme pôle économique attractif.",
+      "impact": "Identifier locaux/zones d'activité disponibles en zone nord-PACA pour accompagner développement PME manufacturières.",
+      "date": "26/06/2026",
+      "url": "https://www.laprovence.com/article/economie/11729527502530/tania-teixier-et-plusieurs-elus-visitent-le-fleuron-de-la-navigation-intermer-base-a-saint-martin-de-crau",
       "source": "La Provence",
       "tags": [
         {
@@ -72,26 +72,26 @@
           "cls": "tp"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Artisanat provençal : Parasols Flandin conquiert Miami",
-      "body": "Depuis La Valentine à Marseille, Parasols Flandin exporte son savoir-faire depuis 1982, témoignant de la solidité de l'artisanat PACA. L'expansion internationale valide le modèle économique des PME manufacturières locales.",
-      "impact": "Exemple de PME stable justifiant investissement en locaux activité long terme ; reconnaître valeur des quartiers semi-industriels.",
-      "date": "24/06/2026",
-      "url": "https://www.laprovence.com/article/economie/32842421865491/parasols-flandin-l-artisanat-provencal-increvable-qui-seduit-miami",
-      "source": "La Provence",
+      "title": "Financement immobilier : OAT/Euribor stables, incertitudes politiques",
+      "body": "OAT 10Y à 3.70%, Euribor 3M à 2.15% ; environnement de taux stabilisé en attente de décisions BCE. Les conditions de crédit restent supportables pour acquéreurs/preneur de petites surfaces.",
+      "impact": "Profiter des taux stables pour conseiller locataires tertiaire PACA sur refinancement/renégociation baux avant fin H2 2026.",
+      "date": "26/06/2026",
+      "url": "https://www.laprovence.com/article/economie/1450207244337214/avec-la-canicule-58-des-chantiers-de-construction-subissent-des-retards",
+      "source": "Consensus marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
@@ -100,58 +100,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Renault réduit effectifs ingénierie : signal récession",
-      "body": "Renault annonce 800 départs volontaires d'ingénieurs d'ici fin 2027, concentrés Île-de-France. Ce plan restructurant reflète les tensions du secteur automobile et la réorganisation industrielle française.",
-      "impact": "Indicateur baissier macro : risque contraction tertiaire national ; vérifier exposition portefeuille PACA aux secteurs cycliques connexes.",
-      "date": "24/06/2026",
-      "url": "https://www.laprovence.com/article/economie/35433269857565/renault-annonce-un-plan-de-departs-volontaires-concernant-800-ingenieurs-en-france-dici-fin-2027",
-      "source": "La Provence",
+      "title": "Taux France : OAT 3.70%, trajectoire à surveiller",
+      "body": "Les obligations d'État français se stabilisent à 3.70% sur 10 ans. Euribor 3M demeure à 2.15%, signalant une attente de stabilité monétaire avant la réunion BCE de juillet.",
+      "impact": "Conditions de crédit favorables pour transactions immobilières; maintenir stratégie de negociation commerciale sur durée des engagements.",
+      "date": "26/06/2026",
+      "url": "https://www.bpifrance.fr",
+      "source": "Consensus marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Assises agriculture Vaucluse : crise filière persistante",
-      "body": "Mercredi 24 juin, les Assises agriculture Vaucluse montrent les vulnérabilités sectorielles : économie fragile, changement climatique, accès foncier. L'événement souligne les défis d'adaptation de la filière agricole provençale.",
-      "impact": "Secteur primaire en stress structurel ; risque baissier sur locaux commerciaux/activité en zones rurales PACA.",
+      "title": "Conjoncture France : canicule pèse sur activité économique",
+      "body": "Les défis climatiques impactent directement la production (58% retards chantiers) et l'emploi, comme l'illustre la mobilisation CGT aux structures de contrôle travail. L'inflation reste maîtrisée à 1.7%.",
+      "impact": "Risque de révision à la baisse projections croissance H2 ; adapter recommandations d'investissement immobilier tertiaire PACA.",
       "date": "25/06/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/34633276099081/des-assises-de-l-agriculture-du-vaucluse-pour-reflechir-ensemble-aux-solutions-de-sauvetage-de-la-filiere",
+      "url": "https://www.laprovence.com/article/economie/1424145380732314/la-cgt-a-mene-une-action-a-l-inspection-du-travail-de-marseille",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tm"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Marché taux : OAT 3.70%, Euribor 2.15%, BCE stable",
-      "body": "Contexte de taux stabilisé à court terme : OAT 3.70%, Euribor3M 2.15%, taux directeur BCE 2.15%, inflation 1.7%. L'environnement financier reste favorable aux financements tertiaires malgré les incertitudes macro.",
-      "impact": "Fenêtre de refinancement optimale pour baux CRE 2026-2027 ; cadencer négociations avant volatilité d'été.",
-      "date": "25/06/2026",
-      "url": "https://www.bce.europa.eu",
-      "source": "Données marché consensus",
+      "title": "BCE : statu quo monétaire, inflation contrôlée à 1.7%",
+      "body": "La Banque Centrale Européenne maintient taux directeur à 2.15%. Inflation française stable à 1.7% offre marge de manœuvre pour la politique monétaire, sans pression de resserrement.",
+      "impact": "Environnement taux prévisible pour 6-12 mois ; verrouiller financement long terme immobilier avant septembre 2026.",
+      "date": "26/06/2026",
+      "url": "https://www.ecb.europa.eu",
+      "source": "BCE",
       "tags": [
         {
           "label": "Taux",
           "cls": "tt"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
         }
       ]
     }

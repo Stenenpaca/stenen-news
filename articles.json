@@ -1,11 +1,71 @@
 {
-  "generated_at": "27/06/2026",
+  "generated_at": "28/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Dynamique commerciale PACA : hausse saisonnière des locaux retail",
-      "body": "La canicule de juin 2026 propulse les ventes du secteur commercial (+10 à 15% pour les enseignes type Picard), révélant une consommation robuste en PACA. Cette tendance haussière soutient la demande de locaux commerciaux et d'activité face aux perspectives estivales.",
-      "impact": "Conseil transaction : valoriser les emplacements retail à fort trafic piéton en centres-villes et zones touristiques ; anticiper les renégociations de loyers à la hausse pour Q3 2026.",
+      "title": "Prolongation des soldes d'été : impact sur les commerces PACA",
+      "body": "Le ministre Sébastien Lecornu prolonge la période des soldes d'été face à la canicule, inquiétant particulièrement les commerces de centre-ville. Cette mesure affecte directement la rentabilité des locaux commerciaux et les négociations de loyers en PACA.",
+      "impact": "Conseil transaction : anticiper baisse activité commerciale et ajuster stratégie locative pour les centres-villes avignonnais et aixois face à prolongation soldes.",
+      "date": "27/06/2026",
+      "url": "https://www.laprovence.com/article/economie/30961005362797/canicule-sebastien-lecornu-va-prolonger-la-periode-des-soldes-dete",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Entrepreneuriat féminin : accélération des créations en PACA",
+      "body": "Ramani Chetty défend le rôle des femmes cheffes d'entreprises à Aix-en-Provence, illustrant une dynamique croissante de création. Cette tendance génère une demande accrue en locaux professionnels adaptés et espaces collaboratifs.",
+      "impact": "Conseil transaction : développer offre flex-office et petits espaces modulables pour secteur tertiaire aixois, segment des femmes entrepreneurs en forte croissance.",
+      "date": "28/06/2026",
+      "url": "https://www.laprovence.com/article/economie/2769903783188/on-a-besoin-des-femmes-cheffes-dentreprises-defend-ramany-chetty-a-aix-en-provence",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Rénovation hôtelière au Lavandou : redynamisation côte varoise",
+      "body": "L'hôtel Les Roches au Lavandou renaît depuis l'été 2025 en conjuguant mémoire et modernité sur la corniche des Maures. Ce projet emblématique relance la demande en locaux d'activité touristique et services associés.",
+      "impact": "Conseil transaction : opportunités locaux services/restauration zone côtière varoise ; anticiper hausse demande bureaux/activité autour projets hôteliers PACA littoral.",
+      "date": "27/06/2026",
+      "url": "https://www.laprovence.com/article/economie/10098547590330/au-lavandou-l-hotel-les-roches-renait-entre-memoire-et-modernite",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Diversification commerciale à Tarascon : modèle multi-services",
+      "body": "Céline Plan lance 'Maison Roi René' combinant restaurant, institut bien-être et épicerie face au château de Tarascon. Ce modèle hybride illustre la tendance à la mixité fonctionnelle des locaux commerciaux en PACA.",
+      "impact": "Conseil transaction : valoriser locaux multi-usages et polyfonctionnels en centre-ville PACA ; explorer solutions flex-commerce pour entrepreneurs multisectoriels.",
+      "date": "27/06/2026",
+      "url": "https://www.laprovence.com/article/economie/10438159050296/restaurant-institut-bien-etre-et-epicerie-avec-maison-roi-rene-celine-plan-voit-triple-a-tarascon",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Canicule : pic de ventes surgelés affecte capacité logistique",
+      "body": "Picard Surgelés enregistre une hausse de 10-15% des ventes avec 11 glaces vendues par seconde pendant la canicule. Cette volatilité saisonnière extrême impacte les besoins en espaces logistiques et frigorifiques.",
+      "impact": "Conseil transaction : analyser impact climat extrême sur demande locaux activité frigorifique/logistique PACA ; anticiper besoins croissants en capacités température régulée.",
       "date": "26/06/2026",
       "url": "https://www.laprovence.com/article/economie/65072556222132/canicule-11-glaces-vendues-par-seconde-la-chaleur-propulse-les-ventes-de-picard-et-des-supermarches",
       "source": "La Provence",
@@ -13,86 +73,6 @@
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Avignon : crise budgétaire municipale, impact CRE attendu",
-      "body": "Le maire d'Avignon révèle un audit catastrophique des comptes municipaux ('un champ de ruines'), menaçant les investissements publics locaux. Cette dégradation financière pourrait réduire la demande publique de locaux tertiaires et d'activité à Avignon.",
-      "impact": "Conseil transaction : anticiper une baisse de la demande de bureaux/activité pour collectivités avignonnaises ; surveiller les cessions d'actifs publics immobiliers sur le marché 2H 2026.",
-      "date": "26/06/2026",
-      "url": "https://www.laprovence.com/article/politique/2205066741441614/un-champ-de-ruines-le-maire-d-avignon-olivier-galzi-tire-un-bilan-catastrophique-des-comptes-de-la-ville",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Lapalud : réouverture commerciale communale et dynamique locale",
-      "body": "Le restaurant Le Provence rouvre le 1er juillet 2026 à Lapalud après location par le conseil municipal d'un local au centre du village. Cette dynamique redonne vie aux centres-bourgs PACA avec une demande croissante pour locaux d'activité tertiaire.",
-      "impact": "Conseil transaction : identifier les opportunités de reprendre/louer des locaux commerciaux/restauration dans les centres-bourgs du Vaucluse à faible compétition.",
-      "date": "26/06/2026",
-      "url": "https://www.laprovence.com/article/economie/214206333383614/a-lapalud-le-restaurant-le-provence-rouvrira-ses-portes-le-1er-juillet-2026",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Marché immobilier Alpes du Sud : tension logement/bureaux 2026",
-      "body": "La Provence prépare un dossier d'investigation sur l'évolution du marché immobilier Alpes-de-Haute-Provence et Hautes-Alpes, reflétant une préoccupation majeure des Français. Cette enquête documente les tensions prix/offre dans les zones touristiques et résidentielles.",
-      "impact": "Conseil transaction : anticiper une hausse de demande de locaux d'activité tertiaire/bureaux liée au tourisme et télétravail en zones montagnardes ; valoriser la flexibilité d'usage.",
-      "date": "26/06/2026",
-      "url": "https://www.laprovence.com/article/economie/2034333653764414/appel-a-temoignages-vous-cherchez-a-acheter-un-logement-dans-les-alpes-du-sud-contactez-la-redaction",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Château Rose Grimaud : reconversion touristique & tertiarisation",
-      "body": "Le Château Rose rouvre en juin 2025 après fermeture, transformé en belvédère d'exception avec restaurant/événementiel. Cette reconversion d'actif immobilier historique illustre la tendance PACA vers des usages mixtes tertiaire/tourisme.",
-      "impact": "Conseil transaction : valoriser les reconversions de locaux historiques en bureaux/salons/événementiel ; cibles groupes cherchant des espaces premium de prestige pour showrooms/bureaux d'accueil côte méditerranéenne.",
-      "date": "26/06/2026",
-      "url": "https://www.laprovence.com/article/economie/14812412957809/grimaud-le-chateau-rose-renait-en-belvedere-d-exception",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     }
@@ -100,50 +80,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "OAT France 3.70% : stabilité financement CRE juin 2026",
-      "body": "Les obligations assimilables du Trésor français se maintiennent à 3.70% de rendement, reflet de l'appétit des marchés pour la dette long terme française. Euribor 3M reste à 2.15%, offrant des conditions de refinancement stables pour les investisseurs CRE.",
-      "impact": "Conseil transaction : les taux de financement immobilier PACA restent compétitifs ; accélérer structuration des montages avant potentiel resserrement Q4 2026 lié aux annonces BCE/inflation.",
-      "date": "27/06/2026",
-      "url": "https://stenen-immobilier.local/macro-rates",
-      "source": "Données marché",
+      "title": "Finances avignonnaises en crise : audit catastrophique",
+      "body": "Le maire Olivier Galzi annonce un audit catastrophique des comptes avignonnais en juin 2026, décrivant 'un champ de ruines'. Cette situation financière critique affecte les investissements locaux et les politiques immobilières municipales.",
+      "impact": "Suivi : situation budgétaire dégradée à Avignon impactera investissements tertiaires publics et partenariats; surveiller décisions ZAC et projets structurants.",
+      "date": "26/06/2026",
+      "url": "https://www.laprovence.com/article/politique/2205066741441614/un-champ-de-ruines-le-maire-d-avignon-olivier-galzi-tire-un-bilan-catastrophique-des-comptes-de-la-ville",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Geopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France juin 2026 : consommation résiliente estivale",
-      "body": "Inflation France modérée à 1.7% en contexte estival, soutenue par une consommation commerciale robuste (ventes +10/15% secteur surgelés). La BCE maintient taux directeur à 2.15%, signalant une prudence inflationniste graduelle.",
-      "impact": "Conseil transaction : environnement macroéconomique favorable aux acquisitions/prises de positions tertiaire et retail PACA en H2 2026 ; surveiller trajectoire inflation post-estivale.",
+      "title": "Agriculture PACA en crise structurelle : transmission en péril",
+      "body": "Aux Assises agricoles du Vaucluse (24 juin), transmission, installation et déconsommation figurent parmi les thématiques critiques. Aléas climatiques, manque à gagner et carcan administratif menacent la viabilité du secteur agricole régional.",
+      "impact": "Contexte macro : déprise agricole PACA induit reconversion terres et déclin loyers ruraux ; surveiller opportunités reconversion foncière tertiaire/activité.",
       "date": "27/06/2026",
-      "url": "https://stenen-immobilier.local/macro-conjoncture",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/region/3158923264642314/lagriculture-vauclusienne-face-a-des-problematiques-multiples-des-defis-immenses-mais-beaucoup-despoir",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Geopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Énergie/Brent 96 USD : stabilité coûts logistiques PACA",
-      "body": "Le pétrole Brent se stabilise à 96 USD/baril sans choc géopolitique immédiat, contenant les risques inflationnistes énergétiques. Cette stabilité soutient les coûts de transport et logistique pour les locaux d'activité PACA.",
-      "impact": "Conseil transaction : valoriser les locaux d'activité/logistique proche axes routiers majeurs (A7, A8) dont coûts énergétiques restent maîtrisés ; anticiper compression marges retailers si Brent > 110 USD.",
-      "date": "27/06/2026",
-      "url": "https://stenen-immobilier.local/macro-energie",
-      "source": "Données marché",
+      "title": "Taux et financement : données marchés immobiliers 28/06",
+      "body": "OAT 10Y à 3.70%, Euribor 3M à 2.15%, BCE 2.15%, inflation France 1.7%, BTC 62500 EUR, Brent 96 USD. Contexte de taux stables favorise refinancement projets immobiliers tertiaires PACA à moyen terme.",
+      "impact": "Conseil financement : environnement OAT/Euribor favorable au crédit bail bureaux/activité PACA ; préconiser structuration avant potentielle hausse taux H2 2026.",
+      "date": "28/06/2026",
+      "url": "https://marche-immobilier-paca.local",
+      "source": "Marché PACA",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

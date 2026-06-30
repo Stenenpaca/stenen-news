@@ -1,57 +1,45 @@
 {
-  "generated_at": "29/06/2026",
+  "generated_at": "30/06/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Centres-villes PACA : vacance commerciale à 23%, crise structurelle",
-      "body": "La vacance commerciale en Provence atteint des niveaux critiques avec jusqu'à 23% de locaux inoccupés, poursuivant une tendance haussière depuis 2024. Cette désertification des cœurs de ville impacte directement la demande de locaux commerce et la valeur des immeubles tertiaires.",
-      "impact": "Valorisation négative des fonds de commerce en centres-villes PACA : négocier les reprises à -15/20% et repositionner vers zones périphériques ou centres secondaires dynamiques.",
-      "date": "29/06/2026",
-      "url": "https://www.laprovence.com/article/economie/14211044919306/jusqua-23-de-commerces-vacants-en-provence-lagonie-des-centres-villes-nen-finit-plus",
+      "title": "Sommet des solutions - Les maires en action le 30 juin à Grand Central",
+      "body": "Élus municipaux, entreprises et acteurs publics des Bouches-du-Rhône se réunissent pour débattre des grands enjeux territoriaux. Conférences, tables rondes et networking offrent une plateforme d'échange privilégiée sur les dynamiques économiques régionales.",
+      "impact": "Opportunité de prospection directe auprès des décideurs locaux PACA pour les services immobiliers d'entreprise et solutions tertiaires.",
+      "date": "30/06/2026",
+      "url": "https://www.laprovence.com/article/videos/67121234754002/video-sommet-des-solutions-les-maires-en-action-suivez-en-direct-la-journee-de-debats-a-grand-central",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Innoval Méditerranée : valorisation déchets BTP, opportunité locaux",
-      "body": "La filiale de valorisation des déchets non-dangereux du BTP crée une demande croissante de locaux d'activité pour tri et traitement en région PACA. Ce secteur circulaire génère des besoins en espaces logistiques et de stockage durables.",
-      "impact": "Identifier des terrains/locaux activité à proximité des zones BTP (Aix, Marseille, Avignon) : secteur en croissance offre baux longs à loyers stables.",
-      "date": "29/06/2026",
-      "url": "https://www.laprovence.com/article/economie/19702391556423/innoval-mediterranee-les-dechets-des-uns-font-les-ressources-des-autres",
+      "title": "Rencontres économiques d'Aix : urgences du siècle et stratégies entrepreneurs",
+      "body": "La 26e édition des REA aborde le thème « Naviguer dans un monde sans repère » avec participation de Gabriel Attal affirmant que « la France peut être un nouvel Eldorado pour les entrepreneurs ». Les acteurs économiques régionaux explorent les solutions face à l'incertitude géopolitique et énergétique.",
+      "impact": "Les entrepreneurs PACA cherchent à sécuriser leurs implantations bureaux/activité : anticiper la demande de locaux flexibles et resilients.",
+      "date": "30/06/2026",
+      "url": "https://www.laprovence.com/article/economie/69454894322208/rencontres-economiques-daix-une-premiere-journee-au-coeur-des-urgences-du-siecle",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "MaPrimeRénov réduit aides isolation : impact bureaux tertiaires PACA",
-      "body": "Le gouvernement supprime les travaux d'isolation de la liste des travaux éligibles à MaPrimeRénov', fragilisant les financements de rénovation thermique des immeubles de bureaux. Cette restriction ralentira les réhabilitations et standards de performance énergétique en PACA.",
-      "impact": "Accélérer les transactions de bureaux avant révision réglementaire décret tertiaire : les propriétaires rechercheront des acheteurs avant durcissement des normes énergétiques.",
-      "date": "28/06/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/3823852362605214/maprimerenov-le-gouvernement-va-reduire-la-liste-des-travaux-eligibles",
+      "title": "Diversification économique : le plateau de Valensole sort de la monoculture",
+      "body": "Les agriculteurs du plateau de Valensole abandonnent progressivement la monoculture du lavandin pour diversifier leurs activités. Cette transition structurelle reflète l'adaptation des territoires ruraux PACA aux nouvelles contraintes économiques.",
+      "impact": "Conversion de zones agricoles en espaces mixtes : évaluer les opportunités de transformation immobilière et d'implantation de PME/artisanat dans les secteurs concernés.",
+      "date": "30/06/2026",
+      "url": "https://www.laprovence.com/article/region/1001965263963114/il-fallait-imperativement-qu-on-se-diversifie-pour-olivier-gossa-lavandiculteur-du-plateau-de-valensole",
       "source": "La Provence",
       "tags": [
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
         {
           "label": "PACA",
           "cls": "tp"
@@ -60,36 +48,28 @@
     },
     {
       "id": "f4",
-      "title": "Taux OAT stable 3.70% : financement immobilier PACA inchangé",
-      "body": "Les taux OAT 10Y restent stables à 3.70% en cette fin juin 2026, maintenant les conditions de refinancement des projets immobiliers PACA à niveaux constants. L'Euribor 3M à 2.15% offre une stabilité relative pour les crédits variables tertiaires.",
-      "impact": "Maintenir les simulations d'acquisition bureaux/activité PACA sur base 5.50-5.80% de TRI financier : environnement de taux favorable aux deals mid-market.",
-      "date": "29/06/2026",
-      "url": "https://www.laprovence.com/article/donnees-marche/taux-oat-euribor-juin-2026",
-      "source": "Données marché CRE",
+      "title": "Canicule : soldes d'été prolongées jusqu'au 28 juillet - impact retail PACA",
+      "body": "La période des soldes est prolongée d'une semaine (jusqu'au 28 juillet) pour compenser la faible fréquentation des magasins pendant la canicule. Cette mesure révèle la fragilité du secteur commerce face aux aléas climatiques.",
+      "impact": "Demande accrue de locaux commerciaux climatisés et flexibles : prioriser les murs avec performances énergétiques dans les négociations PACA.",
+      "date": "30/06/2026",
+      "url": "https://www.laprovence.com/article/societe/31700429800986/canicule-la-periode-des-soldes-dete-prolongee-jusquau-28-juillet",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Flex-office : Marseille attire nouvelle clientèle startup/scale-up",
-      "body": "L'afflux touristique et entrepreneurial vers Marseille (concert Bad Bunny, dynamique portuelle) crée une demande émergente en espaces flex-office et coworking. Cette tendance renforce l'attractivité des bureaux services mutua lisés en centres-villes dynamiques.",
-      "impact": "Développer offre flex-office Marseille/Aix (200-500m²) auprès startups et PME : loyers 18-22€/m² HT, occupations courtes, demande croissante été 2026.",
-      "date": "28/06/2026",
-      "url": "https://www.laprovence.com/article/societe/14532594509487/bad-bunny-en-concert-a-marseille-les-reservations-de-train-explosent-des-fans-venus-de-suisse-du-canada-et-des-etats-unis",
+      "title": "Bruno Le Maire aux REA : créer de la richesse face à la dette structurelle",
+      "body": "Le ministre de l'Économie souligne l'impératif de création de richesse plutôt que de gestion de la pénurie, face à une dette française durable depuis 50 ans. Son message cible les entreprises et entrepreneurs pour relancer l'investissement productif.",
+      "impact": "Climat d'incertitude budgétaire : privilégier les baux courts et clauses flexibles pour les mandats tertiaires/activité en PACA.",
+      "date": "30/06/2026",
+      "url": "https://www.laprovence.com/article/economie/70242869127359/rencontres-economiques-daix-creer-de-la-richesse-pas-distribuer-la-penurie-linterview-de-bruno-le-maire",
       "source": "La Provence",
       "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
         {
           "label": "Marché",
           "cls": "tm"
@@ -100,58 +80,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Inflation France modérée 1.7%, BCE stable 2.15% juin 2026",
-      "body": "L'inflation française demeure maîtrisée à 1.7% en juin 2026 tandis que la BCE maintient son taux directeur à 2.15%, signalant une stabilité macro-économique en zone euro. Les pressions déflationnistes résiduelles limitent les risques de remontée des coûts d'emprunt immobilier.",
-      "impact": "Environnement de taux favorable pour acquisitions stratégiques tertiaires PACA : stabilité monétaire centrale soutient les prix asset jusqu'à fin 2026.",
-      "date": "29/06/2026",
-      "url": "https://www.laprovence.com/article/donnees-marche/inflation-bce-juin-2026",
-      "source": "Données marché ECB",
+      "title": "Choc géopolitique et énergétique : impact sur les repères économiques",
+      "body": "Les Rencontres économiques d'Aix identifient une phase historique complexe allant au-delà du choc énergétique des années 1970, avec menaces sur le détroit d'Ormuz et persistance de la guerre en Ukraine. Cette instabilité structurelle redéfinit les stratégies d'investissement et d'implantation des entreprises.",
+      "impact": "Arbitrage croissant vers les locaux tertiaires et d'activité sécurisés offrant résilience opérationnelle et coûts énergétiques maîtrisés en PACA.",
+      "date": "30/06/2026",
+      "url": "https://www.laprovence.com/article/economie/29944710375419/rencontres-economiques-daix-face-a-un-monde-sans-reperes-lexigence-du-sursaut-economique-et-demographique",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Macro",
+          "label": "Géopolitique",
           "cls": "tg"
-        },
-        {
-          "label": "Taux",
-          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Brent stable 96 USD/baril : coûts énergie tertiaires inchangés",
-      "body": "Le Brent se maintient à 96 USD/baril fin juin 2026, reflétant un équilibre géopolitique stable sans choc énergétique majeur. La stabilité pétrolière limite la volatilité des coûts opérationnels (chauffage/électricité) pour les immeubles tertiaires PACA.",
-      "impact": "Charges énergétiques prévisibles pour simulations baux bureaux/activité PACA : budgétiser 40-50€/m² charges annuelles stables.",
-      "date": "29/06/2026",
-      "url": "https://www.laprovence.com/article/donnees-marche/brent-juin-2026",
-      "source": "Données marché énergie",
+      "title": "Conjoncture France : urgence du sursaut économique et démographique",
+      "body": "Face à un monde sans repères, économistes et politiques français convergent sur l'exigence d'un sursaut économique et démographique. La génération émergente exprime une défiance envers les anciens modèles de croissance massive.",
+      "impact": "Valorisation des projets immobiliers à destination de secteurs high-growth et demographic resilience en PACA.",
+      "date": "30/06/2026",
+      "url": "https://www.laprovence.com/article/economie/29944710375419/rencontres-economiques-daix-face-a-un-monde-sans-reperes-lexigence-du-sursaut-economique-et-demographique",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Marché",
+          "label": "Conjoncture",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Conjoncture France stable : demande locaux activité toujours résiliente",
-      "body": "La conjoncture française reste porteuse avec une consommation domestique stable et une demande tertiaire qui absorbe les vacances commerciales par conversion en espaces de services. Les tendances macro soutiennent une demande résiduelle en locaux activité multi-sectoriels PACA.",
-      "impact": "Positionner offre activité polyvalente (logistique/R&D/services) PACA : résilience conjoncturelle maintient loyers 11-15€/m² malgré friabilité centres-villes.",
-      "date": "29/06/2026",
-      "url": "https://www.laprovence.com/article/donnees-marche/conjoncture-france-juin-2026",
-      "source": "Données marché France",
+      "title": "Données de marché - Taux, énergie et contexte investisseur",
+      "body": "OAT 10Y : 3,70% | Euribor 3M : 2,15% | BCE : 2,15% | Brent : 96 USD/bbl | Inflation France : 1,7% | BTC : 62.500 EUR. L'environnement reste contraint par l'incertitude géopolitique et les tensions énergétiques persistantes.",
+      "impact": "Coûts de financement élevés et volatilité énergétique : orienter les mandats vers les actifs avec rendement brut > 5,5% et charges maîtrisées.",
+      "date": "30/06/2026",
+      "url": "https://www.laprovence.com/article/economie/70242869127359/rencontres-economiques-daix-creer-de-la-richesse-pas-distribuer-la-penurie-linterview-de-bruno-le-maire",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

@@ -1,78 +1,98 @@
 {
-  "generated_at": "30/06/2026",
+  "generated_at": "01/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Sommet des solutions - Les maires en action le 30 juin à Grand Central",
-      "body": "Élus municipaux, entreprises et acteurs publics des Bouches-du-Rhône se réunissent pour débattre des grands enjeux territoriaux. Conférences, tables rondes et networking offrent une plateforme d'échange privilégiée sur les dynamiques économiques régionales.",
-      "impact": "Opportunité de prospection directe auprès des décideurs locaux PACA pour les services immobiliers d'entreprise et solutions tertiaires.",
+      "title": "Centres commerciaux arlésiens : transformations majeures à Montmajour et Fourchon",
+      "body": "Des changements économiques importants sont attendus dans les prochains mois et années pour les zones commerciales d'Arles, notamment autour des implantations Leclerc, Grand Frais et Auchan. Ces reconfigurations impacteront la dynamique des locaux commerciaux en zone nord PACA.",
+      "impact": "Opportunités de transaction et repositionnement de surfaces commerciales à Arles ; à suivre pour identifier les lots vacants ou à reprendre.",
       "date": "30/06/2026",
-      "url": "https://www.laprovence.com/article/videos/67121234754002/video-sommet-des-solutions-les-maires-en-action-suivez-en-direct-la-journee-de-debats-a-grand-central",
+      "url": "https://www.laprovence.com/article/economie/78415876431609/grand-frais-leclerc-auchan-quel-avenir-pour-les-centres-commerciaux-arlesiens-en-zone-nord-et-a-fourchon",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Rencontres économiques d'Aix : urgences du siècle et stratégies entrepreneurs",
-      "body": "La 26e édition des REA aborde le thème « Naviguer dans un monde sans repère » avec participation de Gabriel Attal affirmant que « la France peut être un nouvel Eldorado pour les entrepreneurs ». Les acteurs économiques régionaux explorent les solutions face à l'incertitude géopolitique et énergétique.",
-      "impact": "Les entrepreneurs PACA cherchent à sécuriser leurs implantations bureaux/activité : anticiper la demande de locaux flexibles et resilients.",
-      "date": "30/06/2026",
-      "url": "https://www.laprovence.com/article/economie/69454894322208/rencontres-economiques-daix-une-premiere-journee-au-coeur-des-urgences-du-siecle",
+      "title": "Bitstack lance sa carte Visa Bitcoin à récompenses depuis Meyreuil",
+      "body": "La fintech provençale Bitstack, fondée en 2021, élargit son offre avec une nouvelle carte Visa à récompenses en Bitcoin. Ce développement illustre l'écosystème startup technologique dynamique en région PACA.",
+      "impact": "Signal positif sur l'attractivité PACA pour les fintech ; accroissement potentiel de la demande de locaux activité premium pour jeunes entreprises innovantes.",
+      "date": "01/07/2026",
+      "url": "https://www.laprovence.com/article/economie/49756957099978/la-start-up-de-meyreuil-bitstack-lance-sa-carte-visa-a-recompenses-bitcoin",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Diversification économique : le plateau de Valensole sort de la monoculture",
-      "body": "Les agriculteurs du plateau de Valensole abandonnent progressivement la monoculture du lavandin pour diversifier leurs activités. Cette transition structurelle reflète l'adaptation des territoires ruraux PACA aux nouvelles contraintes économiques.",
-      "impact": "Conversion de zones agricoles en espaces mixtes : évaluer les opportunités de transformation immobilière et d'implantation de PME/artisanat dans les secteurs concernés.",
-      "date": "30/06/2026",
-      "url": "https://www.laprovence.com/article/region/1001965263963114/il-fallait-imperativement-qu-on-se-diversifie-pour-olivier-gossa-lavandiculteur-du-plateau-de-valensole",
+      "title": "UPE 13 réunit les entrepreneurs locaux à La Ciotat",
+      "body": "L'Union pour les entreprises organise des rencontres entre acteurs économiques régionaux sur la côte varoise. Ces événements networking renforcent les échanges entre PME/TPE de la région.",
+      "impact": "Confirmation de la dynamique entrepreneuriale PACA côtière ; repérage de prospects pour offres locaux activité et bureaux partagés.",
+      "date": "01/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1450317609768114/les-entrepreneurs-locaux-se-rencontrent-a-la-ciotat",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Canicule : soldes d'été prolongées jusqu'au 28 juillet - impact retail PACA",
-      "body": "La période des soldes est prolongée d'une semaine (jusqu'au 28 juillet) pour compenser la faible fréquentation des magasins pendant la canicule. Cette mesure révèle la fragilité du secteur commerce face aux aléas climatiques.",
-      "impact": "Demande accrue de locaux commerciaux climatisés et flexibles : prioriser les murs avec performances énergétiques dans les négociations PACA.",
+      "title": "Digne-les-Bains : deux heures gratuites de stationnement centre-ville dès juillet 2026",
+      "body": "La nouvelle majorité de Digne-les-Bains met en place deux heures de stationnement gratuit pour attirer les consommateurs. Cette mesure répond aux demandes des commerçants du centre-ville.",
+      "impact": "Amélioration de l'attractivité commerciale à Digne ; à considérer pour évaluer la revitalisation des centres-villes PACA et la valeur locative des commerces.",
       "date": "30/06/2026",
-      "url": "https://www.laprovence.com/article/societe/31700429800986/canicule-la-periode-des-soldes-dete-prolongee-jusquau-28-juillet",
+      "url": "https://www.laprovence.com/article/societe/25554782304938/les-deux-heures-gratuites-de-stationnement-en-centre-ville-deviennent-realite-ce-1er-juillet-2026-a-digne-les-bains",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Commerce PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Bruno Le Maire aux REA : créer de la richesse face à la dette structurelle",
-      "body": "Le ministre de l'Économie souligne l'impératif de création de richesse plutôt que de gestion de la pénurie, face à une dette française durable depuis 50 ans. Son message cible les entreprises et entrepreneurs pour relancer l'investissement productif.",
-      "impact": "Climat d'incertitude budgétaire : privilégier les baux courts et clauses flexibles pour les mandats tertiaires/activité en PACA.",
+      "title": "Merci Prosper : startup silver économie aixoise en croissance rapide",
+      "body": "Victor Perrazi et associés ont construit une startup à succès en un an dans le secteur de la silver économie depuis Aix-en-Provence. Cette trajectoire valide le potentiel du segment senior en région.",
+      "impact": "Débouchés pour locaux activité et bureaux destinés aux startups healthcare/senior ; secteur à fort potentiel de croissance PACA.",
       "date": "30/06/2026",
-      "url": "https://www.laprovence.com/article/economie/70242869127359/rencontres-economiques-daix-creer-de-la-richesse-pas-distribuer-la-penurie-linterview-de-bruno-le-maire",
+      "url": "https://www.laprovence.com/article/sante/1025490841336914/un-aixois-fonde-avec-deux-associes-merci-prosper-la-start-up-a-succes-de-la-silver-economie",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }
@@ -80,28 +100,17 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Choc géopolitique et énergétique : impact sur les repères économiques",
-      "body": "Les Rencontres économiques d'Aix identifient une phase historique complexe allant au-delà du choc énergétique des années 1970, avec menaces sur le détroit d'Ormuz et persistance de la guerre en Ukraine. Cette instabilité structurelle redéfinit les stratégies d'investissement et d'implantation des entreprises.",
-      "impact": "Arbitrage croissant vers les locaux tertiaires et d'activité sécurisés offrant résilience opérationnelle et coûts énergétiques maîtrisés en PACA.",
-      "date": "30/06/2026",
-      "url": "https://www.laprovence.com/article/economie/29944710375419/rencontres-economiques-daix-face-a-un-monde-sans-reperes-lexigence-du-sursaut-economique-et-demographique",
+      "title": "France : 35 000 nouveaux millionnaires en 2025, renforçant les investissements patrimoniaux",
+      "body": "Le patrimoine des ménages français s'accroît avec 35 000 ultrariches additionnels en 2025, porteur d'une création nette de richesse estimée à près d'un million de nouveaux millionnaires mondialement par an. Cette dynamique soutient la demande immobilière haut de gamme.",
+      "impact": "Accélération des transactions immobilières premium et des investissements en locaux d'exception PACA ; cible clients HNW pour le conseil en transaction bureau/activité.",
+      "date": "01/07/2026",
+      "url": "https://www.laprovence.com/article/france-monde/1856172324700214/record-de-nouveaux-millionnaires-en-2025-la-france-compte-pres-de-35-000-ultrariches-de-plus-quil-y-a-un-an",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Conjoncture France : urgence du sursaut économique et démographique",
-      "body": "Face à un monde sans repères, économistes et politiques français convergent sur l'exigence d'un sursaut économique et démographique. La génération émergente exprime une défiance envers les anciens modèles de croissance massive.",
-      "impact": "Valorisation des projets immobiliers à destination de secteurs high-growth et demographic resilience en PACA.",
-      "date": "30/06/2026",
-      "url": "https://www.laprovence.com/article/economie/29944710375419/rencontres-economiques-daix-face-a-un-monde-sans-reperes-lexigence-du-sursaut-economique-et-demographique",
-      "source": "La Provence",
-      "tags": [
+          "label": "Investissement",
+          "cls": "ti2"
+        },
         {
           "label": "Conjoncture",
           "cls": "tm"
@@ -109,17 +118,40 @@
       ]
     },
     {
-      "id": "m3",
-      "title": "Données de marché - Taux, énergie et contexte investisseur",
-      "body": "OAT 10Y : 3,70% | Euribor 3M : 2,15% | BCE : 2,15% | Brent : 96 USD/bbl | Inflation France : 1,7% | BTC : 62.500 EUR. L'environnement reste contraint par l'incertitude géopolitique et les tensions énergétiques persistantes.",
-      "impact": "Coûts de financement élevés et volatilité énergétique : orienter les mandats vers les actifs avec rendement brut > 5,5% et charges maîtrisées.",
-      "date": "30/06/2026",
-      "url": "https://www.laprovence.com/article/economie/70242869127359/rencontres-economiques-daix-creer-de-la-richesse-pas-distribuer-la-penurie-linterview-de-bruno-le-maire",
+      "id": "m2",
+      "title": "Tensions budgétaires : Avignon traverse crise financière et politique",
+      "body": "Le conseil municipal d'Avignon du 30 juin révèle des tensions maximales sur les finances trois mois après changement de majorité. Les désaccords chiffrés signalent une situation budgétaire tendue au sein de la métropole provençale.",
+      "impact": "Vigilance accrue sur la solvabilité des collectivités PACA pour projets immobiliers ; impact potentiel sur les appels d'offre publics et les investissements tertiaires.",
+      "date": "01/07/2026",
+      "url": "https://www.laprovence.com/article/politique/22766658633587/au-conseil-municipal-d-avignon-bataille-de-chiffres-sur-les-finances-et-tension-maximale",
       "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Régulation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Contexte macro-économique : OAT 3.70%, Euribor 2.15%, BCE 2.15%",
+      "body": "Les taux obligataires français (OAT 10Y) se stabilisent à 3.70% tandis que l'Euribor 3M et le taux directeur BCE demeurent à 2.15%. L'inflation française reste contenue à 1.7% et le Bitcoin oscille autour de 62 500 EUR.",
+      "impact": "Financement immobilier PACA à taux stables ; coût du capital inchangé pour acquisitions et développements ; conditions de marché favorables aux transactions avant potentiel renchérissement.",
+      "date": "01/07/2026",
+      "url": "https://www.laprovence.com/article/economie/macro-context-01-07-2026",
+      "source": "Données marché",
       "tags": [
         {
           "label": "Taux",
           "cls": "tt"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     }

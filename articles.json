@@ -1,32 +1,13 @@
 {
-  "generated_at": "01/07/2026",
+  "generated_at": "02/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Centres commerciaux arlésiens : transformations majeures à Montmajour et Fourchon",
-      "body": "Des changements économiques importants sont attendus dans les prochains mois et années pour les zones commerciales d'Arles, notamment autour des implantations Leclerc, Grand Frais et Auchan. Ces reconfigurations impacteront la dynamique des locaux commerciaux en zone nord PACA.",
-      "impact": "Opportunités de transaction et repositionnement de surfaces commerciales à Arles ; à suivre pour identifier les lots vacants ou à reprendre.",
-      "date": "30/06/2026",
-      "url": "https://www.laprovence.com/article/economie/78415876431609/grand-frais-leclerc-auchan-quel-avenir-pour-les-centres-commerciaux-arlesiens-en-zone-nord-et-a-fourchon",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Commerce PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Bitstack lance sa carte Visa Bitcoin à récompenses depuis Meyreuil",
-      "body": "La fintech provençale Bitstack, fondée en 2021, élargit son offre avec une nouvelle carte Visa à récompenses en Bitcoin. Ce développement illustre l'écosystème startup technologique dynamique en région PACA.",
-      "impact": "Signal positif sur l'attractivité PACA pour les fintech ; accroissement potentiel de la demande de locaux activité premium pour jeunes entreprises innovantes.",
-      "date": "01/07/2026",
-      "url": "https://www.laprovence.com/article/economie/49756957099978/la-start-up-de-meyreuil-bitstack-lance-sa-carte-visa-a-recompenses-bitcoin",
+      "title": "Parcs d'activités de Manosque : investissements biodiversité et transition énergétique",
+      "body": "Les parcs d'activités de Manosque renforcent leurs infrastructures avec des investissements dédiés à la biodiversité et à la transition énergétique. Cette dynamique locale reflète l'engagement des gestionnaires de parcs PACA dans la durabilité et l'attractivité des locaux d'activité.",
+      "impact": "Opportunité de transaction pour locataires cherchant des espaces d'activité aux normes environnementales renforcées en région PACA.",
+      "date": "02/07/2026",
+      "url": "https://www.laprovence.com/article/region/1373891756569214/les-parcs-d-activites-de-manosque-investissent-en-faveur-de-la-biodiversite-et-pour-leur-transition-energetique",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +15,37 @@
           "cls": "tp"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Activité",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Nouvel espace bien-être Féline Art & Beauté inauguré à Saint-Andiol",
+      "body": "Un nouveau pôle dédié au bien-être et à la beauté a ouvert à Saint-Andiol en janvier 2026, regroupant neuf professionnelles sous un même toit. Cette inauguration officielle du 26 juin illustre la dynamique de création d'espaces commerciaux multiservices en PACA.",
+      "impact": "Signal positif pour les investisseurs en commerce et services : demande de petits locaux mutualisés pour professionnels du bien-être en zone PACA.",
+      "date": "01/07/2026",
+      "url": "https://www.laprovence.com/article/economie/2030955230515714/feline-art-beaute-un-nouveau-pole-dedie-au-bien-etre-inaugure-a-saint-andiol",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "UPE 13 réunit les entrepreneurs locaux à La Ciotat",
-      "body": "L'Union pour les entreprises organise des rencontres entre acteurs économiques régionaux sur la côte varoise. Ces événements networking renforcent les échanges entre PME/TPE de la région.",
-      "impact": "Confirmation de la dynamique entrepreneuriale PACA côtière ; repérage de prospects pour offres locaux activité et bureaux partagés.",
+      "title": "Liquidation judiciaire de Fil Rouge : impact sur le secteur textile marseillais",
+      "body": "Le tribunal des activités économiques de Marseille a prononcé la liquidation judiciaire de l'entreprise Fil Rouge, spécialisée dans la confection, mettant fin à son activité marseillaise. Cette faillite illustre les tensions persistantes dans le secteur textile-confection régional.",
+      "impact": "Localiser des opportunités de reprise d'espaces tertiaires/activité à Marseille avec potentiel de renegociation locative suite à libération de surfaces.",
       "date": "01/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1450317609768114/les-entrepreneurs-locaux-se-rencontrent-a-la-ciotat",
+      "url": "https://www.laprovence.com/article/economie/2220751487224314/liquidation-de-fil-rouge-lactivite-de-lentreprise-marseillaise-arretee-celle-de-lassociation-insermode-maintenue",
       "source": "La Provence",
       "tags": [
         {
@@ -60,39 +60,39 @@
     },
     {
       "id": "f4",
-      "title": "Digne-les-Bains : deux heures gratuites de stationnement centre-ville dès juillet 2026",
-      "body": "La nouvelle majorité de Digne-les-Bains met en place deux heures de stationnement gratuit pour attirer les consommateurs. Cette mesure répond aux demandes des commerçants du centre-ville.",
-      "impact": "Amélioration de l'attractivité commerciale à Digne ; à considérer pour évaluer la revitalisation des centres-villes PACA et la valeur locative des commerces.",
-      "date": "30/06/2026",
-      "url": "https://www.laprovence.com/article/societe/25554782304938/les-deux-heures-gratuites-de-stationnement-en-centre-ville-deviennent-realite-ce-1er-juillet-2026-a-digne-les-bains",
-      "source": "La Provence",
+      "title": "Euribor 3M : 2.15% - Contexte de financement stable pour acquisitions immobilières",
+      "body": "Euribor 3 mois reste stable à 2.15%, offrant un contexte de financement prévisible pour les investisseurs immobiliers PACA. Cette stabilité maintient l'attractivité relative du crédit pour acquisitions de bureaux et locaux d'activité.",
+      "impact": "Financement des acquisitions CRE toujours accessible : opportunités de montage sur fonds propres ou crédits réglés à taux attractifs.",
+      "date": "02/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1960433800152514/inflation-la-zone-euro-enregistre-un-net-ralentissement-a-2-8-en-juin",
+      "source": "La Provence - Donnees marche",
       "tags": [
         {
-          "label": "Commerce PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Financement",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Merci Prosper : startup silver économie aixoise en croissance rapide",
-      "body": "Victor Perrazi et associés ont construit une startup à succès en un an dans le secteur de la silver économie depuis Aix-en-Provence. Cette trajectoire valide le potentiel du segment senior en région.",
-      "impact": "Débouchés pour locaux activité et bureaux destinés aux startups healthcare/senior ; secteur à fort potentiel de croissance PACA.",
-      "date": "30/06/2026",
-      "url": "https://www.laprovence.com/article/sante/1025490841336914/un-aixois-fonde-avec-deux-associes-merci-prosper-la-start-up-a-succes-de-la-silver-economie",
-      "source": "La Provence",
+      "title": "OAT 10 ans : 3.70% - Rendement attractif pour investisseurs institutionnels SCPI",
+      "body": "Les OAT à 10 ans cotent à 3.70%, maintenant une rémunération attractive pour les investisseurs cherchant des actifs sans risque alternatifs aux SCPI. Ce rendement soutient l'attrait des placements immobiliers régionaux vis-à-vis des titres obligataires.",
+      "impact": "SCPI immobilier PACA bureaux/activité doivent démontrer une surperformance vs OAT pour attirer capital-risque institutionnel.",
+      "date": "02/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1960433800152514/inflation-la-zone-euro-enregistre-un-net-ralentissement-a-2-8-en-juin",
+      "source": "La Provence - Donnees marche",
       "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
         {
           "label": "Investissement",
           "cls": "ti2"
+        },
+        {
+          "label": "OAT",
+          "cls": "tt"
         }
       ]
     }
@@ -100,16 +100,16 @@
   "macro": [
     {
       "id": "m1",
-      "title": "France : 35 000 nouveaux millionnaires en 2025, renforçant les investissements patrimoniaux",
-      "body": "Le patrimoine des ménages français s'accroît avec 35 000 ultrariches additionnels en 2025, porteur d'une création nette de richesse estimée à près d'un million de nouveaux millionnaires mondialement par an. Cette dynamique soutient la demande immobilière haut de gamme.",
-      "impact": "Accélération des transactions immobilières premium et des investissements en locaux d'exception PACA ; cible clients HNW pour le conseil en transaction bureau/activité.",
+      "title": "Inflation zone euro ralentit à 2.8% en juin 2026",
+      "body": "La zone euro enregistre un ralentissement net de l'inflation à 2.8% en juin, porté par le recul des prix de l'énergie et des services après les pics printaniers liés aux tensions géopolitiques moyen-orientales. Cette désinflation progressive confirme la normalisation progressive de la conjoncture.",
+      "impact": "Perspective de stabilisation des taux directeurs BCE et des OAT : environnement financement CRE moins volatil attendu H2 2026.",
       "date": "01/07/2026",
-      "url": "https://www.laprovence.com/article/france-monde/1856172324700214/record-de-nouveaux-millionnaires-en-2025-la-france-compte-pres-de-35-000-ultrariches-de-plus-quil-y-a-un-an",
+      "url": "https://www.laprovence.com/article/economie/1960433800152514/inflation-la-zone-euro-enregistre-un-net-ralentissement-a-2-8-en-juin",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Inflation",
+          "cls": "tg"
         },
         {
           "label": "Conjoncture",
@@ -119,39 +119,39 @@
     },
     {
       "id": "m2",
-      "title": "Tensions budgétaires : Avignon traverse crise financière et politique",
-      "body": "Le conseil municipal d'Avignon du 30 juin révèle des tensions maximales sur les finances trois mois après changement de majorité. Les désaccords chiffrés signalent une situation budgétaire tendue au sein de la métropole provençale.",
-      "impact": "Vigilance accrue sur la solvabilité des collectivités PACA pour projets immobiliers ; impact potentiel sur les appels d'offre publics et les investissements tertiaires.",
+      "title": "Tensions géopolitiques moyen-orient : impact prix énergie atténué",
+      "body": "Les prix de l'énergie et du Brent ont grimpé au printemps suite aux tensions au Moyen-Orient, mais le recul observé en juin suggère une stabilisation progressive des marchés énergétiques. Brent s'établit à 96 USD/baril reflétant une normalization post-crise.",
+      "impact": "Amélioration du contexte énergétique : charges opérationnelles bureaux/activité PACA devraient se stabiliser, améliorant la rentabilité nette locataire.",
       "date": "01/07/2026",
-      "url": "https://www.laprovence.com/article/politique/22766658633587/au-conseil-municipal-d-avignon-bataille-de-chiffres-sur-les-finances-et-tension-maximale",
-      "source": "La Provence",
+      "url": "https://www.laprovence.com/article/economie/1960433800152514/inflation-la-zone-euro-enregistre-un-net-ralentissement-a-2-8-en-juin",
+      "source": "La Provence - Donnees marche",
       "tags": [
         {
           "label": "Géopolitique",
           "cls": "tg"
         },
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Énergie",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macro-économique : OAT 3.70%, Euribor 2.15%, BCE 2.15%",
-      "body": "Les taux obligataires français (OAT 10Y) se stabilisent à 3.70% tandis que l'Euribor 3M et le taux directeur BCE demeurent à 2.15%. L'inflation française reste contenue à 1.7% et le Bitcoin oscille autour de 62 500 EUR.",
-      "impact": "Financement immobilier PACA à taux stables ; coût du capital inchangé pour acquisitions et développements ; conditions de marché favorables aux transactions avant potentiel renchérissement.",
-      "date": "01/07/2026",
-      "url": "https://www.laprovence.com/article/economie/macro-context-01-07-2026",
-      "source": "Données marché",
+      "title": "BCE maintient taux directeur à 2.15% - Politique monétaire stable",
+      "body": "La BCE maintient ses taux directeurs à 2.15% dans un contexte de désinflation progressive et de stabilité relative des marchés de crédit. Cette pause accommodante soutient les conditions de financement pour l'immobilier d'entreprise dans la zone euro.",
+      "impact": "Environnement de taux stable favorable aux décisions d'investissement CRE PACA : risque de hausse taux minimisé jusqu'à fin 2026.",
+      "date": "02/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1960433800152514/inflation-la-zone-euro-enregistre-un-net-ralentissement-a-2-8-en-juin",
+      "source": "La Provence - Donnees marche",
       "tags": [
         {
-          "label": "Taux",
+          "label": "BCE",
           "cls": "tt"
         },
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

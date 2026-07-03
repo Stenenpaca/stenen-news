@@ -1,97 +1,77 @@
 {
-  "generated_at": "02/07/2026",
+  "generated_at": "03/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Parcs d'activités de Manosque : investissements biodiversité et transition énergétique",
-      "body": "Les parcs d'activités de Manosque renforcent leurs infrastructures avec des investissements dédiés à la biodiversité et à la transition énergétique. Cette dynamique locale reflète l'engagement des gestionnaires de parcs PACA dans la durabilité et l'attractivité des locaux d'activité.",
-      "impact": "Opportunité de transaction pour locataires cherchant des espaces d'activité aux normes environnementales renforcées en région PACA.",
-      "date": "02/07/2026",
-      "url": "https://www.laprovence.com/article/region/1373891756569214/les-parcs-d-activites-de-manosque-investissent-en-faveur-de-la-biodiversite-et-pour-leur-transition-energetique",
+      "title": "Crise du logement en PACA : les maires cherchent des solutions",
+      "body": "Les Rencontres économiques d'Aix-en-Provence mettent en lumière la crise aiguë du logement qui affecte inégalement les territoires de la région. Cette problématique structurelle impacte directement l'attractivité des zones tertiaires et la capacité d'accueil des entreprises.",
+      "impact": "La tension sur le logement réduit l'attractivité des zones office/activité PACA : anticiper des demandes de relocalisations vers des communes moins tendues et des espaces flex plus petits.",
+      "date": "03/07/2026",
+      "url": "https://www.laprovence.com/article/economie/3248743558722414/rencontres-economiques-daix-les-maires-face-au-casse-tete-du-logement",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Nouvel espace bien-être Féline Art & Beauté inauguré à Saint-Andiol",
-      "body": "Un nouveau pôle dédié au bien-être et à la beauté a ouvert à Saint-Andiol en janvier 2026, regroupant neuf professionnelles sous un même toit. Cette inauguration officielle du 26 juin illustre la dynamique de création d'espaces commerciaux multiservices en PACA.",
-      "impact": "Signal positif pour les investisseurs en commerce et services : demande de petits locaux mutualisés pour professionnels du bien-être en zone PACA.",
-      "date": "01/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2030955230515714/feline-art-beaute-un-nouveau-pole-dedie-au-bien-etre-inaugure-a-saint-andiol",
+      "title": "Mobilité en PACA : enjeu critique pour les zones d'activité",
+      "body": "Le Sommet des solutions d'Aix place les transports et mobilités au cœur des défis territoriaux régionaux. Une meilleure connectivité s'impose comme facteur clé pour l'accessibilité des sites tertiaires et commerciaux.",
+      "impact": "L'amélioration des mobilités en PACA valorise les immeubles activité/bureaux bien desservis : privilégier les acquisitions/locations proches des axes de transport structurants.",
+      "date": "03/07/2026",
+      "url": "https://www.laprovence.com/article/economie/18837696416969/sommet-des-solutions-transports-mobilites-comment-ne-laisser-personne-au-bord-de-la-route",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Liquidation judiciaire de Fil Rouge : impact sur le secteur textile marseillais",
-      "body": "Le tribunal des activités économiques de Marseille a prononcé la liquidation judiciaire de l'entreprise Fil Rouge, spécialisée dans la confection, mettant fin à son activité marseillaise. Cette faillite illustre les tensions persistantes dans le secteur textile-confection régional.",
-      "impact": "Localiser des opportunités de reprise d'espaces tertiaires/activité à Marseille avec potentiel de renegociation locative suite à libération de surfaces.",
-      "date": "01/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2220751487224314/liquidation-de-fil-rouge-lactivite-de-lentreprise-marseillaise-arretee-celle-de-lassociation-insermode-maintenue",
+      "title": "Leviers financiers des collectivités PACA : tensions budgétaires",
+      "body": "La Métropole Aix-Marseille fait face à un déficit de 144 millions d'euros et à une baisse des dotations d'État, impactant les investissements locaux. Ces contraintes budgétaires réduisent les capacités d'investissement en immobilier d'entreprise.",
+      "impact": "Les difficultés budgétaires des collectivités PACA ralentiront les projets de requalification tertiaire : privilégier les secteurs privés en croissance et anticiper une baisse des acquisitions publiques.",
+      "date": "03/07/2026",
+      "url": "https://www.laprovence.com/article/economie/18611614310443/sommet-des-solutions-de-quels-leviers-financiers-disposent-vraiment-les-maires",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Euribor 3M : 2.15% - Contexte de financement stable pour acquisitions immobilières",
-      "body": "Euribor 3 mois reste stable à 2.15%, offrant un contexte de financement prévisible pour les investisseurs immobiliers PACA. Cette stabilité maintient l'attractivité relative du crédit pour acquisitions de bureaux et locaux d'activité.",
-      "impact": "Financement des acquisitions CRE toujours accessible : opportunités de montage sur fonds propres ou crédits réglés à taux attractifs.",
-      "date": "02/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1960433800152514/inflation-la-zone-euro-enregistre-un-net-ralentissement-a-2-8-en-juin",
-      "source": "La Provence - Donnees marche",
+      "title": "Entreprises engagées : performance et recrutement en PACA",
+      "body": "Les Rencontres d'Aix montrent que l'engagement social et environnemental des entreprises est un vecteur de performance économique et de recrutement. Ce modèle redéfinit l'attractivité des immeubles tertiaires pour les locataires.",
+      "impact": "La demande accrue d'espaces responsables en PACA crée des opportunités pour les locaux/bureaux conformes aux normes RSE : valoriser les certifications (HQE, BREEAM) en transaction.",
+      "date": "03/07/2026",
+      "url": "https://www.laprovence.com/article/economie/2273473403021614/rencontres-economiques-daix-les-entreprises-engagees-se-posent-en-modele-pour-le-recrutement-et-la-performance",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "OAT 10 ans : 3.70% - Rendement attractif pour investisseurs institutionnels SCPI",
-      "body": "Les OAT à 10 ans cotent à 3.70%, maintenant une rémunération attractive pour les investisseurs cherchant des actifs sans risque alternatifs aux SCPI. Ce rendement soutient l'attrait des placements immobiliers régionaux vis-à-vis des titres obligataires.",
-      "impact": "SCPI immobilier PACA bureaux/activité doivent démontrer une surperformance vs OAT pour attirer capital-risque institutionnel.",
-      "date": "02/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1960433800152514/inflation-la-zone-euro-enregistre-un-net-ralentissement-a-2-8-en-juin",
-      "source": "La Provence - Donnees marche",
+      "title": "Financement immobilier : contexte de croissance fragile en France",
+      "body": "La France traverse une crise de croissance structurelle face à la compétition américaine et chinoise, impactant les conditions de financement et d'investissement immobilier. L'urgence budgétaire pèse sur les taux et la disponibilité du crédit (OAT 3.70%, Euribor3M 2.15%).",
+      "impact": "Le contexte macro fragile maintient des taux de financement élevés : anticiper une stabilisation des prix CRE et privilégier les dossiers solides avec des locataires creditworthy.",
+      "date": "03/07/2026",
+      "url": "https://www.laprovence.com/article/economie/3226367074853214/rencontres-economiques-d-aix-sebastien-lecornu-sans-langue-de-bois-a-l-epreuve-de-l-urgence-budgetaire",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Investissement",
-          "cls": "ti2"
-        },
-        {
-          "label": "OAT",
+          "label": "Taux/Financement",
           "cls": "tt"
         }
       ]
@@ -100,17 +80,28 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Inflation zone euro ralentit à 2.8% en juin 2026",
-      "body": "La zone euro enregistre un ralentissement net de l'inflation à 2.8% en juin, porté par le recul des prix de l'énergie et des services après les pics printaniers liés aux tensions géopolitiques moyen-orientales. Cette désinflation progressive confirme la normalisation progressive de la conjoncture.",
-      "impact": "Perspective de stabilisation des taux directeurs BCE et des OAT : environnement financement CRE moins volatil attendu H2 2026.",
-      "date": "01/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1960433800152514/inflation-la-zone-euro-enregistre-un-net-ralentissement-a-2-8-en-juin",
+      "title": "Souveraineté économique : consolidation vs fragmentation en Europe",
+      "body": "Face à l'hégémonie des géants américains et chinois, la dispersion des acteurs européens apparaît comme une vulnérabilité critique. La taille critique et la puissance financière s'imposent comme facteurs de compétitivité majeurs.",
+      "impact": "La consolidation sectorielle à l'échelle européenne accélère les réorganisations d'espaces tertiaires : anticiper des relocalisations vers des clusters consolidés et des hubs régionaux renforcés.",
+      "date": "03/07/2026",
+      "url": "https://www.laprovence.com/article/economie/31287256473926/rencontres-economiques-daix-rail-medias-quand-la-souverainete-se-frotte-au-choc-de-la-concurrence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
+          "label": "Géopolitique",
           "cls": "tg"
-        },
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Conjoncture France : croissance fragile et défis structurels",
+      "body": "La France fait face à une crise de croissance qui dépasse le seul volet économique pour toucher aux fondamentaux culturels et politiques du pays. L'urgence budgétaire et la perte de compétitivité pèsent sur les investissements futurs.",
+      "impact": "La conjoncture dégradée en France justifie une approche de sélectivité accrue sur les transactions CRE PACA : privilégier les actifs défensifs avec des locataires stables.",
+      "date": "03/07/2026",
+      "url": "https://www.laprovence.com/article/economie/3226367074853214/rencontres-economiques-d-aix-sebastien-lecornu-sans-langue-de-bois-a-l-epreuve-de-l-urgence-budgetaire",
+      "source": "La Provence",
+      "tags": [
         {
           "label": "Conjoncture",
           "cls": "tm"
@@ -118,39 +109,16 @@
       ]
     },
     {
-      "id": "m2",
-      "title": "Tensions géopolitiques moyen-orient : impact prix énergie atténué",
-      "body": "Les prix de l'énergie et du Brent ont grimpé au printemps suite aux tensions au Moyen-Orient, mais le recul observé en juin suggère une stabilisation progressive des marchés énergétiques. Brent s'établit à 96 USD/baril reflétant une normalization post-crise.",
-      "impact": "Amélioration du contexte énergétique : charges opérationnelles bureaux/activité PACA devraient se stabiliser, améliorant la rentabilité nette locataire.",
-      "date": "01/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1960433800152514/inflation-la-zone-euro-enregistre-un-net-ralentissement-a-2-8-en-juin",
-      "source": "La Provence - Donnees marche",
-      "tags": [
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
       "id": "m3",
-      "title": "BCE maintient taux directeur à 2.15% - Politique monétaire stable",
-      "body": "La BCE maintient ses taux directeurs à 2.15% dans un contexte de désinflation progressive et de stabilité relative des marchés de crédit. Cette pause accommodante soutient les conditions de financement pour l'immobilier d'entreprise dans la zone euro.",
-      "impact": "Environnement de taux stable favorable aux décisions d'investissement CRE PACA : risque de hausse taux minimisé jusqu'à fin 2026.",
-      "date": "02/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1960433800152514/inflation-la-zone-euro-enregistre-un-net-ralentissement-a-2-8-en-juin",
-      "source": "La Provence - Donnees marche",
+      "title": "Inflation et taux directeurs : stabilisation attendue à 2.15%",
+      "body": "L'inflation française se stabilise à 1.7% tandis que la BCE maintient ses taux directeurs à 2.15%, soutenant une certaine fermeté des OAT à 3.70%. Cet environnement confirme le scénario de rates' plateau pour les mois à venir.",
+      "impact": "Les taux stables à court terme (Euribor 2.15%) permettent une planification prévisible des financements CRE : monter les dossiers avec des taux 'locké' pour 6-12 mois.",
+      "date": "03/07/2026",
+      "url": "https://www.laprovence.com/article/economie/3226367074853214/rencontres-economiques-d-aix-sebastien-lecornu-sans-langue-de-bois-a-l-epreuve-de-l-urgence-budgetaire",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "BCE",
-          "cls": "tt"
-        },
-        {
-          "label": "Taux",
+          "label": "Taux/Inflation",
           "cls": "tt"
         }
       ]

@@ -1,32 +1,32 @@
 {
-  "generated_at": "04/07/2026",
+  "generated_at": "05/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Zones commerciales PACA : réunions stratégiques entre élus et commerçants",
-      "body": "À Arles, commerçants et élus de la zone de Fourchon se sont mobilisés pour anticiper l'évolution du secteur retail. Ces rencontres reflètent une dynamique de concertation locale sur l'avenir des zones commerciales en PACA.",
-      "impact": "Opportunité pour les conseils CRE de positionner des services intégrés auprès des gestionnaires de zones commerciales en quête d'optimisation.",
+      "title": "Energie : débat sur les modèles de réduction des coûts",
+      "body": "Les Rencontres économiques d'Aix ont mis en lumière les enjeux critiques de la maîtrise des coûts énergétiques pour les entreprises régionales. La hausse structurelle de l'énergie impacte directement la rentabilité des locaux tertiaires et d'activité en PACA.",
+      "impact": "Anticiper une hausse des charges d'exploitation pour les immeubles bureaux/activité : intégrer clauses énergétiques flexibles dans les négociations locatives 2026-2027.",
       "date": "04/07/2026",
-      "url": "https://www.laprovence.com/article/economie/34415746433163/commercants-de-fourchon-et-elus-d-arles-se-sont-reunis-pour-evoquer-l-avenir-de-la-zone-commerciale",
+      "url": "https://www.laprovence.com/article/economie/4423855597110914/rencontres-economiques-d-aix-quel-modele-pour-reduire-la-hausse-du-cout-de-l-energie",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Stratégie immobilière",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "IA et compétitivité des entreprises PACA : débat aux rencontres d'Aix",
-      "body": "Les Rencontres économiques d'Aix ont mis en exergue l'impact de l'intelligence artificielle sur les règles de concurrence et la compétitivité des PME régionales. Le secteur tertiaire et industriel doit s'adapter rapidement à cette transformation.",
-      "impact": "Conseillers CRE doivent anticiper la demande d'espaces flexibles et technologiquement équipés pour accueillir les entreprises en transition IA.",
+      "title": "Déclin industriel français : 13,5% du PIB en 2025",
+      "body": "La part de l'industrie dans la richesse nationale a chuté de 28% en 1960 à 13,5% en 2025, révélant une fracture structurelle des moyens productifs en France. Ce recul affecte la demande de locaux d'activité et entrepôts en région PACA.",
+      "impact": "Revoir les stratégies de transaction sur les zones industrielles : cibler secteurs résilients (agro-tech, logistics verte) et ajuster les valuations à la baisse.",
       "date": "04/07/2026",
-      "url": "https://www.laprovence.com/article/economie/317500324091314/rencontres-economiques-d-aix-les-chefs-d-entreprises-face-a-la-concurrence-de-l-ia",
+      "url": "https://www.laprovence.com/article/economie/3971998476670714/rencontres-economiques-daix-la-fracture-des-moyens-au-coeur-du-debat-binet-martin",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Tertiaire",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Territoires PACA : priorité à l'équité et inclusivité économique",
-      "body": "Yaël Braun-Pivet souligne l'importance de 'faire République' en équilibrant le développement entre Paris et les régions. Cette orientation gouvernementale favorise les investissements décentralisés en PACA.",
-      "impact": "Valorise les acquisitions et locations immobilières en provinces pour les entreprises en délocalisation ou expansion régionale.",
-      "date": "04/07/2026",
-      "url": "https://www.laprovence.com/article/economie/4412667466164114/rencontres-economiques-d-aix-l-objectif-est-de-faire-republique-entretien-avec-yael-braun-pivet",
+      "title": "Leadership féminin : 600 participants au Global Summit 2026",
+      "body": "Marseille accueille lundi 6 juillet le Global Leadership by Women Summit réunissant 600 participants de 47 pays et 80 conférenciers. Cet événement renforce le positionnement de la région comme hub économique attractif pour les sièges sociaux et espaces collaboratifs.",
+      "impact": "Opportunités de location de bureaux premium et espaces événementiels pour entreprises engagées en RSE/parité : cibler immeubles classe A avec services flexibles.",
+      "date": "05/07/2026",
+      "url": "https://www.laprovence.com/article/economie/52113832758656/le-global-leadership-by-women-summit-2026-a-marseille-une-journee-pour-demontrer-que-le-role-des-femmes-est-indispensable",
       "source": "La Provence",
       "tags": [
         {
@@ -53,45 +53,45 @@
           "cls": "tp"
         },
         {
-          "label": "Politique régionale",
-          "cls": "tg"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Lutte contre les discriminations : impacts sur l'immobilier d'entreprise",
-      "body": "Aurore Bergé défend une mixité active dans le monde du travail, impliquant une réflexion sur les espaces bureaux inclusifs. Cette orientation influence la conception et l'offre immobilière tertiaire.",
-      "impact": "Offrir des références de locaux conformes aux standards RSE et d'accessibilité devient un critère de différenciation commercial majeur.",
+      "title": "Commerce local : fermeture du Proxi à Lançon-Provence",
+      "body": "Le Proxi du Val de Sibourg ferme après seulement 15 mois d'activité (avril 2024-juillet 2026), malgré le soutien municipal. Cette fermeture illustre les difficultés de viabilité des petits commerces de proximité en zones périphériques.",
+      "impact": "Évaluer les risques de vacance locative dans les petits centres commerciaux PACA : exiger clauses de garantie de loyer et sécurité locataire renforcée.",
       "date": "04/07/2026",
-      "url": "https://www.laprovence.com/article/economie/4427268413865914/aurore-berge-aux-rencontres-economiques-d-aix-ce-que-je-defends-c-est-la-mixite",
+      "url": "https://www.laprovence.com/article/economie/37526376312325/val-de-sibourg-le-proxi-ferme-ses-portes-les-habitants-esperent-un-nouveau-projet-a-lancon-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Bureaux PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "RSE",
-          "cls": "tr"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Technologies et innovation : acteurs économiques PACA mobiles",
-      "body": "Les entreprises des Alpes-de-Haute-Provence explorent l'IA et les nouvelles technologies pour améliorer productivité et maintenance industrielle. Cette mobilité technologique crée une demande d'espaces modulables et connectés.",
-      "impact": "Valoriser les locaux d'activité aux standards technologiques élevés (fibre, hébergement data, espaces collaboratifs) auprès des PMI en transition.",
-      "date": "03/07/2026",
-      "url": "https://www.laprovence.com/article/region/11552935597574/ia-nouvelles-technologies-comment-les-entreprises-des-alpes-de-haute-provence-comptent-prendre-le-virage",
+      "title": "Innovation : ministre de la Recherche prône le sursaut",
+      "body": "Le ministre de la Recherche appelle à faire de l'innovation la pierre angulaire du progrès, avertissant que la France doit innover ou devenir un musée. Cette orientation gouvernementale favorise l'émergence de clusters technologiques et espaces de R&D en PACA.",
+      "impact": "Développer offre immobilière dédiée (flex-labs, incubateurs) pour attirer startups et PME innovantes : valoriser proximité avec universités et centres de recherche aixois/marseillais.",
+      "date": "04/07/2026",
+      "url": "https://www.laprovence.com/article/economie/6314366058860/aux-rencontres-economiques-d-aix-innover-ou-devenir-un-musee-le-sursaut-reclame-par-le-ministre-de-la-recherche",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Activité PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Innovation",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
@@ -100,58 +100,50 @@
   "macro": [
     {
       "id": "m1",
-      "title": "OAT et financement : stabilité à 3.70% pour les investissements CRE",
-      "body": "Les taux obligataires français (OAT) se maintiennent à 3.70%, offrant un environnement de financement stable pour les transactions immobilières. L'Euribor 3M à 2.15% confirme une liquidité favorable aux crédits court-terme.",
-      "impact": "Favorise les montages de financement mixte (crédit + obligation) pour les acquisitions d'immeubles tertiaires de moyenne envergure en PACA.",
-      "date": "04/07/2026",
-      "url": "https://donnees-marche.reference",
-      "source": "Données marché",
+      "title": "OAT 3,70% : taux souverains français stables",
+      "body": "Les obligations d'État français (OAT) s'établissent à 3,70% de rendement, reflétant la stabilité relative des marchés obligataires en juillet 2026. L'Euribor 3M reste positionné à 2,15%, confirmant une BCE maintenait sa politique.",
+      "impact": "Financement CRE stable : taux d'emprunt immobilier prévisible autour de 4,00-4,30% ; conseiller aux clients de sécuriser les taux actuels avant remontée potentielle.",
+      "date": "05/07/2026",
+      "url": "https://www.laprovence.com/article/economie",
+      "source": "Donnees marche",
       "tags": [
         {
-          "label": "Taux OAT",
+          "label": "Taux",
           "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France maîtrisée : contexte favorable aux loyers tertiaires",
-      "body": "L'inflation française se stabilise à 1.7%, reflétant une certaine maîtrise macroéconomique et réduisant les pressions sur les coûts d'exploitation immobilière. La BCE maintient son taux directeur à 2.15% en soutien mesuré.",
-      "impact": "Permet de maintenir des stratégies tarifaires prévisibles pour les baux commerciaux et de bureaux en PACA sans révisions drastiques.",
-      "date": "04/07/2026",
-      "url": "https://donnees-marche.reference",
-      "source": "Données marché",
+      "title": "Energie Brent 96 USD : pression géopolitique sur coûts",
+      "body": "Le pétrole Brent cotée à 96 USD/baril en juillet 2026, reflet de tensions géopolitiques persistantes et supply dynamics. Cette pression énergétique mondiale impacte directement les charges de fonctionnement et logistique en France.",
+      "impact": "Factoriser hausse énergie durable dans modèles financiers immobiliers : prévoir +5-7% charges énergétiques annuelles pour comptabilité rendement locatif réaliste.",
+      "date": "05/07/2026",
+      "url": "https://www.laprovence.com/article/economie",
+      "source": "Donnees marche",
       "tags": [
         {
-          "label": "Inflation",
+          "label": "Geo",
           "cls": "tg"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Prospérité française et reconfigurations géopolitiques : impacts tertiaires",
-      "body": "Édouard Philippe appelle à une 'France plus prospère' dans un contexte d'incertitudes géopolitiques. Les tensions énergétiques globales (Brent ~96 USD) influencent l'attractivité des zones tertiaires décentralisées.",
-      "impact": "PACA bénéficie de son positionnement stratégique méditerranéen pour capturer les relocalisations d'activités sensibles aux coûts énergétiques.",
-      "date": "04/07/2026",
-      "url": "https://www.laprovence.com/article/economie/3141884763850514/edouard-philippe-aux-rencontres-economiques-daix-le-cap-que-je-fixe-c-est-une-france-plus-prospere",
-      "source": "La Provence",
+      "title": "Inflation France 1,7% : modération conjoncturelle confirmée",
+      "body": "L'inflation française se modère à 1,7% en juillet 2026, restant maîtrisée malgré les chocs énergétiques. La BCE maintient les taux directeurs à 2,15%, position neutre qui soutient la demande économique régionale.",
+      "impact": "Environnement favorable aux investisseurs SCPI et capital-risque immobilier : rendements locatifs réels positifs (3-4% net) attractifs vs inflation modérée.",
+      "date": "05/07/2026",
+      "url": "https://www.laprovence.com/article/economie",
+      "source": "Donnees marche",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }

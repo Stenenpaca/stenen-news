@@ -1,93 +1,93 @@
 {
-  "generated_at": "05/07/2026",
+  "generated_at": "06/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Energie : débat sur les modèles de réduction des coûts",
-      "body": "Les Rencontres économiques d'Aix ont mis en lumière les enjeux critiques de la maîtrise des coûts énergétiques pour les entreprises régionales. La hausse structurelle de l'énergie impacte directement la rentabilité des locaux tertiaires et d'activité en PACA.",
-      "impact": "Anticiper une hausse des charges d'exploitation pour les immeubles bureaux/activité : intégrer clauses énergétiques flexibles dans les négociations locatives 2026-2027.",
-      "date": "04/07/2026",
-      "url": "https://www.laprovence.com/article/economie/4423855597110914/rencontres-economiques-d-aix-quel-modele-pour-reduire-la-hausse-du-cout-de-l-energie",
+      "title": "Plan-de-Campagne : tensions commerciales et gouvernance territoriale",
+      "body": "Les maires de Cabriès et des Pennes-Mirabeau s'opposent à l'arrivée de Primark à Plan-de-Campagne et souhaitent mettre en place un comité de gestion unifié. Cette controverse reflète les enjeux de fragmentation administrative dans les zones commerciales majeures de la métropole marseillaise.",
+      "impact": "Anticiper les complexités administratives et politiques pour les projets commerciaux en zones partagées PACA : multiplier les consultations municipales en amont.",
+      "date": "05/07/2026",
+      "url": "https://www.laprovence.com/article/economie/5414319343680914/zone-commerciale-de-plan-de-campagne-les-maires-de-cabries-et-des-pennes-mirabeau-unis-contre-l-arrivee-de-primark",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce PACA",
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Déclin industriel français : 13,5% du PIB en 2025",
-      "body": "La part de l'industrie dans la richesse nationale a chuté de 28% en 1960 à 13,5% en 2025, révélant une fracture structurelle des moyens productifs en France. Ce recul affecte la demande de locaux d'activité et entrepôts en région PACA.",
-      "impact": "Revoir les stratégies de transaction sur les zones industrielles : cibler secteurs résilients (agro-tech, logistics verte) et ajuster les valuations à la baisse.",
-      "date": "04/07/2026",
-      "url": "https://www.laprovence.com/article/economie/3971998476670714/rencontres-economiques-daix-la-fracture-des-moyens-au-coeur-du-debat-binet-martin",
+      "title": "Aix-en-Provence hausse la taxe de séjour : impacts sur l'accueil d'entreprises",
+      "body": "La Ville d'Aix-en-Provence revoit à la hausse sa taxe de séjour, passant de 60 centimes en camping à 4,90 euros en palace. Cette mesure affecte les frais d'accueil et d'hébergement des équipes en déplacement professionnel.",
+      "impact": "Intégrer la hausse des taxes de séjour aixoise dans les budgets de déplacement client et les coûts d'exploitation des sièges sociaux régionaux.",
+      "date": "06/07/2026",
+      "url": "https://www.laprovence.com/article/economie/99201727781863/soixante-centimes-en-camping-4-90-euros-en-palace-la-ville-d-aix-revoit-a-la-hausse-sa-taxe-de-sejour",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Aix-en-Provence",
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Leadership féminin : 600 participants au Global Summit 2026",
-      "body": "Marseille accueille lundi 6 juillet le Global Leadership by Women Summit réunissant 600 participants de 47 pays et 80 conférenciers. Cet événement renforce le positionnement de la région comme hub économique attractif pour les sièges sociaux et espaces collaboratifs.",
-      "impact": "Opportunités de location de bureaux premium et espaces événementiels pour entreprises engagées en RSE/parité : cibler immeubles classe A avec services flexibles.",
+      "title": "Insertion professionnelle : opportunités de services externalisés pour locaux activité",
+      "body": "L'Institut des Parons mobilise les entreprises du bassin aixois pour des prestations externalisées (nettoyage, blanchisserie) via l'insertion de travailleurs handicapés. Ce modèle crée une demande de locaux flexibles et de services partagés.",
+      "impact": "Proposer aux prospects locaux d'activité à Aix des offres mixtes incluant espaces de services et équipes d'insertion : créateur de valeur et différenciation commerciale.",
       "date": "05/07/2026",
-      "url": "https://www.laprovence.com/article/economie/52113832758656/le-global-leadership-by-women-summit-2026-a-marseille-une-journee-pour-demontrer-que-le-role-des-femmes-est-indispensable",
+      "url": "https://www.laprovence.com/article/sante/83489607581495/insertion-des-travailleurs-handicapes-l-institut-des-parons-en-appelle-aux-entreprises-du-bassin-d-aix",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Aix PACA",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Commerce local : fermeture du Proxi à Lançon-Provence",
-      "body": "Le Proxi du Val de Sibourg ferme après seulement 15 mois d'activité (avril 2024-juillet 2026), malgré le soutien municipal. Cette fermeture illustre les difficultés de viabilité des petits commerces de proximité en zones périphériques.",
-      "impact": "Évaluer les risques de vacance locative dans les petits centres commerciaux PACA : exiger clauses de garantie de loyer et sécurité locataire renforcée.",
-      "date": "04/07/2026",
-      "url": "https://www.laprovence.com/article/economie/37526376312325/val-de-sibourg-le-proxi-ferme-ses-portes-les-habitants-esperent-un-nouveau-projet-a-lancon-provence",
+      "title": "Stockage et flex-spaces : nouvelle demande d'espaces annexes à Marseille",
+      "body": "La saisonnalité touristique à Marseille génère une demande croissante de solutions de stockage sécurisé et flexible, limités légalement à 120 jours par an pour les résidences. Cette tendance crée un marché niché pour petits locaux d'activité modulaires.",
+      "impact": "Développer des offres de mini-locaux flexibles et stockage court terme auprès des gestionnaires immobiliers marseillais : segment en croissance post-Covid.",
+      "date": "06/07/2026",
+      "url": "https://www.laprovence.com/article/economie/16900973374252/location-saisonniere-a-marseille-ou-stocker-ses-affaires-en-haute-saison",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Marseille",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Flex-office",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Innovation : ministre de la Recherche prône le sursaut",
-      "body": "Le ministre de la Recherche appelle à faire de l'innovation la pierre angulaire du progrès, avertissant que la France doit innover ou devenir un musée. Cette orientation gouvernementale favorise l'émergence de clusters technologiques et espaces de R&D en PACA.",
-      "impact": "Développer offre immobilière dédiée (flex-labs, incubateurs) pour attirer startups et PME innovantes : valoriser proximité avec universités et centres de recherche aixois/marseillais.",
-      "date": "04/07/2026",
-      "url": "https://www.laprovence.com/article/economie/6314366058860/aux-rencontres-economiques-d-aix-innover-ou-devenir-un-musee-le-sursaut-reclame-par-le-ministre-de-la-recherche",
+      "title": "Casino Digne-les-Bains : investissements tertiaires en régions secondaires",
+      "body": "Le chantier du futur casino du Vallon des Sources à Digne-les-Bains progresse rapidement, symbolisant les investissements touristiques en zones secondaires PACA. Ce projet génère une demande accessoire de bureaux, services et locaux aux normes tertiaires.",
+      "impact": "Sonder les opportunités d'offre de locaux tertiaires et de services auprès des sous-traitants et gestionnaires du pôle casino Digne : marché émergent.",
+      "date": "06/07/2026",
+      "url": "https://www.laprovence.com/article/societe/17065322956396/le-futur-casino-sort-de-terre-a-grande-vitesse-au-vallon-des-sources-a-digne-les-bains",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA régions",
           "cls": "tp"
         },
         {
@@ -100,50 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "OAT 3,70% : taux souverains français stables",
-      "body": "Les obligations d'État français (OAT) s'établissent à 3,70% de rendement, reflétant la stabilité relative des marchés obligataires en juillet 2026. L'Euribor 3M reste positionné à 2,15%, confirmant une BCE maintenait sa politique.",
-      "impact": "Financement CRE stable : taux d'emprunt immobilier prévisible autour de 4,00-4,30% ; conseiller aux clients de sécuriser les taux actuels avant remontée potentielle.",
-      "date": "05/07/2026",
-      "url": "https://www.laprovence.com/article/economie",
-      "source": "Donnees marche",
+      "title": "Gouvernement : cap budgétaire sans mesures immédiate le 7 juillet",
+      "body": "Le gouvernement français présentera un cap budgétaire le 7 juillet sans annonce de mesures concrètes, selon le ministre des Comptes publics David Amiel. Cette temporisation accroît l'incertitude sur la trajectoire fiscale et l'investissement public.",
+      "impact": "Anticiper possibilité de révision des aides régionales immobilier tertiaire : maintenir vigilance sur appels d'offres publics PACA.",
+      "date": "06/07/2026",
+      "url": "https://www.laprovence.com/article/economie/15421250034864/budget-le-gouvernement-ne-va-pas-annoncer-de-mesures-mardi-mais-un-cap",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Conjoncture France",
+          "cls": "tg"
+        },
+        {
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Energie Brent 96 USD : pression géopolitique sur coûts",
-      "body": "Le pétrole Brent cotée à 96 USD/baril en juillet 2026, reflet de tensions géopolitiques persistantes et supply dynamics. Cette pression énergétique mondiale impacte directement les charges de fonctionnement et logistique en France.",
-      "impact": "Factoriser hausse énergie durable dans modèles financiers immobiliers : prévoir +5-7% charges énergétiques annuelles pour comptabilité rendement locatif réaliste.",
+      "title": "Rencontres économiques Aix : souveraineté européenne et géopolitique",
+      "body": "Les Rencontres économiques d'Aix 2026 avertissent que l'ordre mondial post-1945 se délite face aux conflits géopolitiques. L'Europe doit construire une souveraineté stratégique concrète, impactant les investissements CRE et ESG régionaux.",
+      "impact": "Intégrer critères géopolitiques et résilience énergétique dans l'analyse des investissements CRE PACA : privilégier locaux aux normes énergétiques hautes.",
       "date": "05/07/2026",
-      "url": "https://www.laprovence.com/article/economie",
-      "source": "Donnees marche",
+      "url": "https://www.laprovence.com/article/economie/413591264921114/rencontres-economiques-d-aix-un-plaidoyer-pour-une-souverainete-europeenne-concrete",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Geo",
+          "label": "Géopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France 1,7% : modération conjoncturelle confirmée",
-      "body": "L'inflation française se modère à 1,7% en juillet 2026, restant maîtrisée malgré les chocs énergétiques. La BCE maintient les taux directeurs à 2,15%, position neutre qui soutient la demande économique régionale.",
-      "impact": "Environnement favorable aux investisseurs SCPI et capital-risque immobilier : rendements locatifs réels positifs (3-4% net) attractifs vs inflation modérée.",
-      "date": "05/07/2026",
-      "url": "https://www.laprovence.com/article/economie",
-      "source": "Donnees marche",
+      "title": "Données macro PACA : taux, inflation et contexte monétaire 06/07/2026",
+      "body": "OAT France 3,70% | Euribor 3M 2,15% | Taux BCE 2,15% | Inflation FR 1,7% | Brent 96 USD/baril. Contexte de taux stabilisés post-BCE et inflation maîtrisée favorise financement immobilier tertiaire.",
+      "impact": "Conditions de financement CRE optimales : relancer prospection auprès ETI/PME pour projets bureau/activité avec crédit 2,15-2,50% sur 10 ans.",
+      "date": "06/07/2026",
+      "url": "https://www.laprovence.com/",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Taux OAT/Euribor",
           "cls": "tt"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Inflation BCE",
+          "cls": "tg"
         }
       ]
     }

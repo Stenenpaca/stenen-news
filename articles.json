@@ -1,93 +1,17 @@
 {
-  "generated_at": "06/07/2026",
+  "generated_at": "07/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Plan-de-Campagne : tensions commerciales et gouvernance territoriale",
-      "body": "Les maires de Cabriès et des Pennes-Mirabeau s'opposent à l'arrivée de Primark à Plan-de-Campagne et souhaitent mettre en place un comité de gestion unifié. Cette controverse reflète les enjeux de fragmentation administrative dans les zones commerciales majeures de la métropole marseillaise.",
-      "impact": "Anticiper les complexités administratives et politiques pour les projets commerciaux en zones partagées PACA : multiplier les consultations municipales en amont.",
-      "date": "05/07/2026",
-      "url": "https://www.laprovence.com/article/economie/5414319343680914/zone-commerciale-de-plan-de-campagne-les-maires-de-cabries-et-des-pennes-mirabeau-unis-contre-l-arrivee-de-primark",
+      "title": "Pays salonais : reprise du marché immobilier au T1 2026",
+      "body": "Au premier trimestre 2026, le marché immobilier du Pays salonais enregistre une reprise du volume de transactions. Le T3 ancien domine les ventes avec 39,5% des parts sur 697 ventes totales d'appartements anciens.",
+      "impact": "Opportunité de ciblage clients pour petits locaux activité/bureaux auprès des professionnels salonais en phase de croissance.",
+      "date": "07/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1026310868931214/notre-dossier-immobilier-en-pays-salonais-les-types-de-biens-les-plus-vendus",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Aix-en-Provence hausse la taxe de séjour : impacts sur l'accueil d'entreprises",
-      "body": "La Ville d'Aix-en-Provence revoit à la hausse sa taxe de séjour, passant de 60 centimes en camping à 4,90 euros en palace. Cette mesure affecte les frais d'accueil et d'hébergement des équipes en déplacement professionnel.",
-      "impact": "Intégrer la hausse des taxes de séjour aixoise dans les budgets de déplacement client et les coûts d'exploitation des sièges sociaux régionaux.",
-      "date": "06/07/2026",
-      "url": "https://www.laprovence.com/article/economie/99201727781863/soixante-centimes-en-camping-4-90-euros-en-palace-la-ville-d-aix-revoit-a-la-hausse-sa-taxe-de-sejour",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Aix-en-Provence",
-          "cls": "tp"
-        },
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Insertion professionnelle : opportunités de services externalisés pour locaux activité",
-      "body": "L'Institut des Parons mobilise les entreprises du bassin aixois pour des prestations externalisées (nettoyage, blanchisserie) via l'insertion de travailleurs handicapés. Ce modèle crée une demande de locaux flexibles et de services partagés.",
-      "impact": "Proposer aux prospects locaux d'activité à Aix des offres mixtes incluant espaces de services et équipes d'insertion : créateur de valeur et différenciation commerciale.",
-      "date": "05/07/2026",
-      "url": "https://www.laprovence.com/article/sante/83489607581495/insertion-des-travailleurs-handicapes-l-institut-des-parons-en-appelle-aux-entreprises-du-bassin-d-aix",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Aix PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Stockage et flex-spaces : nouvelle demande d'espaces annexes à Marseille",
-      "body": "La saisonnalité touristique à Marseille génère une demande croissante de solutions de stockage sécurisé et flexible, limités légalement à 120 jours par an pour les résidences. Cette tendance crée un marché niché pour petits locaux d'activité modulaires.",
-      "impact": "Développer des offres de mini-locaux flexibles et stockage court terme auprès des gestionnaires immobiliers marseillais : segment en croissance post-Covid.",
-      "date": "06/07/2026",
-      "url": "https://www.laprovence.com/article/economie/16900973374252/location-saisonniere-a-marseille-ou-stocker-ses-affaires-en-haute-saison",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Marseille",
-          "cls": "tp"
-        },
-        {
-          "label": "Flex-office",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Casino Digne-les-Bains : investissements tertiaires en régions secondaires",
-      "body": "Le chantier du futur casino du Vallon des Sources à Digne-les-Bains progresse rapidement, symbolisant les investissements touristiques en zones secondaires PACA. Ce projet génère une demande accessoire de bureaux, services et locaux aux normes tertiaires.",
-      "impact": "Sonder les opportunités d'offre de locaux tertiaires et de services auprès des sous-traitants et gestionnaires du pôle casino Digne : marché émergent.",
-      "date": "06/07/2026",
-      "url": "https://www.laprovence.com/article/societe/17065322956396/le-futur-casino-sort-de-terre-a-grande-vitesse-au-vallon-des-sources-a-digne-les-bains",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA régions",
+          "label": "PACA",
           "cls": "tp"
         },
         {
@@ -95,63 +19,127 @@
           "cls": "tm"
         }
       ]
-    }
-  ],
-  "macro": [
+    },
     {
-      "id": "m1",
-      "title": "Gouvernement : cap budgétaire sans mesures immédiate le 7 juillet",
-      "body": "Le gouvernement français présentera un cap budgétaire le 7 juillet sans annonce de mesures concrètes, selon le ministre des Comptes publics David Amiel. Cette temporisation accroît l'incertitude sur la trajectoire fiscale et l'investissement public.",
-      "impact": "Anticiper possibilité de révision des aides régionales immobilier tertiaire : maintenir vigilance sur appels d'offres publics PACA.",
+      "id": "f2",
+      "title": "Grans : segment haut de gamme en hausse près de Salon-de-Provence",
+      "body": "Le village de Grans se positionne en première alternative immobilière après Salon-de-Provence avec un marché de niche haut de gamme en expansion. Cette dynamique reflète une diversification géographique de la demande locale.",
+      "impact": "Prospecter les investisseurs et entreprises de prestige vers Grans pour des implantations bureaux/services en croissance géographique.",
       "date": "06/07/2026",
-      "url": "https://www.laprovence.com/article/economie/15421250034864/budget-le-gouvernement-ne-va-pas-annoncer-de-mesures-mardi-mais-un-cap",
+      "url": "https://www.laprovence.com/article/economie/45854442818197/immobilier-grans-le-joyau-cache-du-pays-salonais",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture France",
-          "cls": "tg"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Régulation",
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Déficit critique de logements neufs en Pays salonais",
+      "body": "Selon Maître Anne-Laure Kemler (Chambre notaires Bouches-du-Rhône), il manque terriblement de logements neufs en Pays salonais au T1 2026. Ce déséquilibre offre créative dans les conversions tertiaire-résidentiel et les relocalisations professionnelles.",
+      "impact": "Valoriser auprès des clients la conversion/optimisation de locaux activité face à la pénurie résidentielle chronique régionale.",
+      "date": "07/07/2026",
+      "url": "https://www.laprovence.com/article/economie/90075226337456/notre-dossier-immobilier-il-manque-terriblement-de-logements-neufs-en-pays-salonais",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Regulation",
           "cls": "tr"
         }
       ]
     },
     {
-      "id": "m2",
-      "title": "Rencontres économiques Aix : souveraineté européenne et géopolitique",
-      "body": "Les Rencontres économiques d'Aix 2026 avertissent que l'ordre mondial post-1945 se délite face aux conflits géopolitiques. L'Europe doit construire une souveraineté stratégique concrète, impactant les investissements CRE et ESG régionaux.",
-      "impact": "Intégrer critères géopolitiques et résilience énergétique dans l'analyse des investissements CRE PACA : privilégier locaux aux normes énergétiques hautes.",
-      "date": "05/07/2026",
-      "url": "https://www.laprovence.com/article/economie/413591264921114/rencontres-economiques-d-aix-un-plaidoyer-pour-une-souverainete-europeenne-concrete",
+      "id": "f4",
+      "title": "JO 2030 : économie locale durable moteur d'investissement PACA",
+      "body": "La région PACA positionne l'économie locale et durable comme levier majeur des JO 2030 via convention entreprises signée avec Renaud Muselier. Cet événement constitue un accélérateur d'investissements en immobilier CRE aligné ESG.",
+      "impact": "Conseiller clients sur opportunités durables/tertiaire neuf en lien avec JO 2030 pour bénéficier effet catalyseur régional.",
+      "date": "06/07/2026",
+      "url": "https://www.laprovence.com/article/economie/14743547365868/un-coup-de-projecteur-tres-tres-important-la-region-paca-fait-le-pari-de-leconomie-locale-et-durable",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Investissement",
+          "label": "Invest",
           "cls": "ti2"
         }
       ]
     },
     {
-      "id": "m3",
-      "title": "Données macro PACA : taux, inflation et contexte monétaire 06/07/2026",
-      "body": "OAT France 3,70% | Euribor 3M 2,15% | Taux BCE 2,15% | Inflation FR 1,7% | Brent 96 USD/baril. Contexte de taux stabilisés post-BCE et inflation maîtrisée favorise financement immobilier tertiaire.",
-      "impact": "Conditions de financement CRE optimales : relancer prospection auprès ETI/PME pour projets bureau/activité avec crédit 2,15-2,50% sur 10 ans.",
-      "date": "06/07/2026",
-      "url": "https://www.laprovence.com/",
+      "id": "f5",
+      "title": "BNP Paribas Sud-Est : plan stratégique digital performant",
+      "body": "Un an après lancement, le plan stratégique BNP Paribas Sud-Est fonctionne très bien et la région affiche les meilleures performances. Cette dynamique renforce l'accès au financement bancaire pour transactions immobilières CRE régionales.",
+      "impact": "Relayer auprès de clients porteurs projets que financement immobilier SE PACA bénéficie dynamique bancaire favorable.",
+      "date": "07/07/2026",
+      "url": "https://www.laprovence.com/article/economie/97602255573726/bnp-paribas-sud-est-le-meilleur-du-digital-le-meilleur-de-l-humain",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Taux",
+          "cls": "tt"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "id": "m1",
+      "title": "OAT 10Y stable à 3,70% : financement tertiaire encadré",
+      "body": "Les obligations assimilables du Trésor (OAT) 10 ans se maintiennent à 3,70% sans tension notable. Ce taux encadre les conditions de refinancement des actifs tertiaires régionaux.",
+      "impact": "Informer investisseurs que taux OAT stables 3,70% soutiennent rentabilité locatif bureaux/activité sans volatilité malveillante.",
+      "date": "07/07/2026",
+      "url": "https://www.laprovence.com/article/economie/97602255573726/bnp-paribas-sud-est-le-meilleur-du-digital-le-meilleur-de-l-humain",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux OAT/Euribor",
+          "label": "Taux",
           "cls": "tt"
-        },
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Inflation France 1,7% : trajectoire favorable prix immobilier",
+      "body": "L'inflation française se maintient modérée à 1,7% au T2 2026, facilitant ancrage taux réels positifs. Contexte macroéconomique bénéfique pour stabilité valorisations CRE.",
+      "impact": "Communiquer clients que faible inflation 1,7% préserve pouvoir d'achat locataires et rentabilité nette immobilier commercial.",
+      "date": "07/07/2026",
+      "url": "https://www.laprovence.com/article/economie/97602255573726/bnp-paribas-sud-est-le-meilleur-du-digital-le-meilleur-de-l-humain",
+      "source": "Données marché",
+      "tags": [
         {
-          "label": "Inflation BCE",
+          "label": "Geopolitique",
           "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Euribor 3M à 2,15% : taux variables stables pour crédit",
+      "body": "L'Euribor 3 mois reste ancré à 2,15% en ligne avec politique BCE accommodante post-inflation. Conditions de crédit immobilier demeurent accessibles pour acheteurs CRE.",
+      "impact": "Rassurer clients financement : Euribor 2,15% + spread raisonnable = taux crédits CRE compétitifs sans hausse immédiate attendue.",
+      "date": "07/07/2026",
+      "url": "https://www.laprovence.com/article/economie/97602255573726/bnp-paribas-sud-est-le-meilleur-du-digital-le-meilleur-de-l-humain",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

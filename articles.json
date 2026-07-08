@@ -1,11 +1,11 @@
 {
-  "generated_at": "07/07/2026",
+  "generated_at": "08/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Pays salonais : reprise du marché immobilier au T1 2026",
-      "body": "Au premier trimestre 2026, le marché immobilier du Pays salonais enregistre une reprise du volume de transactions. Le T3 ancien domine les ventes avec 39,5% des parts sur 697 ventes totales d'appartements anciens.",
-      "impact": "Opportunité de ciblage clients pour petits locaux activité/bureaux auprès des professionnels salonais en phase de croissance.",
+      "title": "Immobilier en Pays salonais : T3 anciens dominent les ventes",
+      "body": "Le T3 ancien représente 39,5% des ventes d'appartements au premier trimestre 2026 dans le Pays salonais, confirmant une préférence marquée pour ce segment. Cette dynamique reflète une demande stable dans les biens tertiaires et résidentiels de la région.",
+      "impact": "Opportunité pour conseiller les investisseurs CRE sur les conversions de petits tertiaires en logements mixtes dans les zones salonaises.",
       "date": "07/07/2026",
       "url": "https://www.laprovence.com/article/economie/1026310868931214/notre-dossier-immobilier-en-pays-salonais-les-types-de-biens-les-plus-vendus",
       "source": "La Provence",
@@ -22,11 +22,11 @@
     },
     {
       "id": "f2",
-      "title": "Grans : segment haut de gamme en hausse près de Salon-de-Provence",
-      "body": "Le village de Grans se positionne en première alternative immobilière après Salon-de-Provence avec un marché de niche haut de gamme en expansion. Cette dynamique reflète une diversification géographique de la demande locale.",
-      "impact": "Prospecter les investisseurs et entreprises de prestige vers Grans pour des implantations bureaux/services en croissance géographique.",
-      "date": "06/07/2026",
-      "url": "https://www.laprovence.com/article/economie/45854442818197/immobilier-grans-le-joyau-cache-du-pays-salonais",
+      "title": "B2P Cavaillon : acteur transport de référence européen",
+      "body": "En 20 ans, la plateforme de fret B2P basée à Cavaillon s'est imposée comme un écosystème numérique incontournable du transport routier européen. Cette évolution démontre la viabilité des hub logistiques technologiques en PACA.",
+      "impact": "Identifier les besoins d'espaces d'activité adaptés aux PME tech-logistique en croissance sur Cavaillon et zones proxy.",
+      "date": "07/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1364386691544814/transport-comment-b2p-est-devenu-en-20-ans-un-acteur-incontournable-sur-la-scene-europeenne-depuis-cavaillon",
       "source": "La Provence",
       "tags": [
         {
@@ -41,11 +41,11 @@
     },
     {
       "id": "f3",
-      "title": "Déficit critique de logements neufs en Pays salonais",
-      "body": "Selon Maître Anne-Laure Kemler (Chambre notaires Bouches-du-Rhône), il manque terriblement de logements neufs en Pays salonais au T1 2026. Ce déséquilibre offre créative dans les conversions tertiaire-résidentiel et les relocalisations professionnelles.",
-      "impact": "Valoriser auprès des clients la conversion/optimisation de locaux activité face à la pénurie résidentielle chronique régionale.",
+      "title": "Colas Vitrolles modernise son usine LMS depuis 1996",
+      "body": "L'usine LMS de Colas à Vitrolles poursuit sa transformation en élargissant ses capacités sur les liants modifiés et synthétiques. Ce renouvellement industriel traduit une stratégie d'investissement durable dans les locaux d'activité PACA.",
+      "impact": "Déceler les opportunités de location/vente d'espaces industriels tertiaires auprès des groupes de BTP en expansion dans les Bouches-du-Rhône.",
       "date": "07/07/2026",
-      "url": "https://www.laprovence.com/article/economie/90075226337456/notre-dossier-immobilier-il-manque-terriblement-de-logements-neufs-en-pays-salonais",
+      "url": "https://www.laprovence.com/article/economie/1351831968232414/a-vitrolles-l-usine-lms-de-colas-fait-peau-neuve",
       "source": "La Provence",
       "tags": [
         {
@@ -53,37 +53,37 @@
           "cls": "tp"
         },
         {
-          "label": "Regulation",
-          "cls": "tr"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "JO 2030 : économie locale durable moteur d'investissement PACA",
-      "body": "La région PACA positionne l'économie locale et durable comme levier majeur des JO 2030 via convention entreprises signée avec Renaud Muselier. Cet événement constitue un accélérateur d'investissements en immobilier CRE aligné ESG.",
-      "impact": "Conseiller clients sur opportunités durables/tertiaire neuf en lien avec JO 2030 pour bénéficier effet catalyseur régional.",
-      "date": "06/07/2026",
-      "url": "https://www.laprovence.com/article/economie/14743547365868/un-coup-de-projecteur-tres-tres-important-la-region-paca-fait-le-pari-de-leconomie-locale-et-durable",
-      "source": "La Provence",
+      "title": "Taux OAT 3,70% et Euribor 2,15% : financement CRE stable",
+      "body": "Les taux obligataires restent stables avec OAT à 3,70% et Euribor 3M à 2,15%, soutenant un coût de financement maîtrisé pour les transactions immobilières d'entreprise. Ce contexte favorable maintient l'attractivité des investissements PACA.",
+      "impact": "Conseiller les clients sur l'opportunité de fixer les conditions de financement avant toute fluctuation des taux d'intérêt sur les montages CRE.",
+      "date": "08/07/2026",
+      "url": "https://donnees-marche.fr",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Invest",
+          "label": "Financement",
           "cls": "ti2"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "BNP Paribas Sud-Est : plan stratégique digital performant",
-      "body": "Un an après lancement, le plan stratégique BNP Paribas Sud-Est fonctionne très bien et la région affiche les meilleures performances. Cette dynamique renforce l'accès au financement bancaire pour transactions immobilières CRE régionales.",
-      "impact": "Relayer auprès de clients porteurs projets que financement immobilier SE PACA bénéficie dynamique bancaire favorable.",
+      "title": "Attractivité commerciale PACA : marché au clair de lune progresse",
+      "body": "Le marché au clair de lune attire 60+ exposants en 2026, reflétant une dynamique commerciale croissante dans les centres-villes PACA. Cette tendance valide le potentiel des emplacements commerciaux en revitalisation urbaine.",
+      "impact": "Prospecter les commerces et petites surfaces disponibles dans les zones d'attraction événementielle pour les candidats retail.",
       "date": "07/07/2026",
-      "url": "https://www.laprovence.com/article/economie/97602255573726/bnp-paribas-sud-est-le-meilleur-du-digital-le-meilleur-de-l-humain",
+      "url": "https://www.laprovence.com/article/economie/86743560039269/une-soixantaine-d-exposants-attendus-au-7e-marche-au-clair-de-lune-mercredi-8-juillet",
       "source": "La Provence",
       "tags": [
         {
@@ -91,8 +91,8 @@
           "cls": "tp"
         },
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     }
@@ -100,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "OAT 10Y stable à 3,70% : financement tertiaire encadré",
-      "body": "Les obligations assimilables du Trésor (OAT) 10 ans se maintiennent à 3,70% sans tension notable. Ce taux encadre les conditions de refinancement des actifs tertiaires régionaux.",
-      "impact": "Informer investisseurs que taux OAT stables 3,70% soutiennent rentabilité locatif bureaux/activité sans volatilité malveillante.",
+      "title": "Ligne THT Gard-Fos : infrastructure énergétique stratégique",
+      "body": "RTE poursuit le projet de ligne électrique 400 kV entre Jonquières-Saint-Vincent et Fos-sur-Mer via la déclaration d'utilité publique. Cette infrastructure énergétique est cruciale pour l'approvisionnement et la transition énergétique méditerranéenne.",
+      "impact": "Anticiper les impacts fonciers et réglementaires sur les zones traversées affectant les acquisitions CRE futures en PACA côtière.",
       "date": "07/07/2026",
-      "url": "https://www.laprovence.com/article/economie/97602255573726/bnp-paribas-sud-est-le-meilleur-du-digital-le-meilleur-de-l-humain",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/ecoplanete/1379393767329414/ligne-tht-entre-le-gard-et-fos-rte-detaille-le-trace-soumis-a-la-declaration-dutilite-publique",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique-Énergie",
+          "cls": "tg"
+        },
+        {
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France 1,7% : trajectoire favorable prix immobilier",
-      "body": "L'inflation française se maintient modérée à 1,7% au T2 2026, facilitant ancrage taux réels positifs. Contexte macroéconomique bénéfique pour stabilité valorisations CRE.",
-      "impact": "Communiquer clients que faible inflation 1,7% préserve pouvoir d'achat locataires et rentabilité nette immobilier commercial.",
-      "date": "07/07/2026",
-      "url": "https://www.laprovence.com/article/economie/97602255573726/bnp-paribas-sud-est-le-meilleur-du-digital-le-meilleur-de-l-humain",
-      "source": "Données marché",
+      "title": "Nucléaire PACA : vigilance renforcée dans hôpitaux",
+      "body": "L'ASNR renforce les mesures de sûreté nucléaire et de radioprotection dans les établissements hospitaliers PACA face aux enjeux de sécurité. Cette régulation plus stricte impacte les normes de construction et les locaux sensibles régionaux.",
+      "impact": "Intégrer les normes renforcées de sûreté dans l'offre de locaux tertiaires et sanitaires destinés aux structures sensibles.",
+      "date": "08/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1353613171090814/nucleaire-la-vigilance-se-renforce-aussi-dans-les-hopitaux-de-paca",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Geopolitique",
+          "label": "Régulation",
+          "cls": "tr"
+        },
+        {
+          "label": "Géopolitique-Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Euribor 3M à 2,15% : taux variables stables pour crédit",
-      "body": "L'Euribor 3 mois reste ancré à 2,15% en ligne avec politique BCE accommodante post-inflation. Conditions de crédit immobilier demeurent accessibles pour acheteurs CRE.",
-      "impact": "Rassurer clients financement : Euribor 2,15% + spread raisonnable = taux crédits CRE compétitifs sans hausse immédiate attendue.",
+      "title": "ArcelorMittal : amende pour occultation diagnostic amiante",
+      "body": "ArcelorMittal Méditerranée et cadres dirigeants convoqués au tribunal pour dissimulation de diagnostic positif d'amiante à Fos-sur-Mer. Ce dossier illustre la responsabilité accrue des exploitants industriels PACA sur les normes environnementales.",
+      "impact": "Auditer les diagnostics amiante/pollution avant transaction de locaux industriels PACA pour limiter risques liés et responsabilité client.",
       "date": "07/07/2026",
-      "url": "https://www.laprovence.com/article/economie/97602255573726/bnp-paribas-sud-est-le-meilleur-du-digital-le-meilleur-de-l-humain",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/66242607363638/arcelormittal-convoque-devant-le-tribunal-pour-avoir-cache-un-diagnostic-positif-d-amiante-a-fos-sur-mer",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Régulation",
+          "cls": "tr"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }

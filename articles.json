@@ -1,13 +1,13 @@
 {
-  "generated_at": "08/07/2026",
+  "generated_at": "09/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Immobilier en Pays salonais : T3 anciens dominent les ventes",
-      "body": "Le T3 ancien représente 39,5% des ventes d'appartements au premier trimestre 2026 dans le Pays salonais, confirmant une préférence marquée pour ce segment. Cette dynamique reflète une demande stable dans les biens tertiaires et résidentiels de la région.",
-      "impact": "Opportunité pour conseiller les investisseurs CRE sur les conversions de petits tertiaires en logements mixtes dans les zones salonaises.",
-      "date": "07/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1026310868931214/notre-dossier-immobilier-en-pays-salonais-les-types-de-biens-les-plus-vendus",
+      "title": "Ingénierie PACA : adaptation climatique et repenser les immeubles",
+      "body": "La région PACA concentre de nombreuses implantations d'entreprises d'ingénierie face aux défis des canicules répétées. Le secteur doit repenser le cadre de vie et les infrastructures pour s'adapter aux nouveaux enjeux climatiques.",
+      "impact": "Les immeubles tertiaires PACA devront intégrer davantage de solutions bioclimatiques et de refroidissement : renégocier les baux avec clauses climatiques et revoir les spécifications techniques des locaux.",
+      "date": "09/07/2026",
+      "url": "https://www.laprovence.com/article/economie/2668727079830914/on-va-devoir-repenser-notre-cadre-de-vie-face-aux-canicules-a-repetition-comment-l-ingenierie-se-prepare",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Climat",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "B2P Cavaillon : acteur transport de référence européen",
-      "body": "En 20 ans, la plateforme de fret B2P basée à Cavaillon s'est imposée comme un écosystème numérique incontournable du transport routier européen. Cette évolution démontre la viabilité des hub logistiques technologiques en PACA.",
-      "impact": "Identifier les besoins d'espaces d'activité adaptés aux PME tech-logistique en croissance sur Cavaillon et zones proxy.",
-      "date": "07/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1364386691544814/transport-comment-b2p-est-devenu-en-20-ans-un-acteur-incontournable-sur-la-scene-europeenne-depuis-cavaillon",
+      "title": "NGE : nouvelle gouvernance BTP pour transition écologique durable",
+      "body": "Le groupe provençal NGE restructure son leadership pour accélérer la transition écologique et construire les infrastructures durables de demain. Cette réorganisation positionne le groupe face aux défis climatiques majeurs.",
+      "impact": "Les locataires d'activité et bureaux PACA doivent anticiper des normes de construction plus strictes : demander les certifications HQE/RE2020 et les garanties de durabilité dans les offres immobilières.",
+      "date": "08/07/2026",
+      "url": "https://www.laprovence.com/article/economie/2248049760375314/btp-une-nouvelle-gouvernance-chez-nge-pour-piloter-le-changement-d-echelle-de-la-transition-ecologique",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Colas Vitrolles modernise son usine LMS depuis 1996",
-      "body": "L'usine LMS de Colas à Vitrolles poursuit sa transformation en élargissant ses capacités sur les liants modifiés et synthétiques. Ce renouvellement industriel traduit une stratégie d'investissement durable dans les locaux d'activité PACA.",
-      "impact": "Déceler les opportunités de location/vente d'espaces industriels tertiaires auprès des groupes de BTP en expansion dans les Bouches-du-Rhône.",
-      "date": "07/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1351831968232414/a-vitrolles-l-usine-lms-de-colas-fait-peau-neuve",
+      "title": "Marseille : Chambre de commerce italienne rénove ses locaux historiques",
+      "body": "La CCIFM inaugure la rénovation complète de ses locaux au World Trade Center, inchangés depuis 40 ans. Cette modernisation symbolise le renouveau du secteur tertiaire marseillais et l'attractivité des espaces premium.",
+      "impact": "Les locaux rénovés en centre-ville Marseille restent très demandés : valoriser les immeubles de prestige avec services intégrés et localisation privilégiée pour justifier les valeurs locatives supérieures.",
+      "date": "08/07/2026",
+      "url": "https://www.laprovence.com/article/economie/2201528371138714/a-marseille-la-chambre-de-commerce-italienne-s-offre-une-nouvelle-jeunesse-pour-ses-160-ans",
       "source": "La Provence",
       "tags": [
         {
@@ -60,11 +60,30 @@
     },
     {
       "id": "f4",
-      "title": "Taux OAT 3,70% et Euribor 2,15% : financement CRE stable",
-      "body": "Les taux obligataires restent stables avec OAT à 3,70% et Euribor 3M à 2,15%, soutenant un coût de financement maîtrisé pour les transactions immobilières d'entreprise. Ce contexte favorable maintient l'attractivité des investissements PACA.",
-      "impact": "Conseiller les clients sur l'opportunité de fixer les conditions de financement avant toute fluctuation des taux d'intérêt sur les montages CRE.",
+      "title": "Centrale Méditerranée : croissance 50% d'étudiants, demande bureaux accrue",
+      "body": "L'école d'ingénieurs passe de 1 000 à 1 500 étudiants (+50%) avec objectif 1 800 à court terme. Cette expansion crée une demande structurelle en locaux pédagogiques, laboratoires et espaces collaboratifs.",
+      "impact": "Les promoteurs et propriétaires doivent prospecter les universités PACA : proposer des immeubles activité/bureaux modulables pour accueillir les pôles d'innovation et locaux de recherche en pleine croissance.",
       "date": "08/07/2026",
-      "url": "https://donnees-marche.fr",
+      "url": "https://www.laprovence.com/article/economie/7362660163067/centrale-mediterranee-accelere-sa-transformation-pour-former-les-ingenieurs-de-la-transition",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Financement immobilier PACA : OAT 3,70%, Euribor 3M stable à 2,15%",
+      "body": "Les taux de refinancement restent stables avec OAT à 3,70% et Euribor 3M à 2,15%. Les conditions de financement des immeubles d'activité et bureaux demeurent accessibles malgré l'inflation à 1,7%.",
+      "impact": "Les investisseurs CRE PACA conservent des conditions de crédit favorables : sécuriser les montages avec taux fixes avant une possible remontée en fin 2026 et négocier les marges bancaires.",
+      "date": "09/07/2026",
+      "url": "https://www.laprovence.com/article/economie/2668727079830914/donnees-marche-juillet-2026",
       "source": "Données marché",
       "tags": [
         {
@@ -76,82 +95,63 @@
           "cls": "ti2"
         }
       ]
-    },
-    {
-      "id": "f5",
-      "title": "Attractivité commerciale PACA : marché au clair de lune progresse",
-      "body": "Le marché au clair de lune attire 60+ exposants en 2026, reflétant une dynamique commerciale croissante dans les centres-villes PACA. Cette tendance valide le potentiel des emplacements commerciaux en revitalisation urbaine.",
-      "impact": "Prospecter les commerces et petites surfaces disponibles dans les zones d'attraction événementielle pour les candidats retail.",
-      "date": "07/07/2026",
-      "url": "https://www.laprovence.com/article/economie/86743560039269/une-soixantaine-d-exposants-attendus-au-7e-marche-au-clair-de-lune-mercredi-8-juillet",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "Ligne THT Gard-Fos : infrastructure énergétique stratégique",
-      "body": "RTE poursuit le projet de ligne électrique 400 kV entre Jonquières-Saint-Vincent et Fos-sur-Mer via la déclaration d'utilité publique. Cette infrastructure énergétique est cruciale pour l'approvisionnement et la transition énergétique méditerranéenne.",
-      "impact": "Anticiper les impacts fonciers et réglementaires sur les zones traversées affectant les acquisitions CRE futures en PACA côtière.",
-      "date": "07/07/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/1379393767329414/ligne-tht-entre-le-gard-et-fos-rte-detaille-le-trace-soumis-a-la-declaration-dutilite-publique",
+      "title": "Gel du point d'indice fonctionnaires 2027 : impact budgétaire locataires",
+      "body": "Le gouvernement maintient le gel du point d'indice des fonctionnaires jusqu'en 2027, provoquant un appel à la mobilisation syndicale. Cette mesure d'austérité réduit le pouvoir d'achat de la fonction publique.",
+      "impact": "Les administrations publiques locataires PACA réduiront leurs demandes d'espace : anticiper baisse de vacance dans le tertiaire et préparer des offres de consolidation de surfaces pour les ministères.",
+      "date": "08/07/2026",
+      "url": "https://www.laprovence.com/article/economie/2041115758484414/maintien-du-gel-du-point-dindice-des-fonctionnaires-en-2027-les-syndicats-appellent-a-la-mobilisation-en-septembre",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique-Énergie",
+          "label": "Géopolitique",
           "cls": "tg"
         },
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Nucléaire PACA : vigilance renforcée dans hôpitaux",
-      "body": "L'ASNR renforce les mesures de sûreté nucléaire et de radioprotection dans les établissements hospitaliers PACA face aux enjeux de sécurité. Cette régulation plus stricte impacte les normes de construction et les locaux sensibles régionaux.",
-      "impact": "Intégrer les normes renforcées de sûreté dans l'offre de locaux tertiaires et sanitaires destinés aux structures sensibles.",
+      "title": "Canicules : impact opérationnel sur activité économique et locaux",
+      "body": "Les entreprises de livraison suspendent les services en vigilance rouge canicule, illustrant les disruptions climatiques croissantes. Les cycles de canicule répétée affectent la productivité et les continuités d'exploitation.",
+      "impact": "Les bâtiments tertiaires et d'activité PACA doivent justifier des investissements climatiques : intégrer confort thermique et résilience énergétique comme critères de sélection pour locataires sensibles.",
       "date": "08/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1353613171090814/nucleaire-la-vigilance-se-renforce-aussi-dans-les-hopitaux-de-paca",
+      "url": "https://www.laprovence.com/article/societe/2039228787518914/canicule-uber-eats-et-deliveroo-suspendront-les-livraisons-dans-les-departements-en-vigilance-rouge",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Géopolitique",
+          "cls": "tg"
         },
         {
-          "label": "Géopolitique-Énergie",
-          "cls": "tg"
+          "label": "Climat",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "ArcelorMittal : amende pour occultation diagnostic amiante",
-      "body": "ArcelorMittal Méditerranée et cadres dirigeants convoqués au tribunal pour dissimulation de diagnostic positif d'amiante à Fos-sur-Mer. Ce dossier illustre la responsabilité accrue des exploitants industriels PACA sur les normes environnementales.",
-      "impact": "Auditer les diagnostics amiante/pollution avant transaction de locaux industriels PACA pour limiter risques liés et responsabilité client.",
-      "date": "07/07/2026",
-      "url": "https://www.laprovence.com/article/economie/66242607363638/arcelormittal-convoque-devant-le-tribunal-pour-avoir-cache-un-diagnostic-positif-d-amiante-a-fos-sur-mer",
-      "source": "La Provence",
+      "title": "Inflation France 1,7% : stabilité monétaire et taux BCE inchangés",
+      "body": "L'inflation française modérée à 1,7% maintient la BCE à 2,15% de taux directeur sans pression de hausse. La trajectoire inflationniste contrôlée préserve la stabilité des coûts d'emprunt immobilier.",
+      "impact": "Les acquéreurs et investisseurs CRE PACA doivent profiter de cette fenêtre de taux bas : finaliser montages avant une potentielle remontée tardive 2026 si inflation s'accélère.",
+      "date": "09/07/2026",
+      "url": "https://www.laprovence.com/article/economie/2668727079830914/donnees-marche-inflation-juillet-2026",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Inflation",
+          "cls": "tm"
         }
       ]
     }

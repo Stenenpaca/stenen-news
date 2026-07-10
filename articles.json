@@ -1,13 +1,13 @@
 {
-  "generated_at": "09/07/2026",
+  "generated_at": "10/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Ingénierie PACA : adaptation climatique et repenser les immeubles",
-      "body": "La région PACA concentre de nombreuses implantations d'entreprises d'ingénierie face aux défis des canicules répétées. Le secteur doit repenser le cadre de vie et les infrastructures pour s'adapter aux nouveaux enjeux climatiques.",
-      "impact": "Les immeubles tertiaires PACA devront intégrer davantage de solutions bioclimatiques et de refroidissement : renégocier les baux avec clauses climatiques et revoir les spécifications techniques des locaux.",
-      "date": "09/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2668727079830914/on-va-devoir-repenser-notre-cadre-de-vie-face-aux-canicules-a-repetition-comment-l-ingenierie-se-prepare",
+      "title": "Acteurs économiques PACA se mobilisent autour de Connexions Luberon",
+      "body": "Connexions Luberon a réuni 45 acteurs économiques locaux (entrepreneurs, indépendants, institutionnels) fin juin dans un événement de networking. Cette dynamique de mise en réseau régionale renforce l'écosystème des affaires en Provence-Alpes-Côte d'Azur.",
+      "impact": "Opportunité pour identifier et prospecter des locataires bureaux/activité parmi les 45 participants mobilisés dans le Luberon.",
+      "date": "10/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1576619884235914/apero-connexions-les-acteurs-economiques-se-reunissent-a-la-tour-daigues",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Climat",
-          "cls": "tr"
+          "label": "Networking",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "NGE : nouvelle gouvernance BTP pour transition écologique durable",
-      "body": "Le groupe provençal NGE restructure son leadership pour accélérer la transition écologique et construire les infrastructures durables de demain. Cette réorganisation positionne le groupe face aux défis climatiques majeurs.",
-      "impact": "Les locataires d'activité et bureaux PACA doivent anticiper des normes de construction plus strictes : demander les certifications HQE/RE2020 et les garanties de durabilité dans les offres immobilières.",
-      "date": "08/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2248049760375314/btp-une-nouvelle-gouvernance-chez-nge-pour-piloter-le-changement-d-echelle-de-la-transition-ecologique",
+      "title": "Orange : reconversion d'un camping témoigne de la rénovation immobilière",
+      "body": "Le camping du Lavandin à Orange s'est transformé en trois ans après une acquisition, passant d'un site dégradé à une structure renovée. Cette reconversion illustre les opportunités de valorisation immobilière dans le secteur touristique vauclusion.",
+      "impact": "Les reconversions touristiques en PACA créent de la demande en locaux d'activité et commerces adjacents; à prospecter auprès des gestionnaires de sites rénovés.",
+      "date": "09/07/2026",
+      "url": "https://www.laprovence.com/article/tourisme/310430829961514/a-orange-le-camping-du-lavandin-soffre-une-seconde-jeunesse",
       "source": "La Provence",
       "tags": [
         {
@@ -34,37 +34,37 @@
           "cls": "tp"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Tourisme",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Marseille : Chambre de commerce italienne rénove ses locaux historiques",
-      "body": "La CCIFM inaugure la rénovation complète de ses locaux au World Trade Center, inchangés depuis 40 ans. Cette modernisation symbolise le renouveau du secteur tertiaire marseillais et l'attractivité des espaces premium.",
-      "impact": "Les locaux rénovés en centre-ville Marseille restent très demandés : valoriser les immeubles de prestige avec services intégrés et localisation privilégiée pour justifier les valeurs locatives supérieures.",
-      "date": "08/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2201528371138714/a-marseille-la-chambre-de-commerce-italienne-s-offre-une-nouvelle-jeunesse-pour-ses-160-ans",
+      "title": "Lacoste obtient gain de cause contre Shein : enjeux de propriété commerciale",
+      "body": "La justice française a interdit à Shein de vendre des produits reproduisant les codes de marque Lacoste en Union européenne. Cette victoire juridique protège les marques implantées en PACA et renforce le cadre réglementaire du e-commerce.",
+      "impact": "Renforcement de la sécurité juridique pour les commerces et distributeurs locaux PACA face à la contrefaçon en ligne; conseil aux clients sur la protection de leurs droits.",
+      "date": "09/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1034506960517814/shein-interdit-de-vendre-des-produits-imitant-le-crocodile-lacoste",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Réglementation",
+          "cls": "tr"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Centrale Méditerranée : croissance 50% d'étudiants, demande bureaux accrue",
-      "body": "L'école d'ingénieurs passe de 1 000 à 1 500 étudiants (+50%) avec objectif 1 800 à court terme. Cette expansion crée une demande structurelle en locaux pédagogiques, laboratoires et espaces collaboratifs.",
-      "impact": "Les promoteurs et propriétaires doivent prospecter les universités PACA : proposer des immeubles activité/bureaux modulables pour accueillir les pôles d'innovation et locaux de recherche en pleine croissance.",
-      "date": "08/07/2026",
-      "url": "https://www.laprovence.com/article/economie/7362660163067/centrale-mediterranee-accelere-sa-transformation-pour-former-les-ingenieurs-de-la-transition",
+      "title": "Aix-en-Provence : mobilisation des commerçants autour d'événements culturels",
+      "body": "L'adjoint au maire d'Aix Jean-Christophe Grossi réunit les commerçants autour de l'exposition Paul McCartney avec distribution d'un guide pratique. Cette initiative crée des synergies entre secteur culturel et retail aixois.",
+      "impact": "Les événements culturels majeurs à Aix génèrent des appels d'offre pour locaux commerciaux premium; à surveiller pour les opportunités de vacance locative en centre-ville.",
+      "date": "09/07/2026",
+      "url": "https://www.laprovence.com/article/politique/3059457761400314/l-adjoint-au-maire-d-aix-jean-christophe-grossi-reunit-les-commercants-autour-de-l-exposition-de-paul-mccartney",
       "source": "La Provence",
       "tags": [
         {
@@ -72,27 +72,27 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Financement immobilier PACA : OAT 3,70%, Euribor 3M stable à 2,15%",
-      "body": "Les taux de refinancement restent stables avec OAT à 3,70% et Euribor 3M à 2,15%. Les conditions de financement des immeubles d'activité et bureaux demeurent accessibles malgré l'inflation à 1,7%.",
-      "impact": "Les investisseurs CRE PACA conservent des conditions de crédit favorables : sécuriser les montages avec taux fixes avant une possible remontée en fin 2026 et négocier les marges bancaires.",
+      "title": "Orange : ouverture du Geekarium, nouveau concept retail pop-culture",
+      "body": "Didier Roux a ouvert Le Geekarium à Orange, un nouvel espace dédié à la pop-culture et au rétro-gaming après étude de marché. Ce concept de commerce thématisé illustre l'évolution des attentes en matière de retail de niche.",
+      "impact": "Emergence d'une demande pour petits locaux commerciaux spécialisés en centre-ville d'Orange; à valoriser auprès de porteurs de projet créatifs en phase de recherche immobilière.",
       "date": "09/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2668727079830914/donnees-marche-juillet-2026",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/sortie-loisirs/20109399852472/le-geekarium-nouveau-temple-de-la-pop-culture-et-du-retro-gaming-a-orange",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "Retail",
+          "cls": "tm"
         }
       ]
     }
@@ -100,50 +100,50 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Gel du point d'indice fonctionnaires 2027 : impact budgétaire locataires",
-      "body": "Le gouvernement maintient le gel du point d'indice des fonctionnaires jusqu'en 2027, provoquant un appel à la mobilisation syndicale. Cette mesure d'austérité réduit le pouvoir d'achat de la fonction publique.",
-      "impact": "Les administrations publiques locataires PACA réduiront leurs demandes d'espace : anticiper baisse de vacance dans le tertiaire et préparer des offres de consolidation de surfaces pour les ministères.",
-      "date": "08/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2041115758484414/maintien-du-gel-du-point-dindice-des-fonctionnaires-en-2027-les-syndicats-appellent-a-la-mobilisation-en-septembre",
+      "title": "Ingénierie PACA face au défi climatique : adaptation infrastructurelle",
+      "body": "La région PACA concentre un écosystème dense de sociétés d'ingénierie qui se mobilisent pour repenser le cadre de vie face aux canicules récurrentes. Cette transition impose une reconception des infrastructures durables et des bâtiments tertiaires.",
+      "impact": "Les normes de climatisation/refroidissement plus exigeantes poussent à la rénovation d'immeubles bureaux/activité PACA; demande croissante de locaux aux normes RT2020.",
+      "date": "09/07/2026",
+      "url": "https://www.laprovence.com/article/economie/2668727079830914/on-va-devoir-repenser-notre-cadre-de-vie-face-aux-canicules-a-repetition-comment-l-ingenierie-se-prepare",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Climat",
           "cls": "tg"
         },
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Canicules : impact opérationnel sur activité économique et locaux",
-      "body": "Les entreprises de livraison suspendent les services en vigilance rouge canicule, illustrant les disruptions climatiques croissantes. Les cycles de canicule répétée affectent la productivité et les continuités d'exploitation.",
-      "impact": "Les bâtiments tertiaires et d'activité PACA doivent justifier des investissements climatiques : intégrer confort thermique et résilience énergétique comme critères de sélection pour locataires sensibles.",
+      "title": "BTP/NGE : transition écologique et nouvelle gouvernance",
+      "body": "Le groupe provençal NGE réorganise sa gouvernance pour piloter l'accélération de la transition écologique dans le secteur BTP. Cette restructuration vise à adapter les infrastructures (rail, bâtiment) aux défis climatiques de grande ampleur.",
+      "impact": "Augmentation des appels d'offre pour locaux logistique/bureaux aux normes énergie pour les entrepreneurs BTP; opportunité de croissance pour portefeuille CRE PACA.",
       "date": "08/07/2026",
-      "url": "https://www.laprovence.com/article/societe/2039228787518914/canicule-uber-eats-et-deliveroo-suspendront-les-livraisons-dans-les-departements-en-vigilance-rouge",
+      "url": "https://www.laprovence.com/article/economie/2248049760375314/btp-une-nouvelle-gouvernance-chez-nge-pour-piloter-le-changement-d-echelle-de-la-transition-ecologique",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Énergie",
           "cls": "tg"
         },
         {
-          "label": "Climat",
+          "label": "Régulation",
           "cls": "tr"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France 1,7% : stabilité monétaire et taux BCE inchangés",
-      "body": "L'inflation française modérée à 1,7% maintient la BCE à 2,15% de taux directeur sans pression de hausse. La trajectoire inflationniste contrôlée préserve la stabilité des coûts d'emprunt immobilier.",
-      "impact": "Les acquéreurs et investisseurs CRE PACA doivent profiter de cette fenêtre de taux bas : finaliser montages avant une potentielle remontée tardive 2026 si inflation s'accélère.",
-      "date": "09/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2668727079830914/donnees-marche-inflation-juillet-2026",
-      "source": "Données marché",
+      "title": "Contexte macroéconomique : taux et inflation stables en juillet 2026",
+      "body": "OAT à 3.70%, Euribor 3M à 2.15%, BCE maintenant son taux à 2.15% avec inflation française à 1.7%. Le contexte monétaire reste stable, soutenant la liquidité des marchés immobiliers français.",
+      "impact": "Conditions de financement immobilier stabilisées : OAT 3.70% et Euribor 2.15% supportent les niveaux de crédit; conseiller les clients sur le refinancement de dettes avant 4T2026.",
+      "date": "10/07/2026",
+      "url": "https://donnees-marche-bce.eu",
+      "source": "BCE/DGFT",
       "tags": [
         {
           "label": "Taux",
@@ -151,7 +151,7 @@
         },
         {
           "label": "Inflation",
-          "cls": "tm"
+          "cls": "tg"
         }
       ]
     }

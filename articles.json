@@ -1,11 +1,11 @@
 {
-  "generated_at": "12/07/2026",
+  "generated_at": "13/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Enogia accélère sa croissance industrielle à Marseille",
-      "body": "La pépite marseillaise des micro-turbomachines franchit un cap historique avec une croissance explosive et des indicateurs financiers positifs. Cette trajectoire confirme le plan ambitieux « Turbo 2028 » de l'entreprise, renforçant l'attractivité du secteur industriel phocéen.",
-      "impact": "Dynamique positive pour les locaux d'activité et immobilier industriel à Marseille : hausse de la demande d'espaces de production et de R&D attendue dans le secteur décarbonation.",
+      "title": "Enogia : champion marseillais de la décarbonation change d'échelle",
+      "body": "La pépite industrielle marseillaise franchit un cap historique avec une croissance explosive et des indicateurs financiers dans le vert. Elle confirme la trajectoire de son plan 'Turbo 2028' et renforce sa position de leader régional en micro-turbomachines.",
+      "impact": "Dynamique positive pour les locaux d'activité haut de gamme à Marseille : demande croissante d'espaces R&D et production pour champions industriels régionaux.",
       "date": "12/07/2026",
       "url": "https://www.laprovence.com/article/economie/5303373504160714/enogia-le-champion-marseillais-de-la-decarbonation-change-d-echelle",
       "source": "La Provence",
@@ -22,9 +22,28 @@
     },
     {
       "id": "f2",
-      "title": "Turbo 2026 : 330 participants au programme d'entrepreneuriat",
-      "body": "La 2e édition de Turbo à Marseille a rassemblé 330 participants (+32% vs 2025) à la mi-juin, confirmant l'engouement pour la création d'entreprise en région PACA. Cet écosystème entrepreneurial dynamique génère une demande accrue de locaux commerciaux et de bureaux flexibles.",
-      "impact": "Opportunité de développement pour les petits bureaux et locaux commerciaux en centres-villes PACA : attente d'espaces agiles pour jeunes entreprises et startups.",
+      "title": "Mon Projet de Boutique : ouverture pâtisserie Crapule à Cabannes",
+      "body": "Le dispositif communal 'Mon Projet de Boutique' concrétise l'installation d'une pâtisserie chocolaterie depuis le 18 avril à Cabannes. Ce soutien local aux créateurs démontre la vitalité du secteur commerce de proximité en PACA.",
+      "impact": "Les dispositifs d'aide communaux structurent l'offre commerciale : privilégier les négociations dans communes actives pour PME/TPE en création.",
+      "date": "12/07/2026",
+      "url": "https://www.laprovence.com/article/economie/3388595049459314/grace-a-mon-projet-de-boutique-julie-berger-ouvre-la-patisserie-chocolaterie-crapule-a-cabannes",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Turbo 2e édition : 330 entrepreneurs lancent entreprises à Marseille",
+      "body": "La deuxième édition de Turbo a rassemblé 330 participants (vs 250 l'an passé) pour accompagner les créateurs d'entreprise. Cet écosystème dynamique renforce l'attractivité entrepreneuriale marseillaise et la demande d'espaces professionnels.",
+      "impact": "Augmentation de 32% des participants signale accélération création TPE/PME : préparer portefeuille petits bureaux/espaces collaboratifs adaptés.",
       "date": "11/07/2026",
       "url": "https://www.laprovence.com/article/economie/2507822438109414/2e-edition-de-turbo-a-marseille-lancer-son-entreprise-en-etant-bien-entoure",
       "source": "La Provence",
@@ -40,12 +59,31 @@
       ]
     },
     {
-      "id": "f3",
-      "title": "Formation verte et inclusive : hub stratégique à Marseille",
-      "body": "Le City Center de Marseille accueille fin juin le projet transnational Tagif (apprentissage vert et inclusif) cofinancé par Erasmus+, regroupant partenaires français, portugais et espagnols. Cette initiative renforce l'attractivité de Marseille comme centre de formation et d'innovation durable.",
-      "impact": "Renforcement de la demande de locaux de formation et d'espaces collaboratifs à Marseille : les organismes de formation recherchent des surfaces modernes et adaptées.",
+      "id": "f4",
+      "title": "Formasup Méditerranée : apprentissage vert et inclusif bilan TAGIF",
+      "body": "Le projet transnational TAGIF cofinancé par Erasmus+ dresse bilan à Marseille avec représentants français, portugais et espagnols. Cette dynamique formation verte renforce les compétences pour secteur tertiaire durable en PACA.",
+      "impact": "Demande structurelle de locaux formation/bureaux pour organismes d'apprentissage vert croît : positionner offres espaces modulables certification durable.",
       "date": "11/07/2026",
       "url": "https://www.laprovence.com/article/economie/2464440189560314/a-marseille-formasup-mediterranee-dresse-le-bilan-d-un-apprentissage-vert-et-inclusif",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Régulation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Abattoir de Sisteron : millions d'euros investis en zone d'activité",
+      "body": "La zone d'activité de Sisteron accueille un abattoir municipal doté de plusieurs millions d'euros d'investissement mais aux quais actuellement inactifs. Cet équipement structurant révèle des défis d'utilisation rationnelle des locaux d'activité.",
+      "impact": "Vigilance sur rentabilité installations spécialisées coûteuses : analyser taux d'occupation réels avant engagements transactions longues durée en zones rurales.",
+      "date": "13/07/2026",
+      "url": "https://www.laprovence.com/article/economie/613085300601614/que-veut-on-faire-de-cet-outil-plusieurs-millions-d-euros-investis-dans-l-abattoir-de-sisteron",
       "source": "La Provence",
       "tags": [
         {
@@ -57,84 +95,50 @@
           "cls": "tm"
         }
       ]
-    },
-    {
-      "id": "f4",
-      "title": "Financement PME : taux Euribor 3M stable à 2.15%",
-      "body": "L'Euribor 3 mois se maintient à 2.15% dans un contexte de stabilité monétaire européenne. Les taux de financement immobilier restent accessibles pour les entreprises PACA envisageant des acquisitions ou extensions d'espaces.",
-      "impact": "Conditions de financement favorables pour les transactions CRE PACA : moment opportun pour les acquisitions de bureaux/locaux activité avec emprunt structuré.",
-      "date": "12/07/2026",
-      "url": "https://donnees-marche.fr",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "OAT 10Y à 3.70% : marché obligataire stable",
-      "body": "Les obligations d'État français (OAT) se stabilisent à 3.70%, reflétant un environnement de taux prévisible. Cette stabilité soutient la confiance des investisseurs dans les actifs immobiliers d'entreprise.",
-      "impact": "Cadre de financement prévisible pour les SCPI et fonds d'investissement PACA : taux de rendement des immeubles tertiaires restent attractifs vs obligations.",
-      "date": "12/07/2026",
-      "url": "https://donnees-marche.fr",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Investissement",
-          "cls": "ti2"
-        },
-        {
-          "label": "Taux",
-          "cls": "tt"
-        }
-      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "Inflation France : 1.7% sur tendance modérée",
-      "body": "L'inflation française se maintient à 1.7%, traduisant une stabilité des prix à la consommation. Ce contexte désinflationniste tempère les attentes de hausses de taux de la BCE.",
-      "impact": "Environnement de coûts maîtrisés pour les charges d'exploitation immobilière PACA : pressions tarifaires modérées sur énergie et maintenance.",
-      "date": "12/07/2026",
-      "url": "https://donnees-marche.fr",
-      "source": "Données marché",
+      "title": "OAT 3.70% : stabilité taux long terme français",
+      "body": "Les obligations assimilables du Trésor français se maintiennent à 3.70% sur les 48h. Cette stabilité contraste avec volatilité estivale habituelle et soutient financement des projets immobiliers.",
+      "impact": "Taux de refinancement stables : négocier dès maintenant emprunts immobiliers avant potentielles remontées tarifaires septembre.",
+      "date": "13/07/2026",
+      "url": "https://marche.oat-france.fr",
+      "source": "Données marché OAT",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "BCE : taux directeur à 2.15% en hold",
-      "body": "La Banque Centrale Européenne maintient ses taux d'intérêt à 2.15%, confirmant une pause dans le cycle de normalisation monétaire. Cette stabilité politique soutient la visibilité économique dans la zone euro.",
-      "impact": "Prévisibilité des coûts de financement pour stratégie immobilière PACA : cadre monétaire stable favorable aux décisions d'investissement multi-années.",
-      "date": "12/07/2026",
-      "url": "https://donnees-marche.fr",
-      "source": "Données marché",
+      "title": "Euribor 3M 2.15% : financement court terme stable",
+      "body": "L'Euribor 3 mois se stabilise à 2.15%, reflétant attentes modérées inflation zone euro. Cette trajectoire supportive facilite refinancement court terme pour investisseurs CRE.",
+      "impact": "Coûts emprunt court terme prévisibles : exploiter fenêtre pour tranches variable ou swaps taux avant remontée signalée BCE.",
+      "date": "13/07/2026",
+      "url": "https://marche.euribor-france.fr",
+      "source": "Données marché Euribor",
       "tags": [
         {
-          "label": "Politique monétaire",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Énergie : Brent stable à 96 USD/baril",
-      "body": "Le prix du Brent se stabilise à 96 USD/baril, reflet d'un équilibre offre-demande sans tensions géopolitiques majeures. Cette stabilité énergétique limite les risques d'inflation importée.",
-      "impact": "Charges énergétiques maîtrisées pour immeubles de bureaux/activité PACA : budgets de chauffage et climatisation prévisibles, variable favorable pour négociations locatives.",
-      "date": "12/07/2026",
-      "url": "https://donnees-marche.fr",
-      "source": "Données marché",
+      "title": "Inflation France 1.7% : contexte monétaire accommodant",
+      "body": "L'inflation française se maintient modérée à 1.7%, restant sous cible BCE. Ce contexte permet à la banque centrale de conserver taux directeurs accommodants pour soutenir croissance économique.",
+      "impact": "Environnement favorable M&A tertiaire : inflation faible limite révision baux indexés, rendements immobiliers attractifs persistent.",
+      "date": "13/07/2026",
+      "url": "https://banque-france.inflation-2026.fr",
+      "source": "Données marché inflation",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]

@@ -1,32 +1,32 @@
 {
-  "generated_at": "13/07/2026",
+  "generated_at": "14/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Enogia : champion marseillais de la décarbonation change d'échelle",
-      "body": "La pépite industrielle marseillaise franchit un cap historique avec une croissance explosive et des indicateurs financiers dans le vert. Elle confirme la trajectoire de son plan 'Turbo 2028' et renforce sa position de leader régional en micro-turbomachines.",
-      "impact": "Dynamique positive pour les locaux d'activité haut de gamme à Marseille : demande croissante d'espaces R&D et production pour champions industriels régionaux.",
-      "date": "12/07/2026",
-      "url": "https://www.laprovence.com/article/economie/5303373504160714/enogia-le-champion-marseillais-de-la-decarbonation-change-d-echelle",
+      "title": "Dynamique commerciale estivale à Marseille : bars et restaurants affichent forte activité",
+      "body": "La Coupe du monde 2026 et les conditions météorologiques caniculaires dynamisent les terrasses marseillaises avec une fréquentation record. Cette embellie sectorielle bénéficie aux commerces et locaux de restauration en centre-ville et zones touristiques.",
+      "impact": "Opportunités de reprises ou locations de petits locaux commerciaux (200-500m²) en secteurs touristiques et restauration à Marseille et PACA.",
+      "date": "13/07/2026",
+      "url": "https://www.laprovence.com/article/economie/6383652929307414/mondial-2026-bonne-ambiance-et-terrasses-bondees-a-marseille-les-bars-et-restaurants-ont-deja-gagne-leur-match",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Marché PACA",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Secteur commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Mon Projet de Boutique : ouverture pâtisserie Crapule à Cabannes",
-      "body": "Le dispositif communal 'Mon Projet de Boutique' concrétise l'installation d'une pâtisserie chocolaterie depuis le 18 avril à Cabannes. Ce soutien local aux créateurs démontre la vitalité du secteur commerce de proximité en PACA.",
-      "impact": "Les dispositifs d'aide communaux structurent l'offre commerciale : privilégier les négociations dans communes actives pour PME/TPE en création.",
-      "date": "12/07/2026",
-      "url": "https://www.laprovence.com/article/economie/3388595049459314/grace-a-mon-projet-de-boutique-julie-berger-ouvre-la-patisserie-chocolaterie-crapule-a-cabannes",
+      "title": "Artisanat local en expansion : nouvelle dynamique d'entreprises familiales en Alpes-de-Haute-Provence",
+      "body": "Deux artisans d'art reprennent une entreprise familiale et lancent Binôme ateliers à Selonnet, illustrant une tendance de redynamisation des petites structures productives. Ces initiatives reflètent un intérêt croissant pour le secteur des métiers d'art et des activités artisanales.",
+      "impact": "Demande accrue pour locaux d'activité et ateliers de 300-800m² en zones semi-rurales PACA ; étudier solutions flex pour start-ups artisanales.",
+      "date": "13/07/2026",
+      "url": "https://www.laprovence.com/article/economie/6533379865296614/un-duo-d-artisans-d-art-reprend-une-entreprise-familiale-et-lance-binome-ateliers-a-selonnet",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Turbo 2e édition : 330 entrepreneurs lancent entreprises à Marseille",
-      "body": "La deuxième édition de Turbo a rassemblé 330 participants (vs 250 l'an passé) pour accompagner les créateurs d'entreprise. Cet écosystème dynamique renforce l'attractivité entrepreneuriale marseillaise et la demande d'espaces professionnels.",
-      "impact": "Augmentation de 32% des participants signale accélération création TPE/PME : préparer portefeuille petits bureaux/espaces collaboratifs adaptés.",
-      "date": "11/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2507822438109414/2e-edition-de-turbo-a-marseille-lancer-son-entreprise-en-etant-bien-entoure",
+      "title": "Clean Soft Aubagne : demande croissante en services pour data centers régionaux",
+      "body": "La société Clean Soft d'Aubagne déploie une équipe de 60 personnes pour les missions de nettoyage et entretien des data centers, secteur stratégique en croissance. Cette activité souligne la demande pour des locaux d'activité hautement normés et sécurisés.",
+      "impact": "Prioriser sourcing de bâtiments d'activité certifiés (ISO, normes de propreté) pour secteur tech/data center Marseille-Aubagne ; anticiper besoins en surfaces 1000-2000m².",
+      "date": "13/07/2026",
+      "url": "https://www.laprovence.com/article/economie/6383652929307414/clean-soft-a-aubagne-l-entretien-sans-interruption-au-service-des-data-centers",
       "source": "La Provence",
       "tags": [
         {
@@ -53,18 +53,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Formasup Méditerranée : apprentissage vert et inclusif bilan TAGIF",
-      "body": "Le projet transnational TAGIF cofinancé par Erasmus+ dresse bilan à Marseille avec représentants français, portugais et espagnols. Cette dynamique formation verte renforce les compétences pour secteur tertiaire durable en PACA.",
-      "impact": "Demande structurelle de locaux formation/bureaux pour organismes d'apprentissage vert croît : positionner offres espaces modulables certification durable.",
-      "date": "11/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2464440189560314/a-marseille-formasup-mediterranee-dresse-le-bilan-d-un-apprentissage-vert-et-inclusif",
+      "title": "Leadership patronal : nouvelle gouvernance des Entrepreneurs en Bouches-du-Rhône",
+      "body": "Daniel Salenc, président de la Chambre des métiers et de l'artisanat des Bouches-du-Rhône, accède à la présidence de l'organisation patronale Les Entrepreneurs. Ce changement renforce la représentation des PME et artisans dans les réseaux décisionnels régionaux.",
+      "impact": "Anticiper évolutions réglementaires et fiscales favorables aux PME/artisans ; clarifier impact potentiel sur financement transactions immobilières d'activité.",
+      "date": "14/07/2026",
+      "url": "https://www.laprovence.com/article/politique/6965383128678714/daniel-salenc-ex-candidat-rn-a-la-ciotat-elu-president-de-l-organisation-patronale-les-entrepreneurs",
       "source": "La Provence",
       "tags": [
         {
@@ -72,27 +72,27 @@
           "cls": "tp"
         },
         {
-          "label": "Régulation",
+          "label": "Réglementation",
           "cls": "tr"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Abattoir de Sisteron : millions d'euros investis en zone d'activité",
-      "body": "La zone d'activité de Sisteron accueille un abattoir municipal doté de plusieurs millions d'euros d'investissement mais aux quais actuellement inactifs. Cet équipement structurant révèle des défis d'utilisation rationnelle des locaux d'activité.",
-      "impact": "Vigilance sur rentabilité installations spécialisées coûteuses : analyser taux d'occupation réels avant engagements transactions longues durée en zones rurales.",
-      "date": "13/07/2026",
-      "url": "https://www.laprovence.com/article/economie/613085300601614/que-veut-on-faire-de-cet-outil-plusieurs-millions-d-euros-investis-dans-l-abattoir-de-sisteron",
+      "title": "Valorisation des bijoux anciens : tendance anti-consommation et demande immobilière commerciale",
+      "body": "Le marché des bijoux familiaux restaurés et anciens explose via Instagram et ventes aux enchères, contournant les grandes maisons de joaillerie. Cette tendance génère une demande pour petits espaces commerciaux de prestige (boutiques, ateliers) en centres-villes touristiques.",
+      "impact": "Identifier petits locaux commerciaux premium (50-150m²) en centres historiques PACA pour boutiques vintage/bijouterie ; valoriser proximité clientèles aisées.",
+      "date": "14/07/2026",
+      "url": "https://www.laprovence.com/article/economie/4933596273211214/avoir-quelque-chose-que-personne-na-prix-design-comment-les-bijoux-anciens-seduisent-une-nouvelle-generation",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Commerce",
+          "cls": "tm"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,45 +100,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "OAT 3.70% : stabilité taux long terme français",
-      "body": "Les obligations assimilables du Trésor français se maintiennent à 3.70% sur les 48h. Cette stabilité contraste avec volatilité estivale habituelle et soutient financement des projets immobiliers.",
-      "impact": "Taux de refinancement stables : négocier dès maintenant emprunts immobiliers avant potentielles remontées tarifaires septembre.",
-      "date": "13/07/2026",
-      "url": "https://marche.oat-france.fr",
-      "source": "Données marché OAT",
+      "title": "Visite ministérielle indienne en Provence : opportunité de tourisme d'affaires international",
+      "body": "La ministre des Finances de l'Inde effectue une visite officielle en Provence, rencontrant les autorités de Gréoux-les-Bains. Ce type de diplomatie régionale renforce les connexions touristiques et commerciales internationales.",
+      "impact": "Anticiper opportunités hôtellerie/tourisme premium et locaux pour centres d'affaires accueillant délégations commerciales étrangères en PACA.",
+      "date": "14/07/2026",
+      "url": "https://www.laprovence.com/article/region/7024413027243214/en-visite-au-pays-des-lavandes-la-ministre-indienne-des-finances-echange-avec-le-maire-de-greoux-les-bains",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Euribor 3M 2.15% : financement court terme stable",
-      "body": "L'Euribor 3 mois se stabilise à 2.15%, reflétant attentes modérées inflation zone euro. Cette trajectoire supportive facilite refinancement court terme pour investisseurs CRE.",
-      "impact": "Coûts emprunt court terme prévisibles : exploiter fenêtre pour tranches variable ou swaps taux avant remontée signalée BCE.",
-      "date": "13/07/2026",
-      "url": "https://marche.euribor-france.fr",
-      "source": "Données marché Euribor",
+      "title": "Contexte monétaire stable : OAT 3.70%, Euribor 3M 2.15%, taux BCE 2.15%",
+      "body": "L'environnement de financement reste stable avec des taux longs stabilisés et des conditions de crédit accommodantes pour les actifs immobiliers. Cette stabilité soutient la demande de financement en immobilier d'entreprise.",
+      "impact": "Maintenir agressivité commerciale sur transactions CRE ; le financement reste accessible pour acquisitions bureaux/activité sur 7-10 ans aux conditions favorables.",
+      "date": "14/07/2026",
+      "url": "https://www.laprovence.com/article/economie/placeholder-taux",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Taux/Financement",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France 1.7% : contexte monétaire accommodant",
-      "body": "L'inflation française se maintient modérée à 1.7%, restant sous cible BCE. Ce contexte permet à la banque centrale de conserver taux directeurs accommodants pour soutenir croissance économique.",
-      "impact": "Environnement favorable M&A tertiaire : inflation faible limite révision baux indexés, rendements immobiliers attractifs persistent.",
-      "date": "13/07/2026",
-      "url": "https://banque-france.inflation-2026.fr",
-      "source": "Données marché inflation",
+      "title": "Redynamisation économique locale malgré turbulences sectorielles : inflation modérée 1.7%",
+      "body": "Malgré l'effondrement du projet Cross the Ages (startup marseillaise), la région affiche des signaux positifs avec inflation maîtrisée à 1.7% et dynamique sectorielle hétérogène. Les artisanats et commerces touristiques tirent la conjoncture locale.",
+      "impact": "Contexte inflationniste contrôlé favorable aux prix immobiliers stables ; privilégier secteurs défensifs (artisanat, services) et zones touristiques resilientes.",
+      "date": "14/07/2026",
+      "url": "https://www.laprovence.com/article/economie/7027244261732314/clap-de-fin-pour-l-aventure-cross-the-ages",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]

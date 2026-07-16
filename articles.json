@@ -1,11 +1,11 @@
 {
-  "generated_at": "15/07/2026",
+  "generated_at": "16/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Zones d'activités PACA : rénovation des espaces à Manosque",
-      "body": "Trois zones d'activités du territoire (Manosque, Villeneuve, Corbières-en-Provence) bénéficient de travaux de modernisation lancés en juillet 2026. Ces investissements visent à redynamiser l'attractivité des locaux professionnels et d'activité en région.",
-      "impact": "Conseil : valoriser ces zones rénovées auprès des candidats preneurs en activité ; opportunité de repositionnement tarifaire sur les locaux remis à neuf.",
+      "title": "Zones d'activités PACA: travaux de requalification à Manosque, Villeneuve et Corbières",
+      "body": "Trois zones d'activités du territoire bénéficient d'une campagne de modernisation lancée en juillet 2026, redonnant dynamique aux espaces tertiaires et d'activité régionaux. Ces investissements locaux illustrent la reprise d'attractivité des parcs commerciaux et zones d'activité en PACA.",
+      "impact": "Opportunité de transactions de bureaux et locaux d'activité dans ces zones rénovées; à surveiller pour repositionnement de portefeuille client.",
       "date": "14/07/2026",
       "url": "https://www.laprovence.com/article/region/5311728419327914/des-travaux-qui-redonnent-des-couleurs-aux-zones-dactivites-de-manosque-villeneuve-et-corbieres-en-provence",
       "source": "La Provence",
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Filière bois : nouvelle scierie en Ubaye, dynamique locale",
-      "body": "Un projet ambitieux de scierie et centre de transformation du bois émerge en vallée de l'Ubaye, porté par une charte forestière locale. Cette infrastructure génère une demande de locaux d'activité et espaces de stockage dans la région.",
-      "impact": "Conseil : prospecter auprès des entreprises du secteur bois/transformation pour des besoins en locaux; créneaux potentiels de 1 000-5 000 m² d'activité à proximité de la future scierie.",
-      "date": "15/07/2026",
-      "url": "https://www.laprovence.com/article/societe/41044954753171/filiere-bois-l-ubaye-veut-recreer-une-dynamique-locale-autour-d-une-future-scierie",
+      "title": "Proman atteint 5 Md€ CA: dynamique emploi tertiaire en PACA",
+      "body": "Le leader régional du recrutement né à Manosque vise les 5 milliards d'euros de chiffre d'affaires en 2026, reflétant une demande soutenue en services tertiaires. Cette croissance signale une tension persistante sur le marché des bureaux et locaux accueillant services RH et conseil.",
+      "impact": "Renforcement de la demande de bureaux et espaces de travail flexibles pour cabinets de conseil/emploi; opportunités pour extensions ou relocalisations.",
+      "date": "16/07/2026",
+      "url": "https://www.laprovence.com/article/economie/53864812019019/proman-les-professionnels-de-l-emploi-societe-nee-a-manosque-vise-les-5-mde-de-chiffre-d-affaires-en-2026",
       "source": "La Provence",
       "tags": [
         {
@@ -41,31 +41,12 @@
     },
     {
       "id": "f3",
-      "title": "Formation professionnelle PACA : emploi et alternance",
-      "body": "ÉcoCampus Provence et Sup'Alternance Provence affichent un taux de réussite élevé aux diplomations de juillet 2026. Ces organismes forment une main-d'œuvre qualifiée pour les secteurs tertiaires et activité de la région.",
-      "impact": "Conseil : identifier les besoins en bureaux et locaux pour ces écoles en croissance ; potentiel d'offre immobilière dédiée à la formation professionnelle en PACA.",
-      "date": "14/07/2026",
-      "url": "https://www.laprovence.com/article/societe/7202382888993114/a-saint-tulle-les-etudiants-de-l-ecocampus-et-sup-alternance-provence-ont-ete-diplomes",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Taux Euribor 3M stable à 2,15% ; OAT 10Y à 3,70%",
-      "body": "Dans un contexte d'endettement de l'État français et de vigilance budgétaire, les taux restent stables : Euribor 3M à 2,15% et OAT 10 ans à 3,70%. Les coûts de financement immobilier demeurent contenus pour les transactions CRE.",
-      "impact": "Conseil : maintenir les montages de financement sur taux fixes ; opportunité de négociation bancaire avant une possible remontée des taux en fin d'année.",
+      "title": "Taux Livret A relevé à 1,7% dès août 2026: impact financement immobilier",
+      "body": "Le ministre Roland Lescure a décidé mercredi 15 juillet de relever le taux du Livret A de 1,5% à 1,7% à compter du 1er août, maintenant le Livret d'épargne populaire à 2,5%. Cette augmentation des taux de rémunération de l'épargne impacte l'attractivité des placements immobiliers.",
+      "impact": "Révision à la baisse attendue sur les appétences investisseurs pour SCPI/fonds tertiaire; valorisations immobilières en bureaux à surveiller.",
       "date": "15/07/2026",
-      "url": "https://www.laprovence.com/article/economie/marche-financier",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/806469304546214/le-taux-du-livret-a-releve-a-1-7-a-partir-du-1er-aout-celui-du-livret-depargne-populaire-maintenu-a-2-5",
+      "source": "La Provence",
       "tags": [
         {
           "label": "Taux",
@@ -78,21 +59,40 @@
       ]
     },
     {
-      "id": "f5",
-      "title": "Décret tertiaire : impact sur les locaux de bureau en PACA",
-      "body": "La réglementation énergétique tertiaire poursuit son déploiement en région PACA. Les propriétaires de bureaux doivent anticiper les conformités de décarbonation pour 2030-2050.",
-      "impact": "Conseil : valoriser les immeubles aux normes tertiaire auprès des preneurs sensibles aux critères ESG ; fenêtre de transition jusqu'à 2030 pour adaptation des portefeuilles.",
+      "id": "f4",
+      "title": "Essor du commerce de proximité: Extremadura à Pélissanne, Kima Rolls à Marseille",
+      "body": "Deux initiatives commerciales émergent en PACA: épicerie fine/bar à tapas à Pélissanne et accessoires de plage made in Marseille, traduisant une dynamique de petits commerces innovants. Ces modèles de distribution diversifiée renforcent la demande en petits locaux commerciaux et espaces polyvalents.",
+      "impact": "Demande soutenue pour petites surfaces commerciales, retail flexible et pop-up stores; adapter offre PACA aux besoins des jeunes entrepreneurs.",
       "date": "15/07/2026",
-      "url": "https://www.laprovence.com/article/economie/decret-tertiaire-paca",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/7925457078052814/robin-carrasco-ouvre-extremadura-un-coin-d-espagne-au-coeur-de-pelissanne",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Commerce",
+          "cls": "tm"
         },
         {
           "label": "PACA",
           "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Travaux du Midi: 100 ans de BTP régional, dynamique secteur bâtiment-activité",
+      "body": "Fondée en 1926 par Alfred de Bertagnol, Travaux du Midi célèbre son centenaire en tant que pilier du BTP régional marseillais. Cette longévité dans le bâtiment témoigne de la stabilité du secteur construction et de la demande continue en locaux d'activité tertiaires.",
+      "impact": "Matière première pour justifier investissements locaux en bureaux/activité auprès clients BTP; patrimoine immobilier à valoriser.",
+      "date": "16/07/2026",
+      "url": "https://www.laprovence.com/article/economie/8767884739120414/travaux-du-midi-souffle-ses-100-bougies-l-histoire-d-une-pme-marseillaise-devenue-pilier-du-btp-regional",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,9 +100,24 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Coupes budgétaires de l'État : impact sur secteur culture et immo",
-      "body": "Le Ministère de l'Économie intensifie les économies budgétaires sur tous les secteurs. Les structures culturelles (théâtre La Criée à Marseille) signalent des menaces existentielles.",
-      "impact": "Conseil : anticiper baisse d'activité des secteurs culturels/loisirs PACA ; risque de vacance accru sur immeubles dédiés à la culture en zones urbaines.",
+      "title": "Effort budgétaire 126 Md€ requis d'ici 2032 pour stabiliser dette publique",
+      "body": "Une mission d'économistes remise mercredi 15 juillet préconise 126 milliards d'euros d'efforts dès 2027 pour stabiliser le taux de dette française à 2032. Ce contexte d'austérité gouvernementale pèse sur les investissements publics et la consommation.",
+      "impact": "Contexte macro dégradé: attendre clarification budgétaire avant projets expansion; clients BTP/tertiaire vers ralentissement prévisible.",
+      "date": "15/07/2026",
+      "url": "https://www.laprovence.com/article/economie/8323480769486414/une-mission-deconomistes-prone-un-effort-de-126-milliards-deuros-pour-stabiliser-le-taux-de-dette-dici-2032",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Conjoncture",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Coupes budgétaires État: secteur culturel impacté, tertiaire sous pression",
+      "body": "Théâtres comme La Criée à Marseille font face à des coupes budgétaires de l'État en juillet 2026, dans une logique de réduction des dépenses publiques généralisée. Ce contexte d'austérité s'étend au-delà de la culture, impactant toute la demande tertiaire publique et semi-publique.",
+      "impact": "Réduction attendue de demande bureaux secteur public/culturel PACA; cibler secteur privé et PME pour croissance.",
       "date": "14/07/2026",
       "url": "https://www.laprovence.com/article/culture-loisirs/7405007305629314/notre-rentree-est-completement-menacee-a-marseille-le-theatre-la-criee-fait-face-aux-coupes-budgetaires-de-letat",
       "source": "La Provence",
@@ -110,48 +125,21 @@
         {
           "label": "Conjoncture",
           "cls": "tg"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Inflation France stabilisée à 1,7% ; BCE maintient 2,15%",
-      "body": "L'inflation française demeure modérée à 1,7%, en ligne avec les objectifs de la BCE. Les taux directeurs se stabilisent à 2,15%, soutenant une certaine prévisibilité macro.",
-      "impact": "Conseil : environnement favorable aux transactions long terme ; hausse tarifaire immobilière CRE compatible avec l'inflation mesurée.",
-      "date": "15/07/2026",
-      "url": "https://www.laprovence.com/article/economie/bce-inflation",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Taux",
-          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Pétrole Brent à 96 USD ; stabilité énergétique PACA",
-      "body": "Le brut Brent se maintient à 96 USD/baril, reflétant une stabilité géopolitique relative. Les coûts énergétiques demeurent contenus pour les immeubles tertiaires français.",
-      "impact": "Conseil : charges énergétiques stables ; argumentaire tarifaire de location avantageux pour preneurs sensibles aux coûts d'exploitation.",
-      "date": "15/07/2026",
-      "url": "https://www.laprovence.com/article/economie/brent-petrole",
-      "source": "Données marché",
+      "title": "Taux OAT 3,70%, Euribor 3M 2,15%, inflation France 1,7% (données marché)",
+      "body": "Données de marché au 16/07/2026: OAT 10Y à 3,70%, Euribor 3M à 2,15%, inflation France 1,7%, BCE maintient taux à 2,15%. Contexte de normalisation progressive des taux directeurs sans crise immédiate, mais environnement moins favorable aux financements longs.",
+      "impact": "Taux de financement immobilier en baisse progressive attendue; négocier dès maintenant avec banques pour clients acheteurs bureaux/activité.",
+      "date": "16/07/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

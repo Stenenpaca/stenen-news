@@ -1,13 +1,13 @@
 {
-  "generated_at": "16/07/2026",
+  "generated_at": "18/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Zones d'activités PACA: travaux de requalification à Manosque, Villeneuve et Corbières",
-      "body": "Trois zones d'activités du territoire bénéficient d'une campagne de modernisation lancée en juillet 2026, redonnant dynamique aux espaces tertiaires et d'activité régionaux. Ces investissements locaux illustrent la reprise d'attractivité des parcs commerciaux et zones d'activité en PACA.",
-      "impact": "Opportunité de transactions de bureaux et locaux d'activité dans ces zones rénovées; à surveiller pour repositionnement de portefeuille client.",
-      "date": "14/07/2026",
-      "url": "https://www.laprovence.com/article/region/5311728419327914/des-travaux-qui-redonnent-des-couleurs-aux-zones-dactivites-de-manosque-villeneuve-et-corbieres-en-provence",
+      "title": "Satys Coatings inaugure un nouvel atelier aéronautique à Marseille",
+      "body": "Satys Coatings renforce sa présence à Marseille (15e arrondissement) avec un nouvel atelier de peinture aéronautique, confirmant la ville comme hub stratégique européen devant Paris-le-Bourget et Toulouse. Cette expansion témoigne de la dynamique des activités spécialisées en région PACA.",
+      "impact": "Opportunité de sourcing immobilier pour locaux activité haute-tech aéronautique et industriel dans le secteur sud-est marseillais.",
+      "date": "17/07/2026",
+      "url": "https://www.laprovence.com/article/economie/9977595874782314/un-nouvel-atelier-de-peinture-aeronautique-a-marseille-pour-satys-coatings",
       "source": "La Provence",
       "tags": [
         {
@@ -22,11 +22,11 @@
     },
     {
       "id": "f2",
-      "title": "Proman atteint 5 Md€ CA: dynamique emploi tertiaire en PACA",
-      "body": "Le leader régional du recrutement né à Manosque vise les 5 milliards d'euros de chiffre d'affaires en 2026, reflétant une demande soutenue en services tertiaires. Cette croissance signale une tension persistante sur le marché des bureaux et locaux accueillant services RH et conseil.",
-      "impact": "Renforcement de la demande de bureaux et espaces de travail flexibles pour cabinets de conseil/emploi; opportunités pour extensions ou relocalisations.",
+      "title": "InCity : premier quartier marseillais labellisé durable méditerranéen",
+      "body": "InCity à la Capelette (10e arrondissement) devient le premier quartier marseillais certifié 'Quartier durable méditerranéen', transformant une friche industrielle multi-décennale en zone mixte. Ce projet symbolise la reconversion tertiaire-résidentielle des friches PACA.",
+      "impact": "À surveiller pour requalification d'anciens locaux activité en bureaux/commerce standards durables à proximité métropole.",
       "date": "16/07/2026",
-      "url": "https://www.laprovence.com/article/economie/53864812019019/proman-les-professionnels-de-l-emploi-societe-nee-a-manosque-vise-les-5-mde-de-chiffre-d-affaires-en-2026",
+      "url": "https://www.laprovence.com/article/economie/9127410448361214/incity-premier-quartier-marseillais-labellise-quartier-durable-mediterraneen",
       "source": "La Provence",
       "tags": [
         {
@@ -34,19 +34,57 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Taux Livret A relevé à 1,7% dès août 2026: impact financement immobilier",
-      "body": "Le ministre Roland Lescure a décidé mercredi 15 juillet de relever le taux du Livret A de 1,5% à 1,7% à compter du 1er août, maintenant le Livret d'épargne populaire à 2,5%. Cette augmentation des taux de rémunération de l'épargne impacte l'attractivité des placements immobiliers.",
-      "impact": "Révision à la baisse attendue sur les appétences investisseurs pour SCPI/fonds tertiaire; valorisations immobilières en bureaux à surveiller.",
-      "date": "15/07/2026",
-      "url": "https://www.laprovence.com/article/economie/806469304546214/le-taux-du-livret-a-releve-a-1-7-a-partir-du-1er-aout-celui-du-livret-depargne-populaire-maintenu-a-2-5",
+      "title": "Grand Frais ouvre à Plan d'Orgon après 4 ans de travaux",
+      "body": "L'enseigne Grand Frais inaugure son magasin à Plan d'Orgon après 4 années de chantier, attirant une importante affluence clientèle dès le premier jour. Cet événement confirme l'attractivité commerciale de cette zone de PACA.",
+      "impact": "Indicateur positif de confiance retail dans les zones rurales PACA ; cibler dynamique commerciale locale pour surfaces 500-2000m².",
+      "date": "17/07/2026",
+      "url": "https://www.laprovence.com/article/economie/9816727181406914/apres-4-ans-de-travaux-l-enseigne-grand-frais-a-ouvert-ses-portes-ce-vendredi-17-juillet-a-plan-dorgon",
       "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Asics investit à Aix-en-Provence via Human Fab",
+      "body": "Asics, leader européen du running premium, s'implante à Aix-en-Provence en collaboration avec Human Fab pour développer un hub de performance et innovation sportive. Cette alliance renforce le positionnement Aix-en-Provence comme pôle tech-sport.",
+      "impact": "Demande croissante de locaux activité innovants et bureaux flexibles pour marques premium à Aix ; cibles qualifiées R&D/showroom.",
+      "date": "17/07/2026",
+      "url": "https://www.laprovence.com/article/sante/7516766169097814/asics-monde-s-implante-a-aix-en-provence-en-collaborant-avec-l-entreprise-human-fab",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Flex-office",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Taux OAT 10Y à 3.70% : contexte de financement immobilier stable",
+      "body": "Les obligations d'État français se stabilisent à 3.70%, avec l'Euribor 3M à 2.15% et taux directeur BCE à 2.15%. Contexte favorable au financement d'acquisition immobilière entreprise en PACA.",
+      "impact": "Profiter de la fenêtre de taux stable pour accélérer transactions CRE ; coûts d'emprunt prévisibles pour investisseurs portfolios.",
+      "date": "18/07/2026",
+      "url": "https://www.laprovence.com/article/economie/9816727181406914/apres-4-ans-de-travaux-l-enseigne-grand-frais-a-ouvert-ses-portes-ce-vendredi-17-juillet-a-plan-dorgon",
+      "source": "Marché",
       "tags": [
         {
           "label": "Taux",
@@ -57,88 +95,50 @@
           "cls": "ti2"
         }
       ]
-    },
-    {
-      "id": "f4",
-      "title": "Essor du commerce de proximité: Extremadura à Pélissanne, Kima Rolls à Marseille",
-      "body": "Deux initiatives commerciales émergent en PACA: épicerie fine/bar à tapas à Pélissanne et accessoires de plage made in Marseille, traduisant une dynamique de petits commerces innovants. Ces modèles de distribution diversifiée renforcent la demande en petits locaux commerciaux et espaces polyvalents.",
-      "impact": "Demande soutenue pour petites surfaces commerciales, retail flexible et pop-up stores; adapter offre PACA aux besoins des jeunes entrepreneurs.",
-      "date": "15/07/2026",
-      "url": "https://www.laprovence.com/article/economie/7925457078052814/robin-carrasco-ouvre-extremadura-un-coin-d-espagne-au-coeur-de-pelissanne",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Travaux du Midi: 100 ans de BTP régional, dynamique secteur bâtiment-activité",
-      "body": "Fondée en 1926 par Alfred de Bertagnol, Travaux du Midi célèbre son centenaire en tant que pilier du BTP régional marseillais. Cette longévité dans le bâtiment témoigne de la stabilité du secteur construction et de la demande continue en locaux d'activité tertiaires.",
-      "impact": "Matière première pour justifier investissements locaux en bureaux/activité auprès clients BTP; patrimoine immobilier à valoriser.",
-      "date": "16/07/2026",
-      "url": "https://www.laprovence.com/article/economie/8767884739120414/travaux-du-midi-souffle-ses-100-bougies-l-histoire-d-une-pme-marseillaise-devenue-pilier-du-btp-regional",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "Effort budgétaire 126 Md€ requis d'ici 2032 pour stabiliser dette publique",
-      "body": "Une mission d'économistes remise mercredi 15 juillet préconise 126 milliards d'euros d'efforts dès 2027 pour stabiliser le taux de dette française à 2032. Ce contexte d'austérité gouvernementale pèse sur les investissements publics et la consommation.",
-      "impact": "Contexte macro dégradé: attendre clarification budgétaire avant projets expansion; clients BTP/tertiaire vers ralentissement prévisible.",
-      "date": "15/07/2026",
-      "url": "https://www.laprovence.com/article/economie/8323480769486414/une-mission-deconomistes-prone-un-effort-de-126-milliards-deuros-pour-stabiliser-le-taux-de-dette-dici-2032",
+      "title": "Homeblok consolide l'emploi industriel à Berre-l'Étang",
+      "body": "Bernard Cazeneuve visite l'unité Homeblok à Berre-l'Étang, saluant les efforts en matière d'emploi et insertion sociale du site productif. Signature de stabilité dans le tissu industriel PACA post-premier gouvernement.",
+      "impact": "Signal positif pour zones activité industrielle PACA ; demande de locaux poste-covid confirmée en régions manufacturières.",
+      "date": "17/07/2026",
+      "url": "https://www.laprovence.com/article/economie/9998666764274814/bernard-cazeneuve-salue-lemploi-et-linsertion-au-sein-de-lunite-de-production-homeblok-a-berre-letang",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Conjoncture France",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Coupes budgétaires État: secteur culturel impacté, tertiaire sous pression",
-      "body": "Théâtres comme La Criée à Marseille font face à des coupes budgétaires de l'État en juillet 2026, dans une logique de réduction des dépenses publiques généralisée. Ce contexte d'austérité s'étend au-delà de la culture, impactant toute la demande tertiaire publique et semi-publique.",
-      "impact": "Réduction attendue de demande bureaux secteur public/culturel PACA; cibler secteur privé et PME pour croissance.",
-      "date": "14/07/2026",
-      "url": "https://www.laprovence.com/article/culture-loisirs/7405007305629314/notre-rentree-est-completement-menacee-a-marseille-le-theatre-la-criee-fait-face-aux-coupes-budgetaires-de-letat",
-      "source": "La Provence",
+      "title": "Brent stable à 96 USD/baril en contexte géopolitique tendu",
+      "body": "Le prix du Brent demeure à 96 USD/baril dans un environnement géopolitique inchangé. Stabilité énergétique confirmée malgré tensions internationales persistantes.",
+      "impact": "Indicateur de coûts exploitation locaux stables ; loyers triple net intéressants pour portefeuilles tertiaires PACA.",
+      "date": "18/07/2026",
+      "url": "https://www.laprovence.com/article/economie/9998666764274814/bernard-cazeneuve-salue-lemploi-et-linsertion-au-sein-de-lunite-de-production-homeblok-a-berre-letang",
+      "source": "Marché",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Taux OAT 3,70%, Euribor 3M 2,15%, inflation France 1,7% (données marché)",
-      "body": "Données de marché au 16/07/2026: OAT 10Y à 3,70%, Euribor 3M à 2,15%, inflation France 1,7%, BCE maintient taux à 2,15%. Contexte de normalisation progressive des taux directeurs sans crise immédiate, mais environnement moins favorable aux financements longs.",
-      "impact": "Taux de financement immobilier en baisse progressive attendue; négocier dès maintenant avec banques pour clients acheteurs bureaux/activité.",
-      "date": "16/07/2026",
-      "url": "https://www.laprovence.com",
+      "title": "Inflation France à 1.7% : BCE maintient cap à 2.15%",
+      "body": "Inflation française maîtrisée à 1.7% avec politique BCE stable à taux directeur 2.15%. OAT 10Y consolidées à 3.70% confirme confiance des marchés.",
+      "impact": "Environnement macro favorable immobilier entreprise ; rendements locatifs préservés avec inflation contrôlée.",
+      "date": "18/07/2026",
+      "url": "https://www.laprovence.com/article/economie/9998666764274814/bernard-cazeneuve-salue-lemploi-et-linsertion-au-sein-de-lunite-de-production-homeblok-a-berre-letang",
       "source": "Marché",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Inflation",
           "cls": "tt"
         }
       ]

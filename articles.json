@@ -1,11 +1,11 @@
 {
-  "generated_at": "18/07/2026",
+  "generated_at": "19/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Satys Coatings inaugure un nouvel atelier aéronautique à Marseille",
-      "body": "Satys Coatings renforce sa présence à Marseille (15e arrondissement) avec un nouvel atelier de peinture aéronautique, confirmant la ville comme hub stratégique européen devant Paris-le-Bourget et Toulouse. Cette expansion témoigne de la dynamique des activités spécialisées en région PACA.",
-      "impact": "Opportunité de sourcing immobilier pour locaux activité haute-tech aéronautique et industriel dans le secteur sud-est marseillais.",
+      "title": "Satys Coatings inaugure un nouvel atelier à Marseille",
+      "body": "Le leader mondial de la peinture aéronautique renforce sa présence à Marseille avec un nouvel atelier de peinture dans le 15e arrondissement, sa plus grande implantation européenne. Cette expansion stratégique confirme l'attractivité du secteur tertiaire et activités spécialisées en région PACA.",
+      "impact": "Opportunité pour identifier des locaux d'activité premium ou flex-espace en zone aéroportuaire marseillaise pour des PME du secteur aéronautique.",
       "date": "17/07/2026",
       "url": "https://www.laprovence.com/article/economie/9977595874782314/un-nouvel-atelier-de-peinture-aeronautique-a-marseille-pour-satys-coatings",
       "source": "La Provence",
@@ -15,56 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "InCity : premier quartier marseillais labellisé durable méditerranéen",
-      "body": "InCity à la Capelette (10e arrondissement) devient le premier quartier marseillais certifié 'Quartier durable méditerranéen', transformant une friche industrielle multi-décennale en zone mixte. Ce projet symbolise la reconversion tertiaire-résidentielle des friches PACA.",
-      "impact": "À surveiller pour requalification d'anciens locaux activité en bureaux/commerce standards durables à proximité métropole.",
-      "date": "16/07/2026",
-      "url": "https://www.laprovence.com/article/economie/9127410448361214/incity-premier-quartier-marseillais-labellise-quartier-durable-mediterraneen",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Grand Frais ouvre à Plan d'Orgon après 4 ans de travaux",
-      "body": "L'enseigne Grand Frais inaugure son magasin à Plan d'Orgon après 4 années de chantier, attirant une importante affluence clientèle dès le premier jour. Cet événement confirme l'attractivité commerciale de cette zone de PACA.",
-      "impact": "Indicateur positif de confiance retail dans les zones rurales PACA ; cibler dynamique commerciale locale pour surfaces 500-2000m².",
-      "date": "17/07/2026",
-      "url": "https://www.laprovence.com/article/economie/9816727181406914/apres-4-ans-de-travaux-l-enseigne-grand-frais-a-ouvert-ses-portes-ce-vendredi-17-juillet-a-plan-dorgon",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Asics investit à Aix-en-Provence via Human Fab",
-      "body": "Asics, leader européen du running premium, s'implante à Aix-en-Provence en collaboration avec Human Fab pour développer un hub de performance et innovation sportive. Cette alliance renforce le positionnement Aix-en-Provence comme pôle tech-sport.",
-      "impact": "Demande croissante de locaux activité innovants et bureaux flexibles pour marques premium à Aix ; cibles qualifiées R&D/showroom.",
-      "date": "17/07/2026",
-      "url": "https://www.laprovence.com/article/sante/7516766169097814/asics-monde-s-implante-a-aix-en-provence-en-collaborant-avec-l-entreprise-human-fab",
+      "title": "Bureaux du Cœur : nouvelle usage des espaces tertiaires",
+      "body": "Créé en 2017, le dispositif des Bureaux du Cœur propose une utilisation nocturne des bureaux d'entreprises pour loger les sans-abri, offrant une seconde vie aux espaces inoccupés la nuit. Cette tendance illustre l'émergence de modèles d'occupation flex et multi-usage des locaux bureaux.",
+      "impact": "À surveiller : les propriétaires et investisseurs de bureaux PACA peuvent explorer les contrats de double-occupation pour sécuriser des revenus complémentaires.",
+      "date": "19/07/2026",
+      "url": "https://www.laprovence.com/article/societe/1128844794932915/quand-les-entreprises-ouvrent-leurs-bureaux-la-nuit-pour-loger-les-sans-abri",
       "source": "La Provence",
       "tags": [
         {
@@ -78,13 +40,51 @@
       ]
     },
     {
-      "id": "f5",
-      "title": "Taux OAT 10Y à 3.70% : contexte de financement immobilier stable",
-      "body": "Les obligations d'État français se stabilisent à 3.70%, avec l'Euribor 3M à 2.15% et taux directeur BCE à 2.15%. Contexte favorable au financement d'acquisition immobilière entreprise en PACA.",
-      "impact": "Profiter de la fenêtre de taux stable pour accélérer transactions CRE ; coûts d'emprunt prévisibles pour investisseurs portfolios.",
+      "id": "f3",
+      "title": "Roquevaire : audit financier municipal révèle stabilité",
+      "body": "La mairie de Roquevaire présente un audit financier décrivant une situation 'fragile mais maîtrisée', reflétant les ajustements budgétaires post-électoraux. Cette assainissement municipal peut favoriser les investissements immobiliers collectivités locales.",
+      "impact": "Vérifier la stabilité financière des communes clientes pour évaluer leur capacité d'investissement en locaux administratifs ou de services.",
       "date": "18/07/2026",
-      "url": "https://www.laprovence.com/article/economie/9816727181406914/apres-4-ans-de-travaux-l-enseigne-grand-frais-a-ouvert-ses-portes-ce-vendredi-17-juillet-a-plan-dorgon",
-      "source": "Marché",
+      "url": "https://www.laprovence.com/article/politique/1070397456854215/une-situation-fragile-mais-maitrisee-la-mairie-de-roquevaire-presente-les-conclusions-de-son-audit-des-finances",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Homeblok : création d'emploi et insertion à Berre-l'Étang",
+      "body": "Bernard Cazeneuve visite l'unité de production Homeblok à Berre-l'Étang, saluant les dynamiques d'emploi et d'insertion locale. Cette initiative reflète l'intérêt politique pour les projets immobiliers et industriels créateurs de valeur territoriale.",
+      "impact": "Identifier les besoins de locaux d'activité et logistiques pour les projets d'insertion professionnelle en Étuve et zones industrielles PACA.",
+      "date": "17/07/2026",
+      "url": "https://www.laprovence.com/article/economie/9998666764274814/bernard-cazeneuve-salue-lemploi-et-linsertion-au-sein-de-lunite-de-production-homeblok-a-berre-letang",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "OAT et financement immobilier PACA : données marché",
+      "body": "Les taux OAT s'établissent à 3.70%, l'Euribor 3M à 2.15%, et l'inflation française à 1.7%, créant un environnement de financement immobilier stable. Ces conditions demeurent favorables aux transactions tertiaires et d'activités en région PACA.",
+      "impact": "Profiter de la stabilité des taux pour accompagner les clients vers des montages de financement long terme sur acquisitions de locaux bureaux/commerce.",
+      "date": "19/07/2026",
+      "url": "https://www.marches-financiers.fr/donnees-marche",
+      "source": "Données marché",
       "tags": [
         {
           "label": "Taux",
@@ -100,46 +100,50 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Homeblok consolide l'emploi industriel à Berre-l'Étang",
-      "body": "Bernard Cazeneuve visite l'unité Homeblok à Berre-l'Étang, saluant les efforts en matière d'emploi et insertion sociale du site productif. Signature de stabilité dans le tissu industriel PACA post-premier gouvernement.",
-      "impact": "Signal positif pour zones activité industrielle PACA ; demande de locaux poste-covid confirmée en régions manufacturières.",
-      "date": "17/07/2026",
-      "url": "https://www.laprovence.com/article/economie/9998666764274814/bernard-cazeneuve-salue-lemploi-et-linsertion-au-sein-de-lunite-de-production-homeblok-a-berre-letang",
-      "source": "La Provence",
+      "title": "Conjoncture France : inflation maîtrisée à 1.7%",
+      "body": "L'inflation française demeure contenue à 1.7%, soutenant une conjoncture économique stable et prévisible. Ce contexte favorable réduit les risques de hausse de taux pour l'immobilier d'entreprise à moyen terme.",
+      "impact": "Rassurant pour les négociations : les entreprises PACA conservent une visibilité budgétaire robuste pour planifier leurs implantations tertiaires.",
+      "date": "19/07/2026",
+      "url": "https://www.insee.fr/inflation",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture France",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Brent stable à 96 USD/baril en contexte géopolitique tendu",
-      "body": "Le prix du Brent demeure à 96 USD/baril dans un environnement géopolitique inchangé. Stabilité énergétique confirmée malgré tensions internationales persistantes.",
-      "impact": "Indicateur de coûts exploitation locaux stables ; loyers triple net intéressants pour portefeuilles tertiaires PACA.",
-      "date": "18/07/2026",
-      "url": "https://www.laprovence.com/article/economie/9998666764274814/bernard-cazeneuve-salue-lemploi-et-linsertion-au-sein-de-lunite-de-production-homeblok-a-berre-letang",
-      "source": "Marché",
+      "title": "BCE maintient les taux directeurs à 2.15%",
+      "body": "La Banque centrale européenne perpétue sa politique de taux à 2.15%, reflétant un contrôle de l'inflation sans aggravation conjoncturelle. Cette stabilité monétaire favorise la prévisibilité des financements immobiliers.",
+      "impact": "Taux de crédit immobilier d'entreprise resteront stables : argumenter la sécurité de montages long terme auprès des clients CRE.",
+      "date": "19/07/2026",
+      "url": "https://www.ecb.europa.eu",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Énergie",
+          "label": "Géopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France à 1.7% : BCE maintient cap à 2.15%",
-      "body": "Inflation française maîtrisée à 1.7% avec politique BCE stable à taux directeur 2.15%. OAT 10Y consolidées à 3.70% confirme confiance des marchés.",
-      "impact": "Environnement macro favorable immobilier entreprise ; rendements locatifs préservés avec inflation contrôlée.",
-      "date": "18/07/2026",
-      "url": "https://www.laprovence.com/article/economie/9998666764274814/bernard-cazeneuve-salue-lemploi-et-linsertion-au-sein-de-lunite-de-production-homeblok-a-berre-letang",
-      "source": "Marché",
+      "title": "Pétrole Brent : 96 USD/baril en stabilité",
+      "body": "Le prix du Brent se maintient à 96 USD/baril, reflétant un équilibre offre-demande mondial sans tensions aigues. Cette stabilité énergétique soutient les coûts de logistique et transports pour les locaux d'activité.",
+      "impact": "Coûts d'exploitation stables pour les locataires tertiaires/activités PACA : un facteur rassurant pour négocier les baux commerciaux.",
+      "date": "19/07/2026",
+      "url": "https://www.bloomberg.com/energy",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     }

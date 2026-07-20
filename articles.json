@@ -1,13 +1,13 @@
 {
-  "generated_at": "19/07/2026",
+  "generated_at": "20/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Satys Coatings inaugure un nouvel atelier à Marseille",
-      "body": "Le leader mondial de la peinture aéronautique renforce sa présence à Marseille avec un nouvel atelier de peinture dans le 15e arrondissement, sa plus grande implantation européenne. Cette expansion stratégique confirme l'attractivité du secteur tertiaire et activités spécialisées en région PACA.",
-      "impact": "Opportunité pour identifier des locaux d'activité premium ou flex-espace en zone aéroportuaire marseillaise pour des PME du secteur aéronautique.",
-      "date": "17/07/2026",
-      "url": "https://www.laprovence.com/article/economie/9977595874782314/un-nouvel-atelier-de-peinture-aeronautique-a-marseille-pour-satys-coatings",
+      "title": "Alfagel Trêts : dynamique estivale pour producteur de glaces",
+      "body": "L'usine Alfagel à Trêts bénéficie des vagues de canicule successives qui dopent la demande en glaces. Cette activité saisonnière illustre la résilience de certains secteurs d'activité en période estivale.",
+      "impact": "Opportunités de location de locaux d'activité pour PME agroalimentaires PACA, secteurs défensifs attractifs pour investisseurs.",
+      "date": "20/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1219758561016615/dans-son-usine-de-trets-le-coup-de-chaud-estival-du-fabricant-de-glaces-alfagel",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Bureaux du Cœur : nouvelle usage des espaces tertiaires",
-      "body": "Créé en 2017, le dispositif des Bureaux du Cœur propose une utilisation nocturne des bureaux d'entreprises pour loger les sans-abri, offrant une seconde vie aux espaces inoccupés la nuit. Cette tendance illustre l'émergence de modèles d'occupation flex et multi-usage des locaux bureaux.",
-      "impact": "À surveiller : les propriétaires et investisseurs de bureaux PACA peuvent explorer les contrats de double-occupation pour sécuriser des revenus complémentaires.",
+      "title": "Entrepreneuriat : apprentis PACA valorisés au concours 180 secondes",
+      "body": "La finale régionale du Concours 'Mon apprentissage en 180 secondes' s'est déroulée mi-juin au 6MIC à Aix-en-Provence. Cette initiative valorise l'apprentissage en entreprise et le dynamisme entrepreneurial régional.",
+      "impact": "Demande accrue d'espaces bureaux flexibles et collaboratifs pour PME PACA engagées dans transmission de savoir-faire.",
       "date": "19/07/2026",
-      "url": "https://www.laprovence.com/article/societe/1128844794932915/quand-les-entreprises-ouvrent-leurs-bureaux-la-nuit-pour-loger-les-sans-abri",
+      "url": "https://www.laprovence.com/article/economie/1171286810674815/trois-minutes-pour-convaincre-les-apprentis-brillent-en-provence-au-concours-mon-apprentissage-en-180-secondes",
       "source": "La Provence",
       "tags": [
         {
@@ -34,37 +34,37 @@
           "cls": "tp"
         },
         {
-          "label": "Flex-office",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Roquevaire : audit financier municipal révèle stabilité",
-      "body": "La mairie de Roquevaire présente un audit financier décrivant une situation 'fragile mais maîtrisée', reflétant les ajustements budgétaires post-électoraux. Cette assainissement municipal peut favoriser les investissements immobiliers collectivités locales.",
-      "impact": "Vérifier la stabilité financière des communes clientes pour évaluer leur capacité d'investissement en locaux administratifs ou de services.",
-      "date": "18/07/2026",
-      "url": "https://www.laprovence.com/article/politique/1070397456854215/une-situation-fragile-mais-maitrisee-la-mairie-de-roquevaire-presente-les-conclusions-de-son-audit-des-finances",
+      "title": "Bureaux du Cœur : usages alternatifs immobilier tertiaire la nuit",
+      "body": "Créé en 2017, le dispositif des Bureaux du Cœur optimise l'utilisation nocturne des locaux bureaux d'entreprises pour accueillir des sans-abri. Ce modèle hybrid ouvre perspectives d'usage flexible des immeubles tertiaires.",
+      "impact": "Modèle de valorisation nocturne des actifs tertiaires PACA : diversification revenus pour propriétaires, réponse RSE pour entreprises locataires.",
+      "date": "19/07/2026",
+      "url": "https://www.laprovence.com/article/societe/1128844794932915/quand-les-entreprises-ouvrent-leurs-bureaux-la-nuit-pour-loger-les-sans-abri",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Flex-office",
+          "cls": "tm"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Homeblok : création d'emploi et insertion à Berre-l'Étang",
-      "body": "Bernard Cazeneuve visite l'unité de production Homeblok à Berre-l'Étang, saluant les dynamiques d'emploi et d'insertion locale. Cette initiative reflète l'intérêt politique pour les projets immobiliers et industriels créateurs de valeur territoriale.",
-      "impact": "Identifier les besoins de locaux d'activité et logistiques pour les projets d'insertion professionnelle en Étuve et zones industrielles PACA.",
-      "date": "17/07/2026",
-      "url": "https://www.laprovence.com/article/economie/9998666764274814/bernard-cazeneuve-salue-lemploi-et-linsertion-au-sein-de-lunite-de-production-homeblok-a-berre-letang",
+      "title": "Agriculture innovation : technologies expérimentées en Vaucluse",
+      "body": "Le domaine viticole expérimental de Piolenc conduit depuis 20 ans tests d'ombrières automatiques et robots sur 6.5 ha combinant vignes, pois chiches et tomates. Ces innovations agritech PACA positionnent région en leader technologique.",
+      "impact": "Locaux d'activité pour startups agritech PACA : demande croissante espaces R&D modulables et connectés en zone Ventoux-Vaucluse.",
+      "date": "20/07/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/27784647416057/ombrieres-automatiques-ou-robots-la-viticulture-de-demain-est-inventee-au-domaine-viticole-experimental-de-piolenc",
       "source": "La Provence",
       "tags": [
         {
@@ -72,18 +72,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "OAT et financement immobilier PACA : données marché",
-      "body": "Les taux OAT s'établissent à 3.70%, l'Euribor 3M à 2.15%, et l'inflation française à 1.7%, créant un environnement de financement immobilier stable. Ces conditions demeurent favorables aux transactions tertiaires et d'activités en région PACA.",
-      "impact": "Profiter de la stabilité des taux pour accompagner les clients vers des montages de financement long terme sur acquisitions de locaux bureaux/commerce.",
-      "date": "19/07/2026",
-      "url": "https://www.marches-financiers.fr/donnees-marche",
+      "title": "Financement stable : Euribor 3M 2.15%, OAT 3.70% juillet 2026",
+      "body": "Contexte de taux modérés favorise acquisitions immobilières tertiaires PACA : Euribor 3M stabilisé à 2.15%, OAT 10Y à 3.70% reflètent environnement financement maîtrisé. BCE maintient cap prudent à 2.15%.",
+      "impact": "Fenêtre favorable pour refinancement et acquisitions bureaux/activité PACA : taux d'emprunt attractifs pour investisseurs institutionnels et PME.",
+      "date": "20/07/2026",
+      "url": "https://www.laprovence.com/",
       "source": "Données marché",
       "tags": [
         {
@@ -100,11 +100,30 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Conjoncture France : inflation maîtrisée à 1.7%",
-      "body": "L'inflation française demeure contenue à 1.7%, soutenant une conjoncture économique stable et prévisible. Ce contexte favorable réduit les risques de hausse de taux pour l'immobilier d'entreprise à moyen terme.",
-      "impact": "Rassurant pour les négociations : les entreprises PACA conservent une visibilité budgétaire robuste pour planifier leurs implantations tertiaires.",
-      "date": "19/07/2026",
-      "url": "https://www.insee.fr/inflation",
+      "title": "Géopolitique Moyen-Orient : Brent dépasse 90$/baril",
+      "body": "Intensification conflit Moyen-Orient provoque hausse cours pétrole : baril Brent dépasse 90$ (niveau max juin 2026), frappes américaines sur Iran 9e nuit consécutive, navire en feu détroit. Escalade géopolitique pèse sur énergie.",
+      "impact": "Risque inflationniste court terme sur coûts exploitation immobilière tertiaire PACA (énergie, transports) : répercussion probable sur charges locataires.",
+      "date": "20/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1013215346478415/guerre-au-moyen-orient-le-baril-de-brent-depasse-les-90-dollars-les-cours-du-petrole-au-plus-haut-depuis-juin",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Énergie",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Inflation France : stabilisation 1.7% juillet 2026",
+      "body": "Inflation française stable à 1.7% en juillet 2026 reflète modération pressions prix malgré turbulences géopolitiques. Contexte macroeconômique France demeure contrôlé et prévisible pour investisseurs.",
+      "impact": "Stabilité inflation France soutient valorisations immobilières tertiaires PACA : rendements locatifs préservés, négociations baux de long terme favorisées.",
+      "date": "20/07/2026",
+      "url": "https://www.laprovence.com/",
       "source": "Données marché",
       "tags": [
         {
@@ -114,35 +133,20 @@
       ]
     },
     {
-      "id": "m2",
-      "title": "BCE maintient les taux directeurs à 2.15%",
-      "body": "La Banque centrale européenne perpétue sa politique de taux à 2.15%, reflétant un contrôle de l'inflation sans aggravation conjoncturelle. Cette stabilité monétaire favorise la prévisibilité des financements immobiliers.",
-      "impact": "Taux de crédit immobilier d'entreprise resteront stables : argumenter la sécurité de montages long terme auprès des clients CRE.",
-      "date": "19/07/2026",
-      "url": "https://www.ecb.europa.eu",
+      "id": "m3",
+      "title": "BCE : taux directeur 2.15%, politique monétaire stable",
+      "body": "Banque Centrale Européenne maintient taux directeur à 2.15% juillet 2026, signalant pause dans cycle de normalisation monétaire. Stabilité BCE rassure marchés financiers et soutient demande immobilière professionnelle.",
+      "impact": "Politique BCE stable 2.15% ancre confiance investisseurs tertiaire PACA : financement accessible, perspective taux long terme maîtrisée.",
+      "date": "20/07/2026",
+      "url": "https://www.laprovence.com/",
       "source": "Données marché",
       "tags": [
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
         {
           "label": "Taux",
           "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "m3",
-      "title": "Pétrole Brent : 96 USD/baril en stabilité",
-      "body": "Le prix du Brent se maintient à 96 USD/baril, reflétant un équilibre offre-demande mondial sans tensions aigues. Cette stabilité énergétique soutient les coûts de logistique et transports pour les locaux d'activité.",
-      "impact": "Coûts d'exploitation stables pour les locataires tertiaires/activités PACA : un facteur rassurant pour négocier les baux commerciaux.",
-      "date": "19/07/2026",
-      "url": "https://www.bloomberg.com/energy",
-      "source": "Données marché",
-      "tags": [
+        },
         {
-          "label": "Géopolitique",
+          "label": "Monétaire",
           "cls": "tg"
         }
       ]

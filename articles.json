@@ -1,13 +1,13 @@
 {
-  "generated_at": "20/07/2026",
+  "generated_at": "21/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Alfagel Trêts : dynamique estivale pour producteur de glaces",
-      "body": "L'usine Alfagel à Trêts bénéficie des vagues de canicule successives qui dopent la demande en glaces. Cette activité saisonnière illustre la résilience de certains secteurs d'activité en période estivale.",
-      "impact": "Opportunités de location de locaux d'activité pour PME agroalimentaires PACA, secteurs défensifs attractifs pour investisseurs.",
+      "title": "Ruby Yani : nouveau coworking à Marseille avec offre d'adhésion gratuite",
+      "body": "Le groupe allemand Ruby Hotels ouvre son premier établissement en France, le Ruby Lilou, boulevard des Dames dans un ancien immeuble de bureaux restructuré. Un espace de coworking baptisé Ruby Yani proposera des adhésions gratuites aux entrepreneurs.",
+      "impact": "Nouvelle offre de flex-office premium à Marseille : opportunité de repositionnement tarifaire pour les espaces de travail partagé en PACA face à cette concurrence de qualité.",
       "date": "20/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1219758561016615/dans-son-usine-de-trets-le-coup-de-chaud-estival-du-fabricant-de-glaces-alfagel",
+      "url": "https://www.laprovence.com/article/economie/19366039757496/entrepreneurs-decrochez-une-adhesion-gratuite-au-coworking-ruby-yani-a-marseille",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
+          "label": "Flex-office",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Entrepreneuriat : apprentis PACA valorisés au concours 180 secondes",
-      "body": "La finale régionale du Concours 'Mon apprentissage en 180 secondes' s'est déroulée mi-juin au 6MIC à Aix-en-Provence. Cette initiative valorise l'apprentissage en entreprise et le dynamisme entrepreneurial régional.",
-      "impact": "Demande accrue d'espaces bureaux flexibles et collaboratifs pour PME PACA engagées dans transmission de savoir-faire.",
-      "date": "19/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1171286810674815/trois-minutes-pour-convaincre-les-apprentis-brillent-en-provence-au-concours-mon-apprentissage-en-180-secondes",
+      "title": "Maison des entrepreneurs inaugurée à Bollène dans l'espace Concordia",
+      "body": "Après huit mois de travaux, la Maison des entrepreneurs a été officiellement inaugurée au sein de l'espace Concordia à Bollène le 9 juillet. Ce nouvel équipement vise à soutenir le développement des structures entrepreneuriales locales.",
+      "impact": "Création d'une infrastructure dédiée aux PME en Vaucluse : signal positif pour l'immobilier d'activité régional et la demande de bureaux et locaux pour jeunes entreprises.",
+      "date": "20/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1245561778779515/la-maison-des-entrepreneurs-inauguree-dans-l-espace-concordia-a-bollene",
       "source": "La Provence",
       "tags": [
         {
@@ -34,37 +34,56 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Marché activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Bureaux du Cœur : usages alternatifs immobilier tertiaire la nuit",
-      "body": "Créé en 2017, le dispositif des Bureaux du Cœur optimise l'utilisation nocturne des locaux bureaux d'entreprises pour accueillir des sans-abri. Ce modèle hybrid ouvre perspectives d'usage flexible des immeubles tertiaires.",
-      "impact": "Modèle de valorisation nocturne des actifs tertiaires PACA : diversification revenus pour propriétaires, réponse RSE pour entreprises locataires.",
-      "date": "19/07/2026",
-      "url": "https://www.laprovence.com/article/societe/1128844794932915/quand-les-entreprises-ouvrent-leurs-bureaux-la-nuit-pour-loger-les-sans-abri",
+      "title": "Cercle Estrangin : nouveau réseau pour accélérer les PME en mutation",
+      "body": "Un nouveau réseau professionnel lancé pour aider les dirigeants de PME à relever les défis de développement d'activité et d'anticipation des mutations de marché. Initiative destinée à renforcer la visibilité et la croissance des structures en contexte économique tendu.",
+      "impact": "Structuration du marché des PME régionales : demande croissante d'espaces de travail collaboratif et de locaux d'activité en PACA pour les petites structures.",
+      "date": "20/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1245327354936915/le-cercle-estrangin-un-nouveau-reseau-pour-accelerer-le-developpement-des-dirigeants-de-pme",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Flex-office",
-          "cls": "tm"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché PME",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Agriculture innovation : technologies expérimentées en Vaucluse",
-      "body": "Le domaine viticole expérimental de Piolenc conduit depuis 20 ans tests d'ombrières automatiques et robots sur 6.5 ha combinant vignes, pois chiches et tomates. Ces innovations agritech PACA positionnent région en leader technologique.",
-      "impact": "Locaux d'activité pour startups agritech PACA : demande croissante espaces R&D modulables et connectés en zone Ventoux-Vaucluse.",
+      "title": "Mode sur mesure : nouvelle vague de durabilité et accessibilité",
+      "body": "Le secteur du sur-mesure connaît un renouveau porté par la quête de durabilité et de singularité, dépassant l'image élitiste des ateliers traditionnels. Cette démocratisation crée une nouvelle demande commerciale.",
+      "impact": "Opportunité de locaux commerciaux spécialisés en PACA pour ateliers et showrooms de mode durable : segment en croissance avec clientèle solvable.",
+      "date": "21/07/2026",
+      "url": "https://www.laprovence.com/article/economie/27850585824886/une-facon-differente-de-consommer-plus-accessible-plus-durable-comment-la-mode-sur-mesure-se-democratise",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        },
+        {
+          "label": "Durabilité",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Travaux de renforcement du viaduc SNCF de Bédarrides lancés en juin",
+      "body": "La SNCF a engagé depuis juin 2026 des travaux majeurs de consolidation du viaduc de l'Ouvèze à Bédarrides, ouvrage historique datant de 1854. Ces interventions critiques impactent la circulation ferroviaire régionale.",
+      "impact": "Infrastructures de transport en mutation : à anticiper dans les stratégies de localisation de bâtiments d'activité et bureaux en Provence, avec possible volatilité logistique court terme.",
       "date": "20/07/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/27784647416057/ombrieres-automatiques-ou-robots-la-viticulture-de-demain-est-inventee-au-domaine-viticole-experimental-de-piolenc",
+      "url": "https://www.laprovence.com/article/region/1262660987386515/des-travaux-d-ampleur-et-chronometres-pour-renforcer-le-viaduc-sncf-de-bedarrides",
       "source": "La Provence",
       "tags": [
         {
@@ -72,19 +91,21 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
-          "cls": "tm"
+          "label": "Infrastructures",
+          "cls": "tr"
         }
       ]
-    },
+    }
+  ],
+  "macro": [
     {
-      "id": "f5",
-      "title": "Financement stable : Euribor 3M 2.15%, OAT 3.70% juillet 2026",
-      "body": "Contexte de taux modérés favorise acquisitions immobilières tertiaires PACA : Euribor 3M stabilisé à 2.15%, OAT 10Y à 3.70% reflètent environnement financement maîtrisé. BCE maintient cap prudent à 2.15%.",
-      "impact": "Fenêtre favorable pour refinancement et acquisitions bureaux/activité PACA : taux d'emprunt attractifs pour investisseurs institutionnels et PME.",
-      "date": "20/07/2026",
-      "url": "https://www.laprovence.com/",
-      "source": "Données marché",
+      "id": "m1",
+      "title": "OAT 3.70% : stabilisation des taux long terme européens",
+      "body": "Les obligations d'État français se maintiennent à 3.70% en juillet 2026, reflétant une certaine stabilité macroéconomique. L'Euribor 3M reste à 2.15% et la BCE maintient son taux à 2.15%.",
+      "impact": "Contexte de taux stable favorable aux financements longs de transactions immobilières en PACA : conditions de crédit prévisibles pour les investisseurs.",
+      "date": "21/07/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Donnees marche",
       "tags": [
         {
           "label": "Taux",
@@ -95,58 +116,41 @@
           "cls": "ti2"
         }
       ]
-    }
-  ],
-  "macro": [
-    {
-      "id": "m1",
-      "title": "Géopolitique Moyen-Orient : Brent dépasse 90$/baril",
-      "body": "Intensification conflit Moyen-Orient provoque hausse cours pétrole : baril Brent dépasse 90$ (niveau max juin 2026), frappes américaines sur Iran 9e nuit consécutive, navire en feu détroit. Escalade géopolitique pèse sur énergie.",
-      "impact": "Risque inflationniste court terme sur coûts exploitation immobilière tertiaire PACA (énergie, transports) : répercussion probable sur charges locataires.",
-      "date": "20/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1013215346478415/guerre-au-moyen-orient-le-baril-de-brent-depasse-les-90-dollars-les-cours-du-petrole-au-plus-haut-depuis-juin",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
-        }
-      ]
     },
     {
       "id": "m2",
-      "title": "Inflation France : stabilisation 1.7% juillet 2026",
-      "body": "Inflation française stable à 1.7% en juillet 2026 reflète modération pressions prix malgré turbulences géopolitiques. Contexte macroeconômique France demeure contrôlé et prévisible pour investisseurs.",
-      "impact": "Stabilité inflation France soutient valorisations immobilières tertiaires PACA : rendements locatifs préservés, négociations baux de long terme favorisées.",
-      "date": "20/07/2026",
-      "url": "https://www.laprovence.com/",
-      "source": "Données marché",
+      "title": "Inflation à 1.7% : contexte macroéconomique modéré en France",
+      "body": "L'inflation française reste contenue à 1.7% en juillet 2026, bien en deçà des seuils d'alerte de la BCE. Cette trajectoire maîtrisée soutient la stabilité économique générale.",
+      "impact": "Inflation faible : facteur de prévisibilité des charges d'exploitation et des loyers commerciaux en PACA, favorable à la signature de nouveaux baux.",
+      "date": "21/07/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Donnees marche",
       "tags": [
         {
           "label": "Conjoncture",
           "cls": "tg"
+        },
+        {
+          "label": "Inflation",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE : taux directeur 2.15%, politique monétaire stable",
-      "body": "Banque Centrale Européenne maintient taux directeur à 2.15% juillet 2026, signalant pause dans cycle de normalisation monétaire. Stabilité BCE rassure marchés financiers et soutient demande immobilière professionnelle.",
-      "impact": "Politique BCE stable 2.15% ancre confiance investisseurs tertiaire PACA : financement accessible, perspective taux long terme maîtrisée.",
-      "date": "20/07/2026",
-      "url": "https://www.laprovence.com/",
-      "source": "Données marché",
+      "title": "Energie : Brent à 96 USD/baril en contexte géopolitique tendu",
+      "body": "Le prix du pétrole Brent s'établit à 96 USD le baril en juillet 2026, reflétant les tensions géopolitiques persistantes. Les marchés énergétiques restent volatiles avec impact sur les coûts logistiques.",
+      "impact": "Hausse relative du Brent : impacte les coûts d'exploitation des zones d'activité et logistiques en PACA ; à factoriser dans les projections de rendement des actifs.",
+      "date": "21/07/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Donnees marche",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Energie",
+          "cls": "tg"
         },
         {
-          "label": "Monétaire",
+          "label": "Geopolitique",
           "cls": "tg"
         }
       ]

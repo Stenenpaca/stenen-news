@@ -1,13 +1,13 @@
 {
-  "generated_at": "21/07/2026",
+  "generated_at": "22/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Ruby Yani : nouveau coworking à Marseille avec offre d'adhésion gratuite",
-      "body": "Le groupe allemand Ruby Hotels ouvre son premier établissement en France, le Ruby Lilou, boulevard des Dames dans un ancien immeuble de bureaux restructuré. Un espace de coworking baptisé Ruby Yani proposera des adhésions gratuites aux entrepreneurs.",
-      "impact": "Nouvelle offre de flex-office premium à Marseille : opportunité de repositionnement tarifaire pour les espaces de travail partagé en PACA face à cette concurrence de qualité.",
-      "date": "20/07/2026",
-      "url": "https://www.laprovence.com/article/economie/19366039757496/entrepreneurs-decrochez-une-adhesion-gratuite-au-coworking-ruby-yani-a-marseille",
+      "title": "Accord portuaire Marseille-Beyrouth : opportunités logistiques PACA",
+      "body": "Le renouvellement de l'alliance portuaire entre Marseille et Beyrouth marque un tournant stratégique pour les échanges commerciaux en Méditerranée. Cette relation ancienne réaffirmée ouvre des perspectives pour les entreprises PACA impliquées dans la logistique et le commerce international.",
+      "impact": "Les locaux d'activité et espaces logistiques portuaires à Marseille pourraient voir augmenter leur demande locative suite à ce nouvel accord commercial.",
+      "date": "22/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1394926935475215/marseille-et-beyrouth-renouvellent-leur-alliance-portuaire-au-nom-d-une-ambition-commune",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Flex-office",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Maison des entrepreneurs inaugurée à Bollène dans l'espace Concordia",
-      "body": "Après huit mois de travaux, la Maison des entrepreneurs a été officiellement inaugurée au sein de l'espace Concordia à Bollène le 9 juillet. Ce nouvel équipement vise à soutenir le développement des structures entrepreneuriales locales.",
-      "impact": "Création d'une infrastructure dédiée aux PME en Vaucluse : signal positif pour l'immobilier d'activité régional et la demande de bureaux et locaux pour jeunes entreprises.",
-      "date": "20/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1245561778779515/la-maison-des-entrepreneurs-inauguree-dans-l-espace-concordia-a-bollene",
+      "title": "Signalétique : ETI aubagnaise remporte contrat stade Vélodrome",
+      "body": "L'entreprise Oxysign, spécialisée en marquage industriel et signalétique, basée à Aubagne, a remporté le contrat de fabrication des lettres du nouveau naming du stade Vélodrome. Cette attribution rapide (juin-juillet 2026) reflète la compétitivité des PME/ETI locales PACA.",
+      "impact": "Opportunité d'identifier des locaux d'activité disponibles à Aubagne pour les entreprises de secteurs connexes bénéficiant du dynamisme économique généré par les grands contrats régionaux.",
+      "date": "22/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1391354167748315/une-entreprise-aubagnaise-chargee-de-fabriquer-les-lettres-du-nouveau-naming-du-stade-velodrome",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché activité",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Cercle Estrangin : nouveau réseau pour accélérer les PME en mutation",
-      "body": "Un nouveau réseau professionnel lancé pour aider les dirigeants de PME à relever les défis de développement d'activité et d'anticipation des mutations de marché. Initiative destinée à renforcer la visibilité et la croissance des structures en contexte économique tendu.",
-      "impact": "Structuration du marché des PME régionales : demande croissante d'espaces de travail collaboratif et de locaux d'activité en PACA pour les petites structures.",
-      "date": "20/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1245327354936915/le-cercle-estrangin-un-nouveau-reseau-pour-accelerer-le-developpement-des-dirigeants-de-pme",
+      "title": "Mode sur mesure : nouvelle demande de locaux commerciaux de proximité",
+      "body": "La démocratisation du sur mesure dans la mode, portée par les quêtes de durabilité et singularité, crée une nouvelle segmentation de la consommation. Cette tendance favorise les petits espaces commerciaux flexibles en lieu de boutiques traditionnelles.",
+      "impact": "Augmentation potentielle de la demande pour des petits locaux commerciaux modulables (20-80 m²) en centres-villes PACA, adaptés aux ateliers-magasins de créateurs.",
+      "date": "21/07/2026",
+      "url": "https://www.laprovence.com/article/economie/27850585824886/une-facon-differente-de-consommer-plus-accessible-plus-durable-comment-la-mode-sur-mesure-se-democratise",
       "source": "La Provence",
       "tags": [
         {
@@ -53,59 +53,19 @@
           "cls": "tp"
         },
         {
-          "label": "Marché PME",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Mode sur mesure : nouvelle vague de durabilité et accessibilité",
-      "body": "Le secteur du sur-mesure connaît un renouveau porté par la quête de durabilité et de singularité, dépassant l'image élitiste des ateliers traditionnels. Cette démocratisation crée une nouvelle demande commerciale.",
-      "impact": "Opportunité de locaux commerciaux spécialisés en PACA pour ateliers et showrooms de mode durable : segment en croissance avec clientèle solvable.",
-      "date": "21/07/2026",
-      "url": "https://www.laprovence.com/article/economie/27850585824886/une-facon-differente-de-consommer-plus-accessible-plus-durable-comment-la-mode-sur-mesure-se-democratise",
+      "title": "Livret A : contexte d'épargne dégradé impacte investissement immobilier",
+      "body": "Le pire semestre en 20 ans pour le Livret A (retraits supérieurs à versements de 5,93 Md€) signale une fuite de l'épargne traditionnelle. Cette dégradation du contexte financier affecte la capacité d'investissement des particuliers en immobilier commercial.",
+      "impact": "Les transactions CRE PACA pourraient souffrir d'une réduction du financement par fonds propres des investisseurs individuels ; privilégier les dossiers avec financement structuré.",
+      "date": "22/07/2026",
+      "url": "https://www.laprovence.com/article/economie/56665148256306/pire-semestre-en-20-ans-pour-le-livret-a-la-baisse-de-son-taux-fait-fuir-les-epargnants",
       "source": "La Provence",
-      "tags": [
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        },
-        {
-          "label": "Durabilité",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Travaux de renforcement du viaduc SNCF de Bédarrides lancés en juin",
-      "body": "La SNCF a engagé depuis juin 2026 des travaux majeurs de consolidation du viaduc de l'Ouvèze à Bédarrides, ouvrage historique datant de 1854. Ces interventions critiques impactent la circulation ferroviaire régionale.",
-      "impact": "Infrastructures de transport en mutation : à anticiper dans les stratégies de localisation de bâtiments d'activité et bureaux en Provence, avec possible volatilité logistique court terme.",
-      "date": "20/07/2026",
-      "url": "https://www.laprovence.com/article/region/1262660987386515/des-travaux-d-ampleur-et-chronometres-pour-renforcer-le-viaduc-sncf-de-bedarrides",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Infrastructures",
-          "cls": "tr"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "id": "m1",
-      "title": "OAT 3.70% : stabilisation des taux long terme européens",
-      "body": "Les obligations d'État français se maintiennent à 3.70% en juillet 2026, reflétant une certaine stabilité macroéconomique. L'Euribor 3M reste à 2.15% et la BCE maintient son taux à 2.15%.",
-      "impact": "Contexte de taux stable favorable aux financements longs de transactions immobilières en PACA : conditions de crédit prévisibles pour les investisseurs.",
-      "date": "21/07/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Donnees marche",
       "tags": [
         {
           "label": "Taux",
@@ -118,39 +78,67 @@
       ]
     },
     {
-      "id": "m2",
-      "title": "Inflation à 1.7% : contexte macroéconomique modéré en France",
-      "body": "L'inflation française reste contenue à 1.7% en juillet 2026, bien en deçà des seuils d'alerte de la BCE. Cette trajectoire maîtrisée soutient la stabilité économique générale.",
-      "impact": "Inflation faible : facteur de prévisibilité des charges d'exploitation et des loyers commerciaux en PACA, favorable à la signature de nouveaux baux.",
+      "id": "f5",
+      "title": "Chambre Commerce Vaucluse : nouvel élan pour écosystème entreprises PACA",
+      "body": "Après mise sous tutelle en janvier 2026, les nouvelles élections de la CCI Vaucluse (29 juin-10 juillet) ont reconstitué un organe de gouvernance représentant les chefs d'entreprise. Cette stabilisation institutionnelle renforce les instances d'appui aux acteurs locaux.",
+      "impact": "Contexte favorable pour les conseillers CRE : la CCI Vaucluse pourra accélérer l'identification et accompagnement des besoins immobiliers des PME/ETI de son ressort.",
       "date": "21/07/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Donnees marche",
+      "url": "https://www.laprovence.com/article/elections/1347249988350315/la-liste-medef-u2p-elue-sans-surprise-a-la-chambre-de-commerce-et-dindustrie-de-vaucluse",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Inflation",
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "id": "m1",
+      "title": "Euribor 3M stable à 2.15% : financement immobilier inchangé",
+      "body": "Le taux Euribor 3 mois se maintient à 2.15%, reflétant une stabilité monétaire de court terme. Cette persistance des taux élevés continue de peser sur les conditions de financement des acquisitions immobilières.",
+      "impact": "Les coûts de crédit pour transactions CRE restent élevés ; négocier des prêts long terme (10-15 ans) pour améliorer la lisibilité des investisseurs.",
+      "date": "22/07/2026",
+      "url": "https://www.laprovence.com/article/economie/56665148256306/pire-semestre-en-20-ans-pour-le-livret-a-la-baisse-de-son-taux-fait-fuir-les-epargnants",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Taux",
           "cls": "tt"
         }
       ]
     },
     {
-      "id": "m3",
-      "title": "Energie : Brent à 96 USD/baril en contexte géopolitique tendu",
-      "body": "Le prix du pétrole Brent s'établit à 96 USD le baril en juillet 2026, reflétant les tensions géopolitiques persistantes. Les marchés énergétiques restent volatiles avec impact sur les coûts logistiques.",
-      "impact": "Hausse relative du Brent : impacte les coûts d'exploitation des zones d'activité et logistiques en PACA ; à factoriser dans les projections de rendement des actifs.",
-      "date": "21/07/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Donnees marche",
+      "id": "m2",
+      "title": "Inflation France à 1.7% : contexte macroéconomique modéré",
+      "body": "L'inflation française se stabilise à 1.7%, traduisant une conjoncture maîtrisée malgré les tensions géopolitiques. Cette modération permet une certaine prévisibilité pour les décisions d'investissement immobilier de long terme.",
+      "impact": "Contexte favorable pour valoriser des actifs CRE avec indexation modérée et pluriannuelle auprès des institutionnels PACA.",
+      "date": "22/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1394926935475215/marseille-et-beyrouth-renouvellent-leur-alliance-portuaire-au-nom-d-une-ambition-commune",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Energie",
+          "label": "Conjoncture",
           "cls": "tg"
-        },
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Accord Marseille-Beyrouth : stabilité géopolitique en Méditerranée",
+      "body": "Le renouvellement de l'alliance portuaire franco-libanaise constitue un signal de stabilité relative dans une région instable. Cette réaffirmation diplomatique soutient les flux commerciaux transversaux et la sécurité des investissements.",
+      "impact": "La stabilisation géopolitique méditerranéenne soutient les acquisitions immobilières logistiques à Marseille et régions connexes ; maintenir cette opportunité dans le portefeuille CRE.",
+      "date": "22/07/2026",
+      "url": "https://www.laprovence.com/article/economie/60011376510583/philippe-tabarot-cet-accord-marque-un-tournant-historique-entre-les-ports-de-beyrouth-et-marseille",
+      "source": "La Provence",
+      "tags": [
         {
-          "label": "Geopolitique",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]

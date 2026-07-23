@@ -1,97 +1,97 @@
 {
-  "generated_at": "22/07/2026",
+  "generated_at": "23/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Accord portuaire Marseille-Beyrouth : opportunités logistiques PACA",
-      "body": "Le renouvellement de l'alliance portuaire entre Marseille et Beyrouth marque un tournant stratégique pour les échanges commerciaux en Méditerranée. Cette relation ancienne réaffirmée ouvre des perspectives pour les entreprises PACA impliquées dans la logistique et le commerce international.",
-      "impact": "Les locaux d'activité et espaces logistiques portuaires à Marseille pourraient voir augmenter leur demande locative suite à ce nouvel accord commercial.",
+      "title": "Aroma-Zone : Eurazeo cède la cosmétique naturelle à 2 Mrd€",
+      "body": "Eurazeo a officialisé le 14 juillet son intention de vendre Aroma-Zone, acquise en 2021 pour 700M€, valorisée désormais à 2 milliards d'euros. Cette transaction majeure reflète une forte valorisation de l'enseigne retail spécialisée en PACA et au-delà.",
+      "impact": "Opportunité de transaction pour locaux commerciaux et bureaux administratifs du groupe Aroma-Zone en région PACA suite à la cession.",
       "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1394926935475215/marseille-et-beyrouth-renouvellent-leur-alliance-portuaire-au-nom-d-une-ambition-commune",
+      "url": "https://www.laprovence.com/article/economie/68632693892808/aroma-zone-eurazeo-veut-vendre-la-pepite-de-la-cosmetique-naturelle-2-milliards-d-euros",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "M&A Retail",
+          "cls": "tm"
         },
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Signalétique : ETI aubagnaise remporte contrat stade Vélodrome",
-      "body": "L'entreprise Oxysign, spécialisée en marquage industriel et signalétique, basée à Aubagne, a remporté le contrat de fabrication des lettres du nouveau naming du stade Vélodrome. Cette attribution rapide (juin-juillet 2026) reflète la compétitivité des PME/ETI locales PACA.",
-      "impact": "Opportunité d'identifier des locaux d'activité disponibles à Aubagne pour les entreprises de secteurs connexes bénéficiant du dynamisme économique généré par les grands contrats régionaux.",
+      "title": "Marseille-Beyrouth : renouvellement alliance portuaire stratégique",
+      "body": "Les ports de Marseille et Beyrouth renouvellent leur accord dans un contexte géopolitique sensible au Moyen-Orient. Cette alliance commerciale renforce les flux logistiques et les activités de services portuaires en région PACA.",
+      "impact": "Valorisation attendue des locaux d'activité et logistiques périportuaires marseillais ; demande potentielle en bureaux pour opérateurs de fret et shipping.",
       "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1391354167748315/une-entreprise-aubagnaise-chargee-de-fabriquer-les-lettres-du-nouveau-naming-du-stade-velodrome",
+      "url": "https://www.laprovence.com/article/economie/1394926935475215/marseille-et-beyrouth-renouvellent-leur-alliance-portuaire-au-nom-d-une-ambition-commune",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Logistique PACA",
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Mode sur mesure : nouvelle demande de locaux commerciaux de proximité",
-      "body": "La démocratisation du sur mesure dans la mode, portée par les quêtes de durabilité et singularité, crée une nouvelle segmentation de la consommation. Cette tendance favorise les petits espaces commerciaux flexibles en lieu de boutiques traditionnelles.",
-      "impact": "Augmentation potentielle de la demande pour des petits locaux commerciaux modulables (20-80 m²) en centres-villes PACA, adaptés aux ateliers-magasins de créateurs.",
-      "date": "21/07/2026",
-      "url": "https://www.laprovence.com/article/economie/27850585824886/une-facon-differente-de-consommer-plus-accessible-plus-durable-comment-la-mode-sur-mesure-se-democratise",
+      "title": "EDF-H4 Marseille Fos : partenariat carburants synthétiques long terme",
+      "body": "EDF et H4 Marseille Fos signent un accord stratégique pour sécuriser les besoins énergétiques du projet de production de carburants de synthèse. Ce partenariat renforce l'écosystème industriel et énergétique de la zone Fos-sur-Mer.",
+      "impact": "Demande croissante en locaux d'activité, bureaux techniques et infrastructures logistiques pour les opérateurs de la transition énergétique à Fos-sur-Mer et zone PACA.",
+      "date": "22/07/2026",
+      "url": "https://www.laprovence.com/article/economie/63206157823719/edf-et-h4-marseille-fos-signent-un-partenariat-de-long-terme-pour-la-production-de-carburants-de-synthese",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Industrie Verte",
+          "cls": "tm"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Fos-sur-Mer",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Livret A : contexte d'épargne dégradé impacte investissement immobilier",
-      "body": "Le pire semestre en 20 ans pour le Livret A (retraits supérieurs à versements de 5,93 Md€) signale une fuite de l'épargne traditionnelle. Cette dégradation du contexte financier affecte la capacité d'investissement des particuliers en immobilier commercial.",
-      "impact": "Les transactions CRE PACA pourraient souffrir d'une réduction du financement par fonds propres des investisseurs individuels ; privilégier les dossiers avec financement structuré.",
+      "title": "Prado Marseille : Delta Festival relance activité commerciale estivale",
+      "body": "Le Delta Festival mobilise 150 000 visiteurs aux plages du Prado malgré les critiques des commerçants sur l'impact réel des retombées. Cet événement d'ampleur génère une demande saisonnière en espaces commerciaux et services à Marseille.",
+      "impact": "Intérêt accru pour les emplacements commerciaux provisoires et locaux de services temporaires autour du Prado ; attention à la démographie réelle des visiteurs clients.",
       "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/56665148256306/pire-semestre-en-20-ans-pour-le-livret-a-la-baisse-de-son-taux-fait-fuir-les-epargnants",
+      "url": "https://www.laprovence.com/article/economie/1209276423441115/les-150-000-visiteurs-c-est-que-pour-le-delta-au-prado-a-marseille-les-commercants-sont-loin-detre-a-la-fete",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Commerce Marseille",
+          "cls": "tp"
         },
         {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "Retail Saisonnier",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Chambre Commerce Vaucluse : nouvel élan pour écosystème entreprises PACA",
-      "body": "Après mise sous tutelle en janvier 2026, les nouvelles élections de la CCI Vaucluse (29 juin-10 juillet) ont reconstitué un organe de gouvernance représentant les chefs d'entreprise. Cette stabilisation institutionnelle renforce les instances d'appui aux acteurs locaux.",
-      "impact": "Contexte favorable pour les conseillers CRE : la CCI Vaucluse pourra accélérer l'identification et accompagnement des besoins immobiliers des PME/ETI de son ressort.",
-      "date": "21/07/2026",
-      "url": "https://www.laprovence.com/article/elections/1347249988350315/la-liste-medef-u2p-elue-sans-surprise-a-la-chambre-de-commerce-et-dindustrie-de-vaucluse",
+      "title": "Oxysign Aubagne : signalétique haute performance pour marques majeures",
+      "body": "L'entreprise aubagnaise Oxysign remporte le contrat de fabrication des lettres du nouveau naming du stade Vélodrome, mettant en avant son expertise en marquage industriel et signalétique. Cette visibilité renforce le secteur manufacturier de l'est PACA.",
+      "impact": "Valorisation des locaux d'activité aubagnais ; demande en bureaux design et showrooms pour PME spécialisées en signalétique et marquage industriel de prestige.",
+      "date": "22/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1391354167748315/une-entreprise-aubagnaise-chargee-de-fabriquer-les-lettres-du-nouveau-naming-du-stade-velodrome",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Aubagne",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "PME PACA",
           "cls": "tm"
         }
       ]
@@ -100,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Euribor 3M stable à 2.15% : financement immobilier inchangé",
-      "body": "Le taux Euribor 3 mois se maintient à 2.15%, reflétant une stabilité monétaire de court terme. Cette persistance des taux élevés continue de peser sur les conditions de financement des acquisitions immobilières.",
-      "impact": "Les coûts de crédit pour transactions CRE restent élevés ; négocier des prêts long terme (10-15 ans) pour améliorer la lisibilité des investisseurs.",
+      "title": "Crise moyen-orient : TotalEnergies réactive plafonnement carburants",
+      "body": "TotalEnergies a réactivé le 22 juillet le plafonnement des prix des carburants en France hexagonale suite à la reprise des tensions au Moyen-Orient. Ce mécanisme reflète la volatilité géopolitique sur les marchés énergétiques et l'impact sur les coûts d'exploitation.",
+      "impact": "Les coûts de déplacement et logistique en PACA pourraient s'accroître ; valoriser les locaux en télétravail/flex pour réduire la mobilité client.",
       "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/56665148256306/pire-semestre-en-20-ans-pour-le-livret-a-la-baisse-de-son-taux-fait-fuir-les-epargnants",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/1424216211516915/guerre-au-moyen-orient-totalenergies-relance-le-plafonnement-de-ses-carburants-en-france-hexagonale",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Géopolitique-Énergie",
+          "cls": "tg"
+        },
+        {
+          "label": "Brent volatilité",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France à 1.7% : contexte macroéconomique modéré",
-      "body": "L'inflation française se stabilise à 1.7%, traduisant une conjoncture maîtrisée malgré les tensions géopolitiques. Cette modération permet une certaine prévisibilité pour les décisions d'investissement immobilier de long terme.",
-      "impact": "Contexte favorable pour valoriser des actifs CRE avec indexation modérée et pluriannuelle auprès des institutionnels PACA.",
+      "title": "ArcelorMittal Fos-sur-Mer : redressements fiscaux France",
+      "body": "ArcelorMittal et ses filiales, dont le site historique Fos-sur-Mer, font l'objet de redressements fiscaux contestés portant sur l'usage de marque et commissions. Cette affaire illustre la pression réglementaire accrue sur les grands groupes industriels français.",
+      "impact": "Vigilance accrue sur la stabilité des grands locataires industriels PACA ; évaluer la solidité financière des tenants majeurs.",
       "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1394926935475215/marseille-et-beyrouth-renouvellent-leur-alliance-portuaire-au-nom-d-une-ambition-commune",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/2406582541059/arcelormittal-dont-l-un-des-sites-est-a-fos-sur-mer-vise-par-plusieurs-redressements-fiscaux-en-france",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "Fiscalité-Régulation",
+          "cls": "tr"
+        },
+        {
+          "label": "Industrie Lourde",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Accord Marseille-Beyrouth : stabilité géopolitique en Méditerranée",
-      "body": "Le renouvellement de l'alliance portuaire franco-libanaise constitue un signal de stabilité relative dans une région instable. Cette réaffirmation diplomatique soutient les flux commerciaux transversaux et la sécurité des investissements.",
-      "impact": "La stabilisation géopolitique méditerranéenne soutient les acquisitions immobilières logistiques à Marseille et régions connexes ; maintenir cette opportunité dans le portefeuille CRE.",
-      "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/60011376510583/philippe-tabarot-cet-accord-marque-un-tournant-historique-entre-les-ports-de-beyrouth-et-marseille",
-      "source": "La Provence",
+      "title": "Contexte macro juillet 2026 : taux/inflation/marchés stables",
+      "body": "En l'absence de communiqué majeur BCE ou inflation détaillé, les repères macro restent: OAT 3.70%, Euribor 3M 2.15%, taux directeur BCE 2.15%, inflation France 1.7%, Brent 96 USD/bl. L'environnement demeure stable avec taux réels rémanents.",
+      "impact": "Financement CRE PACA : coûts d'emprunt stables à moyen terme ; opportunité pour investisseurs de consolider portefeuilles avant vacillement potentiel si géopolitique s'aggrave.",
+      "date": "23/07/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché (consensus)",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Taux OAT/Euribor",
+          "cls": "tt"
+        },
+        {
+          "label": "Inflation BCE",
+          "cls": "tt"
         }
       ]
     }

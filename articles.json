@@ -1,97 +1,97 @@
 {
-  "generated_at": "23/07/2026",
+  "generated_at": "24/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Aroma-Zone : Eurazeo cède la cosmétique naturelle à 2 Mrd€",
-      "body": "Eurazeo a officialisé le 14 juillet son intention de vendre Aroma-Zone, acquise en 2021 pour 700M€, valorisée désormais à 2 milliards d'euros. Cette transaction majeure reflète une forte valorisation de l'enseigne retail spécialisée en PACA et au-delà.",
-      "impact": "Opportunité de transaction pour locaux commerciaux et bureaux administratifs du groupe Aroma-Zone en région PACA suite à la cession.",
-      "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/68632693892808/aroma-zone-eurazeo-veut-vendre-la-pepite-de-la-cosmetique-naturelle-2-milliards-d-euros",
+      "title": "Cogex Fos-sur-Mer : logistique chimique, acteur clé export PACA",
+      "body": "Cogex, PME fosséenne dirigée par David Lagarde depuis 2022, s'affirme comme spécialiste incontournable de la logistique des produits chimiques au cœur du commerce international. L'entreprise représente un pôle stratégique pour les flux logistiques régionaux en secteur sensible.",
+      "impact": "Identifier les besoins d'espaces logistiques et d'entrepôts à proximité de Fos pour les PME chimie en croissance export.",
+      "date": "23/07/2026",
+      "url": "https://www.laprovence.com/article/economie/28477399876414/cogex-une-entreprise-fosseenne-specialiste-de-la-logistique-des-produits-chimiques-au-coeur-du-commerce-international",
       "source": "La Provence",
       "tags": [
         {
-          "label": "M&A Retail",
-          "cls": "tm"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Logistique",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Marseille-Beyrouth : renouvellement alliance portuaire stratégique",
-      "body": "Les ports de Marseille et Beyrouth renouvellent leur accord dans un contexte géopolitique sensible au Moyen-Orient. Cette alliance commerciale renforce les flux logistiques et les activités de services portuaires en région PACA.",
-      "impact": "Valorisation attendue des locaux d'activité et logistiques périportuaires marseillais ; demande potentielle en bureaux pour opérateurs de fret et shipping.",
-      "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1394926935475215/marseille-et-beyrouth-renouvellent-leur-alliance-portuaire-au-nom-d-une-ambition-commune",
+      "title": "Événementiel Valréas : 15 000 visiteurs moteur économique local",
+      "body": "La Semaine bouliste de Valréas accueille 15 000 personnes et s'impose comme rendez-vous majeur du calendrier local. Au-delà de la compétition sportive, l'événement génère dynamique commerciale et convivialité pour les commerces de proximité.",
+      "impact": "Opportunité pour les propriétaires/gestionnaires de locaux commerciaux à Valréas : augmenter capacité retail et restauration pendant événements d'ampleur.",
+      "date": "23/07/2026",
+      "url": "https://www.laprovence.com/article/sports/93877984570026/avec-ses-15-000-personnes-recues-la-semaine-bouliste-de-valreas-s-affirme-comme-moteur-economique-de-la-ville",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Logistique PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "EDF-H4 Marseille Fos : partenariat carburants synthétiques long terme",
-      "body": "EDF et H4 Marseille Fos signent un accord stratégique pour sécuriser les besoins énergétiques du projet de production de carburants de synthèse. Ce partenariat renforce l'écosystème industriel et énergétique de la zone Fos-sur-Mer.",
-      "impact": "Demande croissante en locaux d'activité, bureaux techniques et infrastructures logistiques pour les opérateurs de la transition énergétique à Fos-sur-Mer et zone PACA.",
+      "title": "Aroma-Zone : cession 2Mds€ affiche santé secteur cosmétique naturelle",
+      "body": "Eurazeo officialise sa volonté de céder Aroma-Zone pour 2 milliards d'euros, soit 3x l'acquisition 2021 (700M€). Cette valorisation traduit la dynamique du secteur bien-être et cosmétique naturelle avec fort potentiel immobilier retail.",
+      "impact": "Signal haussier pour le secteur commerce/retail PACA : monitorer opportunités espaces commerciaux premium pour marques beauté écoresponsables en croissance.",
       "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/63206157823719/edf-et-h4-marseille-fos-signent-un-partenariat-de-long-terme-pour-la-production-de-carburants-de-synthese",
+      "url": "https://www.laprovence.com/article/economie/68632693892808/aroma-zone-eurazeo-veut-vendre-la-pepite-de-la-cosmetique-naturelle-2-milliards-d-euros",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Industrie Verte",
-          "cls": "tm"
+          "label": "Invest",
+          "cls": "ti2"
         },
         {
-          "label": "Fos-sur-Mer",
-          "cls": "tp"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Prado Marseille : Delta Festival relance activité commerciale estivale",
-      "body": "Le Delta Festival mobilise 150 000 visiteurs aux plages du Prado malgré les critiques des commerçants sur l'impact réel des retombées. Cet événement d'ampleur génère une demande saisonnière en espaces commerciaux et services à Marseille.",
-      "impact": "Intérêt accru pour les emplacements commerciaux provisoires et locaux de services temporaires autour du Prado ; attention à la démographie réelle des visiteurs clients.",
+      "title": "Boulangerie Mirabeau : fermeture été 2026 signale fragilité proximité",
+      "body": "Après ouverture janvier 2026, la boulangerie Le Pain boulanger de Mirabeau ferme fin été sans réouverture prévue, victime de difficultés imprévues. Cas emblématique des défis structurels du commerce de proximité en zones rurales.",
+      "impact": "Aviser propriétaires petits locaux commerciaux PACA : risques accrus de vacance long terme pour petits formats proximité, ajuster garanties et durées bail.",
       "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1209276423441115/les-150-000-visiteurs-c-est-que-pour-le-delta-au-prado-a-marseille-les-commercants-sont-loin-detre-a-la-fete",
+      "url": "https://www.laprovence.com/article/economie/90799110967567/l-unique-boulangerie-de-mirabeau-fermera-a-la-fin-de-l-ete-sans-date-de-reouverture-prevue",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce Marseille",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Retail Saisonnier",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Oxysign Aubagne : signalétique haute performance pour marques majeures",
-      "body": "L'entreprise aubagnaise Oxysign remporte le contrat de fabrication des lettres du nouveau naming du stade Vélodrome, mettant en avant son expertise en marquage industriel et signalétique. Cette visibilité renforce le secteur manufacturier de l'est PACA.",
-      "impact": "Valorisation des locaux d'activité aubagnais ; demande en bureaux design et showrooms pour PME spécialisées en signalétique et marquage industriel de prestige.",
+      "title": "Musiks Manosque 2026 : 30 000 visiteurs, record événementiel PACA",
+      "body": "Festival Musiks édition 2026 record avec 30 000 spectateurs en 4 soirées (17-20 juillet), dont 10 000 pour concert Soprano. Succès majeur confirmant Manosque comme destination événementielle régionale significative.",
+      "impact": "Dynamiser recherche espaces flexibles restauration/hébergement Manosque : événementiels d'ampleur structurent demande activités saisonnière.",
       "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1391354167748315/une-entreprise-aubagnaise-chargee-de-fabriquer-les-lettres-du-nouveau-naming-du-stade-velodrome",
+      "url": "https://www.laprovence.com/article/region/81576900370543/le-plebiscite-populaire-de-l-edition-2026-du-festival-musiks-a-manosque-n-echappe-pas-a-certaines-critiques",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Aubagne",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "PME PACA",
+          "label": "Secteur",
           "cls": "tm"
         }
       ]
@@ -100,57 +100,57 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Crise moyen-orient : TotalEnergies réactive plafonnement carburants",
-      "body": "TotalEnergies a réactivé le 22 juillet le plafonnement des prix des carburants en France hexagonale suite à la reprise des tensions au Moyen-Orient. Ce mécanisme reflète la volatilité géopolitique sur les marchés énergétiques et l'impact sur les coûts d'exploitation.",
-      "impact": "Les coûts de déplacement et logistique en PACA pourraient s'accroître ; valoriser les locaux en télétravail/flex pour réduire la mobilité client.",
+      "title": "Résurgence conflit Moyen-Orient : volatilité énergétique rehausse Brent",
+      "body": "TotalEnergies relance plafonnement carburants en France hexagonale suite à résurgence conflit Moyen-Orient (22/07). Brent sous pression haussière (est. 96$/bbl), impactant coûts logistique et exploitation locaux activité.",
+      "impact": "Anticiper révision charges d'exploitation locaux logistique/activité PACA : clauses indexation énergie à revisiter contrats en cours.",
       "date": "22/07/2026",
       "url": "https://www.laprovence.com/article/economie/1424216211516915/guerre-au-moyen-orient-totalenergies-relance-le-plafonnement-de-ses-carburants-en-france-hexagonale",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique-Énergie",
+          "label": "Géopolitique",
           "cls": "tg"
         },
         {
-          "label": "Brent volatilité",
-          "cls": "tt"
+          "label": "Énergie",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "ArcelorMittal Fos-sur-Mer : redressements fiscaux France",
-      "body": "ArcelorMittal et ses filiales, dont le site historique Fos-sur-Mer, font l'objet de redressements fiscaux contestés portant sur l'usage de marque et commissions. Cette affaire illustre la pression réglementaire accrue sur les grands groupes industriels français.",
-      "impact": "Vigilance accrue sur la stabilité des grands locataires industriels PACA ; évaluer la solidité financière des tenants majeurs.",
+      "title": "ArcelorMittal Fos-sur-Mer : redressements fiscaux, tensions réglementaires",
+      "body": "ArcelorMittal et filiales redressées fiscalement (montant non précisé) sur usage marque/commissions. Fragilités structurelles groupe sidérurgique français impactent stabilité d'un acteur industriel clé côte PACA.",
+      "impact": "Secteur sidérurgie/chimie : monitorer restructurations possibles ArcelorMittal Fos ; impacts indirects demande logistique/entreposage tertiaire.",
       "date": "22/07/2026",
       "url": "https://www.laprovence.com/article/economie/2406582541059/arcelormittal-dont-l-un-des-sites-est-a-fos-sur-mer-vise-par-plusieurs-redressements-fiscaux-en-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Fiscalité-Régulation",
+          "label": "Réglementation",
           "cls": "tr"
         },
         {
-          "label": "Industrie Lourde",
-          "cls": "tm"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macro juillet 2026 : taux/inflation/marchés stables",
-      "body": "En l'absence de communiqué majeur BCE ou inflation détaillé, les repères macro restent: OAT 3.70%, Euribor 3M 2.15%, taux directeur BCE 2.15%, inflation France 1.7%, Brent 96 USD/bl. L'environnement demeure stable avec taux réels rémanents.",
-      "impact": "Financement CRE PACA : coûts d'emprunt stables à moyen terme ; opportunité pour investisseurs de consolider portefeuilles avant vacillement potentiel si géopolitique s'aggrave.",
-      "date": "23/07/2026",
+      "title": "Contexte monétaire : OAT 3.70%, Euribor 3M 2.15%, inflation 1.7%",
+      "body": "Marché obligation: OAT 3.70% (stable), Euribor 3M 2.15%, inflation France 1.7%. BCE maintient 2.15%, restriction crédit immobilier perdure. Coûts financement actifs tertiaire restent élevés malgré stabilisation.",
+      "impact": "Transaction CRE PACA : valorisations immobilières sous pression taux élevés ; privilégier contrats long terme, négocier conditions financement agressives.",
+      "date": "24/07/2026",
       "url": "https://www.laprovence.com",
-      "source": "Données marché (consensus)",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "Taux OAT/Euribor",
+          "label": "Taux",
           "cls": "tt"
         },
         {
-          "label": "Inflation BCE",
+          "label": "BCE",
           "cls": "tt"
         }
       ]

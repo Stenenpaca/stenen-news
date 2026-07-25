@@ -1,11 +1,49 @@
 {
-  "generated_at": "24/07/2026",
+  "generated_at": "25/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Cogex Fos-sur-Mer : logistique chimique, acteur clé export PACA",
-      "body": "Cogex, PME fosséenne dirigée par David Lagarde depuis 2022, s'affirme comme spécialiste incontournable de la logistique des produits chimiques au cœur du commerce international. L'entreprise représente un pôle stratégique pour les flux logistiques régionaux en secteur sensible.",
-      "impact": "Identifier les besoins d'espaces logistiques et d'entrepôts à proximité de Fos pour les PME chimie en croissance export.",
+      "title": "Action ouvre son 928e magasin à Mallemort (941 m²)",
+      "body": "Le géant du discount Action poursuit son expansion régionale avec une nouvelle surface commerciale de 941 m² à Mallemort, créant 32 emplois. Cette ouverture témoigne de la dynamique du secteur retail en PACA malgré un contexte économique tendu.",
+      "impact": "Benchmark pour valorisation locaux commerciaux PACA : expansion retail discount confirme demande pour petites surfaces (<1000m²) avec taux d'occupation élevé.",
+      "date": "24/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1385254940357115/le-geant-du-discount-action-ouvre-un-nouveau-point-de-vente-a-mallemort",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Arles impose fermeture épiceries 22h-6h : impact petit commerce",
+      "body": "La Ville d'Arles contraint les épiciers de nuit à fermer entre 22h et 6h, bouleversant le modèle économique des petits commerces en centre-ville. Cette mesure réglementaire restrictive affecte la rentabilité et l'attractivité des locaux commerciaux de proximité.",
+      "impact": "Conseil clients : anticiper réglementation locale sur horaires commerciaux en PACA lors de négociation baux petits commerces ; risque de dévaluation des actifs en centre historique.",
+      "date": "24/07/2026",
+      "url": "https://www.laprovence.com/article/societe/1400557178718115/contraints-de-fermer-de-22h-a-6h-les-epiciers-de-nuit-ne-comprennent-pas-le-choix-de-la-ville-d-arles",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Cogex (Fos) : logistique chimie, champion export PACA",
+      "body": "Cogex, PME spécialisée en logistique des produits chimiques basée à Fos-sur-Mer, s'affirme comme acteur clé du commerce international. Cette entreprise représente le segment high-value de la logistique industrielle PACA avec forte demande d'actifs modulables.",
+      "impact": "Identifier opportunités: demand pour plateformes logistiques chimie/pharma en PACA (Fos, Étaimpeur) avec loyers résistants; secteur tiré par export/normes.",
       "date": "23/07/2026",
       "url": "https://www.laprovence.com/article/economie/28477399876414/cogex-une-entreprise-fosseenne-specialiste-de-la-logistique-des-produits-chimiques-au-coeur-du-commerce-international",
       "source": "La Provence",
@@ -15,56 +53,18 @@
           "cls": "tp"
         },
         {
-          "label": "Logistique",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Événementiel Valréas : 15 000 visiteurs moteur économique local",
-      "body": "La Semaine bouliste de Valréas accueille 15 000 personnes et s'impose comme rendez-vous majeur du calendrier local. Au-delà de la compétition sportive, l'événement génère dynamique commerciale et convivialité pour les commerces de proximité.",
-      "impact": "Opportunité pour les propriétaires/gestionnaires de locaux commerciaux à Valréas : augmenter capacité retail et restauration pendant événements d'ampleur.",
-      "date": "23/07/2026",
-      "url": "https://www.laprovence.com/article/sports/93877984570026/avec-ses-15-000-personnes-recues-la-semaine-bouliste-de-valreas-s-affirme-comme-moteur-economique-de-la-ville",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Aroma-Zone : cession 2Mds€ affiche santé secteur cosmétique naturelle",
-      "body": "Eurazeo officialise sa volonté de céder Aroma-Zone pour 2 milliards d'euros, soit 3x l'acquisition 2021 (700M€). Cette valorisation traduit la dynamique du secteur bien-être et cosmétique naturelle avec fort potentiel immobilier retail.",
-      "impact": "Signal haussier pour le secteur commerce/retail PACA : monitorer opportunités espaces commerciaux premium pour marques beauté écoresponsables en croissance.",
-      "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/68632693892808/aroma-zone-eurazeo-veut-vendre-la-pepite-de-la-cosmetique-naturelle-2-milliards-d-euros",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Invest",
-          "cls": "ti2"
-        },
-        {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Boulangerie Mirabeau : fermeture été 2026 signale fragilité proximité",
-      "body": "Après ouverture janvier 2026, la boulangerie Le Pain boulanger de Mirabeau ferme fin été sans réouverture prévue, victime de difficultés imprévues. Cas emblématique des défis structurels du commerce de proximité en zones rurales.",
-      "impact": "Aviser propriétaires petits locaux commerciaux PACA : risques accrus de vacance long terme pour petits formats proximité, ajuster garanties et durées bail.",
-      "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/90799110967567/l-unique-boulangerie-de-mirabeau-fermera-a-la-fin-de-l-ete-sans-date-de-reouverture-prevue",
+      "title": "Marignane : menuiserie Vigouroux, immobilier stratégique",
+      "body": "Alu Vigouroux, entreprise familiale de menuiserie à Marignane, occupe une position stratégique au carrefour des Bricards avec un bâtiment moderne performant. Cette localisation premium attire les activités artisanales/industrielles cherchant visibilité et accessibilité.",
+      "impact": "Valorisation carrefours stratégiques PACA : locaux activité bien positionnés (accès A55, proximité Martigues-Côte bleue) conservent valeur locative stable même en cycle déprimé.",
+      "date": "24/07/2026",
+      "url": "https://www.laprovence.com/article/region/1496837365076314/marignane-la-menuiserie-une-veritable-affaire-de-famille-chez-les-vigouroux",
       "source": "La Provence",
       "tags": [
         {
@@ -72,18 +72,18 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Musiks Manosque 2026 : 30 000 visiteurs, record événementiel PACA",
-      "body": "Festival Musiks édition 2026 record avec 30 000 spectateurs en 4 soirées (17-20 juillet), dont 10 000 pour concert Soprano. Succès majeur confirmant Manosque comme destination événementielle régionale significative.",
-      "impact": "Dynamiser recherche espaces flexibles restauration/hébergement Manosque : événementiels d'ampleur structurent demande activités saisonnière.",
-      "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/region/81576900370543/le-plebiscite-populaire-de-l-edition-2026-du-festival-musiks-a-manosque-n-echappe-pas-a-certaines-critiques",
+      "title": "Fibre Excellence Provence : risque liquidation usine Tarascon",
+      "body": "Les salariés de Fibre Excellence Provence occupent l'usine tarasconnaise face au risque de liquidation, mobilisés par l'intersyndicale. Cette situation reflète les fragilités du tissu industriel PACA et impacts potentiels sur demande immobilière d'activité.",
+      "impact": "Vigilance: fragilité secteur industrie légère PACA; conseiller clients investisseurs d'anticiper reprises/restructurations pour diversifier portefeuilles locaux activité Tarascon.",
+      "date": "23/07/2026",
+      "url": "https://www.laprovence.com/article/economie/7893103360928/on-ne-laissera-pas-notre-usine-etre-liquidee-les-salaries-de-fibre-excellence-provence-occupent-leur-usine",
       "source": "La Provence",
       "tags": [
         {
@@ -91,7 +91,7 @@
           "cls": "tp"
         },
         {
-          "label": "Secteur",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
@@ -100,58 +100,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Résurgence conflit Moyen-Orient : volatilité énergétique rehausse Brent",
-      "body": "TotalEnergies relance plafonnement carburants en France hexagonale suite à résurgence conflit Moyen-Orient (22/07). Brent sous pression haussière (est. 96$/bbl), impactant coûts logistique et exploitation locaux activité.",
-      "impact": "Anticiper révision charges d'exploitation locaux logistique/activité PACA : clauses indexation énergie à revisiter contrats en cours.",
-      "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1424216211516915/guerre-au-moyen-orient-totalenergies-relance-le-plafonnement-de-ses-carburants-en-france-hexagonale",
-      "source": "La Provence",
+      "title": "OAT 10Y à 3.70% : financement immobilier plus coûteux",
+      "body": "Les taux obligataires français restent élevés à 3.70% (OAT 10Y) dans un contexte BCE prudente à 2.15%. Cette stabilité des taux pénalise les financements immobilier d'entreprise en PACA avec LTV/DSC resserrés.",
+      "impact": "Impact financement: structures LTV <60% privilégiées; négocier revenus locatifs robustes pour supporter coût emprunt; SCPI/fonds patient seuls acquéreurs acceptant spreads 150bps.",
+      "date": "25/07/2026",
+      "url": "https://donnees-marche.banquedefrance.fr",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Taux/OAT",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "ArcelorMittal Fos-sur-Mer : redressements fiscaux, tensions réglementaires",
-      "body": "ArcelorMittal et filiales redressées fiscalement (montant non précisé) sur usage marque/commissions. Fragilités structurelles groupe sidérurgique français impactent stabilité d'un acteur industriel clé côte PACA.",
-      "impact": "Secteur sidérurgie/chimie : monitorer restructurations possibles ArcelorMittal Fos ; impacts indirects demande logistique/entreposage tertiaire.",
-      "date": "22/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2406582541059/arcelormittal-dont-l-un-des-sites-est-a-fos-sur-mer-vise-par-plusieurs-redressements-fiscaux-en-france",
-      "source": "La Provence",
+      "title": "Inflation France 1.7% : soutien modéré à indexation loyers",
+      "body": "L'inflation française modérée à 1.7% limite les révisions à la hausse des loyers CRE tout en préservant pouvoir d'achat locataire. La BCE maintient taux directeur à 2.15%, signalant vigilance sur relance inflationniste.",
+      "impact": "Stratégie baux: favoriser révisions 1.5-2% (inflation + prime risque) plutôt que CPI brut; indexations sécurisées pour immobilier d'activité attractif pour investisseurs long-terme.",
+      "date": "25/07/2026",
+      "url": "https://donnees-marche.banquedefrance.fr",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
-          "label": "Conjoncture",
+          "label": "Inflation/Macro",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte monétaire : OAT 3.70%, Euribor 3M 2.15%, inflation 1.7%",
-      "body": "Marché obligation: OAT 3.70% (stable), Euribor 3M 2.15%, inflation France 1.7%. BCE maintient 2.15%, restriction crédit immobilier perdure. Coûts financement actifs tertiaire restent élevés malgré stabilisation.",
-      "impact": "Transaction CRE PACA : valorisations immobilières sous pression taux élevés ; privilégier contrats long terme, négocier conditions financement agressives.",
-      "date": "24/07/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données Marché",
+      "title": "Conjoncture France : secteur CRE en stagnation douce",
+      "body": "Le contexte macroéconomique français combine inflation basse (1.7%), taux élevés (OAT 3.70%) et demande immobilier tertiaire affaiblie. Les investisseurs PACA privilégient actifs core stabiles et sortie des actifs périphériques fragilisés.",
+      "impact": "Marché PACA : fenêtres transactions rétrécies; prix actifs core (-2 à -3% attendus H2 2026); opportunités shoot sur déstockage/liquidations (Fibre Excellence); flex-office modéré faute de volume locataires.",
+      "date": "25/07/2026",
+      "url": "https://donnees-marche.inseestatistiques.fr",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "BCE",
-          "cls": "tt"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     }

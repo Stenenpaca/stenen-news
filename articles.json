@@ -1,57 +1,45 @@
 {
-  "generated_at": "26/07/2026",
+  "generated_at": "27/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Action ouvre son 928e point de vente à Mallemort",
-      "body": "Le géant du discount Action a inauguré samedi 25 juillet un nouveau magasin de 941 m² à Mallemort, créant 32 emplois locaux. Cette expansion confirme la dynamique du commerce de proximité en région PACA avec des surfaces intermédiaires adaptées aux besoins des collectivités.",
-      "impact": "Opportunité pour identifier des locaux commerciaux de 800-1200 m² en périphérie des communes PACA pour franchisés retail et PME distribution.",
-      "date": "24/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1385254940357115/le-geant-du-discount-action-ouvre-un-nouveau-point-de-vente-a-mallemort",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Marché PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Instabilité politique : freins aux investissements entrepreneuriaux",
-      "body": "Virginie Calmels, présidente de CroissancePlus, alerte sur l'instabilité politique comme principal obstacle pour les entrepreneurs en croissance. Cette frilosité affecte directement les décisions de location et d'expansion immobilière des PME régionales.",
-      "impact": "Anticiper une baisse des demandes de locaux tertiaires et d'activité par les ETI PACA ; renforcer l'offre flexible et à court terme pour sécuriser les prospects.",
-      "date": "25/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1463489943963315/l-instabilite-politique-est-l-ennemi-numero-un-des-entrepreneurs-pointe-virginie-calmels-presidente-de-croissanceplus",
+      "title": "Nouvelle entreprise d'événementiel à Althen-des-Paluds",
+      "body": "Jules Cirendini, ancien menuisier reconverti, crée A.L.B. Events spécialisée dans la location et l'organisation d'événements. Cette initiative illustre l'entrepreneuriat dynamique en zone PACA avec besoin potentiel de locaux d'activité.",
+      "impact": "Identifier des opportunités de location de petits locaux activité/stockage pour entreprises événementielles en croissance dans le Vaucluse.",
+      "date": "27/07/2026",
+      "url": "https://www.laprovence.com/article/economie/5058270051464/a-althen-des-paluds-un-passionne-cree-l-entreprise-a-l-b-events-pour-l-organisation-d-evenements",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
         }
       ]
     },
     {
-      "id": "f3",
-      "title": "Réglementation horaire : impact sur commerces de nuit Arles",
-      "body": "La Ville d'Arles impose une fermeture obligatoire de 22h à 6h pour les épiceries de nuit, perturbant le modèle économique établi du secteur. Cette décision illustre le durcissement réglementaire local affectant la viabilité des petits commerces.",
-      "impact": "Vérifier les aménagements réglementaires municipaux avant signature baux commerce PACA ; négocier clauses de flexibilité horaire et révision loyer en cas restriction.",
-      "date": "24/07/2026",
-      "url": "https://www.laprovence.com/article/societe/1400557178718115/contraints-de-fermer-de-22h-a-6h-les-epiciers-de-nuit-ne-comprennent-pas-le-choix-de-la-ville-d-arles",
+      "id": "f2",
+      "title": "Démarchage téléphonique: consentement obligatoire dès 11 août",
+      "body": "À partir du 11 août 2026, les entreprises qui démarchent par téléphone doivent recueillir le consentement éclairé préalable des consommateurs. Ce décret paru au Journal officiel affecte directement les pratiques commerciales B2B.",
+      "impact": "Adapter les stratégies de prospection commerciale et respecter le nouveau cadre réglementaire pour les démarches de location de bureaux et locaux.",
+      "date": "26/07/2026",
+      "url": "https://www.laprovence.com/article/societe/1744977422696915/demarchage-telephonique-le-consentement-eclaire-des-consommateurs-devient-obligatoire-a-partir-du-11-aout",
       "source": "La Provence",
       "tags": [
         {
           "label": "Réglementation",
           "cls": "tr"
-        },
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Golf Resort de Digne-les-Bains en difficulté financière",
+      "body": "Le Golf Resort de Digne-les-Bains en cessation de paiements continue ses activités tout en négociant son redressement. Cette situation souligne les enjeux immobiliers touristiques en zone PACA.",
+      "impact": "Anticiper les restructurations immobilières et les opportunités de reprise de surfaces commerciales/hôtelières dans les zones touristiques des Alpes-de-Haute-Provence.",
+      "date": "26/07/2026",
+      "url": "https://www.laprovence.com/article/economie/4163076994329514/en-cessation-de-paiements-le-golf-resort-de-digne-les-bains-joue-une-partie-decisive-pour-son-avenir",
+      "source": "La Provence",
+      "tags": [
         {
           "label": "PACA",
           "cls": "tp"
@@ -60,39 +48,31 @@
     },
     {
       "id": "f4",
-      "title": "Innovation Manosque : casque Bruxless, PME de santé",
-      "body": "L'entreprise de Manosque développe un casque anti-bruxisme répondant à un besoin médical touchant 20% de la population française. Ce projet entrepreneurial illustre le potentiel des PME innovantes PACA en technologies de bien-être et santé.",
-      "impact": "Rechercher locaux R&D/prototypage 200-400 m² pour startups deeptech santé ; structurer offre flex-office pour jeunes entreprises technologiques Alpes-Provence.",
-      "date": "24/07/2026",
-      "url": "https://www.laprovence.com/article/region/1377771210321515/le-casque-bruxless-l-innovation-d-une-entreprise-de-manosque-pour-lutter-contre-les-grincements-de-dents",
+      "title": "Livret A passe à 1,7% dès le 1er août",
+      "body": "Le Livret A augmente de 1,5% à 1,7% à partir du 1er août 2026, concernant 58 millions de titulaires français. Cette hausse des taux d'épargne influence le financement des projets immobiliers professionnels.",
+      "impact": "Adapter les scenarios de financement des acquisitions immobilières avec une légère amélioration des conditions d'épargne pour investisseurs institutionnels.",
+      "date": "27/07/2026",
+      "url": "https://www.laprovence.com/article/economie/67332714577764/des-le-1er-aout-2026-cette-mauvaise-nouvelle-attend-des-millions-depargnants-francais",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Innovation",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Menuiserie Vigouroux : ancrage commercial Marignane",
-      "body": "Alu Vigouroux, entreprise familiale implantée à un carrefour stratégique entre Martigues et la Côte bleue, démontre la viabilité des locaux d'activité bien positionnés. Le site moderne s'impose comme référence pour PME artisanales PACA.",
-      "impact": "Prospecter emplacements routes structurantes (RN5, RN8) pour activités/services ; valoriser localisation carrefour pour entreprises production artisanale.",
-      "date": "24/07/2026",
-      "url": "https://www.laprovence.com/article/region/1496837365076314/marignane-la-menuiserie-une-veritable-affaire-de-famille-chez-les-vigouroux",
+      "title": "Instabilité politique, frein à l'entrepreneuriat régional",
+      "body": "Virginie Calmels, présidente de CroissancePlus, désigne l'instabilité politique comme l'ennemi numéro un des entrepreneurs en croissance. Cette position reflète l'inquiétude des chefs d'entreprise PACA face aux incertitudes.",
+      "impact": "Capitaliser sur les demandes de stabilité contractuelle long terme des entreprises en croissance pour sécuriser les baux commerciaux et de bureaux.",
+      "date": "25/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1463489943963315/l-instabilite-politique-est-l-ennemi-numero-un-des-entrepreneurs-pointe-virginie-calmels-presidente-de-croissanceplus",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     }
@@ -100,58 +80,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "OAT 3,70% : coût financement immobilier régional élevé",
-      "body": "Les obligations assimilables du Trésor français se maintiennent à 3,70%, reflétant un contexte de taux européens restrictifs. Cette stabilité des taux pèse sur la capacité d'endettement des investisseurs immobiliers PACA.",
-      "impact": "Adapter montages financiers : privilégier structures mixtes financement court terme (Euribor 3M : 2,15%) + apports propres ; recommander SCPI pour diversification moins endettée.",
-      "date": "26/07/2026",
-      "url": "https://www.laprovence.com/donnees-marche",
+      "title": "OAT à 3,70% en contexte de BCE stable",
+      "body": "Les obligations d'État français (OAT) se maintiennent à 3,70%, reflétant une stabilité relative malgré les tensions géopolitiques européennes. La BCE maintient ses taux à 2,15%, soutenant une certaine prévisibilité macroéconomique.",
+      "impact": "Conditions de financement prévisibles pour les projets immobiliers tertiaires à long terme en PACA.",
+      "date": "27/07/2026",
+      "url": "https://www.laprovence.com",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux OAT",
+          "label": "Taux",
           "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Brent 96 USD : stabilité énergétique pour coûts exploitation",
-      "body": "Le brut Brent se maintient à 96 USD/baril, soutenu par tensions géopolitiques modérées. Cette stabilité relative limite les chocs sur les charges d'exploitation des immeubles tertiaires PACA.",
-      "impact": "Budgets énergétiques tertiaires : maintenir provisions charges 15-18% du loyer net ; valoriser certifications RT2020 pour attraire locataires éco-responsables.",
-      "date": "26/07/2026",
-      "url": "https://www.laprovence.com/donnees-marche",
+      "title": "Inflation modérée à 1,7% en France",
+      "body": "L'inflation française se stabilise à 1,7%, sous l'objectif BCE de 2%, soutenant une relative stabilité des coûts d'exploitation immobilière. Euribor 3M à 2,15% confirme un marché monétaire tempéré.",
+      "impact": "Environnement favorable pour les négociations de loyers tertiaires avec progression maîtrisée des charges d'exploitation.",
+      "date": "27/07/2026",
+      "url": "https://www.laprovence.com",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Conjoncture",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE 2,15% : persistance politique restrictive pour immobilier",
-      "body": "La Banque Centrale Européenne maintient ses taux directeurs à 2,15%, confirmant un cycle restrictif prolongé. L'inflation française modérée (1,7%) ne justifie pas d'assouplissement avant 2027.",
-      "impact": "Négociations bail : sécuriser révisions annuelles sur IRL (indice référence loyer) plutôt que loyers variables ; valoriser baux long terme pour preneur stabilité.",
-      "date": "26/07/2026",
-      "url": "https://www.laprovence.com/donnees-marche",
+      "title": "Energie: Brent stable à 96 USD le baril",
+      "body": "Le pétrole Brent se maintient à 96 USD/baril, reflet des équilibres géopolitiques actuels sans choc majeur. Cette stabilité énergétique soutient une gestion prévisible des charges de chauffage et énergie dans l'immobilier tertiaire.",
+      "impact": "Stabilité des charges énergétiques pour les immeubles de bureaux et locaux activité PACA, favorable à la valorisation locative.",
+      "date": "27/07/2026",
+      "url": "https://www.laprovence.com",
       "source": "Données marché",
       "tags": [
         {
-          "label": "BCE Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Inflation",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     }

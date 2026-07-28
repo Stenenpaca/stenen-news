@@ -1,78 +1,98 @@
 {
-  "generated_at": "27/07/2026",
+  "generated_at": "28/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Nouvelle entreprise d'événementiel à Althen-des-Paluds",
-      "body": "Jules Cirendini, ancien menuisier reconverti, crée A.L.B. Events spécialisée dans la location et l'organisation d'événements. Cette initiative illustre l'entrepreneuriat dynamique en zone PACA avec besoin potentiel de locaux d'activité.",
-      "impact": "Identifier des opportunités de location de petits locaux activité/stockage pour entreprises événementielles en croissance dans le Vaucluse.",
-      "date": "27/07/2026",
-      "url": "https://www.laprovence.com/article/economie/5058270051464/a-althen-des-paluds-un-passionne-cree-l-entreprise-a-l-b-events-pour-l-organisation-d-evenements",
+      "title": "Commerce Lançon-Provence : nouvelle infrastructure de paiement",
+      "body": "Un second distributeur automatique de billets a été installé à Lançon-Provence, complétant l'offre jusqu'alors limitée au DAB de la Poste. Cette infrastructure bancaire renforce l'attractivité commerciale de la commune pour les petits commerces et points de vente.",
+      "impact": "Amélioration de la fluidité commerciale locale : recommander aux clients une meilleure accessibilité des zones commerçantes dans les petites communes PACA.",
+      "date": "28/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1012284442581814/un-second-distributeur-automatique-de-billets-installe-a-lancon-provence",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Démarchage téléphonique: consentement obligatoire dès 11 août",
-      "body": "À partir du 11 août 2026, les entreprises qui démarchent par téléphone doivent recueillir le consentement éclairé préalable des consommateurs. Ce décret paru au Journal officiel affecte directement les pratiques commerciales B2B.",
-      "impact": "Adapter les stratégies de prospection commerciale et respecter le nouveau cadre réglementaire pour les démarches de location de bureaux et locaux.",
-      "date": "26/07/2026",
-      "url": "https://www.laprovence.com/article/societe/1744977422696915/demarchage-telephonique-le-consentement-eclaire-des-consommateurs-devient-obligatoire-a-partir-du-11-aout",
+      "title": "Mode durable : nouvelle tendance entrepreneuriale Vaucluse",
+      "body": "Sarah Gomez, ancienne styliste-modéliste parisienne, a fondé Epiko, une marque de mode durable pour enfants en Vaucluse. Ce projet illustre la réorientation entrepreneuriale vers des modèles éco-responsables en région PACA.",
+      "impact": "Identifier les espaces commerciaux et locaux d'activité adaptés aux PME innovantes du secteur mode-durable en Vaucluse, segment en croissance.",
+      "date": "28/07/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/1003371622922314/de-la-fast-fashion-a-epiko-cette-vauclusienne-reinvente-la-mode-durable-pour-enfants",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Golf Resort de Digne-les-Bains en difficulté financière",
-      "body": "Le Golf Resort de Digne-les-Bains en cessation de paiements continue ses activités tout en négociant son redressement. Cette situation souligne les enjeux immobiliers touristiques en zone PACA.",
-      "impact": "Anticiper les restructurations immobilières et les opportunités de reprise de surfaces commerciales/hôtelières dans les zones touristiques des Alpes-de-Haute-Provence.",
-      "date": "26/07/2026",
-      "url": "https://www.laprovence.com/article/economie/4163076994329514/en-cessation-de-paiements-le-golf-resort-de-digne-les-bains-joue-une-partie-decisive-pour-son-avenir",
+      "title": "Soldes d'été 2026 : bilan décevant du commerce de détail",
+      "body": "Malgré la prolongation décidée par le gouvernement suite à la canicule, la saison des soldes d'été 2026 s'avère quasi-irrattrapable avec des performances commerciales très faibles. Cette contraction affecte directement la demande d'espaces commerciaux en région.",
+      "impact": "Anticiper une pression baissière sur les loyers commerciaux PACA pour 2H 2026 ; négocier des baux plus souples pour les détaillants en difficulté.",
+      "date": "28/07/2026",
+      "url": "https://www.laprovence.com/article/economie/99801824574452/soldes-dete-la-prolongation-n-a-pas-sauve-une-saison-quasiment-irrattrapable",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Livret A passe à 1,7% dès le 1er août",
-      "body": "Le Livret A augmente de 1,5% à 1,7% à partir du 1er août 2026, concernant 58 millions de titulaires français. Cette hausse des taux d'épargne influence le financement des projets immobiliers professionnels.",
-      "impact": "Adapter les scenarios de financement des acquisitions immobilières avec une légère amélioration des conditions d'épargne pour investisseurs institutionnels.",
+      "title": "BET Appy : 60 ans d'ingénierie tertiaire à Avignon",
+      "body": "Le bureau d'études BET Appy, fondé en 1966 à Avignon, fête 60 ans de spécialisation en ingénierie des fluides et thermique du bâtiment. Ce leader régional renforce sa légitimité auprès des maîtres d'ouvrage PACA pour les projets tertiaires et activités.",
+      "impact": "Valoriser les références locales de qualité en ingénierie pour sécuriser les transactions de bureaux/activité ; BET Appy garantit expertise décret tertiaire.",
       "date": "27/07/2026",
-      "url": "https://www.laprovence.com/article/economie/67332714577764/des-le-1er-aout-2026-cette-mauvaise-nouvelle-attend-des-millions-depargnants-francais",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Instabilité politique, frein à l'entrepreneuriat régional",
-      "body": "Virginie Calmels, présidente de CroissancePlus, désigne l'instabilité politique comme l'ennemi numéro un des entrepreneurs en croissance. Cette position reflète l'inquiétude des chefs d'entreprise PACA face aux incertitudes.",
-      "impact": "Capitaliser sur les demandes de stabilité contractuelle long terme des entreprises en croissance pour sécuriser les baux commerciaux et de bureaux.",
-      "date": "25/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1463489943963315/l-instabilite-politique-est-l-ennemi-numero-un-des-entrepreneurs-pointe-virginie-calmels-presidente-de-croissanceplus",
+      "url": "https://www.laprovence.com/article/region/38423119508651/specialise-dans-l-ingenierie-des-fluides-et-la-thermique-du-batiment-bet-appy-celebre-ses-60-ans-a-avignon",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Tertiaire",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Restauration Alpes-de-Haute-Provence : recherche de repreneur",
+      "body": "L'Observatoire, restaurant de prestige fondé en 2021 à Saint-Michel-l'Observatoire par Marie-Hélène et Eric Messager, cherche un repreneur. Cette situation reflète les défis d'exploitation des établissements de restauration en zones rurales PACA post-covid.",
+      "impact": "Opportunité de reprise commerciale/activité : analyser le positionnement des locaux de restauration en Alpes-de-Haute-Provence et adapter offre aux nouveaux exploitants.",
+      "date": "27/07/2026",
+      "url": "https://www.laprovence.com/article/region/35120543814154/une-institution-culinaire-cherche-un-repreneur-a-saint-michel-l-observatoire-dans-les-alpes-de-haute-provence",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -80,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "OAT à 3,70% en contexte de BCE stable",
-      "body": "Les obligations d'État français (OAT) se maintiennent à 3,70%, reflétant une stabilité relative malgré les tensions géopolitiques européennes. La BCE maintient ses taux à 2,15%, soutenant une certaine prévisibilité macroéconomique.",
-      "impact": "Conditions de financement prévisibles pour les projets immobiliers tertiaires à long terme en PACA.",
-      "date": "27/07/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "title": "Dégradation de la consommation tertiaire France 2026",
+      "body": "La conjoncture commerciale française s'affaiblit : soldes d'été décevants, canicule impactant le retail, inflation consommateur à 1.7%. L'immobilier tertiaire PACA subit cette contraction avec baisse de la demande de nouveaux espaces.",
+      "impact": "Réviser à la baisse les projections de loyers tertiaires/commerciaux PACA pour 2H 2026 ; privilégier les actifs déjà loués et stabilisés.",
+      "date": "28/07/2026",
+      "url": "https://www.laprovence.com/article/economie/99801824574452/soldes-dete-la-prolongation-n-a-pas-sauve-une-saison-quasiment-irrattrapable",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Conjoncture",
+          "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation modérée à 1,7% en France",
-      "body": "L'inflation française se stabilise à 1,7%, sous l'objectif BCE de 2%, soutenant une relative stabilité des coûts d'exploitation immobilière. Euribor 3M à 2,15% confirme un marché monétaire tempéré.",
-      "impact": "Environnement favorable pour les négociations de loyers tertiaires avec progression maîtrisée des charges d'exploitation.",
-      "date": "27/07/2026",
-      "url": "https://www.laprovence.com",
+      "title": "Taux BCE et OAT : stabilisation à 2.15% - 3.70%",
+      "body": "La BCE maintient son taux directeur à 2.15%, les OAT françaises restent à 3.70% et l'Euribor 3M stable à 2.15%. Cette configuration favorable aux emprunts immobiliers soutient les transactions CRE en région PACA.",
+      "impact": "Environnement de taux toujours supportif pour les investisseurs immobiliers PACA ; consolider les offres de financement avant tout resserrement monétaire futur.",
+      "date": "28/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1012284442581814/un-second-distributeur-automatique-de-billets-installe-a-lancon-provence",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Taux",
           "cls": "tt"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Energie: Brent stable à 96 USD le baril",
-      "body": "Le pétrole Brent se maintient à 96 USD/baril, reflet des équilibres géopolitiques actuels sans choc majeur. Cette stabilité énergétique soutient une gestion prévisible des charges de chauffage et énergie dans l'immobilier tertiaire.",
-      "impact": "Stabilité des charges énergétiques pour les immeubles de bureaux et locaux activité PACA, favorable à la valorisation locative.",
+      "title": "Liquidation judiciaire Fibre Excellence : secteur papier en crise",
+      "body": "Le tribunal de commerce de Toulouse a rejeté l'offre de reprise de Fibre Excellence (Tarascon) par Matthieu Pigasse, ordonnant une liquidation judiciaire. Cette défaillance illustre les fragilités sectorielles impactant les locaux d'activité industrielle PACA.",
+      "impact": "Monitorer les risques de défaillance locataire pour les portefeuilles d'activité PACA ; renforcer clauses de garantie et révision de loyers sur secteur papier-transformation.",
       "date": "27/07/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/societe/31846400878034/fibre-excellence-liquidation-partielle-requise-pour-lusine-de-pate-a-papier-de-tarascon",
+      "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }

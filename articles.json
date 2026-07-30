@@ -1,32 +1,13 @@
 {
-  "generated_at": "29/07/2026",
+  "generated_at": "30/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "CMA CGM affiche des profits records malgré tensions géopolitiques",
-      "body": "L'armateur français CMA CGM a enregistré une hausse significative de son bénéfice net et de son chiffre d'affaires au T2 2026, porté par une demande soutenue des entreprises anticipant les disruptions. Cette dynamique économique positive reflète une activité commerciale robuste en Méditerranée.",
-      "impact": "Renforcement de la demande de locaux logistiques et d'activité portuaire en région PACA; à valoriser auprès des acteurs du secteur transport-logistique.",
+      "title": "Commerces PACA : fermetures en chaîne, Célio quitte Avignon",
+      "body": "Le magasin Célio du centre-ville d'Avignon (rue de la République) ferme définitivement, s'inscrivant dans une tendance plus large de fermetures de commerces de détail en PACA. Cette contraction du retail affecte directement la demande de locaux commerciaux dans les zones urbaines sensibles.",
+      "impact": "Les propriétaires de locaux commerciaux en centre-ville PACA doivent anticiper une pression baissière sur les valeurs locatives et une montée des vacances, particulièrement en retail habillement.",
       "date": "29/07/2026",
-      "url": "https://www.laprovence.com/article/france-monde/28568312037674/cma-cgm-des-profits-records-malgre-les-perturbations-au-moyen-orient",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Logistique",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Création boutique commerce à Digne-les-Bains rue de l'Hubac",
-      "body": "Florence a repris une boutique multi-artisans 'Curiosités et Gourmandises' en centre-ville dignois depuis deux mois. Ce projet illustre le dynamisme du commerce de proximité et de la vente directe en petites villes alpines.",
-      "impact": "Opportunités de petits locaux commerciaux en rez-de-chaussée à Digne-les-Bains; segment artisanat-tourisme à prospécter pour transactions retail.",
-      "date": "29/07/2026",
-      "url": "https://www.laprovence.com/article/region/1791228381599214/a-digne-les-bains-la-boutique-curiosites-et-gourmandises-sest-installee-dans-la-rue-de-lhubac",
+      "url": "https://www.laprovence.com/article/societe/39117335479047/le-magasin-celio-d-avignon-comme-de-nombreux-autres-met-la-cle-sous-la-porte",
       "source": "La Provence",
       "tags": [
         {
@@ -40,10 +21,29 @@
       ]
     },
     {
+      "id": "f2",
+      "title": "Tarascon : liquidation judiciaire Fibre Excellence, 270 emplois perdus",
+      "body": "Le tribunal de commerce de Toulouse a prononcé la liquidation judiciaire de l'usine Fibre Excellence de Tarascon (Bouches-du-Rhône) ce 29 juillet, impactant 270 salariés. Cette fermeture libère une surface industrielle importante sur le marché local des locaux d'activité.",
+      "impact": "Les locaux d'activité/industriels de Tarascon et vallée du Rhône entrent en phase de reprise : opportunité de reprises à bas coût ou reconversion pour exploitants tertiaires.",
+      "date": "29/07/2026",
+      "url": "https://www.laprovence.com/article/economie/1889532343747914/fibre-excellence-liquidation-judiciaire-pour-lusine-de-tarascon-270-salaries-concernes",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
       "id": "f3",
       "title": "Golf Resort Digne-les-Bains en redressement judiciaire",
-      "body": "Le Golf Resort de Digne-les-Bains a été placé en redressement judiciaire par le tribunal de commerce de Manosque le 28 juillet, bien que l'activité se poursuive normalement. Cette situation reflète les tensions du secteur loisir-tourisme post-crise.",
-      "impact": "Vigilance accrue sur les baux commerciaux loisir-tourisme en montagne; à monitorer pour risques de résiliation ou renégociation de loyers.",
+      "body": "Le Golf Resort de Digne-les-Bains a été placé en redressement judiciaire par le tribunal de commerce de Manosque le 28 juillet, mais poursuit son activité normalement. Cette décision affecte un actif touristique majeur des Alpes-de-Haute-Provence.",
+      "impact": "Les locaux accueillant des activités touristiques/loisirs en montagne PACA restent fragiles ; négocier des clauses de sortie de crise dans tout nouvel engagement locatif.",
       "date": "28/07/2026",
       "url": "https://www.laprovence.com/article/faits-divers-justice/1457173531991614/le-golf-resort-de-digne-les-bains-place-en-redressement-judiciaire-mais-l-activite-se-poursuit-normalement",
       "source": "La Provence",
@@ -53,18 +53,18 @@
           "cls": "tp"
         },
         {
-          "label": "Risque",
-          "cls": "tr"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Création vignoble Mas Arnal à Cadenet : entrepreneuriat agricole",
-      "body": "Sébastien Arnal a créé sa propre cave Mas Arnal à Cadenet avec caveau de vente, réalisant son projet de viticulture passionnelle à 44 ans. Ce type de création illustre le dynamisme entrepreneurial du secteur agro-touristique du Luberon.",
-      "impact": "Demande de petits bâtiments d'activité agricole transformés et points de vente directe en zones viticoles; cible développement pour locations courtes.",
-      "date": "28/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1349185999378114/sebastien-arnal-cree-sa-propre-cave-mas-arnal-et-realise-sont-reve-denfant-a-cadenet",
+      "title": "CMA CGM : résultats records H1 2026, locomotive portuaire PACA",
+      "body": "L'armateur français CMA CGM annonce un bénéfice net et chiffre d'affaires en nette hausse au T2 2026, porté par une demande soutenue d'anticipation logistique malgré les perturbations au Moyen-Orient. Ce dynamisme profite aux zones portuaires et arrière-ports de Marseille-Fos.",
+      "impact": "Les locaux logistiques/activité adjoints aux ports PACA (Marseille-Fos) conservent une forte demande : valorisation maintenue, loyers stables à hausse modérée.",
+      "date": "29/07/2026",
+      "url": "https://www.laprovence.com/article/france-monde/28568312037674/cma-cgm-des-profits-records-malgre-les-perturbations-au-moyen-orient",
       "source": "La Provence",
       "tags": [
         {
@@ -72,18 +72,18 @@
           "cls": "tp"
         },
         {
-          "label": "Agro-tourisme",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "SNCF : bénéfices en hausse au S1 2026 malgré aléas climatiques",
-      "body": "La SNCF a dégagé plus d'un milliard d'euros de bénéfices net (+19%) au premier semestre 2026 avec un CA en progression de 2%, démontrant la résilience du transport ferroviaire régional. Cette performance bénéficie à l'écosystème logistique et mobilité PACA.",
-      "impact": "Opportunités de locaux d'activité logistique ferroviaire et multimodal près des gares PACA; demande soutenue pour hubs de distribution et locaux supports.",
-      "date": "28/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1350515541003614/sncf-plus-dun-milliard-deuros-de-benefices-au-premier-semestre-malgre-les-aleas-climatiques",
+      "title": "Marchés locaux PACA dynamiques : reprise du commerce de proximité",
+      "body": "Le marché de la place Thomas au Pontet attire touristes et clients réguliers, avec une clientèle fidèle et ambiance positive (Xavier Gouzy, boucher-charcutier, installé depuis 5 ans). Cette revitalisation du commerce de bouche en centre-bourg renforce la demande de petits locaux commerciaux.",
+      "impact": "Les petits locaux commerciaux (<100 m²) en centres-bourgs PACA restent recherchés ; valoriser les terrasses/marchés comme atout de régénération commerciale.",
+      "date": "30/07/2026",
+      "url": "https://www.laprovence.com/article/food/2651172478971914/quelques-touristes-et-beaucoup-d-habitues-au-pontet-le-marche-de-la-place-thomas-a-le-vent-en-poupe",
       "source": "La Provence",
       "tags": [
         {
@@ -91,7 +91,7 @@
           "cls": "tp"
         },
         {
-          "label": "Transport",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
@@ -100,45 +100,53 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Chômage repart à la hausse en France: +0,8% au T2 2026",
-      "body": "Le nombre de demandeurs d'emploi (catégorie A) a augmenté de 0,8% au deuxième trimestre 2026 à 3,323 millions, inversant la tendance baissière des trois mois précédents. Cette remontée du chômage reflète un ralentissement de la création d'emplois en France.",
-      "impact": "Ralentissement conjoncturel France limiterait la croissance locative tertiaire PACA; surveiller impacts sur demandes locaux bureaux et activité.",
-      "date": "28/07/2026",
-      "url": "https://www.laprovence.com/article/societe/1111128505262114/chomage-le-nombre-de-demandeurs-demploi-en-categorie-a-repart-a-la-hausse-au-deuxieme-trimestre-2026",
+      "title": "Énergies renouvelables : 82 M€ pour éolien marin Marseille-Fos",
+      "body": "Le port de Marseille-Fos bénéficie d'une aide de 82 millions d'euros pour développer l'éolien marin, aligné sur la politique énergétique française de sobriété et renouvelables. Cet investissement structurant consolide la position du port comme hub énergétique méditerranéen.",
+      "impact": "Opportunité d'investissement immobilier d'activité/logistique verte autour des ZAE portuaires PACA : demande de locaux aux normes environnementales renforcées.",
+      "date": "29/07/2026",
+      "url": "https://www.laprovence.com/article/economie/2235037023231114/une-aide-de-82-millions-d-euros-attribuee-au-port-de-marseille-fos-pour-developper-l-eolien-marin",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique/Énergie",
           "cls": "tg"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Soldes été 2026 : saison 'quasiment irrattrapable' malgré prolongation",
-      "body": "La prolongation des soldes d'été décidée par le gouvernement après l'épisode caniculaire n'a pas permis de sauver une saison commerciale déficitaire. Cette faiblesse du commerce de détail démontre l'impact des aléas climatiques sur la consommation retail.",
-      "impact": "Pression baissière sur les valeurs locatives du commerce PACA; renégociations attendues avec retailers affectés; prudence sur indexations 2027.",
-      "date": "28/07/2026",
-      "url": "https://www.laprovence.com/article/economie/99801824574452/soldes-dete-la-prolongation-na-pas-sauve-une-saison-quasiment-irrattrapable",
+      "title": "Conjoncture France : grèves et redressements sectoriels d'été",
+      "body": "Haribo Marseille entre sa 5ème semaine de grève (40 salariés mobilisés) et Fibre Excellence Tarascon est liquidée (270 emplois). Ces tensions sociales et restructurations témoignent d'une fragilité conjoncturelle des secteurs non-essentiels et manufacturiers français.",
+      "impact": "Attendre stabilisation politique/sociale automne 2026 avant structurer opérations CRE majeures ; valoriser secteurs essentiels (logistique, santé, énergie) en PACA.",
+      "date": "29/07/2026",
+      "url": "https://www.laprovence.com/article/economie/2206694970041614/pas-de-ronds-pas-de-bonbons-chez-haribo-a-marseille-les-salaries-entament-une-cinquieme-semaine-de-greve",
       "source": "La Provence",
       "tags": [
         {
           "label": "Conjoncture",
           "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macro: OAT 3.70%, Euribor 2.15%, inflation 1.7% (29/07/2026)",
-      "body": "Le contexte de taux reste stable avec OAT 10 ans à 3.70% et Euribor 3M à 2.15%, tandis que l'inflation française revient à 1.7% en juillet. Ces conditions reflètent une politique monétaire BCE inchangée à 2.15%.",
-      "impact": "Coût du financement CRE demeure supportable pour acquisitions; conditions favorables pour montages obligataires et refinancement baux commerciaux PACA.",
-      "date": "29/07/2026",
-      "url": "https://www.laprovence.com/article/france-monde/28568312037674/cma-cgm-des-profits-records-malgre-les-perturbations-au-moyen-orient",
-      "source": "La Provence / Données marché",
+      "title": "Contexte taux & financement : stabilité OAT à 3.70%, Euribor 3M 2.15%",
+      "body": "En l'absence de choc BCE immédiat (taux directeur 2.15%), l'environnement de taux reste stable : OAT 10Y à 3.70%, Euribor 3M à 2.15%, inflation France 1.7%. Les conditions de financement demeurent accessibles pour investisseurs immobiliers PACA.",
+      "impact": "Contexte favorable au financement de transactions CRE PACA jusqu'à fin 2026 ; profiter de stabilité des taux avant potentiel renchérissement automne.",
+      "date": "30/07/2026",
+      "url": "https://www.laprovence.com/article/economie/2235037023231114/une-aide-de-82-millions-d-euros-attribuee-au-port-de-marseille-fos-pour-developper-l-eolien-marin",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Taux/Financement",
           "cls": "tt"
         },
         {

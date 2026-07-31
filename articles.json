@@ -1,13 +1,13 @@
 {
-  "generated_at": "30/07/2026",
+  "generated_at": "31/07/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Commerces PACA : fermetures en chaîne, Célio quitte Avignon",
-      "body": "Le magasin Célio du centre-ville d'Avignon (rue de la République) ferme définitivement, s'inscrivant dans une tendance plus large de fermetures de commerces de détail en PACA. Cette contraction du retail affecte directement la demande de locaux commerciaux dans les zones urbaines sensibles.",
-      "impact": "Les propriétaires de locaux commerciaux en centre-ville PACA doivent anticiper une pression baissière sur les valeurs locatives et une montée des vacances, particulièrement en retail habillement.",
-      "date": "29/07/2026",
-      "url": "https://www.laprovence.com/article/societe/39117335479047/le-magasin-celio-d-avignon-comme-de-nombreux-autres-met-la-cle-sous-la-porte",
+      "title": "Commerces Villeneuve-lez-Avignon : digitalisation et attractivité",
+      "body": "La Fédération des commerçants et artisans de Villeneuve-lez-Avignon lance son nouveau site internet pour améliorer la visibilité commerciale locale. Cette initiative digitale cible une centaine de professionnels et renforce l'écosystème retail du secteur.",
+      "impact": "Intérêt pour locaux commerciaux en centre-ville : la digitalisation des offres augmente la demande de surfaces retail attractives et bien localisées.",
+      "date": "30/07/2026",
+      "url": "https://www.laprovence.com/article/economie/2979229433106114/le-village-la-federation-des-commercants-et-artisans-de-villeneuve-lez-avignon-lance-son-nouveau-site-internet",
       "source": "La Provence",
       "tags": [
         {
@@ -15,37 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Retail",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Tarascon : liquidation judiciaire Fibre Excellence, 270 emplois perdus",
-      "body": "Le tribunal de commerce de Toulouse a prononcé la liquidation judiciaire de l'usine Fibre Excellence de Tarascon (Bouches-du-Rhône) ce 29 juillet, impactant 270 salariés. Cette fermeture libère une surface industrielle importante sur le marché local des locaux d'activité.",
-      "impact": "Les locaux d'activité/industriels de Tarascon et vallée du Rhône entrent en phase de reprise : opportunité de reprises à bas coût ou reconversion pour exploitants tertiaires.",
+      "title": "Secteur retail en tension : fermeture Célio Avignon",
+      "body": "Le magasin Célio du centre-ville d'Avignon ferme définitivement, dans la continuité des difficultés structurelles du secteur mode. Cette fermeture illustre la contraction de la demande en surfaces commerciales traditionnelles.",
+      "impact": "Vigilance accrue sur les baux commerciaux retail mode : favoriser les secteurs d'activité résilients (services, santé, F&B) pour les locaux d'exploitation.",
       "date": "29/07/2026",
-      "url": "https://www.laprovence.com/article/economie/1889532343747914/fibre-excellence-liquidation-judiciaire-pour-lusine-de-tarascon-270-salaries-concernes",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Golf Resort Digne-les-Bains en redressement judiciaire",
-      "body": "Le Golf Resort de Digne-les-Bains a été placé en redressement judiciaire par le tribunal de commerce de Manosque le 28 juillet, mais poursuit son activité normalement. Cette décision affecte un actif touristique majeur des Alpes-de-Haute-Provence.",
-      "impact": "Les locaux accueillant des activités touristiques/loisirs en montagne PACA restent fragiles ; négocier des clauses de sortie de crise dans tout nouvel engagement locatif.",
-      "date": "28/07/2026",
-      "url": "https://www.laprovence.com/article/faits-divers-justice/1457173531991614/le-golf-resort-de-digne-les-bains-place-en-redressement-judiciaire-mais-l-activite-se-poursuit-normalement",
+      "url": "https://www.laprovence.com/article/societe/39117335479047/le-magasin-celio-d-avignon-comme-de-nombreux-autres-met-la-cle-sous-la-porte",
       "source": "La Provence",
       "tags": [
         {
@@ -59,12 +40,31 @@
       ]
     },
     {
+      "id": "f3",
+      "title": "Nouveaux usages commerciaux PACA : électrostimulation",
+      "body": "REDynamic, studio d'électrostimulation musculaire, a ouvert à Saint-Savournin en janvier 2025, illustrant l'émergence de nouveaux services bien-être. Ces activités innovantes dynamisent les petits centres et créent une demande de locaux adaptés.",
+      "impact": "Opportunité locaux activité : services bien-être et fitness bénéficient d'une demande croissante ; privilégier les zones résidentielles avec surfaces 150-300m² aménageables.",
+      "date": "30/07/2026",
+      "url": "https://www.laprovence.com/article/societe/415928732518/ancienne-pompiere-et-aide-soignante-aurore-polleri-a-ouvert-un-studio-d-electrostimulation-a-saint-savournin",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
       "id": "f4",
-      "title": "CMA CGM : résultats records H1 2026, locomotive portuaire PACA",
-      "body": "L'armateur français CMA CGM annonce un bénéfice net et chiffre d'affaires en nette hausse au T2 2026, porté par une demande soutenue d'anticipation logistique malgré les perturbations au Moyen-Orient. Ce dynamisme profite aux zones portuaires et arrière-ports de Marseille-Fos.",
-      "impact": "Les locaux logistiques/activité adjoints aux ports PACA (Marseille-Fos) conservent une forte demande : valorisation maintenue, loyers stables à hausse modérée.",
-      "date": "29/07/2026",
-      "url": "https://www.laprovence.com/article/france-monde/28568312037674/cma-cgm-des-profits-records-malgre-les-perturbations-au-moyen-orient",
+      "title": "Dynamique marchés de proximité : Pontet en hausse",
+      "body": "Le marché de la place Thomas au Pontet affiche une dynamique positive avec une clientèle fidèle et une ambiance attractive depuis cinq ans. Cette résilience des espaces de commerce non-couvert confirme la vitalité des centres-bourgs.",
+      "impact": "Demande stable pour espaces commerciaux : les marchés et commerces de proximité restent attractifs ; segmenter l'offre bureaux/activité autour des zones dynamiques.",
+      "date": "30/07/2026",
+      "url": "https://www.laprovence.com/article/food/2651172478971914/quelques-touristes-et-beaucoup-d-habitues-au-pontet-le-marche-de-la-place-thomas-a-le-vent-en-poupe",
       "source": "La Provence",
       "tags": [
         {
@@ -79,20 +79,20 @@
     },
     {
       "id": "f5",
-      "title": "Marchés locaux PACA dynamiques : reprise du commerce de proximité",
-      "body": "Le marché de la place Thomas au Pontet attire touristes et clients réguliers, avec une clientèle fidèle et ambiance positive (Xavier Gouzy, boucher-charcutier, installé depuis 5 ans). Cette revitalisation du commerce de bouche en centre-bourg renforce la demande de petits locaux commerciaux.",
-      "impact": "Les petits locaux commerciaux (<100 m²) en centres-bourgs PACA restent recherchés ; valoriser les terrasses/marchés comme atout de régénération commerciale.",
-      "date": "30/07/2026",
-      "url": "https://www.laprovence.com/article/food/2651172478971914/quelques-touristes-et-beaucoup-d-habitues-au-pontet-le-marche-de-la-place-thomas-a-le-vent-en-poupe",
-      "source": "La Provence",
+      "title": "Contexte macro : OAT 3.70%, Euribor 2.15%, Inflation 1.7%",
+      "body": "Les taux obligataires français (OAT 10Y) se maintiennent à 3.70% avec une Euribor 3M stable à 2.15%, dans un contexte inflationniste favorable à 1.7%. La stabilité des taux de financement soutient les investissements immobiliers long terme.",
+      "impact": "Financement CRE : conditions de crédit favorables pour acquisitions et investissements ; valoriser les dossiers avec taux fixes long durée pour sécuriser les emprunteurs.",
+      "date": "31/07/2026",
+      "url": "https://stenen-immobilier-veille.fr",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     }
@@ -100,9 +100,9 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Énergies renouvelables : 82 M€ pour éolien marin Marseille-Fos",
-      "body": "Le port de Marseille-Fos bénéficie d'une aide de 82 millions d'euros pour développer l'éolien marin, aligné sur la politique énergétique française de sobriété et renouvelables. Cet investissement structurant consolide la position du port comme hub énergétique méditerranéen.",
-      "impact": "Opportunité d'investissement immobilier d'activité/logistique verte autour des ZAE portuaires PACA : demande de locaux aux normes environnementales renforcées.",
+      "title": "Port Marseille-Fos : 82M€ pour l'éolien marin",
+      "body": "Le gouvernement français alloue 82 millions d'euros au port de Marseille-Fos pour développer les infrastructures d'éolien marin. Cet investissement majeur soutient la transition énergétique et positionne la région PACA comme hub énergétique stratégique.",
+      "impact": "Dynamique économique régionale : émergence de nouveaux besoins en locaux activité logistique/industrielle pour la supply chain éolienne maritime.",
       "date": "29/07/2026",
       "url": "https://www.laprovence.com/article/economie/2235037023231114/une-aide-de-82-millions-d-euros-attribuee-au-port-de-marseille-fos-pour-developper-l-eolien-marin",
       "source": "La Provence",
@@ -119,9 +119,9 @@
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : grèves et redressements sectoriels d'été",
-      "body": "Haribo Marseille entre sa 5ème semaine de grève (40 salariés mobilisés) et Fibre Excellence Tarascon est liquidée (270 emplois). Ces tensions sociales et restructurations témoignent d'une fragilité conjoncturelle des secteurs non-essentiels et manufacturiers français.",
-      "impact": "Attendre stabilisation politique/sociale automne 2026 avant structurer opérations CRE majeures ; valoriser secteurs essentiels (logistique, santé, énergie) en PACA.",
+      "title": "Tensions sociales Haribo Marseille : 5e semaine de grève",
+      "body": "L'usine Haribo de Marseille connaît sa cinquième semaine de grève, avec environ 40 salariés mobilisés. Ces tensions affectent la production et reflètent les fragilités du secteur manufacturier français face aux pressions salariales et structurelles.",
+      "impact": "Conjoncture fragile : risques sur la stabilité des locaux activité industrielle ; privilégier les secteurs non-exposés aux conflits sociaux.",
       "date": "29/07/2026",
       "url": "https://www.laprovence.com/article/economie/2206694970041614/pas-de-ronds-pas-de-bonbons-chez-haribo-a-marseille-les-salaries-entament-une-cinquieme-semaine-de-greve",
       "source": "La Provence",
@@ -138,20 +138,20 @@
     },
     {
       "id": "m3",
-      "title": "Contexte taux & financement : stabilité OAT à 3.70%, Euribor 3M 2.15%",
-      "body": "En l'absence de choc BCE immédiat (taux directeur 2.15%), l'environnement de taux reste stable : OAT 10Y à 3.70%, Euribor 3M à 2.15%, inflation France 1.7%. Les conditions de financement demeurent accessibles pour investisseurs immobiliers PACA.",
-      "impact": "Contexte favorable au financement de transactions CRE PACA jusqu'à fin 2026 ; profiter de stabilité des taux avant potentiel renchérissement automne.",
-      "date": "30/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2235037023231114/une-aide-de-82-millions-d-euros-attribuee-au-port-de-marseille-fos-pour-developper-l-eolien-marin",
-      "source": "Données marché",
+      "title": "Risques géopolitiques : incendies sud-ouest, Brent 96$/bl",
+      "body": "Les mégafeux en Gironde ont touché 42 000 hectares et forcé l'évacuation de 224 000 personnes, créant une crise majeure. Le contexte géopolitique tendu (énergie, approvisionnements) maintient le Brent à 96 USD/baril en juillet 2026.",
+      "impact": "Coûts logistiques élevés : l'inflation énergétique pénalise les charges d'exploitation ; négocier des baux avec clauses d'ajustement ou favoriser les sites efficaces énergétiquement.",
+      "date": "29/07/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/2223316623933914/incendies-dans-le-sud-ouest-airbnb-offre-des-hebergements-aux-sinistrees-comment-en-beneficier",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Risques",
+          "cls": "tr"
         }
       ]
     }

@@ -1,98 +1,78 @@
 {
-  "generated_at": "31/07/2026",
+  "generated_at": "01/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Commerces Villeneuve-lez-Avignon : digitalisation et attractivité",
-      "body": "La Fédération des commerçants et artisans de Villeneuve-lez-Avignon lance son nouveau site internet pour améliorer la visibilité commerciale locale. Cette initiative digitale cible une centaine de professionnels et renforce l'écosystème retail du secteur.",
-      "impact": "Intérêt pour locaux commerciaux en centre-ville : la digitalisation des offres augmente la demande de surfaces retail attractives et bien localisées.",
-      "date": "30/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2979229433106114/le-village-la-federation-des-commercants-et-artisans-de-villeneuve-lez-avignon-lance-son-nouveau-site-internet",
+      "title": "Stationnement gratuit à Avignon : relance commerce centre-ville",
+      "body": "Le centre historique d'Avignon retrouve la gratuité du stationnement entre 12h-14h et le samedi, mesure attendue depuis plusieurs années par les commerçants et restaurateurs. Cette décision vise à dynamiser l'intra-muros et améliorer l'attractivité commerciale de la zone.",
+      "impact": "Pour les transactions commerciales en centre-ville PACA, cette mesure améliore l'accessibilité et la fréquentation, renforçant la valeur locative des locaux de commerce et services.",
+      "date": "31/07/2026",
+      "url": "https://www.laprovence.com/article/economie/3920212725676414/le-stationnement-va-redevenir-gratuit-entre-12-h-et-14-h-ainsi-que-le-samedi-dans-le-centre-d-avignon",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Retail",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Secteur retail en tension : fermeture Célio Avignon",
-      "body": "Le magasin Célio du centre-ville d'Avignon ferme définitivement, dans la continuité des difficultés structurelles du secteur mode. Cette fermeture illustre la contraction de la demande en surfaces commerciales traditionnelles.",
-      "impact": "Vigilance accrue sur les baux commerciaux retail mode : favoriser les secteurs d'activité résilients (services, santé, F&B) pour les locaux d'exploitation.",
-      "date": "29/07/2026",
-      "url": "https://www.laprovence.com/article/societe/39117335479047/le-magasin-celio-d-avignon-comme-de-nombreux-autres-met-la-cle-sous-la-porte",
+      "title": "Intelligence artificielle : adoption lente en entreprises françaises",
+      "body": "L'étude de Kéa révèle que l'IA s'impose dans les comités de direction mais peine à transformer en profondeur les pratiques opérationnelles des entreprises françaises. Le déploiement reste superficiel malgré une conviction générale des dirigeants.",
+      "impact": "Les entreprises PACA de services et tertiaire doivent anticiper les investissements informatiques et immobiliers (espaces collaboratifs, data centers) pour supporter cette transition technologique.",
+      "date": "01/08/2026",
+      "url": "https://www.laprovence.com/article/economie/444416084356614/intelligence-artificielle-les-entreprises-francaises-convaincues-mais-encore-loin-de-la-transformation",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
+          "label": "Transformation",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Nouveaux usages commerciaux PACA : électrostimulation",
-      "body": "REDynamic, studio d'électrostimulation musculaire, a ouvert à Saint-Savournin en janvier 2025, illustrant l'émergence de nouveaux services bien-être. Ces activités innovantes dynamisent les petits centres et créent une demande de locaux adaptés.",
-      "impact": "Opportunité locaux activité : services bien-être et fitness bénéficient d'une demande croissante ; privilégier les zones résidentielles avec surfaces 150-300m² aménageables.",
-      "date": "30/07/2026",
-      "url": "https://www.laprovence.com/article/societe/415928732518/ancienne-pompiere-et-aide-soignante-aurore-polleri-a-ouvert-un-studio-d-electrostimulation-a-saint-savournin",
+      "title": "Port Marseille-Fos accélère sa stratégie internationale",
+      "body": "Le Grand port maritime Marseille-Fos renforce ses ambitions à l'export et consolide son positionnement de carrefour européen des échanges. Le président Hervé Martel présente un plan d'évolution du site portuaire et logistique.",
+      "impact": "Cette dynamique portuaire soutient la demande en immobilier d'activités, locaux logistiques et zones de transit en région PACA, notamment à Fos et ses zones adjacentes.",
+      "date": "01/08/2026",
+      "url": "https://www.laprovence.com/article/economie/4443586167461714/cap-sur-linternational-pour-le-grand-port-maritime-marseille-fos",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Dynamique marchés de proximité : Pontet en hausse",
-      "body": "Le marché de la place Thomas au Pontet affiche une dynamique positive avec une clientèle fidèle et une ambiance attractive depuis cinq ans. Cette résilience des espaces de commerce non-couvert confirme la vitalité des centres-bourgs.",
-      "impact": "Demande stable pour espaces commerciaux : les marchés et commerces de proximité restent attractifs ; segmenter l'offre bureaux/activité autour des zones dynamiques.",
-      "date": "30/07/2026",
-      "url": "https://www.laprovence.com/article/food/2651172478971914/quelques-touristes-et-beaucoup-d-habitues-au-pontet-le-marche-de-la-place-thomas-a-le-vent-en-poupe",
+      "title": "Hausse électricité 1er août : impact sur coûts d'exploitation",
+      "body": "À partir du 1er août 2026, la facture d'électricité augmente, modifiant les budgets de fonctionnement des ménages et entreprises. Cette mesure tarifaire affecte directement les charges d'exploitation des bâtiments tertiaires et commerciaux.",
+      "impact": "Les preneurs d'immobilier tertiaire PACA doivent réviser leurs modèles économiques ; cette hausse énergétique renforce l'intérêt pour les bâtiments certifiés basse consommation et favorise les renégociations contractuelles.",
+      "date": "01/08/2026",
+      "url": "https://www.laprovence.com/article/economie/4416220787428214/electricite-livret-a-demarchage-telephonique-tout-ce-qui-change-au-1er-aout",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Regl.",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Contexte macro : OAT 3.70%, Euribor 2.15%, Inflation 1.7%",
-      "body": "Les taux obligataires français (OAT 10Y) se maintiennent à 3.70% avec une Euribor 3M stable à 2.15%, dans un contexte inflationniste favorable à 1.7%. La stabilité des taux de financement soutient les investissements immobiliers long terme.",
-      "impact": "Financement CRE : conditions de crédit favorables pour acquisitions et investissements ; valoriser les dossiers avec taux fixes long durée pour sécuriser les emprunteurs.",
+      "title": "Airbus Helicopters accélère innovation et coopération européenne",
+      "body": "Airbus Helicopters dévoile le NH90 Standard 2 destiné aux forces spéciales françaises, illustrant l'importance de la coopération européenne pour les développements d'envergure. 18 appareils doivent être livrés d'ici 2029.",
+      "impact": "Cette activité de défense-aéronautique dynamise les besoins immobiliers en zones industrielles et campus technologiques PACA (Marignane), ouvrant des opportunités de locaux d'activités spécialisés.",
       "date": "31/07/2026",
-      "url": "https://stenen-immobilier-veille.fr",
-      "source": "Données Marché",
+      "url": "https://www.laprovence.com/article/economie/3924808740791514/airbus-helicopters-devoile-le-nh90-standard-2-taille-pour-les-forces-speciales-francaises",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,58 +80,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Port Marseille-Fos : 82M€ pour l'éolien marin",
-      "body": "Le gouvernement français alloue 82 millions d'euros au port de Marseille-Fos pour développer les infrastructures d'éolien marin. Cet investissement majeur soutient la transition énergétique et positionne la région PACA comme hub énergétique stratégique.",
-      "impact": "Dynamique économique régionale : émergence de nouveaux besoins en locaux activité logistique/industrielle pour la supply chain éolienne maritime.",
-      "date": "29/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2235037023231114/une-aide-de-82-millions-d-euros-attribuee-au-port-de-marseille-fos-pour-developper-l-eolien-marin",
-      "source": "La Provence",
+      "title": "Brent stable à 96 USD/baril, contexte géopolitique apaisé",
+      "body": "Le cours du Brent se maintient à 96 USD/baril dans un contexte de stabilité relative. Les tensions géopolitiques restent maîtrisées et les flux énergétiques vers l'Europe s'équilibrent progressivement.",
+      "impact": "La stabilité énergétique améliore la prévisibilité des charges d'exploitation pour les immeubles tertiaires PACA ; moindre volatilité favorable aux négociations locatives long terme.",
+      "date": "01/08/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Énergie",
           "cls": "tg"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Tensions sociales Haribo Marseille : 5e semaine de grève",
-      "body": "L'usine Haribo de Marseille connaît sa cinquième semaine de grève, avec environ 40 salariés mobilisés. Ces tensions affectent la production et reflètent les fragilités du secteur manufacturier français face aux pressions salariales et structurelles.",
-      "impact": "Conjoncture fragile : risques sur la stabilité des locaux activité industrielle ; privilégier les secteurs non-exposés aux conflits sociaux.",
-      "date": "29/07/2026",
-      "url": "https://www.laprovence.com/article/economie/2206694970041614/pas-de-ronds-pas-de-bonbons-chez-haribo-a-marseille-les-salaries-entament-une-cinquieme-semaine-de-greve",
-      "source": "La Provence",
+      "title": "Inflation France modérée à 1.7%, BCE maintient taux directeur",
+      "body": "L'inflation française se stabilise à 1.7% tandis que la BCE maintient son taux directeur à 2.15%. Les OAT françaises se négocient à 3.70%, reflétant une normalisation progressive du contexte macroéconomique.",
+      "impact": "Contexte favorable au financement d'acquisitions immobilières ; les coûts d'emprunt se stabilisent, permettant aux investisseurs PACA de sécuriser des taux avant normalisation complète.",
+      "date": "01/08/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Risques géopolitiques : incendies sud-ouest, Brent 96$/bl",
-      "body": "Les mégafeux en Gironde ont touché 42 000 hectares et forcé l'évacuation de 224 000 personnes, créant une crise majeure. Le contexte géopolitique tendu (énergie, approvisionnements) maintient le Brent à 96 USD/baril en juillet 2026.",
-      "impact": "Coûts logistiques élevés : l'inflation énergétique pénalise les charges d'exploitation ; négocier des baux avec clauses d'ajustement ou favoriser les sites efficaces énergétiquement.",
-      "date": "29/07/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/2223316623933914/incendies-dans-le-sud-ouest-airbnb-offre-des-hebergements-aux-sinistrees-comment-en-beneficier",
+      "title": "Conjoncture France : reprise progressive, vigilance sur consommation",
+      "body": "La France affiche une conjoncture de reprise progressive malgré les mesures de hausse tarifaire (électricité, transport). La consommation des ménages reste surveillée tandis que les entreprises consolident leurs positions.",
+      "impact": "Pour le marché immobilier PACA, cette dynamique soutient modérément les demandes tertiaires et commerciales ; privilégier les localisations strategiques et bâtiments performants énergétiquement.",
+      "date": "01/08/2026",
+      "url": "https://www.laprovence.com",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
-        },
-        {
-          "label": "Risques",
-          "cls": "tr"
         }
       ]
     }

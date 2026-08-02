@@ -1,41 +1,49 @@
 {
-  "generated_at": "01/08/2026",
+  "generated_at": "02/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Stationnement gratuit à Avignon : relance commerce centre-ville",
-      "body": "Le centre historique d'Avignon retrouve la gratuité du stationnement entre 12h-14h et le samedi, mesure attendue depuis plusieurs années par les commerçants et restaurateurs. Cette décision vise à dynamiser l'intra-muros et améliorer l'attractivité commerciale de la zone.",
-      "impact": "Pour les transactions commerciales en centre-ville PACA, cette mesure améliore l'accessibilité et la fréquentation, renforçant la valeur locative des locaux de commerce et services.",
-      "date": "31/07/2026",
-      "url": "https://www.laprovence.com/article/economie/3920212725676414/le-stationnement-va-redevenir-gratuit-entre-12-h-et-14-h-ainsi-que-le-samedi-dans-le-centre-d-avignon",
+      "title": "Impacting SUD : financement des projets à impact depuis Fontvieille",
+      "body": "Basée à la Bergerie Alpilles Tech de Fontvieille, la startup Impacting SUD (créée en 2025) facilite l'accès au financement pour les porteurs de projets à impact social et environnemental. Cette initiative répond à une demande croissante de financement alternatif en région PACA.",
+      "impact": "Opportunité de développement pour les locaux d'activité et bureaux dédiés à l'innovation et l'entrepreneuriat dans les zones tech PACA.",
+      "date": "01/08/2026",
+      "url": "https://www.laprovence.com/article/economie/4703173288869514/basee-a-fontvieille-impacting-sud-veut-rendre-le-financement-des-projets-a-impact-plus-accessible",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Intelligence artificielle : adoption lente en entreprises françaises",
-      "body": "L'étude de Kéa révèle que l'IA s'impose dans les comités de direction mais peine à transformer en profondeur les pratiques opérationnelles des entreprises françaises. Le déploiement reste superficiel malgré une conviction générale des dirigeants.",
-      "impact": "Les entreprises PACA de services et tertiaire doivent anticiper les investissements informatiques et immobiliers (espaces collaboratifs, data centers) pour supporter cette transition technologique.",
-      "date": "01/08/2026",
-      "url": "https://www.laprovence.com/article/economie/444416084356614/intelligence-artificielle-les-entreprises-francaises-convaincues-mais-encore-loin-de-la-transformation",
+      "title": "IA en supermarché : innovation à Aubagne dans le secteur retail",
+      "body": "Une startup d'Aubagne développe une intelligence artificielle d'aide à la sélection de vins en supermarché, répondant aux besoins du secteur retail local. Cette innovation technologique illustre l'émergence de solutions numériques dans les commerces de la région.",
+      "impact": "Intérêt croissant pour les locaux commerciaux high-tech et modernisés en PACA adaptés aux startups du secteur retail et innovation.",
+      "date": "02/08/2026",
+      "url": "https://www.laprovence.com/article/food/5264199213265814/une-intelligence-artificielle-pour-choisir-son-vin-en-supermarche-voit-le-jour-a-aubagne",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Transformation",
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Port Marseille-Fos accélère sa stratégie internationale",
-      "body": "Le Grand port maritime Marseille-Fos renforce ses ambitions à l'export et consolide son positionnement de carrefour européen des échanges. Le président Hervé Martel présente un plan d'évolution du site portuaire et logistique.",
-      "impact": "Cette dynamique portuaire soutient la demande en immobilier d'activités, locaux logistiques et zones de transit en région PACA, notamment à Fos et ses zones adjacentes.",
+      "title": "Port Marseille-Fos : axes stratégiques internationaux et développement",
+      "body": "Le Grand Port Maritime Marseille Fos affiche des ambitions internationales et positionne la région comme carrefour logistique majeur. Cette dynamique portuaire génère des besoins significatifs en immobilier d'activité et logistique.",
+      "impact": "Demande soutenue pour locaux logistiques, bureaux et zones d'activité à proximité des infrastructure portuaires marseillaises.",
       "date": "01/08/2026",
       "url": "https://www.laprovence.com/article/economie/4443586167461714/cap-sur-linternational-pour-le-grand-port-maritime-marseille-fos",
       "source": "La Provence",
@@ -43,33 +51,45 @@
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Hausse électricité 1er août : impact sur coûts d'exploitation",
-      "body": "À partir du 1er août 2026, la facture d'électricité augmente, modifiant les budgets de fonctionnement des ménages et entreprises. Cette mesure tarifaire affecte directement les charges d'exploitation des bâtiments tertiaires et commerciaux.",
-      "impact": "Les preneurs d'immobilier tertiaire PACA doivent réviser leurs modèles économiques ; cette hausse énergétique renforce l'intérêt pour les bâtiments certifiés basse consommation et favorise les renégociations contractuelles.",
+      "title": "IA en entreprises françaises : adoption stratégique mais transformation lente",
+      "body": "Selon l'étude présentée par Kéa, les entreprises françaises intègrent l'IA dans les comités de direction mais tardent à transformer leurs opérations. Les défis d'implémentation freinent une généralisation des solutions technologiques en région PACA.",
+      "impact": "Besoin croissant d'espaces de travail flexibles et modernisés pour accueillir les équipes transformées par l'intégration IA.",
       "date": "01/08/2026",
-      "url": "https://www.laprovence.com/article/economie/4416220787428214/electricite-livret-a-demarchage-telephonique-tout-ce-qui-change-au-1er-aout",
+      "url": "https://www.laprovence.com/article/economie/444416084356614/intelligence-artificielle-les-entreprises-francaises-convaincues-mais-encore-loin-de-la-transformation",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Regl.",
-          "cls": "tr"
+          "label": "Tendance",
+          "cls": "tm"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Airbus Helicopters accélère innovation et coopération européenne",
-      "body": "Airbus Helicopters dévoile le NH90 Standard 2 destiné aux forces spéciales françaises, illustrant l'importance de la coopération européenne pour les développements d'envergure. 18 appareils doivent être livrés d'ici 2029.",
-      "impact": "Cette activité de défense-aéronautique dynamise les besoins immobiliers en zones industrielles et campus technologiques PACA (Marignane), ouvrant des opportunités de locaux d'activités spécialisés.",
-      "date": "31/07/2026",
-      "url": "https://www.laprovence.com/article/economie/3924808740791514/airbus-helicopters-devoile-le-nh90-standard-2-taille-pour-les-forces-speciales-francaises",
+      "title": "Hausse électricité au 1er août : impact budget entreprises PACA",
+      "body": "Les charges énergétiques augmentent pour les entreprises et ménages au 1er août 2026, affectant les budgets d'exploitation des locaux commerciaux et de bureaux. Cette inflation des coûts d'énergie impacte directement les valorisations de marché immobilier.",
+      "impact": "Renégociation tarifaire attendue sur les baux commerciaux et bureaux ; les locaux éco-responsabilisés deviennent plus compétitifs.",
+      "date": "01/08/2026",
+      "url": "https://www.laprovence.com/article/economie/4416220787428214/electricite-livret-a-demarchage-telephonique-tout-ce-qui-change-au-1er-aout",
       "source": "La Provence",
       "tags": [
+        {
+          "label": "Réglementation",
+          "cls": "tr"
+        },
         {
           "label": "PACA",
           "cls": "tp"
@@ -80,45 +100,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Brent stable à 96 USD/baril, contexte géopolitique apaisé",
-      "body": "Le cours du Brent se maintient à 96 USD/baril dans un contexte de stabilité relative. Les tensions géopolitiques restent maîtrisées et les flux énergétiques vers l'Europe s'équilibrent progressivement.",
-      "impact": "La stabilité énergétique améliore la prévisibilité des charges d'exploitation pour les immeubles tertiaires PACA ; moindre volatilité favorable aux négociations locatives long terme.",
-      "date": "01/08/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "title": "Coopération européenne et développement technologique stratégique",
+      "body": "Le PDG d'Airbus Helicopters souligne l'importance de la coopération entre pays européens pour avancer sur les projets technologiques complexes. Cette tendance illustre le renforcement des chaînes de valeur industrielles régionales.",
+      "impact": "Dynamique positive pour les zones d'activité industrielles et technologiques accueillant les sous-traitants aéronautiques/défense européens.",
+      "date": "31/07/2026",
+      "url": "https://www.laprovence.com/article/economie/4033297607525714/la-cooperation-entre-pays-europeens-permet-de-faire-avancer-des-developpements-analyse-le-pdg-dairbus-helicopters",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Énergie",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France modérée à 1.7%, BCE maintient taux directeur",
-      "body": "L'inflation française se stabilise à 1.7% tandis que la BCE maintient son taux directeur à 2.15%. Les OAT françaises se négocient à 3.70%, reflétant une normalisation progressive du contexte macroéconomique.",
-      "impact": "Contexte favorable au financement d'acquisitions immobilières ; les coûts d'emprunt se stabilisent, permettant aux investisseurs PACA de sécuriser des taux avant normalisation complète.",
+      "title": "Secteur restauration : tensions tarifaires et différences de traitement",
+      "body": "Le président de l'Umih Vaucluse alerte sur les inégalités tarifaires affectant le secteur restauration régional. Ces tensions structurelles menacent la viabilité économique des petits établissements et génèrent des restructurations d'immobilier commercial.",
+      "impact": "Augmentation attendue des libérations de locaux commerciaux en restauration ; opportunités d'acquisition/transaction sur segments dégradés.",
       "date": "01/08/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/region/4536268532878314/difference-de-traitement-dans-la-restauration-le-president-de-l-umih-vaucluse-patrice-mounier-pousse-un-cri-d-alarme",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Conjoncture France : reprise progressive, vigilance sur consommation",
-      "body": "La France affiche une conjoncture de reprise progressive malgré les mesures de hausse tarifaire (électricité, transport). La consommation des ménages reste surveillée tandis que les entreprises consolident leurs positions.",
-      "impact": "Pour le marché immobilier PACA, cette dynamique soutient modérément les demandes tertiaires et commerciales ; privilégier les localisations strategiques et bâtiments performants énergétiquement.",
+      "title": "Marché de l'énergie : tensions post-catastrophes naturelles et résilience",
+      "body": "Un an après les mégafeux des Corbières, les vignerons maintiennent leurs activités par passion malgré les pertes structurelles. Cette résilience économique illustre les défis de reconstruction immobilière et d'investissement dans les zones sinistrées PACA/Occitanie.",
+      "impact": "Enjeux de financement et restructuration pour immobilier agricole/viticole ; opportunités de relocalisation d'activités.",
       "date": "01/08/2026",
-      "url": "https://www.laprovence.com",
+      "url": "https://www.laprovence.com/article/economie/446711823358214/on-va-tenir-par-passion-a-la-rencontre-de-vignerons-de-l-aude-un-an-apres-le-megafeu-des-corbieres",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]

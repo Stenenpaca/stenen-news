@@ -1,13 +1,13 @@
 {
-  "generated_at": "03/08/2026",
+  "generated_at": "04/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Impacting SUD accélère le financement des projets à impact en PACA",
-      "body": "Basée à Fontvieille depuis 2025, la startup Impacting SUD s'installe dans la Bergerie Alpilles Tech pour démocratiser l'accès au financement des porteurs de projets à impact. Cette initiative répond à une demande croissante de solutions de financement innovantes dans la région PACA.",
-      "impact": "Opportunité de développement pour les locaux d'activité dédiés aux startup deeptech et fintech en Provence-Alpes-Côte d'Azur.",
-      "date": "01/08/2026",
-      "url": "https://www.laprovence.com/article/economie/4703173288869514/basee-a-fontvieille-impacting-sud-veut-rendre-le-financement-des-projets-a-impact-plus-accessible",
+      "title": "Data center Marseille : infrastructure stratégique au Grand Port",
+      "body": "Un data center de haute sécurité s'implante au Grand Port de Marseille (porte 4) avec infrastructure nucléaire-grade. Cette activation d'espaces logistiques modernes renforce l'attractivité tertiaire du port marseillais.",
+      "impact": "Opportunité de transaction pour locaux activité haute technologie autour du Grand Port : demande croissante de surfaces compatibles data/logistique.",
+      "date": "04/08/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/99930906041194/on-est-plus-proche-de-la-centrale-nucleaire-que-de-l-usine-dans-les-entrailles-connectees-d-un-data-center-a-marseille",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Activité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "IA pour secteur retail : innovation commerciale à Aubagne",
-      "body": "Une intelligence artificielle destinée à orienter les choix de consommateurs en supermarché voit le jour à Aubagne. Cette solution technologique modernise l'expérience client en commerce de détail et ouvre des perspectives d'optimisation des espaces commerciaux.",
-      "impact": "Renforcement de la valeur locative des surfaces commerciales PACA équipées de solutions technologiques de transformation digitale.",
-      "date": "02/08/2026",
-      "url": "https://www.laprovence.com/article/food/5264199213265814/une-intelligence-artificielle-pour-choisir-son-vin-en-supermarche-voit-le-jour-a-aubagne",
+      "title": "Normal s'étend à Bonneveine : retail dynamique à Marseille",
+      "body": "L'enseigne danoise hard-discount Normal poursuit son déploiement marseillais au centre commercial Bonneveine après succès du Centre Bourse. Cette expansion illustre l'appétence pour les surfaces commerciales en zones urbanisées PACA.",
+      "impact": "Signal positif pour transaction de locaux commerciaux en centres marchands marseillais : demande retail confirmée et dynamique.",
+      "date": "03/08/2026",
+      "url": "https://www.laprovence.com/article/economie/22878152514497/normal-lenseigne-a-prix-bas-s-installe-au-centre-commercial-de-bonneveine-a-marseille",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Transmissions commerciales : cas d'étude Gréasque",
-      "body": "Le tabac-presse de Gréasque change de main après 15 ans d'exploitation par Franck et Brigitte Stanislawski. Cette transmission patrimoniale illustre les enjeux de reprise des petits commerces de proximité en zones rurales PACA.",
-      "impact": "Intérêt pour les offres de baux commerciaux en village : accompagnement de reprises de fonds de commerce et optimisation des conditions locatives.",
-      "date": "02/08/2026",
-      "url": "https://www.laprovence.com/article/societe/5562243495754414/franck-et-brigitte-stanislawski-partent-a-la-retraite-une-nouvelle-page-s-ouvre-pour-le-tabac-presse-de-greasque",
+      "title": "Avignon : fermetures commerciales rue République, vigilance accrue",
+      "body": "Célio, Minelli et autres enseignes ferment rue de la République à Avignon, créant vacance commerciale. Cette tendance aux fermetures impacte l'attractivité du principal axe commerçant avignonnais.",
+      "impact": "Marché commercial Avignon en contraction : renégociation locative probable, baisse des valuations locatifs centre-ville.",
+      "date": "03/08/2026",
+      "url": "https://www.laprovence.com/article/economie/14185726944644/celio-minelli-a-avignon-la-liste-des-commerces-fermes-s-allonge-l-inquietude-rue-de-la-republique-grandit",
       "source": "La Provence",
       "tags": [
         {
@@ -53,46 +53,46 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Taux Euribor 3M stable à 2,15% | OAT 3,70%",
-      "body": "L'Euribor 3 mois se maintient à 2,15% cette semaine tandis que les obligations assimilables du Trésor français restent positionnées à 3,70%. Ces niveaux reflètent une stabilité relative des conditions de financement en zone euro.",
-      "impact": "Refinancement des portefeuilles immobiliers PACA : les taux restent accessibles pour les investisseurs institutionnels et opérateurs de bureaux.",
+      "title": "Tarascon : tensions emploi chez Fibre Excellence, vigilance secteur",
+      "body": "Salariés de l'usine Fibre Excellence à Tarascon mobilisés pour défendre leurs emplois menacés. Cette fragilité du secteur fibres affecte la demande locale de surfaces logistiques/activité.",
+      "impact": "Marché Tarascon risqué : anticipate contraction demande locaux activité si fermeture/réduction usine confirmée.",
       "date": "03/08/2026",
-      "url": "https://www.laprovence.com/article/marche",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/49343996250125/les-salaries-de-fibre-excellence-bloquent-la-route-pour-alerter-sur-leurs-emplois-menaces-a-tarascon",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Financement CRE PACA : OAT 3.70%, Euribor 3M 2.15%, conditions stables",
+      "body": "Les conditions de financement immobilier restent stables avec OAT à 3.70% et Euribor 3M à 2.15%, maintenant des coûts prévisibles. Environnement favorable aux transactions PACA sans volatilité de taux court terme.",
+      "impact": "Fenêtre de financement optimale pour transactions bureaux/activité/commerce PACA : taux stables, capacité financement conservée.",
+      "date": "04/08/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-marche",
+      "source": "Données Marché",
       "tags": [
         {
           "label": "Taux",
           "cls": "tt"
         },
         {
-          "label": "Investissement",
+          "label": "Financement",
           "cls": "ti2"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Décentralisation tertiaire : enjeux réglementaires",
-      "body": "Les évolutions du décret tertiaire impactent les stratégies de relocalisation des espaces de bureau en régions. La réglementation environnementale renforce la nécessité d'optimiser les parcs immobiliers existants.",
-      "impact": "Conseil en transaction : valoriser la conformité énergétique des locaux tertiaires PACA pour anticiper les évolutions réglementaires post-2026.",
-      "date": "03/08/2026",
-      "url": "https://www.laprovence.com/article/reglementation",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
         }
       ]
     }
@@ -100,47 +100,43 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Transports et reconversion professionnelle à Aubagne",
-      "body": "Les Transports du Pays de l'Étoile (TPE) à Aubagne intègrent progressivement des profils issus de reconversion professionnelle, dont 14 femmes conductrices sur 84 agents. Cette dynamique illustre une certaine résilience du marché du travail régional.",
-      "impact": "Bassin de demande d'emploi PACA dynamique ; stabilisation de l'activité tertiaire et logistique locale.",
-      "date": "01/08/2026",
-      "url": "https://www.laprovence.com/article/societe/4571318164893314/apres-un-licenciement-economique-elle-s-est-reconvertie-en-conductrice-de-bus-et-tramways-a-aubagne",
+      "title": "Nucléaire France : trois réacteurs à l'arrêt chaleurs estivales",
+      "body": "Trois réacteurs (Chooz, Cattenom) en arrêt lundi 3 août du fait de débits rivières réduits par canicule. Fragilité énergétique française confirmée en périodes chaleur, impact potentiel sur coûts production.",
+      "impact": "Surveillance prix électricité PACA : prévision hausse possible, impact indirect sur charges immobilier tertiaire/activité.",
+      "date": "03/08/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/43104760294464/fortes-chaleurs-trois-reacteurs-nucleaires-a-l-arret-en-raison-de-baisses-du-debit-de-rivieres",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Tensions sectorielles : cri d'alarme restaurateurs Vaucluse",
-      "body": "Le président de l'Umih Vaucluse, Patrice Mounier, alerte sur des différences de traitement préjudiciables au secteur de la restauration. Ces tensions révèlent des fragilités conjoncturelles dans le commerce de détail et la restauration en zones urbaines PACA.",
-      "impact": "Vigilance sur la vacance commerciale PACA : contraction potentielle de la demande locative dans le secteur HoReCa.",
-      "date": "01/08/2026",
-      "url": "https://www.laprovence.com/article/region/4536268532878314/difference-de-traitement-dans-la-restauration-le-president-de-l-umih-vaucluse-patrice-mounier-pousse-un-cri-d-alarme",
-      "source": "La Provence",
+      "title": "Inflation France : 1.7% maintenue, contexte modéré",
+      "body": "Inflation française stable à 1.7%, traduisant environnement économique maîtrisé post-BCE. Contexte favorable pour projections locatives CRE sans tension prix..",
+      "impact": "Projections locatives PACA fiables : inflation modérée soutient stabilité valuations et revenus locataires tertiaire.",
+      "date": "04/08/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-cbe",
+      "source": "Données Macroéconomie",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Inflation",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE 2,15% | Inflation France 1,7% | Brent 96 USD",
-      "body": "La Banque Centrale Européenne maintient ses taux directeurs à 2,15% dans un contexte inflationniste modéré (1,7% en France). Le cours du Brent se stabilise autour de 96 USD/baril, reflétant une certaine tension géopolitique maîtrisée.",
-      "impact": "Conditions macroéconomiques stables favorables aux transactions immobilières CRE PACA ; financement accessible pour acquisitions patrimoniales.",
-      "date": "03/08/2026",
-      "url": "https://www.laprovence.com/article/macroeconomie",
-      "source": "Données marché",
+      "title": "BCE : taux directeur maintenu 2.15%, politique accommodante",
+      "body": "Banque Centrale Européenne maintient taux directeur 2.15%, confirmant orientation accommodante post-inflation. Signal positif pour conditions financement marché immobilier européen.",
+      "impact": "Accès crédit CRE PACA facilitée : taux BCE stable soutient liquidité financement tertiaire/activité/commerce.",
+      "date": "04/08/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-bce",
+      "source": "Données BCE",
       "tags": [
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
         {
           "label": "Taux",
           "cls": "tt"

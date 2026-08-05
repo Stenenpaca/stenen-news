@@ -1,74 +1,36 @@
 {
-  "generated_at": "04/08/2026",
+  "generated_at": "05/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Data center Marseille : infrastructure stratégique au Grand Port",
-      "body": "Un data center de haute sécurité s'implante au Grand Port de Marseille (porte 4) avec infrastructure nucléaire-grade. Cette activation d'espaces logistiques modernes renforce l'attractivité tertiaire du port marseillais.",
-      "impact": "Opportunité de transaction pour locaux activité haute technologie autour du Grand Port : demande croissante de surfaces compatibles data/logistique.",
-      "date": "04/08/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/99930906041194/on-est-plus-proche-de-la-centrale-nucleaire-que-de-l-usine-dans-les-entrailles-connectees-d-un-data-center-a-marseille",
+      "title": "Aromatik à Camaret-sur-Aygues : relocalisation et expansion commerciale",
+      "body": "Le commerce de tabac-presse Aromatik a changé de localisation à Camaret-sur-Aygues, se déplaçant du cours du Midi pour s'agrandir. Cette dynamique de restructuration locale reflète l'évolution des besoins en espaces commerciaux dans les petites villes PACA.",
+      "impact": "Les petits commerces PACA restructurent leurs implantations : opportunité de baux de relocalisation et négociation sur espaces élargis pour activités mixtes.",
+      "date": "05/08/2026",
+      "url": "https://www.laprovence.com/article/economie/99222513301479/le-tabac-presse-aromatik-de-camaret-sur-aygues-change-de-lieu-et-sagrandit",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce PACA",
           "cls": "tp"
         },
         {
-          "label": "Activité",
+          "label": "Relocalisation",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Normal s'étend à Bonneveine : retail dynamique à Marseille",
-      "body": "L'enseigne danoise hard-discount Normal poursuit son déploiement marseillais au centre commercial Bonneveine après succès du Centre Bourse. Cette expansion illustre l'appétence pour les surfaces commerciales en zones urbanisées PACA.",
-      "impact": "Signal positif pour transaction de locaux commerciaux en centres marchands marseillais : demande retail confirmée et dynamique.",
-      "date": "03/08/2026",
-      "url": "https://www.laprovence.com/article/economie/22878152514497/normal-lenseigne-a-prix-bas-s-installe-au-centre-commercial-de-bonneveine-a-marseille",
+      "title": "Kaukani à Lauris : PME PACA en expansion exports vers Asie",
+      "body": "L'entreprise Kaukani basée à Lauris développe une production de jus toniques au gingembre avec une stratégie d'export jusqu'en Chine. Cette croissance illustre le dynamisme des PME régionales et leur besoin en locaux d'activité structurés.",
+      "impact": "Cible de croissance PME PACA : identifier les espaces d'activité avec flexibilité de surface pour entreprises en phase d'expansion export/production.",
+      "date": "04/08/2026",
+      "url": "https://www.laprovence.com/article/economie/87792770126815/a-lauris-l-entreprise-kaukani-fait-petiller-le-gingembre-jusqu-en-chine",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Avignon : fermetures commerciales rue République, vigilance accrue",
-      "body": "Célio, Minelli et autres enseignes ferment rue de la République à Avignon, créant vacance commerciale. Cette tendance aux fermetures impacte l'attractivité du principal axe commerçant avignonnais.",
-      "impact": "Marché commercial Avignon en contraction : renégociation locative probable, baisse des valuations locatifs centre-ville.",
-      "date": "03/08/2026",
-      "url": "https://www.laprovence.com/article/economie/14185726944644/celio-minelli-a-avignon-la-liste-des-commerces-fermes-s-allonge-l-inquietude-rue-de-la-republique-grandit",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Tarascon : tensions emploi chez Fibre Excellence, vigilance secteur",
-      "body": "Salariés de l'usine Fibre Excellence à Tarascon mobilisés pour défendre leurs emplois menacés. Cette fragilité du secteur fibres affecte la demande locale de surfaces logistiques/activité.",
-      "impact": "Marché Tarascon risqué : anticipate contraction demande locaux activité si fermeture/réduction usine confirmée.",
-      "date": "03/08/2026",
-      "url": "https://www.laprovence.com/article/economie/49343996250125/les-salaries-de-fibre-excellence-bloquent-la-route-pour-alerter-sur-leurs-emplois-menaces-a-tarascon",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
+          "label": "PME PACA",
           "cls": "tp"
         },
         {
@@ -78,20 +40,58 @@
       ]
     },
     {
-      "id": "f5",
-      "title": "Financement CRE PACA : OAT 3.70%, Euribor 3M 2.15%, conditions stables",
-      "body": "Les conditions de financement immobilier restent stables avec OAT à 3.70% et Euribor 3M à 2.15%, maintenant des coûts prévisibles. Environnement favorable aux transactions PACA sans volatilité de taux court terme.",
-      "impact": "Fenêtre de financement optimale pour transactions bureaux/activité/commerce PACA : taux stables, capacité financement conservée.",
+      "id": "f3",
+      "title": "Data center Marseille : infrastructure tertiaire critique PACA",
+      "body": "Un data center de haute sécurité opère sur le Grand Port de Marseille avec des équipements critiques et connectivité renforcée. Cette installation confirme la demande régionale en locaux tertiaires techniques et sécurisés.",
+      "impact": "Marché tertiaire PACA : forte demande en surfaces spécialisées (data centers, serveurs) avec normes énergétiques et de sécurité élevées, impact décret tertiaire.",
       "date": "04/08/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-marche",
-      "source": "Données Marché",
+      "url": "https://www.laprovence.com/article/ecoplanete/99930906041194/on-est-plus-proche-de-la-centrale-nucleaire-que-de-lusine-dans-les-entrailles-connectees-dun-data-center-a-marseille",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Tertiaire PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Décret Tertiaire",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Mobilité urbaine Segway : évolution trajets quotidiens France",
+      "body": "Segway déploie la campagne Ride Better pour positionner la trottinette électrique en solution de mobilité urbaine quotidienne accessible. Cette tendance reflète l'évolution des modes de déplacement et l'adaptation des zones commerciales.",
+      "impact": "Conseil CRE : évaluer impact mobilité électrique sur accessibilité locaux commerciaux/bureaux PACA, dimensionner parkings et zones de circulation.",
+      "date": "04/08/2026",
+      "url": "https://www.laprovence.com/article/economie/71028940621419/segway-redefinit-les-trajets-quotidiens-en-france-avec-ride-better",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Mobilité urbaine",
+          "cls": "tm"
+        },
+        {
+          "label": "Tendance",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Taux OAT 3.70% et Euribor 2.15% : financement immobilier PACA",
+      "body": "Les conditions de financement demeurent stables avec OAT 3M à 3.70% et Euribor 3M à 2.15%, soutenant une conjoncture de taux modérée pour l'immobilier. Les investisseurs CRE PACA bénéficient d'une visibilité accrue sur les coûts d'emprunt.",
+      "impact": "Transactions bureaux/activité PACA : taux stables favorisent les montages structurés et investissements long terme, conseiller sur fixations courbes de taux.",
+      "date": "05/08/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Financement",
           "cls": "tt"
         },
         {
-          "label": "Financement",
+          "label": "OAT/Euribor",
           "cls": "ti2"
         }
       ]
@@ -100,45 +100,57 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Nucléaire France : trois réacteurs à l'arrêt chaleurs estivales",
-      "body": "Trois réacteurs (Chooz, Cattenom) en arrêt lundi 3 août du fait de débits rivières réduits par canicule. Fragilité énergétique française confirmée en périodes chaleur, impact potentiel sur coûts production.",
-      "impact": "Surveillance prix électricité PACA : prévision hausse possible, impact indirect sur charges immobilier tertiaire/activité.",
-      "date": "03/08/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/43104760294464/fortes-chaleurs-trois-reacteurs-nucleaires-a-l-arret-en-raison-de-baisses-du-debit-de-rivieres",
+      "title": "Feux de forêt PACA/Gironde : impact assurabilité immobilière",
+      "body": "183 maisons brûlées en Gironde et 70 touchées dans le Var lors de mégafeux ravageant 42 000 hectares. L'absence de couverture catastrophes naturelles pour incendies crée un vide assurantiel majeur en région PACA.",
+      "impact": "Risque immo PACA : renforcer clause assurance incendie, anticiper impact déclaration sinistres sur primes et couverture pour bureaux/activités zones forêts.",
+      "date": "05/08/2026",
+      "url": "https://www.laprovence.com/article/societe/1811270598409714/pourquoi-les-feux-de-foret-ne-sont-pas-couverts-par-le-regime-des-catastrophes-naturelles",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Énergie",
+          "label": "Géopolitique/Risques",
           "cls": "tg"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France : 1.7% maintenue, contexte modéré",
-      "body": "Inflation française stable à 1.7%, traduisant environnement économique maîtrisé post-BCE. Contexte favorable pour projections locatives CRE sans tension prix..",
-      "impact": "Projections locatives PACA fiables : inflation modérée soutient stabilité valuations et revenus locataires tertiaire.",
+      "title": "Gaz vert à La Bouilladisse : transition énergétique et tertiaire",
+      "body": "Déploiement du gaz vert pour limiter dérèglement climatique en région PACA, confirmant intégration des énergies renouvelables. Cette transition impacte les normes énergétiques des locaux tertiaires et activités.",
+      "impact": "Décret tertiaire PACA : adapter specs énergie/chauffage bureaux/activités, valider comptabilité gaz vert pour conformité réglementation et attractivité investisseurs.",
       "date": "04/08/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-cbe",
-      "source": "Données Macroéconomie",
+      "url": "https://www.laprovence.com/article/ecoplanete/1309518922116114/du-gaz-vert-pour-limiter-le-dereglement-climatique-a-la-bouilladisse",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
+          "label": "Énergie",
           "cls": "tg"
+        },
+        {
+          "label": "Décret Tertiaire",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE : taux directeur maintenu 2.15%, politique accommodante",
-      "body": "Banque Centrale Européenne maintient taux directeur 2.15%, confirmant orientation accommodante post-inflation. Signal positif pour conditions financement marché immobilier européen.",
-      "impact": "Accès crédit CRE PACA facilitée : taux BCE stable soutient liquidité financement tertiaire/activité/commerce.",
-      "date": "04/08/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-bce",
-      "source": "Données BCE",
+      "title": "Inflation 1.7% France : stabilité macro favorable CRE",
+      "body": "Inflation française modérée à 1.7% et BCE maintenant taux 2.15%, contexte macro stable pour l'immobilier professionnel. Brent à 96 USD confirme stabilité énergétique affectant coûts logistiques régions PACA.",
+      "impact": "Conseil transaction PACA : inflation basse et taux BCE stables permettent négociations prix fermes, valoriser stabilité opérationnelle pour investisseurs.",
+      "date": "05/08/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Conjoncture",
+          "cls": "tg"
+        },
+        {
+          "label": "Inflation/BCE",
           "cls": "tt"
         }
       ]

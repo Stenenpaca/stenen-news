@@ -1,36 +1,36 @@
 {
-  "generated_at": "05/08/2026",
+  "generated_at": "06/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Aromatik à Camaret-sur-Aygues : relocalisation et expansion commerciale",
-      "body": "Le commerce de tabac-presse Aromatik a changé de localisation à Camaret-sur-Aygues, se déplaçant du cours du Midi pour s'agrandir. Cette dynamique de restructuration locale reflète l'évolution des besoins en espaces commerciaux dans les petites villes PACA.",
-      "impact": "Les petits commerces PACA restructurent leurs implantations : opportunité de baux de relocalisation et négociation sur espaces élargis pour activités mixtes.",
+      "title": "Nouvelle dynamique commerciale : associations d'acteurs économiques en PACA",
+      "body": "Une association des commerçants, artisans, entreprises et professions libérales de Cheval-Blanc a officiellement vu le jour fin juillet, regroupant environ 150 acteurs économiques locaux. Cette structuration reflète une volonté de mutualisation et de coordination dans les petites communes de PACA.",
+      "impact": "Pour les transactions commerciales PACA, cette tendance au regroupement d'acteurs signale une consolidation du tissu commercial local propice aux acquisitions et relocalisations groupées.",
       "date": "05/08/2026",
-      "url": "https://www.laprovence.com/article/economie/99222513301479/le-tabac-presse-aromatik-de-camaret-sur-aygues-change-de-lieu-et-sagrandit",
+      "url": "https://www.laprovence.com/article/region/76684038454736/une-association-des-acteurs-economiques-de-la-commune-de-cheval-blanc-prend-racine",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Relocalisation",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Kaukani à Lauris : PME PACA en expansion exports vers Asie",
-      "body": "L'entreprise Kaukani basée à Lauris développe une production de jus toniques au gingembre avec une stratégie d'export jusqu'en Chine. Cette croissance illustre le dynamisme des PME régionales et leur besoin en locaux d'activité structurés.",
-      "impact": "Cible de croissance PME PACA : identifier les espaces d'activité avec flexibilité de surface pour entreprises en phase d'expansion export/production.",
-      "date": "04/08/2026",
-      "url": "https://www.laprovence.com/article/economie/87792770126815/a-lauris-l-entreprise-kaukani-fait-petiller-le-gingembre-jusqu-en-chine",
+      "title": "Essor des services à la demande : relocalisations commerciales et activité",
+      "body": "Gaëlle Gaponiuk a créé 'Mijoté chez vous' à Pélissanne, un service de cuisine à domicile en ligne répondant à une demande croissante de services personnalisés. Parallèlement, le tabac-presse Aromatik de Camaret-sur-Aygues a changé de location et s'agrandit, illustrant la dynamique de repositionnement commercial.",
+      "impact": "Ces mutations offrent des opportunités de baux commerciaux flex et d'espaces modulables pour services à la demande en zone PACA, avec probable hausse de la demande de petites surfaces multifonctionnelles.",
+      "date": "05/08/2026",
+      "url": "https://www.laprovence.com/article/economie/1976367720745214/a-pelissanne-gaelle-a-cree-mijote-chez-vous-un-service-de-cuisine-a-domicile-sur-mesure",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PME PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
@@ -41,58 +41,58 @@
     },
     {
       "id": "f3",
-      "title": "Data center Marseille : infrastructure tertiaire critique PACA",
-      "body": "Un data center de haute sécurité opère sur le Grand Port de Marseille avec des équipements critiques et connectivité renforcée. Cette installation confirme la demande régionale en locaux tertiaires techniques et sécurisés.",
-      "impact": "Marché tertiaire PACA : forte demande en surfaces spécialisées (data centers, serveurs) avec normes énergétiques et de sécurité élevées, impact décret tertiaire.",
-      "date": "04/08/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/99930906041194/on-est-plus-proche-de-la-centrale-nucleaire-que-de-lusine-dans-les-entrailles-connectees-dun-data-center-a-marseille",
+      "title": "Ouvertures commerciales en centre-ville : reprise du commerce de proximité",
+      "body": "Un nouveau salon de thé 'Troll de thé' a ouvert au 12 rue Agricol-Perdiguier à Cavaillon, positionné comme espace de vie et de convivialité au-delà du simple point de vente. Cette stratégie reflète une reconquête des centres-villes par des concepts commerciaux forts.",
+      "impact": "Pour les transactions bureaux et commerce PACA, cette tendance valide les relocalisations vers centres historiques avec forte demande de baux de qualité pour concepts lifestyle et services.",
+      "date": "05/08/2026",
+      "url": "https://www.laprovence.com/article/region/67109897656873/troll-de-the-un-nouveau-salon-de-the-feerique-voit-le-jour-a-cavaillon",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Tertiaire PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Décret Tertiaire",
-          "cls": "tr"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Mobilité urbaine Segway : évolution trajets quotidiens France",
-      "body": "Segway déploie la campagne Ride Better pour positionner la trottinette électrique en solution de mobilité urbaine quotidienne accessible. Cette tendance reflète l'évolution des modes de déplacement et l'adaptation des zones commerciales.",
-      "impact": "Conseil CRE : évaluer impact mobilité électrique sur accessibilité locaux commerciaux/bureaux PACA, dimensionner parkings et zones de circulation.",
-      "date": "04/08/2026",
-      "url": "https://www.laprovence.com/article/economie/71028940621419/segway-redefinit-les-trajets-quotidiens-en-france-avec-ride-better",
-      "source": "La Provence",
+      "title": "Taux: OAT 3.70% et Euribor3M stable à 2.15% en contexte estival",
+      "body": "Les obligations françaises (OAT 10Y) se maintiennent à 3.70% dans un contexte marqué par les vacances estivales et une liquidité réduite. L'Euribor 3 mois se stabilise à 2.15%, soutenant le financement immobilier tertiaire PACA.",
+      "impact": "Les taux restent favorables pour les acquisitions et refinancements immobiliers en PACA ; les gestionnaires doivent verrouiller les conditions de financement avant la rentrée de septembre.",
+      "date": "06/08/2026",
+      "url": "https://www.laprovence.com/article/economie/",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Mobilité urbaine",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Tendance",
-          "cls": "tp"
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Taux OAT 3.70% et Euribor 2.15% : financement immobilier PACA",
-      "body": "Les conditions de financement demeurent stables avec OAT 3M à 3.70% et Euribor 3M à 2.15%, soutenant une conjoncture de taux modérée pour l'immobilier. Les investisseurs CRE PACA bénéficient d'une visibilité accrue sur les coûts d'emprunt.",
-      "impact": "Transactions bureaux/activité PACA : taux stables favorisent les montages structurés et investissements long terme, conseiller sur fixations courbes de taux.",
-      "date": "05/08/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "title": "Transition énergétique : gaz vert et réglementation décret tertiaire",
+      "body": "La Bouilladisse s'engage dans le déploiement du gaz vert pour limiter le dérèglement climatique, reflétant les enjeux de conformité au décret tertiaire. Cette transition énergétique devient incontournable pour les bâtiments tertiaires PACA.",
+      "impact": "Les opérateurs immobiliers tertiaire PACA doivent anticiper les investissements en conversion énergétique pour respecter le décret tertiaire ; ceci crée de la demande pour espaces neufs RT2012/RE2020.",
+      "date": "04/08/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/1309518922116114/du-gaz-vert-pour-limiter-le-dereglement-climatique-a-la-bouilladisse",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Financement",
-          "cls": "tt"
+          "label": "Réglementation",
+          "cls": "tr"
         },
         {
-          "label": "OAT/Euribor",
-          "cls": "ti2"
+          "label": "Tertiaire",
+          "cls": "tp"
         }
       ]
     }
@@ -100,58 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Feux de forêt PACA/Gironde : impact assurabilité immobilière",
-      "body": "183 maisons brûlées en Gironde et 70 touchées dans le Var lors de mégafeux ravageant 42 000 hectares. L'absence de couverture catastrophes naturelles pour incendies crée un vide assurantiel majeur en région PACA.",
-      "impact": "Risque immo PACA : renforcer clause assurance incendie, anticiper impact déclaration sinistres sur primes et couverture pour bureaux/activités zones forêts.",
-      "date": "05/08/2026",
-      "url": "https://www.laprovence.com/article/societe/1811270598409714/pourquoi-les-feux-de-foret-ne-sont-pas-couverts-par-le-regime-des-catastrophes-naturelles",
-      "source": "La Provence",
+      "title": "Énergie: Brent stable à 96 USD/baril en contexte estival",
+      "body": "Le cours du pétrole brut Brent demeure stable à 96 USD/baril malgré les tensions géopolitiques persistantes. L'économie française reste sensible aux variations énergétiques impactant les coûts d'exploitation tertiaire.",
+      "impact": "Pour les investisseurs immobiliers PACA, la stabilité du Brent à 96 USD limite l'inflation des charges d'exploitation des immeubles bureaux et locaux activité à court terme.",
+      "date": "06/08/2026",
+      "url": "https://www.laprovence.com/article/economie/",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique/Risques",
+          "label": "Géopolitique",
           "cls": "tg"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Énergie",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Gaz vert à La Bouilladisse : transition énergétique et tertiaire",
-      "body": "Déploiement du gaz vert pour limiter dérèglement climatique en région PACA, confirmant intégration des énergies renouvelables. Cette transition impacte les normes énergétiques des locaux tertiaires et activités.",
-      "impact": "Décret tertiaire PACA : adapter specs énergie/chauffage bureaux/activités, valider comptabilité gaz vert pour conformité réglementation et attractivité investisseurs.",
-      "date": "04/08/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/1309518922116114/du-gaz-vert-pour-limiter-le-dereglement-climatique-a-la-bouilladisse",
-      "source": "La Provence",
+      "title": "Conjoncture France: inflation modérée à 1.7% et dynamique commerciale régionale",
+      "body": "L'inflation française demeure maîtrisée à 1.7%, soutenant le pouvoir d'achat des entreprises locales et favorisant l'activité commerciale. Les créations d'activités observées en PACA reflètent une confiance entrepreneuriale persistante.",
+      "impact": "La modération de l'inflation soutient la solvabilité des locataires PACA et valide les projets d'expansion commerciale et tertiaire sans crainte de dégradation des marges.",
+      "date": "06/08/2026",
+      "url": "https://www.laprovence.com/article/economie/",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Conjoncture",
+          "cls": "tm"
         },
         {
-          "label": "Décret Tertiaire",
-          "cls": "tr"
+          "label": "France",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation 1.7% France : stabilité macro favorable CRE",
-      "body": "Inflation française modérée à 1.7% et BCE maintenant taux 2.15%, contexte macro stable pour l'immobilier professionnel. Brent à 96 USD confirme stabilité énergétique affectant coûts logistiques régions PACA.",
-      "impact": "Conseil transaction PACA : inflation basse et taux BCE stables permettent négociations prix fermes, valoriser stabilité opérationnelle pour investisseurs.",
-      "date": "05/08/2026",
-      "url": "https://www.laprovence.com",
+      "title": "BCE: taux directeur 2.15% et OAT 3.70%, environnement favorable au crédit",
+      "body": "La Banque Centrale Européenne maintient son taux directeur à 2.15% dans un contexte d'inflation contrôlée. Les OAT françaises à 3.70% offrent des conditions de financement compétitives pour l'immobilier tertiaire.",
+      "impact": "Pour les fonds et sociétés immobilières PACA, l'environnement de taux reste attractif : accélérer les acquisitions et refinancements avant une éventuelle remontée tarifaire post-estivale.",
+      "date": "06/08/2026",
+      "url": "https://www.laprovence.com/article/economie/",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Inflation/BCE",
-          "cls": "tt"
+          "label": "BCE",
+          "cls": "tg"
         }
       ]
     }

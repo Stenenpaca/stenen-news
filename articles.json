@@ -1,19 +1,30 @@
 {
-  "generated_at": "06/08/2026",
+  "generated_at": "07/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Nouvelle dynamique commerciale : associations d'acteurs économiques en PACA",
-      "body": "Une association des commerçants, artisans, entreprises et professions libérales de Cheval-Blanc a officiellement vu le jour fin juillet, regroupant environ 150 acteurs économiques locaux. Cette structuration reflète une volonté de mutualisation et de coordination dans les petites communes de PACA.",
-      "impact": "Pour les transactions commerciales PACA, cette tendance au regroupement d'acteurs signale une consolidation du tissu commercial local propice aux acquisitions et relocalisations groupées.",
-      "date": "05/08/2026",
-      "url": "https://www.laprovence.com/article/region/76684038454736/une-association-des-acteurs-economiques-de-la-commune-de-cheval-blanc-prend-racine",
+      "title": "Immobilier Côte d'Azur : marché recherché face à nouvelles contraintes",
+      "body": "Le marché immobilier azuréen reste dynamique mais confronté à des contraintes géographiques insurmontables qui façonnent les prix et la disponibilité. Les agences régionales rapportent une demande persistante pour des biens de qualité malgré un environnement réglementaire de plus en plus restrictif.",
+      "impact": "Prioriser l'acquisition de locaux d'activité/commerce bien situés en Côte d'Azur avant une potentielle nouvelle hausse des tarifs.",
+      "date": "06/08/2026",
+      "url": "https://www.laprovence.com/article/economie/2931034919968614/immobilier-sur-la-cote-dazur-tendances-et-pieges-a-eviter",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Communication grand format : incontournable pour visibilité entreprise",
+      "body": "La signalétique grand format offre un retour sur investissement supérieur face à la saturation du numérique et des messages éphémères. Les entreprises redécouvrent l'impact de la présence matérielle comme levier de visibilité durable.",
+      "impact": "Optimiser la visibilité des locaux commerciaux PACA via signalétique premium pour attirer clients et prospects.",
+      "date": "06/08/2026",
+      "url": "https://www.laprovence.com/article/economie/293772239071514/communication-hors-media-pourquoi-le-grand-format-reste-un-incontournable-de-la-visibilite-dentreprise",
+      "source": "La Provence",
+      "tags": [
         {
           "label": "Marché",
           "cls": "tm"
@@ -21,77 +32,46 @@
       ]
     },
     {
-      "id": "f2",
-      "title": "Essor des services à la demande : relocalisations commerciales et activité",
-      "body": "Gaëlle Gaponiuk a créé 'Mijoté chez vous' à Pélissanne, un service de cuisine à domicile en ligne répondant à une demande croissante de services personnalisés. Parallèlement, le tabac-presse Aromatik de Camaret-sur-Aygues a changé de location et s'agrandit, illustrant la dynamique de repositionnement commercial.",
-      "impact": "Ces mutations offrent des opportunités de baux commerciaux flex et d'espaces modulables pour services à la demande en zone PACA, avec probable hausse de la demande de petites surfaces multifonctionnelles.",
-      "date": "05/08/2026",
-      "url": "https://www.laprovence.com/article/economie/1976367720745214/a-pelissanne-gaelle-a-cree-mijote-chez-vous-un-service-de-cuisine-a-domicile-sur-mesure",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
       "id": "f3",
-      "title": "Ouvertures commerciales en centre-ville : reprise du commerce de proximité",
-      "body": "Un nouveau salon de thé 'Troll de thé' a ouvert au 12 rue Agricol-Perdiguier à Cavaillon, positionné comme espace de vie et de convivialité au-delà du simple point de vente. Cette stratégie reflète une reconquête des centres-villes par des concepts commerciaux forts.",
-      "impact": "Pour les transactions bureaux et commerce PACA, cette tendance valide les relocalisations vers centres historiques avec forte demande de baux de qualité pour concepts lifestyle et services.",
-      "date": "05/08/2026",
-      "url": "https://www.laprovence.com/article/region/67109897656873/troll-de-the-un-nouveau-salon-de-the-feerique-voit-le-jour-a-cavaillon",
-      "source": "La Provence",
+      "title": "Taux OAT 3,70% : financement immobilier en plateau stable",
+      "body": "Les taux obligataires français maintiennent un plateau autour de 3,70% avec un Euribor 3M stable à 2,15%, offrant un environnement de financement relativement prévisible pour les investisseurs CRE. La BCE maintient ses taux directeurs à 2,15%, soutenant la stabilité macroéconomique.",
+      "impact": "Accélérer les acquisitions de bureaux/activité PACA avant une potentielle remontée des taux en Q4 2026.",
+      "date": "07/08/2026",
+      "url": "https://www.banque-france.fr/",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Taux: OAT 3.70% et Euribor3M stable à 2.15% en contexte estival",
-      "body": "Les obligations françaises (OAT 10Y) se maintiennent à 3.70% dans un contexte marqué par les vacances estivales et une liquidité réduite. L'Euribor 3 mois se stabilise à 2.15%, soutenant le financement immobilier tertiaire PACA.",
-      "impact": "Les taux restent favorables pour les acquisitions et refinancements immobiliers en PACA ; les gestionnaires doivent verrouiller les conditions de financement avant la rentrée de septembre.",
+      "title": "Nouveaux cabinets professionnels : opportunités locales de baux tertiaires",
+      "body": "L'installation d'un cabinet d'ostéopathe à Cheval-Blanc illustre une dynamique de création de PME et professions libérales en régions PACA, générant de la demande de locaux neufs et aménagés. Cette tendance crée des opportunités de courtage sur des petites surfaces tertiaires/santé.",
+      "impact": "Identifier et proposer des micro-locaux (50-150m²) aménagés aux professionnels de santé PACA.",
       "date": "06/08/2026",
-      "url": "https://www.laprovence.com/article/economie/",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/region/2779382475500714/un-nouveau-cabinet-d-osteopathe-prend-racine-dans-le-centre-ville-de-cheval-blanc",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Transition énergétique : gaz vert et réglementation décret tertiaire",
-      "body": "La Bouilladisse s'engage dans le déploiement du gaz vert pour limiter le dérèglement climatique, reflétant les enjeux de conformité au décret tertiaire. Cette transition énergétique devient incontournable pour les bâtiments tertiaires PACA.",
-      "impact": "Les opérateurs immobiliers tertiaire PACA doivent anticiper les investissements en conversion énergétique pour respecter le décret tertiaire ; ceci crée de la demande pour espaces neufs RT2012/RE2020.",
-      "date": "04/08/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/1309518922116114/du-gaz-vert-pour-limiter-le-dereglement-climatique-a-la-bouilladisse",
+      "title": "Secteur restauration PACA : mutations et reconfigurations d'espaces",
+      "body": "Le nouveau restaurant Ò Mamma Mia à Lourmarin démontre une dynamique de reprise et rénovation d'espaces commerciaux en centres-villes PACA avec change de concept. Cette mobilité rapide des concepts commerciaux crée des opportunités de turnover locatif et restructuration.",
+      "impact": "Prospecter les restaurateurs en phase de changement de concept pour négocier des reprises/relocalisations stratégiques.",
+      "date": "06/08/2026",
+      "url": "https://www.laprovence.com/article/economie/66032213893251/le-nouveau-restaurant-o-mamma-mia-allie-cuisine-italienne-et-asiatique-a-lourmarin",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
-          "label": "Tertiaire",
+          "label": "PACA",
           "cls": "tp"
         }
       ]
@@ -100,58 +80,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Énergie: Brent stable à 96 USD/baril en contexte estival",
-      "body": "Le cours du pétrole brut Brent demeure stable à 96 USD/baril malgré les tensions géopolitiques persistantes. L'économie française reste sensible aux variations énergétiques impactant les coûts d'exploitation tertiaire.",
-      "impact": "Pour les investisseurs immobiliers PACA, la stabilité du Brent à 96 USD limite l'inflation des charges d'exploitation des immeubles bureaux et locaux activité à court terme.",
-      "date": "06/08/2026",
-      "url": "https://www.laprovence.com/article/economie/",
-      "source": "Données marché",
+      "title": "Chômage France : 8,3% au T2 2026, plus haut depuis automne 2020",
+      "body": "Le taux de chômage en France a grimpé de 0,2 point au deuxième trimestre pour atteindre 8,3%, son plus haut niveau depuis l'automne 2020 affecté par Covid. Cette dégradation du marché de l'emploi impacte directement la consommation et la demande de locaux commerciaux.",
+      "impact": "Renforcer l'accompagnement des locataires commerciaux en difficulté ; anticiper consolidations/baisses de surfaces.",
+      "date": "07/08/2026",
+      "url": "https://www.laprovence.com/article/economie/35466879347214/chomage-en-france-le-taux-grimpe-a-8-3-au-deuxieme-trimestre-selon-linsee",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France: inflation modérée à 1.7% et dynamique commerciale régionale",
-      "body": "L'inflation française demeure maîtrisée à 1.7%, soutenant le pouvoir d'achat des entreprises locales et favorisant l'activité commerciale. Les créations d'activités observées en PACA reflètent une confiance entrepreneuriale persistante.",
-      "impact": "La modération de l'inflation soutient la solvabilité des locataires PACA et valide les projets d'expansion commerciale et tertiaire sans crainte de dégradation des marges.",
-      "date": "06/08/2026",
-      "url": "https://www.laprovence.com/article/economie/",
-      "source": "Données marché",
+      "title": "BCE : taux 2,15% stable, inflation France 1,7%, stabilité macroéconomique",
+      "body": "La Banque Centrale Européenne maintient ses taux directeurs à 2,15% dans un contexte d'inflation maîtrisée à 1,7% en France. Ce plateau de taux soutient la stabilité des conditions de financement immobilier en zone euro.",
+      "impact": "Fenêtre de stabilité tarifaire : négocier les acquisitions PACA avant Q4 2026 si signaux inflationnistes.",
+      "date": "07/08/2026",
+      "url": "https://www.ecb.europa.eu/",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tm"
-        },
-        {
-          "label": "France",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE: taux directeur 2.15% et OAT 3.70%, environnement favorable au crédit",
-      "body": "La Banque Centrale Européenne maintient son taux directeur à 2.15% dans un contexte d'inflation contrôlée. Les OAT françaises à 3.70% offrent des conditions de financement compétitives pour l'immobilier tertiaire.",
-      "impact": "Pour les fonds et sociétés immobilières PACA, l'environnement de taux reste attractif : accélérer les acquisitions et refinancements avant une éventuelle remontée tarifaire post-estivale.",
-      "date": "06/08/2026",
-      "url": "https://www.laprovence.com/article/economie/",
-      "source": "Données marché",
+      "title": "Énergie/Brent : 96 USD/bbl, impacts régulation décret tertiaire",
+      "body": "Le Brent stable à 96 USD/baril maintient les coûts énergétiques élevés, renforçant les enjeux de conformité décret tertiaire pour les bâtiments tertiaires PACA. Cette pression énergétique oblige les propriétaires à engager des rénovations critiques.",
+      "impact": "Valoriser auprès des bailleurs les certifications énergétiques et conformités décret tertiaire pour justifier hausse loyers.",
+      "date": "07/08/2026",
+      "url": "https://www.reuters.com/",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "BCE",
-          "cls": "tg"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     }

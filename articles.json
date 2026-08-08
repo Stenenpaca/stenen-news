@@ -1,30 +1,57 @@
 {
-  "generated_at": "07/08/2026",
+  "generated_at": "08/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Immobilier Côte d'Azur : marché recherché face à nouvelles contraintes",
-      "body": "Le marché immobilier azuréen reste dynamique mais confronté à des contraintes géographiques insurmontables qui façonnent les prix et la disponibilité. Les agences régionales rapportent une demande persistante pour des biens de qualité malgré un environnement réglementaire de plus en plus restrictif.",
-      "impact": "Prioriser l'acquisition de locaux d'activité/commerce bien situés en Côte d'Azur avant une potentielle nouvelle hausse des tarifs.",
-      "date": "06/08/2026",
-      "url": "https://www.laprovence.com/article/economie/2931034919968614/immobilier-sur-la-cote-dazur-tendances-et-pieges-a-eviter",
+      "title": "Aubagne : ouverture d'un nouveau commerce de proximité rue de la République",
+      "body": "Un nouveau tabac-presse Central Parc a ouvert ses portes le 20 juillet à Aubagne dans les anciens locaux commerciaux rue de la République. Cette inauguration illustre la dynamique de réoccupation des espaces commerciaux en zones urbaines PACA.",
+      "impact": "Valorisation des petits locaux commerciaux en centres-villes : potentiel de reprises à moindre coût dans les communes moyennes PACA.",
+      "date": "07/08/2026",
+      "url": "https://www.laprovence.com/article/economie/3753695849300814/un-commerce-d-utilite-locale-un-nouveau-tabac-presse-a-ouvert-ses-portes-rue-de-la-republique-a-aubagne",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Communication grand format : incontournable pour visibilité entreprise",
-      "body": "La signalétique grand format offre un retour sur investissement supérieur face à la saturation du numérique et des messages éphémères. Les entreprises redécouvrent l'impact de la présence matérielle comme levier de visibilité durable.",
-      "impact": "Optimiser la visibilité des locaux commerciaux PACA via signalétique premium pour attirer clients et prospects.",
-      "date": "06/08/2026",
-      "url": "https://www.laprovence.com/article/economie/293772239071514/communication-hors-media-pourquoi-le-grand-format-reste-un-incontournable-de-la-visibilite-dentreprise",
+      "title": "Eyguières : nouvelle auto-école comble une carence commerciale locale",
+      "body": "Une auto-école 'Eyguières conduite' ouvrira prochainement avenue Gabriel-Péri, comblant l'absence d'établissement depuis plusieurs années. Cette création répond à une demande de service structurant en zones périphériques.",
+      "impact": "Identification d'opportunités d'activités manquantes en PACA : les services de formation génèrent des besoins durables en locaux.",
+      "date": "07/08/2026",
+      "url": "https://www.laprovence.com/article/economie/1490830688058114/une-nouvelle-auto-ecole-va-ouvrir-dans-la-commune-d-eyguieres",
       "source": "La Provence",
       "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Salon-de-Provence : impact des chaleurs extrêmes sur la fréquentation commerciale",
+      "body": "Les restaurateurs salonais constatent une fréquentation mitigée en juillet, pénalisée par des excès de chaleur persistants depuis juin. Les activités diurnes subissent une contraction liée aux conditions climatiques.",
+      "impact": "Anticiper la volatilité des revenus commerciaux en zone touristique PACA : négocier les contrats avec flexibilité saisonnière.",
+      "date": "07/08/2026",
+      "url": "https://www.laprovence.com/article/region/3676538262936514/quel-bilan-dressent-les-acteurs-du-tourisme-au-mois-de-juillet-a-salon-de-provence",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
         {
           "label": "Marché",
           "cls": "tm"
@@ -32,47 +59,40 @@
       ]
     },
     {
-      "id": "f3",
-      "title": "Taux OAT 3,70% : financement immobilier en plateau stable",
-      "body": "Les taux obligataires français maintiennent un plateau autour de 3,70% avec un Euribor 3M stable à 2,15%, offrant un environnement de financement relativement prévisible pour les investisseurs CRE. La BCE maintient ses taux directeurs à 2,15%, soutenant la stabilité macroéconomique.",
-      "impact": "Accélérer les acquisitions de bureaux/activité PACA avant une potentielle remontée des taux en Q4 2026.",
-      "date": "07/08/2026",
-      "url": "https://www.banque-france.fr/",
-      "source": "Données Marché",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
       "id": "f4",
-      "title": "Nouveaux cabinets professionnels : opportunités locales de baux tertiaires",
-      "body": "L'installation d'un cabinet d'ostéopathe à Cheval-Blanc illustre une dynamique de création de PME et professions libérales en régions PACA, générant de la demande de locaux neufs et aménagés. Cette tendance crée des opportunités de courtage sur des petites surfaces tertiaires/santé.",
-      "impact": "Identifier et proposer des micro-locaux (50-150m²) aménagés aux professionnels de santé PACA.",
-      "date": "06/08/2026",
-      "url": "https://www.laprovence.com/article/region/2779382475500714/un-nouveau-cabinet-d-osteopathe-prend-racine-dans-le-centre-ville-de-cheval-blanc",
+      "title": "Emki Pop : innovation durable en secteur alimentaire/commerce",
+      "body": "Emki Pop lance une glace 100% comestible zéro déchet pour ses 10 ans, combinant innovation produit et démarche écologique. Cette tendance reflète l'évolution des demandes des consommateurs vers des entreprises durables.",
+      "impact": "Demande croissante d'espaces commerciaux/laboratoires pour entreprises agri-tech éco-responsables en région PACA.",
+      "date": "08/08/2026",
+      "url": "https://www.laprovence.com/article/economie/4400372331040914/zero-dechet-100-comestible-pour-ses-10-ans-emki-pop-commercialise-une-glace-a-deguster-jusqu-au-batonnet",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Innovation",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Secteur restauration PACA : mutations et reconfigurations d'espaces",
-      "body": "Le nouveau restaurant Ò Mamma Mia à Lourmarin démontre une dynamique de reprise et rénovation d'espaces commerciaux en centres-villes PACA avec change de concept. Cette mobilité rapide des concepts commerciaux crée des opportunités de turnover locatif et restructuration.",
-      "impact": "Prospecter les restaurateurs en phase de changement de concept pour négocier des reprises/relocalisations stratégiques.",
-      "date": "06/08/2026",
-      "url": "https://www.laprovence.com/article/economie/66032213893251/le-nouveau-restaurant-o-mamma-mia-allie-cuisine-italienne-et-asiatique-a-lourmarin",
+      "title": "Financement CRE : contexte de taux stables à 2.15% Euribor 3M",
+      "body": "Dans le contexte d'Euribor 3M à 2.15% et OAT français à 3.70%, les conditions de financement immobilier tertiaire restent stables. Les acquéreurs et locataires bénéficient d'une visibilité relative sur les coûts d'emprunt.",
+      "impact": "Maintenir une approche active sur les transactions : les taux stables favorisent les investisseurs cherchant de la rentabilité en PACA.",
+      "date": "08/08/2026",
+      "url": "https://www.laprovence.com/article/economie/35466879347214/chomage-en-france-le-taux-grimpe-a-8-3-au-deuxieme-trimestre-selon-linsee",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux/Financement",
+          "cls": "tt"
+        },
+        {
+          "label": "OAT",
+          "cls": "tt"
         }
       ]
     }
@@ -80,9 +100,9 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Chômage France : 8,3% au T2 2026, plus haut depuis automne 2020",
-      "body": "Le taux de chômage en France a grimpé de 0,2 point au deuxième trimestre pour atteindre 8,3%, son plus haut niveau depuis l'automne 2020 affecté par Covid. Cette dégradation du marché de l'emploi impacte directement la consommation et la demande de locaux commerciaux.",
-      "impact": "Renforcer l'accompagnement des locataires commerciaux en difficulté ; anticiper consolidations/baisses de surfaces.",
+      "title": "France : chômage en hausse à 8.3% au T2 2026, risques sur consommation",
+      "body": "Le taux de chômage français a augmenté de 0,2 point au deuxième trimestre pour atteindre 8.3%, plus haut niveau depuis automne 2020. Cette dégradation du marché du travail peut impacter la demande locative tertiaire et commerciale.",
+      "impact": "Renforcer l'analyse de solvabilité des candidats locataires ; anticiper une modération des demandes en espaces bureaux/activité.",
       "date": "07/08/2026",
       "url": "https://www.laprovence.com/article/economie/35466879347214/chomage-en-france-le-taux-grimpe-a-8-3-au-deuxieme-trimestre-selon-linsee",
       "source": "La Provence",
@@ -95,31 +115,31 @@
     },
     {
       "id": "m2",
-      "title": "BCE : taux 2,15% stable, inflation France 1,7%, stabilité macroéconomique",
-      "body": "La Banque Centrale Européenne maintient ses taux directeurs à 2,15% dans un contexte d'inflation maîtrisée à 1,7% en France. Ce plateau de taux soutient la stabilité des conditions de financement immobilier en zone euro.",
-      "impact": "Fenêtre de stabilité tarifaire : négocier les acquisitions PACA avant Q4 2026 si signaux inflationnistes.",
-      "date": "07/08/2026",
-      "url": "https://www.ecb.europa.eu/",
-      "source": "Données Marché",
+      "title": "BCE maintient taux directeur à 2.15%, inflation maîtrisée à 1.7%",
+      "body": "La Banque Centrale Européenne maintient son taux directeur à 2.15% dans un contexte d'inflation française modérée à 1.7%. Cette stabilité monétaire soutient la prévisibilité des marchés immobiliers.",
+      "impact": "Environnement favorable pour les investisseurs institutionnels en CRE PACA : stabilité monétaire renforce les valorisations.",
+      "date": "08/08/2026",
+      "url": "https://www.laprovence.com/article/economie/35466879347214/chomage-en-france-le-taux-grimpe-a-8-3-au-deuxieme-trimestre-selon-linsee",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "BCE/Inflation",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Énergie/Brent : 96 USD/bbl, impacts régulation décret tertiaire",
-      "body": "Le Brent stable à 96 USD/baril maintient les coûts énergétiques élevés, renforçant les enjeux de conformité décret tertiaire pour les bâtiments tertiaires PACA. Cette pression énergétique oblige les propriétaires à engager des rénovations critiques.",
-      "impact": "Valoriser auprès des bailleurs les certifications énergétiques et conformités décret tertiaire pour justifier hausse loyers.",
-      "date": "07/08/2026",
-      "url": "https://www.reuters.com/",
-      "source": "Données Marché",
+      "title": "Brent stable à 96 USD/bl : contexte géopolitique maîtrisé",
+      "body": "Le cours du Brent se stabilise autour de 96 USD/baril dans un contexte géopolitique contenu. Cette stabilité énergétique limite les chocs inflationnistes et les risques sur les coûts d'exploitation tertiaires.",
+      "impact": "Visibilité accrue sur les charges de fonctionnement immobilier PACA : négocier avec confiance les baux à charges maîtrisées.",
+      "date": "08/08/2026",
+      "url": "https://www.laprovence.com/article/economie/35466879347214/chomage-en-france-le-taux-grimpe-a-8-3-au-deuxieme-trimestre-selon-linsee",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Géopolitique/Énergie",
+          "cls": "tg"
         }
       ]
     }

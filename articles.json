@@ -1,74 +1,55 @@
 {
-  "generated_at": "08/08/2026",
+  "generated_at": "09/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Aubagne : ouverture d'un nouveau commerce de proximité rue de la République",
-      "body": "Un nouveau tabac-presse Central Parc a ouvert ses portes le 20 juillet à Aubagne dans les anciens locaux commerciaux rue de la République. Cette inauguration illustre la dynamique de réoccupation des espaces commerciaux en zones urbaines PACA.",
-      "impact": "Valorisation des petits locaux commerciaux en centres-villes : potentiel de reprises à moindre coût dans les communes moyennes PACA.",
-      "date": "07/08/2026",
-      "url": "https://www.laprovence.com/article/economie/3753695849300814/un-commerce-d-utilite-locale-un-nouveau-tabac-presse-a-ouvert-ses-portes-rue-de-la-republique-a-aubagne",
+      "title": "Nouvelle dynamique commerciale à Arles : Les Fromagères innovent",
+      "body": "Les Fromagères à Arles poursuit son développement en centre-ville avec une « carte des chefs » proposant les créations de 8 restaurateurs de renom. Cette initiative renforce l'attractivité commerciale de la rue de la République et démontre la vitalité du secteur retail alimentaire en PACA.",
+      "impact": "Opportunité de valorisation de locaux commerciaux en centre-ville d'Arles avec fort potentiel de mutualisation et mixité d'usage.",
+      "date": "08/08/2026",
+      "url": "https://www.laprovence.com/article/societe/26961946009042/la-carte-des-chefs-est-de-retour-aux-fromageres-a-arles-pour-deguster-les-saveurs-de-8-restaurateurs-de-renom",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce PACA",
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Retail",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Eyguières : nouvelle auto-école comble une carence commerciale locale",
-      "body": "Une auto-école 'Eyguières conduite' ouvrira prochainement avenue Gabriel-Péri, comblant l'absence d'établissement depuis plusieurs années. Cette création répond à une demande de service structurant en zones périphériques.",
-      "impact": "Identification d'opportunités d'activités manquantes en PACA : les services de formation génèrent des besoins durables en locaux.",
+      "title": "Aubagne : ouverture d'un nouveau tabac-presse de proximité",
+      "body": "Un nouveau tabac-presse Central Parc a ouvert rue de la République à Aubagne le 20 juillet, répondant à une demande de « commerce d'utilité locale ». Cette réalisation illustre la persistance de la demande pour les petits commerces de proximité en zone urbaine.",
+      "impact": "Confirmation du potentiel de petites surfaces commerciales (100-150m²) en rez-de-chaussée d'immeubles de centre-ville pour services de proximité.",
       "date": "07/08/2026",
-      "url": "https://www.laprovence.com/article/economie/1490830688058114/une-nouvelle-auto-ecole-va-ouvrir-dans-la-commune-d-eyguieres",
+      "url": "https://www.laprovence.com/article/economie/3753695849300814/un-commerce-d-utilite-locale-un-nouveau-tabac-presse-a-ouvert-ses-portes-rue-de-la-republique-a-aubagne",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce PACA",
           "cls": "tp"
         },
         {
-          "label": "Activité",
+          "label": "Proximité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Salon-de-Provence : impact des chaleurs extrêmes sur la fréquentation commerciale",
-      "body": "Les restaurateurs salonais constatent une fréquentation mitigée en juillet, pénalisée par des excès de chaleur persistants depuis juin. Les activités diurnes subissent une contraction liée aux conditions climatiques.",
-      "impact": "Anticiper la volatilité des revenus commerciaux en zone touristique PACA : négocier les contrats avec flexibilité saisonnière.",
-      "date": "07/08/2026",
-      "url": "https://www.laprovence.com/article/region/3676538262936514/quel-bilan-dressent-les-acteurs-du-tourisme-au-mois-de-juillet-a-salon-de-provence",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Emki Pop : innovation durable en secteur alimentaire/commerce",
-      "body": "Emki Pop lance une glace 100% comestible zéro déchet pour ses 10 ans, combinant innovation produit et démarche écologique. Cette tendance reflète l'évolution des demandes des consommateurs vers des entreprises durables.",
-      "impact": "Demande croissante d'espaces commerciaux/laboratoires pour entreprises agri-tech éco-responsables en région PACA.",
+      "title": "Innovation éco-responsable : Emki Pop célèbre 10 ans zéro déchet",
+      "body": "Emki Pop commercialise une glace 100% comestible incluant le bâtonnet, marquant 10 ans d'engagement zéro déchet. Cette innovation agro-alimentaire PACA démontre la viabilité commerciale des engagements environnementaux et l'attrait client pour les solutions durables.",
+      "impact": "Intérêt croissant pour les locaux d'activité et bureaux de petites entreprises innovantes en agrotech/food-tech justifiant des surfaces modulables.",
       "date": "08/08/2026",
       "url": "https://www.laprovence.com/article/economie/4400372331040914/zero-dechet-100-comestible-pour-ses-10-ans-emki-pop-commercialise-une-glace-a-deguster-jusqu-au-batonnet",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Activité PACA",
           "cls": "tp"
         },
         {
@@ -78,21 +59,40 @@
       ]
     },
     {
-      "id": "f5",
-      "title": "Financement CRE : contexte de taux stables à 2.15% Euribor 3M",
-      "body": "Dans le contexte d'Euribor 3M à 2.15% et OAT français à 3.70%, les conditions de financement immobilier tertiaire restent stables. Les acquéreurs et locataires bénéficient d'une visibilité relative sur les coûts d'emprunt.",
-      "impact": "Maintenir une approche active sur les transactions : les taux stables favorisent les investisseurs cherchant de la rentabilité en PACA.",
+      "id": "f4",
+      "title": "Contexte réglementaire : report de l'indemnité carburant grands rouleurs",
+      "body": "Le gouvernement repousse au 31 août la date limite de dépôt pour l'indemnité carburant de 100€ destinée aux travailleurs modestes. Ce dispositif affecte indirectement la localisation des activités et la demande d'immobilier d'entreprise en zones périphériques.",
+      "impact": "À suivre : les mesures de mobilité gouvernementales influencent la demande pour les locaux activité/bureaux en périphérie PACA.",
       "date": "08/08/2026",
-      "url": "https://www.laprovence.com/article/economie/35466879347214/chomage-en-france-le-taux-grimpe-a-8-3-au-deuxieme-trimestre-selon-linsee",
+      "url": "https://www.laprovence.com/article/politique/2308394722906714/indemnite-carburant-pour-grands-rouleurs-la-date-limite-de-depot-reportee-a-fin-aout",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "Régulation",
+          "cls": "tr"
         },
         {
-          "label": "OAT",
-          "cls": "tt"
+          "label": "Mobilité",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Reprise de VSD par entrepreneur PACA : acteurs patrimoniaux visibles",
+      "body": "Vianney d'Alançon, propriétaire du château de La Barben en Provence, reprend le magazine VSD pour relancer le titre d'actualité généraliste. Cette acquisition illustre la dynamique d'entrepreneurs patrimoniaux en PACA s'intéressant aux médias et contenus.",
+      "impact": "Opportunités de transformation d'immeubles prestigieux en locaux éditoriaux/médias combinant bureaux et espaces événementiels en secteur urbain premium.",
+      "date": "08/08/2026",
+      "url": "https://www.laprovence.com/article/economie/4702335115026114/vianney-dalancon-le-proprietaire-du-chateau-de-la-barben-reprend-le-magazine-vsd",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Investissement",
+          "cls": "ti2"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,45 +100,57 @@
   "macro": [
     {
       "id": "m1",
-      "title": "France : chômage en hausse à 8.3% au T2 2026, risques sur consommation",
-      "body": "Le taux de chômage français a augmenté de 0,2 point au deuxième trimestre pour atteindre 8.3%, plus haut niveau depuis automne 2020. Cette dégradation du marché du travail peut impacter la demande locative tertiaire et commerciale.",
-      "impact": "Renforcer l'analyse de solvabilité des candidats locataires ; anticiper une modération des demandes en espaces bureaux/activité.",
+      "title": "Liquidation du Delta Festival : risques secteur événementiel-immobilier",
+      "body": "Le tribunal prononce la liquidation judiciaire de la SAS Delta Festival (Marseille) impactant créanciers, salariés et restaurateurs. Cet événement illustre la fragilité persistante du secteur événementiel post-COVID et ses répercussions sur la demande de locaux spécialisés.",
+      "impact": "Vigilance accrue sur les baux événementiels/salons : vérifier la solidité financière des exploitants et réviser les conditions de sortie.",
       "date": "07/08/2026",
-      "url": "https://www.laprovence.com/article/economie/35466879347214/chomage-en-france-le-taux-grimpe-a-8-3-au-deuxieme-trimestre-selon-linsee",
+      "url": "https://www.laprovence.com/article/economie/3847068718630514/fin-du-delta-festival-ce-que-la-liquidation-judiciaire-signifie-pour-les-creanciers-salaries-et-festivaliers",
       "source": "La Provence",
       "tags": [
         {
           "label": "Conjoncture",
           "cls": "tg"
+        },
+        {
+          "label": "Secteur",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "BCE maintient taux directeur à 2.15%, inflation maîtrisée à 1.7%",
-      "body": "La Banque Centrale Européenne maintient son taux directeur à 2.15% dans un contexte d'inflation française modérée à 1.7%. Cette stabilité monétaire soutient la prévisibilité des marchés immobiliers.",
-      "impact": "Environnement favorable pour les investisseurs institutionnels en CRE PACA : stabilité monétaire renforce les valorisations.",
-      "date": "08/08/2026",
-      "url": "https://www.laprovence.com/article/economie/35466879347214/chomage-en-france-le-taux-grimpe-a-8-3-au-deuxieme-trimestre-selon-linsee",
-      "source": "La Provence",
+      "title": "Données macro France : OAT 3.70%, Euribor 2.15%, inflation 1.7%",
+      "body": "Les rendements obligataires français (OAT) se stabilisent à 3.70% tandis que l'Euribor 3M demeure à 2.15% reflétant les attentes de politique monétaire BCE. L'inflation française se modère à 1.7%, sous objectif BCE à 2%.",
+      "impact": "Financement CRE : taux d'emprunt à long terme favorables (OAT+spread 1-2%), pertinent pour restructurer les portefeuilles avant fin 2026.",
+      "date": "09/08/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "BCE/Inflation",
+          "label": "Taux/Financement",
+          "cls": "tt"
+        },
+        {
+          "label": "France",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Brent stable à 96 USD/bl : contexte géopolitique maîtrisé",
-      "body": "Le cours du Brent se stabilise autour de 96 USD/baril dans un contexte géopolitique contenu. Cette stabilité énergétique limite les chocs inflationnistes et les risques sur les coûts d'exploitation tertiaires.",
-      "impact": "Visibilité accrue sur les charges de fonctionnement immobilier PACA : négocier avec confiance les baux à charges maîtrisées.",
-      "date": "08/08/2026",
-      "url": "https://www.laprovence.com/article/economie/35466879347214/chomage-en-france-le-taux-grimpe-a-8-3-au-deuxieme-trimestre-selon-linsee",
-      "source": "La Provence",
+      "title": "Contexte énergétique : Brent 96 USD/baril, stabilité court-terme",
+      "body": "Le pétrole Brent s'établit à 96 USD/baril dans un contexte géopolitique mesuré. Cette stabilité énergétique éloigne les risques de chocs inflationnistes majeurs et soutient la visibilité macroéconomique.",
+      "impact": "Environnement énergétique stable favorable aux coûts d'exploitation immobilière ; anticiper modérations de charges locatives pour 2027.",
+      "date": "09/08/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Énergie",
           "cls": "tg"
         }
       ]

@@ -1,98 +1,98 @@
 {
-  "generated_at": "09/08/2026",
+  "generated_at": "10/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Nouvelle dynamique commerciale à Arles : Les Fromagères innovent",
-      "body": "Les Fromagères à Arles poursuit son développement en centre-ville avec une « carte des chefs » proposant les créations de 8 restaurateurs de renom. Cette initiative renforce l'attractivité commerciale de la rue de la République et démontre la vitalité du secteur retail alimentaire en PACA.",
-      "impact": "Opportunité de valorisation de locaux commerciaux en centre-ville d'Arles avec fort potentiel de mutualisation et mixité d'usage.",
-      "date": "08/08/2026",
-      "url": "https://www.laprovence.com/article/societe/26961946009042/la-carte-des-chefs-est-de-retour-aux-fromageres-a-arles-pour-deguster-les-saveurs-de-8-restaurateurs-de-renom",
+      "title": "Salon-de-Provence : dynamique retail avec implantation Comptoir des Glaces",
+      "body": "Jordan, ancien responsable logistique agroalimentaire chez Sysco France, lance son concept de glaces artisanales à Salon-de-Provence en misant sur le local et le savoir-faire régional. Cette création de commerce de proximité illustre la redynamisation des centres-villes provençaux avec des concepts de niche.",
+      "impact": "Opportunité de repérage pour locaux commerciaux de 80-150m² en RDC dans les centres-villes PACA pour concepts de restauration spécialisée.",
+      "date": "10/08/2026",
+      "url": "https://www.laprovence.com/article/economie/3975352028059914/aux-commandes-du-comptoir-des-glaces-jordan-fait-le-pari-du-local-a-salon-de-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Retail",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Aubagne : ouverture d'un nouveau tabac-presse de proximité",
-      "body": "Un nouveau tabac-presse Central Parc a ouvert rue de la République à Aubagne le 20 juillet, répondant à une demande de « commerce d'utilité locale ». Cette réalisation illustre la persistance de la demande pour les petits commerces de proximité en zone urbaine.",
-      "impact": "Confirmation du potentiel de petites surfaces commerciales (100-150m²) en rez-de-chaussée d'immeubles de centre-ville pour services de proximité.",
-      "date": "07/08/2026",
-      "url": "https://www.laprovence.com/article/economie/3753695849300814/un-commerce-d-utilite-locale-un-nouveau-tabac-presse-a-ouvert-ses-portes-rue-de-la-republique-a-aubagne",
+      "title": "Pertuis : représentation commerces à la CCI du Vaucluse renforce l'advocacy local",
+      "body": "Franck Girard, président de l'association des Vitrines de Pertuis, intègre la Chambre de Commerce et d'Industrie du Vaucluse comme porte-parole des commerçants et industriels locaux. Cette nomination confirme l'engagement institutionnel des acteurs commerciaux PACA dans les politiques territoriales.",
+      "impact": "Signal positif pour les bailleurs et conseils en transaction : renforcement de la gouvernance commerciale locale facilite les négociations et la stabilité des locataires.",
+      "date": "09/08/2026",
+      "url": "https://www.laprovence.com/article/region/5434637529518914/le-president-de-l-association-des-vitrines-de-pertuis-franck-girard-a-ete-elu-a-la-cci-du-vaucluse",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Proximité",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Innovation éco-responsable : Emki Pop célèbre 10 ans zéro déchet",
-      "body": "Emki Pop commercialise une glace 100% comestible incluant le bâtonnet, marquant 10 ans d'engagement zéro déchet. Cette innovation agro-alimentaire PACA démontre la viabilité commerciale des engagements environnementaux et l'attrait client pour les solutions durables.",
-      "impact": "Intérêt croissant pour les locaux d'activité et bureaux de petites entreprises innovantes en agrotech/food-tech justifiant des surfaces modulables.",
+      "title": "Arles : restauration haut de gamme et circuit court dynamisent le commerce local",
+      "body": "Les Fromagères à Arles accueille une 'carte des chefs' mettant en avant 8 restaurateurs de renom et des producteurs locaux des Alpilles et plaine de Crau. Ce modèle de partenariat croise-secteur (commerce-restauration) renforce l'attractivité des espaces commerciaux en centre-ville.",
+      "impact": "Potentiel de valorisation des petits locaux commerciaux (30-60m²) en cœur de ville PACA via concepts collaboratifs tourisme gastronomique.",
       "date": "08/08/2026",
-      "url": "https://www.laprovence.com/article/economie/4400372331040914/zero-dechet-100-comestible-pour-ses-10-ans-emki-pop-commercialise-une-glace-a-deguster-jusqu-au-batonnet",
+      "url": "https://www.laprovence.com/article/societe/26961946009042/la-carte-des-chefs-est-de-retour-aux-fromageres-a-arles-pour-deguster-les-saveurs-de-8-restaurateurs-de-renom",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Activité PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Innovation",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Contexte réglementaire : report de l'indemnité carburant grands rouleurs",
-      "body": "Le gouvernement repousse au 31 août la date limite de dépôt pour l'indemnité carburant de 100€ destinée aux travailleurs modestes. Ce dispositif affecte indirectement la localisation des activités et la demande d'immobilier d'entreprise en zones périphériques.",
-      "impact": "À suivre : les mesures de mobilité gouvernementales influencent la demande pour les locaux activité/bureaux en périphérie PACA.",
+      "title": "Digne-les-Bains : positionnement lavande et développement touristique stimulent secteur tertiaire",
+      "body": "Digne-les-Bains réaffirme son positionnement comme capitale française de la lavande via sa fête annuelle et communication municipale. Cette spécialisation territoriale crée une dynamique touristique soutenue pour les services et commerces associés.",
+      "impact": "Veille sur demande locaux touristiques, bureaux administratifs et commerces spécialisés (250-800m²) en zones touristiques PACA à forte saisonnalité.",
       "date": "08/08/2026",
-      "url": "https://www.laprovence.com/article/politique/2308394722906714/indemnite-carburant-pour-grands-rouleurs-la-date-limite-de-depot-reportee-a-fin-aout",
+      "url": "https://www.laprovence.com/article/region/4821768477162614/digne-les-bains-est-elle-vraiment-la-capitale-de-la-lavande",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Mobilité",
-          "cls": "tp"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Reprise de VSD par entrepreneur PACA : acteurs patrimoniaux visibles",
-      "body": "Vianney d'Alançon, propriétaire du château de La Barben en Provence, reprend le magazine VSD pour relancer le titre d'actualité généraliste. Cette acquisition illustre la dynamique d'entrepreneurs patrimoniaux en PACA s'intéressant aux médias et contenus.",
-      "impact": "Opportunités de transformation d'immeubles prestigieux en locaux éditoriaux/médias combinant bureaux et espaces événementiels en secteur urbain premium.",
+      "title": "Château La Barben : acquisition media confirmera potentiel immobilier patrimonial PACA",
+      "body": "Vianney d'Alançon, entrepreneur propriétaire du château de La Barben, reprend le magazine VSD. Cette acquisition renforce la présence médiatique d'un acteur immobilier patrimonial établi en Provence-Côte d'Azur. Elle illustre la diversification des investisseurs immobiliers régionaux vers les médias et contenus.",
+      "impact": "Intérêt acru pour les ensembles patrimoniaux/culturels PACA (châteaux, domaines) : explorer les requalifications tertiaires, événementiel et hébergement.",
       "date": "08/08/2026",
       "url": "https://www.laprovence.com/article/economie/4702335115026114/vianney-dalancon-le-proprietaire-du-chateau-de-la-barben-reprend-le-magazine-vsd",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Investissement",
-          "cls": "ti2"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }
@@ -100,57 +100,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Liquidation du Delta Festival : risques secteur événementiel-immobilier",
-      "body": "Le tribunal prononce la liquidation judiciaire de la SAS Delta Festival (Marseille) impactant créanciers, salariés et restaurateurs. Cet événement illustre la fragilité persistante du secteur événementiel post-COVID et ses répercussions sur la demande de locaux spécialisés.",
-      "impact": "Vigilance accrue sur les baux événementiels/salons : vérifier la solidité financière des exploitants et réviser les conditions de sortie.",
-      "date": "07/08/2026",
-      "url": "https://www.laprovence.com/article/economie/3847068718630514/fin-du-delta-festival-ce-que-la-liquidation-judiciaire-signifie-pour-les-creanciers-salaries-et-festivaliers",
-      "source": "La Provence",
+      "title": "OAT 10ans stable à 3,70% : soutien pour financement activités immobilières",
+      "body": "Les obligations assimilables du Trésor (OAT) 10 ans maintiennent leur rendement à 3,70% en cette mi-août 2026. Cet environnement de taux demeure stable et soutient l'accès aux financements long terme pour investisseurs immobiliers français.",
+      "impact": "Conditions de financement favorables pour LBO immobilier et acquisitions PACA : simuler les enveloppes de financement avant hausse anticipée Q4 2026.",
+      "date": "10/08/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-marche-taux-oat",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
-        },
-        {
-          "label": "Secteur",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Données macro France : OAT 3.70%, Euribor 2.15%, inflation 1.7%",
-      "body": "Les rendements obligataires français (OAT) se stabilisent à 3.70% tandis que l'Euribor 3M demeure à 2.15% reflétant les attentes de politique monétaire BCE. L'inflation française se modère à 1.7%, sous objectif BCE à 2%.",
-      "impact": "Financement CRE : taux d'emprunt à long terme favorables (OAT+spread 1-2%), pertinent pour restructurer les portefeuilles avant fin 2026.",
-      "date": "09/08/2026",
-      "url": "https://www.laprovence.com",
+      "title": "Euribor 3M à 2,15% : stabilité court terme et refinancement modéré",
+      "body": "L'Euribor 3 mois se maintient à 2,15%, reflétant une stabilité des conditions de refinancement interbancaires en zone euro. Les prêts adossés à cet indice demeurent à des niveaux accessibles pour les PME et ETI PACA.",
+      "impact": "Euribor stable facilite les renégociations de lignes de crédit court terme pour exploitants de locaux commerciaux : consolider les accords avant volatilité automnale.",
+      "date": "10/08/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-marche-euribor",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux/Financement",
+          "label": "Taux",
           "cls": "tt"
-        },
-        {
-          "label": "France",
-          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte énergétique : Brent 96 USD/baril, stabilité court-terme",
-      "body": "Le pétrole Brent s'établit à 96 USD/baril dans un contexte géopolitique mesuré. Cette stabilité énergétique éloigne les risques de chocs inflationnistes majeurs et soutient la visibilité macroéconomique.",
-      "impact": "Environnement énergétique stable favorable aux coûts d'exploitation immobilière ; anticiper modérations de charges locatives pour 2027.",
-      "date": "09/08/2026",
-      "url": "https://www.laprovence.com",
+      "title": "Inflation France à 1,7% : contention des charges exploitation pour tertiaire/commerce PACA",
+      "body": "L'inflation française persiste à 1,7%, bien en-dessous de la cible BCE 2%. Cette modération des prix limite la pression sur les charges d'exploitation pour les locataires PACA (énergie, services, fournitures). Perspectives d'amélioration marge nette des entreprises.",
+      "impact": "Environnement inflationniste maîtrisé renforce la solvabilité des PME-ETI locales : opportunité de négocier les révisions de loyer avec arguments fondamentaux solides.",
+      "date": "10/08/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-marche-inflation",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]

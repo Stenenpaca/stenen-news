@@ -1,74 +1,17 @@
 {
-  "generated_at": "10/08/2026",
+  "generated_at": "11/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Salon-de-Provence : dynamique retail avec implantation Comptoir des Glaces",
-      "body": "Jordan, ancien responsable logistique agroalimentaire chez Sysco France, lance son concept de glaces artisanales à Salon-de-Provence en misant sur le local et le savoir-faire régional. Cette création de commerce de proximité illustre la redynamisation des centres-villes provençaux avec des concepts de niche.",
-      "impact": "Opportunité de repérage pour locaux commerciaux de 80-150m² en RDC dans les centres-villes PACA pour concepts de restauration spécialisée.",
-      "date": "10/08/2026",
-      "url": "https://www.laprovence.com/article/economie/3975352028059914/aux-commandes-du-comptoir-des-glaces-jordan-fait-le-pari-du-local-a-salon-de-provence",
+      "title": "Commerce PACA : bilan mitigé en centre-ville malgré confiance",
+      "body": "Les commerçants d'Orange dressent un bilan contrasté à mi-parcours de l'été, avec une fréquentation inégale dans les centres-villes régionaux. Cette tendance reflète la fragmentation du commerce de détail en PACA, où les petits centres-villes peinent face à la concurrence des centres commerciaux.",
+      "impact": "À Arles et Orange, les braderies et soldes massifs (-50%) signalent une pression tarifaire: privilégier les transactions commerciales dans les zones à forte attractivité touristique et éviter les sur-offres de locaux en centre ancien.",
+      "date": "11/08/2026",
+      "url": "https://www.laprovence.com/article/societe/4797350337522414/a-mi-parcours-de-l-ete-un-bilan-mitige-mais-des-commercants-confiants-dans-le-centre-ville-d-orange",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Pertuis : représentation commerces à la CCI du Vaucluse renforce l'advocacy local",
-      "body": "Franck Girard, président de l'association des Vitrines de Pertuis, intègre la Chambre de Commerce et d'Industrie du Vaucluse comme porte-parole des commerçants et industriels locaux. Cette nomination confirme l'engagement institutionnel des acteurs commerciaux PACA dans les politiques territoriales.",
-      "impact": "Signal positif pour les bailleurs et conseils en transaction : renforcement de la gouvernance commerciale locale facilite les négociations et la stabilité des locataires.",
-      "date": "09/08/2026",
-      "url": "https://www.laprovence.com/article/region/5434637529518914/le-president-de-l-association-des-vitrines-de-pertuis-franck-girard-a-ete-elu-a-la-cci-du-vaucluse",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Arles : restauration haut de gamme et circuit court dynamisent le commerce local",
-      "body": "Les Fromagères à Arles accueille une 'carte des chefs' mettant en avant 8 restaurateurs de renom et des producteurs locaux des Alpilles et plaine de Crau. Ce modèle de partenariat croise-secteur (commerce-restauration) renforce l'attractivité des espaces commerciaux en centre-ville.",
-      "impact": "Potentiel de valorisation des petits locaux commerciaux (30-60m²) en cœur de ville PACA via concepts collaboratifs tourisme gastronomique.",
-      "date": "08/08/2026",
-      "url": "https://www.laprovence.com/article/societe/26961946009042/la-carte-des-chefs-est-de-retour-aux-fromageres-a-arles-pour-deguster-les-saveurs-de-8-restaurateurs-de-renom",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Digne-les-Bains : positionnement lavande et développement touristique stimulent secteur tertiaire",
-      "body": "Digne-les-Bains réaffirme son positionnement comme capitale française de la lavande via sa fête annuelle et communication municipale. Cette spécialisation territoriale crée une dynamique touristique soutenue pour les services et commerces associés.",
-      "impact": "Veille sur demande locaux touristiques, bureaux administratifs et commerces spécialisés (250-800m²) en zones touristiques PACA à forte saisonnalité.",
-      "date": "08/08/2026",
-      "url": "https://www.laprovence.com/article/region/4821768477162614/digne-les-bains-est-elle-vraiment-la-capitale-de-la-lavande",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
+          "label": "PACA Commerce",
           "cls": "tp"
         },
         {
@@ -78,16 +21,16 @@
       ]
     },
     {
-      "id": "f5",
-      "title": "Château La Barben : acquisition media confirmera potentiel immobilier patrimonial PACA",
-      "body": "Vianney d'Alançon, entrepreneur propriétaire du château de La Barben, reprend le magazine VSD. Cette acquisition renforce la présence médiatique d'un acteur immobilier patrimonial établi en Provence-Côte d'Azur. Elle illustre la diversification des investisseurs immobiliers régionaux vers les médias et contenus.",
-      "impact": "Intérêt acru pour les ensembles patrimoniaux/culturels PACA (châteaux, domaines) : explorer les requalifications tertiaires, événementiel et hébergement.",
-      "date": "08/08/2026",
-      "url": "https://www.laprovence.com/article/economie/4702335115026114/vianney-dalancon-le-proprietaire-du-chateau-de-la-barben-reprend-le-magazine-vsd",
+      "id": "f2",
+      "title": "Shopping Promenade Arles : bilan contrasté 7 ans après",
+      "body": "Après sept ans d'exploitation, le centre commercial Shopping Promenade Arles n'a que partiellement atteint son objectif de rétention commerciale face à Nîmes et Avignon. Ce bilan fragmenté illustre les défis du positionnement immobilier en zone moyenne en PACA.",
+      "impact": "Les projets commerciaux ambitieux en zone secondaire doivent démontrer une vraie différenciation d'offre: évaluer les locaux activité/commerce à Arles en tenant compte d'une polarisation durable vers les pôles Avignon-Nîmes.",
+      "date": "10/08/2026",
+      "url": "https://www.laprovence.com/article/economie/89990543087356/entre-attentes-et-realite-sept-ans-apres-le-bilan-contraste-de-shopping-promenade-arles",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Marché",
           "cls": "tp"
         },
         {
@@ -95,51 +38,108 @@
           "cls": "ti2"
         }
       ]
+    },
+    {
+      "id": "f3",
+      "title": "Tech PACA : IVM Technologies innove en modélisation 3D",
+      "body": "L'entreprise marseillaise IVM Technologies maîtrise une rare expertise mondiale en modélisation 3D d'infrastructures sous-marines, positionnant Marseille comme pôle spécialisé. Cette activité de pointe crée une demande de locaux bureaux/activité haut de gamme en métropole.",
+      "impact": "Les ETI tech marseillaises en croissance motivent des transactions de bureaux d'activité premium: privilégier les emplacements connectés aux zones d'innovation (parc Euroméditerranée, technopôles).",
+      "date": "10/08/2026",
+      "url": "https://www.laprovence.com/article/economie/4235312862534714/lentreprise-marseillaise-ivm-technologies-modelise-les-infrastructures-sous-marines-en-3d",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA Économie",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Infrastructures : SNCF investit en Vaucluse pour renouvellement",
+      "body": "La SNCF lance un chantier majeur entre Avignon et Villeneuve pour renouveler intégralement les voies ferrées avant fin 2026. Cet investissement dans les infrastructures régionales soutient l'accessibilité et l'attractivité des zones desservies.",
+      "impact": "L'amélioration de la connectivité ferroviaire Avignon-Villeneuve valorise les locaux bureaux/activité à proximité des gares: positionner les actifs dans les zones de transit et desservies par les nouveaux services.",
+      "date": "10/08/2026",
+      "url": "https://www.laprovence.com/article/region/6182443897182814/entre-avignon-et-villeneuve-l-impressionnant-chantier-de-la-sncf-pour-renouveler-les-voies",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA Infrastructure",
+          "cls": "tp"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "PME PACA : stratégies locales et autonomie opérationnelle",
+      "body": "Les petits opérateurs comme le Comptoir des glaces à Salon mettent le cap sur des stratégies hyper-locales et l'autonomie opérationnelle. Cette tendance reflète une résilience des PME régionales face aux chaînes nationales.",
+      "impact": "La fragmentation des chaînes de distribution avantage les locataires artisanaux en petits locaux activité: cibler des surfaces modulables de 50-150m² en centres-villes secondaires avec proximité clients.",
+      "date": "10/08/2026",
+      "url": "https://www.laprovence.com/article/economie/3975352028059914/aux-commandes-du-comptoir-des-glaces-jordan-fait-le-pari-du-local-a-salon-de-provence",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA PME",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "OAT 10ans stable à 3,70% : soutien pour financement activités immobilières",
-      "body": "Les obligations assimilables du Trésor (OAT) 10 ans maintiennent leur rendement à 3,70% en cette mi-août 2026. Cet environnement de taux demeure stable et soutient l'accès aux financements long terme pour investisseurs immobiliers français.",
-      "impact": "Conditions de financement favorables pour LBO immobilier et acquisitions PACA : simuler les enveloppes de financement avant hausse anticipée Q4 2026.",
-      "date": "10/08/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-marche-taux-oat",
-      "source": "Données marché",
+      "title": "Énergie : hausse gaz +5,6% dès septembre 2026",
+      "body": "Le tarif de référence du gaz augmente de 5,6% au 1er septembre pour la majorité des ménages français, tirée par les tensions sur les marchés de gros. Cette hausse intervient dans un contexte d'incertitude énergétique durable en Europe.",
+      "impact": "Les charges énergétiques des locaux bureaux/activité s'accélèrent : ajuster les clauses révision énergétique dans les baux et valoriser les immeubles avec performance thermique certifiée.",
+      "date": "11/08/2026",
+      "url": "https://www.laprovence.com/article/economie/6987750330127714/le-prix-de-reference-du-gaz-augmente-au-1er-septembre-pour-une-majorite-dabonnes-francais",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Énergie",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Euribor 3M à 2,15% : stabilité court terme et refinancement modéré",
-      "body": "L'Euribor 3 mois se maintient à 2,15%, reflétant une stabilité des conditions de refinancement interbancaires en zone euro. Les prêts adossés à cet indice demeurent à des niveaux accessibles pour les PME et ETI PACA.",
-      "impact": "Euribor stable facilite les renégociations de lignes de crédit court terme pour exploitants de locaux commerciaux : consolider les accords avant volatilité automnale.",
+      "title": "Conjoncture : commerce de détail fragmenté en zone secondaire",
+      "body": "Le bilan commercialisé d'été 2026 en PACA révèle une polarisation croissante : les zones centrales et touristiques performent tandis que les centres secondaires font face à une déflation tarifaire (-50% de remise). La concurrence inter-zones s'intensifie.",
+      "impact": "La fragmentation du commerce français augmente la volatilité immobilière tertiaire : consolider les portefeuilles en zones Avignon-Marseille-Nice et réduire l'exposition aux petits centres-villes.",
       "date": "10/08/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-marche-euribor",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/6149474799871614/la-braderie-d-ete-dans-le-centre-ville-d-arles-temoigne-d-une-saison-contrastee-pour-les-commercants",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France à 1,7% : contention des charges exploitation pour tertiaire/commerce PACA",
-      "body": "L'inflation française persiste à 1,7%, bien en-dessous de la cible BCE 2%. Cette modération des prix limite la pression sur les charges d'exploitation pour les locataires PACA (énergie, services, fournitures). Perspectives d'amélioration marge nette des entreprises.",
-      "impact": "Environnement inflationniste maîtrisé renforce la solvabilité des PME-ETI locales : opportunité de négocier les révisions de loyer avec arguments fondamentaux solides.",
-      "date": "10/08/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-marche-inflation",
-      "source": "Données marché",
+      "title": "Marché monétaire : OAT 3.70%, Euribor 2.15%, BCE stable",
+      "body": "Les taux longs français se stabilisent à 3.70% (OAT 10Y) tandis que l'Euribor 3M demeure à 2.15%, reflétant l'absence de mouvement baissier immédiat de la BCE (taux directeur 2.15%). L'inflation française modérée à 1.7% limite les pressions de hausse.",
+      "impact": "Le coût du financement immobilier CRE reste élevé : privilégier les transactions court-terme et les restructurations value-add pour améliorer les rendements malgré un coût de l'argent inchangé.",
+      "date": "11/08/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données de marché",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

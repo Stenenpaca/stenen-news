@@ -1,74 +1,74 @@
 {
-  "generated_at": "11/08/2026",
+  "generated_at": "12/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Commerce PACA : bilan mitigé en centre-ville malgré confiance",
-      "body": "Les commerçants d'Orange dressent un bilan contrasté à mi-parcours de l'été, avec une fréquentation inégale dans les centres-villes régionaux. Cette tendance reflète la fragmentation du commerce de détail en PACA, où les petits centres-villes peinent face à la concurrence des centres commerciaux.",
-      "impact": "À Arles et Orange, les braderies et soldes massifs (-50%) signalent une pression tarifaire: privilégier les transactions commerciales dans les zones à forte attractivité touristique et éviter les sur-offres de locaux en centre ancien.",
+      "title": "Tourisme PACA en juillet : résilience malgré canicule et coût de vie",
+      "body": "Martigues enregistre une fréquentation à la hauteur des attentes en début de saison estivale, malgré les défis climatiques et la baisse du pouvoir d'achat. Les établissements de loisirs et hébergement maintiennent leur activité avec une clientèle qui adapte ses dépenses.",
+      "impact": "Maintien de la demande locative touristique et commerciale en PACA ; opportunité pour conseiller les propriétaires sur l'optimisation des surfaces d'accueil.",
       "date": "11/08/2026",
-      "url": "https://www.laprovence.com/article/societe/4797350337522414/a-mi-parcours-de-l-ete-un-bilan-mitige-mais-des-commercants-confiants-dans-le-centre-ville-d-orange",
+      "url": "https://www.laprovence.com/article/economie/7393791787746214/tourisme-en-juillet-a-martigues-un-debut-de-saison-a-la-hauteur-des-attentes-malgre-la-canicule-et-le-cout-de-la-vie",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Commerce",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Tourisme-Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Shopping Promenade Arles : bilan contrasté 7 ans après",
-      "body": "Après sept ans d'exploitation, le centre commercial Shopping Promenade Arles n'a que partiellement atteint son objectif de rétention commerciale face à Nîmes et Avignon. Ce bilan fragmenté illustre les défis du positionnement immobilier en zone moyenne en PACA.",
-      "impact": "Les projets commerciaux ambitieux en zone secondaire doivent démontrer une vraie différenciation d'offre: évaluer les locaux activité/commerce à Arles en tenant compte d'une polarisation durable vers les pôles Avignon-Nîmes.",
-      "date": "10/08/2026",
-      "url": "https://www.laprovence.com/article/economie/89990543087356/entre-attentes-et-realite-sept-ans-apres-le-bilan-contraste-de-shopping-promenade-arles",
+      "title": "Arles : la Ville devient propriétaire de la Galerie Fourchon",
+      "body": "Après un passage en Cour de cassation, Arles devient propriétaire de l'ensemble immobilier commercial incluant la galerie marchande et les terrains de la zone Fourchon. Cette acquisition stratégique renforce le contrôle municipal sur un pôle commercial majeur.",
+      "impact": "Opportunité de transaction sur actifs commerciaux importants en PACA ; l'intervention publique redessine le paysage retail et les stratégies de locataires.",
+      "date": "11/08/2026",
+      "url": "https://www.laprovence.com/article/region/4842462218566814/on-est-prets-la-ville-d-arles-devient-proprietaire-des-murs-de-la-galerie-de-fourchon-et-voit-grand",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Marché",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Immobilier Commercial",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Tech PACA : IVM Technologies innove en modélisation 3D",
-      "body": "L'entreprise marseillaise IVM Technologies maîtrise une rare expertise mondiale en modélisation 3D d'infrastructures sous-marines, positionnant Marseille comme pôle spécialisé. Cette activité de pointe crée une demande de locaux bureaux/activité haut de gamme en métropole.",
-      "impact": "Les ETI tech marseillaises en croissance motivent des transactions de bureaux d'activité premium: privilégier les emplacements connectés aux zones d'innovation (parc Euroméditerranée, technopôles).",
-      "date": "10/08/2026",
-      "url": "https://www.laprovence.com/article/economie/4235312862534714/lentreprise-marseillaise-ivm-technologies-modelise-les-infrastructures-sous-marines-en-3d",
+      "title": "Commerce PACA : bilan mitigé à Orange mais confiance maintenue",
+      "body": "À mi-parcours de l'été, les commerçants du centre-ville d'Orange constatent une fréquentation inégale mais conservent une perspective positive pour la suite de la saison. Les adaptations tarifaires et l'optimisation des offres façonnent la stratégie locale.",
+      "impact": "Conseiller les propriétaires-bailleurs sur l'ajustement des loyers commerciaux PACA face à une demande fluctuante ; adapter les contrats aux nouveaux comportements consommateurs.",
+      "date": "11/08/2026",
+      "url": "https://www.laprovence.com/article/societe/4797350337522414/a-mi-parcours-de-l-ete-un-bilan-mitige-mais-des-commercants-confiants-dans-le-centre-ville-d-orange",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Économie",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Infrastructures : SNCF investit en Vaucluse pour renouvellement",
-      "body": "La SNCF lance un chantier majeur entre Avignon et Villeneuve pour renouveler intégralement les voies ferrées avant fin 2026. Cet investissement dans les infrastructures régionales soutient l'accessibilité et l'attractivité des zones desservies.",
-      "impact": "L'amélioration de la connectivité ferroviaire Avignon-Villeneuve valorise les locaux bureaux/activité à proximité des gares: positionner les actifs dans les zones de transit et desservies par les nouveaux services.",
-      "date": "10/08/2026",
-      "url": "https://www.laprovence.com/article/region/6182443897182814/entre-avignon-et-villeneuve-l-impressionnant-chantier-de-la-sncf-pour-renouveler-les-voies",
+      "title": "Facture électronique : PME/TPE PACA s'adaptent à la dématérialisation",
+      "body": "Artisans, restaurateurs et freelances racontent leur transition vers la facturation électronique obligatoire, qui augmente la charge administrative malgré les outils disponibles. Cette obligation impacte directement l'organisation des petites structures et leurs locaux de travail.",
+      "impact": "Les PME/TPE PACA recherchent des espaces bureaux flexibles et équipés pour gérer la transition numérique ; proposer des solutions modulables adaptées à l'augmentation des besoins informatiques.",
+      "date": "12/08/2026",
+      "url": "https://www.laprovence.com/article/economie/7881751206736414/artisan-restaurateur-freelance-ils-racontent-leur-passage-a-la-facture-electronique",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Infrastructure",
+          "label": "PACA",
           "cls": "tp"
         },
         {
@@ -79,16 +79,16 @@
     },
     {
       "id": "f5",
-      "title": "PME PACA : stratégies locales et autonomie opérationnelle",
-      "body": "Les petits opérateurs comme le Comptoir des glaces à Salon mettent le cap sur des stratégies hyper-locales et l'autonomie opérationnelle. Cette tendance reflète une résilience des PME régionales face aux chaînes nationales.",
-      "impact": "La fragmentation des chaînes de distribution avantage les locataires artisanaux en petits locaux activité: cibler des surfaces modulables de 50-150m² en centres-villes secondaires avec proximité clients.",
-      "date": "10/08/2026",
-      "url": "https://www.laprovence.com/article/economie/3975352028059914/aux-commandes-du-comptoir-des-glaces-jordan-fait-le-pari-du-local-a-salon-de-provence",
+      "title": "Gaz : augmentation tarifaire de 5,6% au 1er septembre pour la majorité",
+      "body": "Le tarif de référence du gaz augmentera de 5,6% à partir du 1er septembre pour une majorité d'abonnés français, sous l'effet de la pression sur les marchés de gros. Cette hausse affectera directement les charges d'exploitation des locaux professionnels.",
+      "impact": "Analyser avec les preneurs l'impact sur les charges de fonctionnement des locaux d'activité PACA ; cette augmentation justifie une renégociation des clauses énergétiques et flexibilité des baux.",
+      "date": "11/08/2026",
+      "url": "https://www.laprovence.com/article/economie/6987750330127714/le-prix-de-reference-du-gaz-augmente-au-1er-septembre-pour-une-majorite-dabonnes-francais",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA PME",
-          "cls": "tp"
+          "label": "Énergie",
+          "cls": "tg"
         },
         {
           "label": "Marché",
@@ -100,13 +100,17 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Énergie : hausse gaz +5,6% dès septembre 2026",
-      "body": "Le tarif de référence du gaz augmente de 5,6% au 1er septembre pour la majorité des ménages français, tirée par les tensions sur les marchés de gros. Cette hausse intervient dans un contexte d'incertitude énergétique durable en Europe.",
-      "impact": "Les charges énergétiques des locaux bureaux/activité s'accélèrent : ajuster les clauses révision énergétique dans les baux et valoriser les immeubles avec performance thermique certifiée.",
+      "title": "Pétrole Brent : franchit 90 USD sur tensions géopolitiques",
+      "body": "Le cours du Brent dépasse les 90 dollars suite aux tensions entre Washington et Téhéran autour du détroit d'Ormuz, avec des demandes incompatibles paralysant les négociations. Cette volatilité énergétique amplifiait les risques inflationnistes en Europe.",
+      "impact": "Les tensions géopolitiques alimentent l'inflation européenne ; anticiper un durcissement des conditions de financement immobilier PACA via hausse des taux directeurs BCE.",
       "date": "11/08/2026",
-      "url": "https://www.laprovence.com/article/economie/6987750330127714/le-prix-de-reference-du-gaz-augmente-au-1er-septembre-pour-une-majorite-dabonnes-francais",
+      "url": "https://www.laprovence.com/article/economie/7113475326768714/prix-du-petrole-le-brent-franchit-les-90-dollars-sur-fond-de-blocage-entre-washington-et-teheran",
       "source": "La Provence",
       "tags": [
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
         {
           "label": "Énergie",
           "cls": "tg"
@@ -115,31 +119,39 @@
     },
     {
       "id": "m2",
-      "title": "Conjoncture : commerce de détail fragmenté en zone secondaire",
-      "body": "Le bilan commercialisé d'été 2026 en PACA révèle une polarisation croissante : les zones centrales et touristiques performent tandis que les centres secondaires font face à une déflation tarifaire (-50% de remise). La concurrence inter-zones s'intensifie.",
-      "impact": "La fragmentation du commerce français augmente la volatilité immobilière tertiaire : consolider les portefeuilles en zones Avignon-Marseille-Nice et réduire l'exposition aux petits centres-villes.",
-      "date": "10/08/2026",
-      "url": "https://www.laprovence.com/article/economie/6149474799871614/la-braderie-d-ete-dans-le-centre-ville-d-arles-temoigne-d-une-saison-contrastee-pour-les-commercants",
+      "title": "Dépenses touristiques PACA : mutation des comportements consommateurs",
+      "body": "Les Français maintiennent leurs vacances en région PACA mais adaptent leur consommation : durée réduite, hébergement préservé, loisirs/restauration ajustés. Cette transformation reflète la baisse du pouvoir d'achat et une gestion plus sélective des dépenses.",
+      "impact": "La conjoncture française affaiblit la demande locative pour loisirs/restauration ; prioriser les actifs d'hébergement et espaces événementiels flexibles en PACA.",
+      "date": "12/08/2026",
+      "url": "https://www.laprovence.com/article/economie/5696000260898714/vacances-en-region-paca-les-francais-partent-encore-mais-depensent-autrement",
       "source": "La Provence",
       "tags": [
         {
           "label": "Conjoncture",
-          "cls": "tm"
+          "cls": "tg"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Marché monétaire : OAT 3.70%, Euribor 2.15%, BCE stable",
-      "body": "Les taux longs français se stabilisent à 3.70% (OAT 10Y) tandis que l'Euribor 3M demeure à 2.15%, reflétant l'absence de mouvement baissier immédiat de la BCE (taux directeur 2.15%). L'inflation française modérée à 1.7% limite les pressions de hausse.",
-      "impact": "Le coût du financement immobilier CRE reste élevé : privilégier les transactions court-terme et les restructurations value-add pour améliorer les rendements malgré un coût de l'argent inchangé.",
-      "date": "11/08/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données de marché",
+      "title": "Inflation alimentaire Vaucluse : canicules et stress climatique",
+      "body": "Le secteur agricole régional anticipe une flambée des prix fruits/légumes amplifiée par les canicules répétées et l'absence de solutions adaptées au réchauffement climatique. Les exploitants vauclusiens avertissent sur la fragilité de la production face aux chocs météorologiques.",
+      "impact": "L'inflation sectorielle régionale pèse sur le pouvoir d'achat local et les marges commerciales ; adapter les stratégies de commerces alimentaires et locaux d'activité agroalimentaire.",
+      "date": "12/08/2026",
+      "url": "https://www.laprovence.com/article/societe/7866730111052814/fruits-legumes-et-canicules-vers-une-flambee-des-prix-dans-le-vaucluse",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Inflation",
+          "cls": "tg"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }

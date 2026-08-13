@@ -1,51 +1,13 @@
 {
-  "generated_at": "12/08/2026",
+  "generated_at": "13/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Tourisme PACA en juillet : résilience malgré canicule et coût de vie",
-      "body": "Martigues enregistre une fréquentation à la hauteur des attentes en début de saison estivale, malgré les défis climatiques et la baisse du pouvoir d'achat. Les établissements de loisirs et hébergement maintiennent leur activité avec une clientèle qui adapte ses dépenses.",
-      "impact": "Maintien de la demande locative touristique et commerciale en PACA ; opportunité pour conseiller les propriétaires sur l'optimisation des surfaces d'accueil.",
-      "date": "11/08/2026",
-      "url": "https://www.laprovence.com/article/economie/7393791787746214/tourisme-en-juillet-a-martigues-un-debut-de-saison-a-la-hauteur-des-attentes-malgre-la-canicule-et-le-cout-de-la-vie",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Tourisme-Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Arles : la Ville devient propriétaire de la Galerie Fourchon",
-      "body": "Après un passage en Cour de cassation, Arles devient propriétaire de l'ensemble immobilier commercial incluant la galerie marchande et les terrains de la zone Fourchon. Cette acquisition stratégique renforce le contrôle municipal sur un pôle commercial majeur.",
-      "impact": "Opportunité de transaction sur actifs commerciaux importants en PACA ; l'intervention publique redessine le paysage retail et les stratégies de locataires.",
-      "date": "11/08/2026",
-      "url": "https://www.laprovence.com/article/region/4842462218566814/on-est-prets-la-ville-d-arles-devient-proprietaire-des-murs-de-la-galerie-de-fourchon-et-voit-grand",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Immobilier Commercial",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Commerce PACA : bilan mitigé à Orange mais confiance maintenue",
-      "body": "À mi-parcours de l'été, les commerçants du centre-ville d'Orange constatent une fréquentation inégale mais conservent une perspective positive pour la suite de la saison. Les adaptations tarifaires et l'optimisation des offres façonnent la stratégie locale.",
-      "impact": "Conseiller les propriétaires-bailleurs sur l'ajustement des loyers commerciaux PACA face à une demande fluctuante ; adapter les contrats aux nouveaux comportements consommateurs.",
-      "date": "11/08/2026",
-      "url": "https://www.laprovence.com/article/societe/4797350337522414/a-mi-parcours-de-l-ete-un-bilan-mitige-mais-des-commercants-confiants-dans-le-centre-ville-d-orange",
+      "title": "Brew pub Jouquasse : nouveau concept de lieu de vie à Corbières",
+      "body": "Xavier Andréges développe un projet de brew pub combinant restauration et convivialité à Corbières-en-Provence après 23 ans d'expérience dans le Sud. Ce type de concept mixte (food & beverage + espace collectif) représente une tendance croissante dans la valorisation des locaux commerciaux et de restauration en PACA.",
+      "impact": "Opportunité de transaction : restructuration de locaux commerciaux/restauration pour concepts hybrides lieu de vie + consommation en PACA.",
+      "date": "13/08/2026",
+      "url": "https://www.laprovence.com/article/economie/6576077484340514/comment-le-brew-pub-de-la-jouquasse-veut-creer-un-lieu-de-vie-a-corbieres-en-provence",
       "source": "La Provence",
       "tags": [
         {
@@ -59,12 +21,12 @@
       ]
     },
     {
-      "id": "f4",
-      "title": "Facture électronique : PME/TPE PACA s'adaptent à la dématérialisation",
-      "body": "Artisans, restaurateurs et freelances racontent leur transition vers la facturation électronique obligatoire, qui augmente la charge administrative malgré les outils disponibles. Cette obligation impacte directement l'organisation des petites structures et leurs locaux de travail.",
-      "impact": "Les PME/TPE PACA recherchent des espaces bureaux flexibles et équipés pour gérer la transition numérique ; proposer des solutions modulables adaptées à l'augmentation des besoins informatiques.",
-      "date": "12/08/2026",
-      "url": "https://www.laprovence.com/article/economie/7881751206736414/artisan-restaurateur-freelance-ils-racontent-leur-passage-a-la-facture-electronique",
+      "id": "f2",
+      "title": "Paniers antigaspi : tendance consommation à 4€ en Provence",
+      "body": "Les Provençaux adoptent massivement les paniers surprise antigaspi via applications mobiles (ex: Aubagne) pour acquérir invendus alimentaires à bas coût. Cette pratique reflète l'impact de la baisse du pouvoir d'achat sur les comportements d'achat et la valorisation de nouveaux modèles commerciaux.",
+      "impact": "Demande accrue pour petits locaux commerciaux multifonctionnels (points de retrait, dark stores) en zones résidentielles PACA à faible loyer.",
+      "date": "13/08/2026",
+      "url": "https://www.laprovence.com/article/economie/8713340530196614/paniers-antigaspi-tout-ca-pour-4-euros-pourquoi-les-provencaux-font-de-plus-en-plus-la-chasse-aux-invendus",
       "source": "La Provence",
       "tags": [
         {
@@ -72,23 +34,61 @@
           "cls": "tp"
         },
         {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Aides véhicules électriques d'occasion : 337-5550€ dès septembre",
+      "body": "Le gouvernement lance un financement par certificats d'économie d'énergie (CEE) pour l'achat/location de véhicules électriques d'occasion chez professionnels à partir de septembre 2026. Cette aide élargit l'accès à la transition énergétique et soutient le secteur automobile régional.",
+      "impact": "Stimule la demande pour locaux d'activité automobile/concessionnaire et espaces logistique véhicules en PACA via amélioration du pouvoir d'achat des acheteurs.",
+      "date": "12/08/2026",
+      "url": "https://www.laprovence.com/article/economie/8131769859724314/de-337-a-5-550-euros-une-nouvelle-aide-des-septembre-pour-l-achat-dun-vehicule-electrique-d-occasion",
+      "source": "La Provence",
+      "tags": [
+        {
           "label": "Réglementation",
           "cls": "tr"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Artisans/freelances : passage obligatoire facture électronique",
+      "body": "Plombiers, restaurateurs et freelances témoignent de leur transition à la facturation électronique obligatoire, révélant des enjeux administratifs et de digitalisation pour les PME/TPE. Cette contrainte réglementaire impacte les coûts d'exploitation des petites structures locataires de bureaux/activité.",
+      "impact": "Conseil aux preneurs : anticiper coûts informatiques et administratifs dans négociation loyers bureaux/locaux activité PACA pour PME impactées par nouvelle obligation.",
+      "date": "12/08/2026",
+      "url": "https://www.laprovence.com/article/economie/7881751206736414/artisan-restaurateur-freelance-ils-racontent-leur-passage-a-la-facture-electronique",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Réglementation",
+          "cls": "tr"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Gaz : augmentation tarifaire de 5,6% au 1er septembre pour la majorité",
-      "body": "Le tarif de référence du gaz augmentera de 5,6% à partir du 1er septembre pour une majorité d'abonnés français, sous l'effet de la pression sur les marchés de gros. Cette hausse affectera directement les charges d'exploitation des locaux professionnels.",
-      "impact": "Analyser avec les preneurs l'impact sur les charges de fonctionnement des locaux d'activité PACA ; cette augmentation justifie une renégociation des clauses énergétiques et flexibilité des baux.",
-      "date": "11/08/2026",
-      "url": "https://www.laprovence.com/article/economie/6987750330127714/le-prix-de-reference-du-gaz-augmente-au-1er-septembre-pour-une-majorite-dabonnes-francais",
+      "title": "Vacances PACA : Français dépensent moins mais restent présents",
+      "body": "Les Français continuent de vacationner en région Sud mais réduisent durée et dépenses discrétionnaires (restaurants, sorties) face à baisse du pouvoir d'achat. Cette tendance affecte directement l'immobilier commercial touristique et la location saisonnière.",
+      "impact": "Opportunité de transaction : locaux commerciaux en zones touristiques PACA valorisés pour concepts fast-casual/budget vs haut de gamme, loyers à l'ajustement.",
+      "date": "12/08/2026",
+      "url": "https://www.laprovence.com/article/economie/5696000260898714/vacances-en-region-paca-les-francais-partent-encore-mais-depensent-autrement",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
           "label": "Marché",
@@ -100,35 +100,35 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Pétrole Brent : franchit 90 USD sur tensions géopolitiques",
-      "body": "Le cours du Brent dépasse les 90 dollars suite aux tensions entre Washington et Téhéran autour du détroit d'Ormuz, avec des demandes incompatibles paralysant les négociations. Cette volatilité énergétique amplifiait les risques inflationnistes en Europe.",
-      "impact": "Les tensions géopolitiques alimentent l'inflation européenne ; anticiper un durcissement des conditions de financement immobilier PACA via hausse des taux directeurs BCE.",
-      "date": "11/08/2026",
-      "url": "https://www.laprovence.com/article/economie/7113475326768714/prix-du-petrole-le-brent-franchit-les-90-dollars-sur-fond-de-blocage-entre-washington-et-teheran",
+      "title": "Nucléaire France : -20% puissance, record indisponibilités août 2026",
+      "body": "Le parc nucléaire EDF atteint un record d'indisponibilités environnementales (20% perte puissance) dus à sécheresse, fortes chaleurs et invasion de méduses aux centrales. Cette contrainte énergétique majeure impacte disponibilité électrique et tarifs pour immeubles tertiaires et activité en PACA.",
+      "impact": "Conseil transaction : clause d'ajustement des charges énergétiques critiques pour locataires bureaux/activité PACA face volatilité tarifaire électricité anticipée.",
+      "date": "12/08/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/8042387122127614/20-de-puissance-en-moins-record-pour-le-parc-nucleaire-francais-en-raison-de-contraintes-environnementales",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Énergie",
           "cls": "tg"
         },
         {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Dépenses touristiques PACA : mutation des comportements consommateurs",
-      "body": "Les Français maintiennent leurs vacances en région PACA mais adaptent leur consommation : durée réduite, hébergement préservé, loisirs/restauration ajustés. Cette transformation reflète la baisse du pouvoir d'achat et une gestion plus sélective des dépenses.",
-      "impact": "La conjoncture française affaiblit la demande locative pour loisirs/restauration ; prioriser les actifs d'hébergement et espaces événementiels flexibles en PACA.",
+      "title": "Conjoncture France : grève EasyJet 15-16 août perturbations touristiques",
+      "body": "Les personnels de cabine EasyJet France appelés à la grève 15-16 août suite échec négociations sur conditions travail. Cette action syndicale impacte le secteur aérien et touristique, affectant flux passagers et demande commerciale régionale en période haute saison.",
+      "impact": "Volatilité court-terme pour locataires commerciaux aéroportuaires et zones touristiques PACA ; suivi attentif demande septembre post-perturbation.",
       "date": "12/08/2026",
-      "url": "https://www.laprovence.com/article/economie/5696000260898714/vacances-en-region-paca-les-francais-partent-encore-mais-depensent-autrement",
+      "url": "https://www.laprovence.com/article/economie/42528270591987/easyjet-france-appel-a-la-greve-des-hotesses-et-stewards-les-15-et-16-aout",
       "source": "La Provence",
       "tags": [
         {
           "label": "Conjoncture",
-          "cls": "tg"
+          "cls": "tm"
         },
         {
           "label": "PACA",
@@ -138,20 +138,20 @@
     },
     {
       "id": "m3",
-      "title": "Inflation alimentaire Vaucluse : canicules et stress climatique",
-      "body": "Le secteur agricole régional anticipe une flambée des prix fruits/légumes amplifiée par les canicules répétées et l'absence de solutions adaptées au réchauffement climatique. Les exploitants vauclusiens avertissent sur la fragilité de la production face aux chocs météorologiques.",
-      "impact": "L'inflation sectorielle régionale pèse sur le pouvoir d'achat local et les marges commerciales ; adapter les stratégies de commerces alimentaires et locaux d'activité agroalimentaire.",
-      "date": "12/08/2026",
-      "url": "https://www.laprovence.com/article/societe/7866730111052814/fruits-legumes-et-canicules-vers-une-flambee-des-prix-dans-le-vaucluse",
-      "source": "La Provence",
+      "title": "Contexte macro-financier août 2026 : taux OAT/Euribor stables",
+      "body": "En l'absence de données flux RSS spécifiques BCE/inflation récentes, marché se maintient : OAT 3.70%, Euribor3M 2.15%, taux directeur BCE 2.15%, inflation France 1.7%. Environnement taux stable soutient financement immobilier commercial en PACA.",
+      "impact": "Contexte de taux modérés favorable négociation baux et refinancement pour investisseurs SCPI/immobilier activité PACA : fenêtre opportunité avant fin Q3 2026.",
+      "date": "13/08/2026",
+      "url": "https://www.laprovence.com/article/economie/5696000260898714/vacances-en-region-paca-les-francais-partent-encore-mais-depensent-autrement",
+      "source": "Données marché consensus",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }

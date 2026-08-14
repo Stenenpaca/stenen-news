@@ -1,75 +1,75 @@
 {
-  "generated_at": "13/08/2026",
+  "generated_at": "14/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Brew pub Jouquasse : nouveau concept de lieu de vie à Corbières",
-      "body": "Xavier Andréges développe un projet de brew pub combinant restauration et convivialité à Corbières-en-Provence après 23 ans d'expérience dans le Sud. Ce type de concept mixte (food & beverage + espace collectif) représente une tendance croissante dans la valorisation des locaux commerciaux et de restauration en PACA.",
-      "impact": "Opportunité de transaction : restructuration de locaux commerciaux/restauration pour concepts hybrides lieu de vie + consommation en PACA.",
+      "title": "Facturation électronique : TPE et indépendants PACA doivent s'adapter",
+      "body": "La réforme de la facturation électronique concerne bien plus d'entreprises qu'on ne le pense, notamment les TPE et indépendants qui ne peuvent plus repousser cette évolution. De nombreux dirigeants pensent à tort que leur régime fiscal ou faible volume de facturation les dispense de cette obligation.",
+      "impact": "Les cabinets de conseil CRE PACA doivent intégrer l'assistance à la conformité facturation électronique dans leur offre aux PME/TPE pour valoriser les transactions de petits locaux d'activité.",
       "date": "13/08/2026",
-      "url": "https://www.laprovence.com/article/economie/6576077484340514/comment-le-brew-pub-de-la-jouquasse-veut-creer-un-lieu-de-vie-a-corbieres-en-provence",
+      "url": "https://www.laprovence.com/article/economie/6911275322324414/facturation-electronique-pourquoi-les-tpe-et-independants-ne-peuvent-plus-se-permettre-dattendre",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Réglementation",
+          "cls": "tr"
         },
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Paniers antigaspi : tendance consommation à 4€ en Provence",
-      "body": "Les Provençaux adoptent massivement les paniers surprise antigaspi via applications mobiles (ex: Aubagne) pour acquérir invendus alimentaires à bas coût. Cette pratique reflète l'impact de la baisse du pouvoir d'achat sur les comportements d'achat et la valorisation de nouveaux modèles commerciaux.",
-      "impact": "Demande accrue pour petits locaux commerciaux multifonctionnels (points de retrait, dark stores) en zones résidentielles PACA à faible loyer.",
+      "title": "Femmes entrepreneuses : réseau FCE en expansion à La Ciotat",
+      "body": "Le réseau Femmes cheffes d'entreprises (FCE) célèbre son premier anniversaire à La Ciotat avec une première année réussie depuis juillet 2025. Cette dynamique interprofessionnelle crée un écosystème de soutien pour les entrepreneuses locales.",
+      "impact": "Opportunité de ciblage pour les offres d'espaces de coworking et de bureaux partagés auprès des femmes entrepreneurs en croissance en PACA.",
       "date": "13/08/2026",
-      "url": "https://www.laprovence.com/article/economie/8713340530196614/paniers-antigaspi-tout-ca-pour-4-euros-pourquoi-les-provencaux-font-de-plus-en-plus-la-chasse-aux-invendus",
+      "url": "https://www.laprovence.com/article/economie/8959265031009214/ces-femmes-entrepreneuses-celebrent-le-premier-anniversaire-de-leur-reseau-economique-local-a-la-ciotat",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Marché PACA",
+          "cls": "tm"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Aides véhicules électriques d'occasion : 337-5550€ dès septembre",
-      "body": "Le gouvernement lance un financement par certificats d'économie d'énergie (CEE) pour l'achat/location de véhicules électriques d'occasion chez professionnels à partir de septembre 2026. Cette aide élargit l'accès à la transition énergétique et soutient le secteur automobile régional.",
-      "impact": "Stimule la demande pour locaux d'activité automobile/concessionnaire et espaces logistique véhicules en PACA via amélioration du pouvoir d'achat des acheteurs.",
-      "date": "12/08/2026",
-      "url": "https://www.laprovence.com/article/economie/8131769859724314/de-337-a-5-550-euros-une-nouvelle-aide-des-septembre-pour-l-achat-dun-vehicule-electrique-d-occasion",
+      "title": "Commerçants Sisteron : Tour de France féminin impact économique mitigé",
+      "body": "Le passage du Tour de France féminin à Sisteron le 8 août 2026 a laissé un souvenir mitigé et polarisé auprès des commerçants locaux. La question de l'impact économique réel des grands événements sur le commerce de proximité demeure controversée.",
+      "impact": "À Sisteron et communes PACA similaires, évaluer précisément l'impact des événements sur les flux commerciaux avant de justifier des investissements locaux en immobilier de commerce.",
+      "date": "13/08/2026",
+      "url": "https://www.laprovence.com/article/economie/9118322515647114/le-tour-de-france-feminin-laisse-un-souvenir-mitige-et-polarise-aux-commercants-de-sisteron",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Commerce PACA",
+          "cls": "tm"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Artisans/freelances : passage obligatoire facture électronique",
-      "body": "Plombiers, restaurateurs et freelances témoignent de leur transition à la facturation électronique obligatoire, révélant des enjeux administratifs et de digitalisation pour les PME/TPE. Cette contrainte réglementaire impacte les coûts d'exploitation des petites structures locataires de bureaux/activité.",
-      "impact": "Conseil aux preneurs : anticiper coûts informatiques et administratifs dans négociation loyers bureaux/locaux activité PACA pour PME impactées par nouvelle obligation.",
-      "date": "12/08/2026",
-      "url": "https://www.laprovence.com/article/economie/7881751206736414/artisan-restaurateur-freelance-ils-racontent-leur-passage-a-la-facture-electronique",
+      "title": "Fabrication glaçons Vaucluse : PME agro-industrie bénéficie canicule",
+      "body": "Angélique Maurin, seule fabricante de glaçons du Vaucluse à 44 ans, prospère avec les vagues de canicule successives et l'été particulièrement chaud. Son activité agro-industrielle illustre une niche rentable en contexte climatique changeant.",
+      "impact": "Identifier les petites industries agro-alimentaires en croissance dans le Vaucluse pour proposer des locaux d'activité/entrepôts adaptés aux besoins de production thermiquement critiques.",
+      "date": "14/08/2026",
+      "url": "https://www.laprovence.com/article/economie/13679152154863/a-camaret-sur-aygues-avec-ses-glacons-made-in-vaucluse-elle-les-fait-tous-fondre-de-plaisir",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Marché PACA",
+          "cls": "tm"
         },
         {
           "label": "PACA",
@@ -79,20 +79,20 @@
     },
     {
       "id": "f5",
-      "title": "Vacances PACA : Français dépensent moins mais restent présents",
-      "body": "Les Français continuent de vacationner en région Sud mais réduisent durée et dépenses discrétionnaires (restaurants, sorties) face à baisse du pouvoir d'achat. Cette tendance affecte directement l'immobilier commercial touristique et la location saisonnière.",
-      "impact": "Opportunité de transaction : locaux commerciaux en zones touristiques PACA valorisés pour concepts fast-casual/budget vs haut de gamme, loyers à l'ajustement.",
-      "date": "12/08/2026",
-      "url": "https://www.laprovence.com/article/economie/5696000260898714/vacances-en-region-paca-les-francais-partent-encore-mais-depensent-autrement",
+      "title": "Apiculteurs Vaucluse : canicule impacte production et revenus",
+      "body": "La saison 2026 s'avère mauvaise pour les apiculteurs du Vaucluse en raison des vagues de canicule successives. Le marché d'Orange illustre la fragilité des petits producteurs locaux face aux chocs climatiques.",
+      "impact": "Anticiper une demande accrue de petits locaux de stockage climatisé et de transformation pour les producteurs agricoles/apicoles du Vaucluse touchés par les aléas climatiques.",
+      "date": "13/08/2026",
+      "url": "https://www.laprovence.com/article/societe/9103288939318814/pour-les-apiculteurs-du-vaucluse-la-saison-est-mauvaise-en-raison-de-la-canicule",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Marché PACA",
+          "cls": "tm"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,58 +100,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Nucléaire France : -20% puissance, record indisponibilités août 2026",
-      "body": "Le parc nucléaire EDF atteint un record d'indisponibilités environnementales (20% perte puissance) dus à sécheresse, fortes chaleurs et invasion de méduses aux centrales. Cette contrainte énergétique majeure impacte disponibilité électrique et tarifs pour immeubles tertiaires et activité en PACA.",
-      "impact": "Conseil transaction : clause d'ajustement des charges énergétiques critiques pour locataires bureaux/activité PACA face volatilité tarifaire électricité anticipée.",
-      "date": "12/08/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/8042387122127614/20-de-puissance-en-moins-record-pour-le-parc-nucleaire-francais-en-raison-de-contraintes-environnementales",
-      "source": "La Provence",
+      "title": "OAT 10Y stable à 3.70% : financement immobilier entreprise maintient coût",
+      "body": "Les taux OAT français demeurent à 3.70% sans signal de baisse court terme, stabilisant le coût de financement long terme pour les investisseurs immobiliers. L'Euribor3M se maintient à 2.15%, supportant les financements variables des PME.",
+      "impact": "Conseiller aux clients PACA de verrouiller les taux de financement long terme pour les acquisitions de locaux activité/bureau avant toute volatilité des taux.",
+      "date": "14/08/2026",
+      "url": "https://donnees-marche.fr/oat-euribor",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Énergie",
-          "cls": "tg"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : grève EasyJet 15-16 août perturbations touristiques",
-      "body": "Les personnels de cabine EasyJet France appelés à la grève 15-16 août suite échec négociations sur conditions travail. Cette action syndicale impacte le secteur aérien et touristique, affectant flux passagers et demande commerciale régionale en période haute saison.",
-      "impact": "Volatilité court-terme pour locataires commerciaux aéroportuaires et zones touristiques PACA ; suivi attentif demande septembre post-perturbation.",
-      "date": "12/08/2026",
-      "url": "https://www.laprovence.com/article/economie/42528270591987/easyjet-france-appel-a-la-greve-des-hotesses-et-stewards-les-15-et-16-aout",
-      "source": "La Provence",
+      "title": "Inflation France à 1.7% : environnement favorable investissement immobilier",
+      "body": "L'inflation en France se modère à 1.7%, créant un environnement macro favorable pour les investissements immobiliers à long terme. Les perspectives de stabilité de la BCE à 2.15% de taux directeur soutiennent cette trajectoire modérée.",
+      "impact": "L'inflation basse justifie un positionnement agressif auprès des investisseurs institutionnels pour les acquisitions immobilières PACA avec horizon long terme.",
+      "date": "14/08/2026",
+      "url": "https://donnees-marche.fr/inflation-france",
+      "source": "Données marché",
       "tags": [
         {
           "label": "Conjoncture",
-          "cls": "tm"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macro-financier août 2026 : taux OAT/Euribor stables",
-      "body": "En l'absence de données flux RSS spécifiques BCE/inflation récentes, marché se maintient : OAT 3.70%, Euribor3M 2.15%, taux directeur BCE 2.15%, inflation France 1.7%. Environnement taux stable soutient financement immobilier commercial en PACA.",
-      "impact": "Contexte de taux modérés favorable négociation baux et refinancement pour investisseurs SCPI/immobilier activité PACA : fenêtre opportunité avant fin Q3 2026.",
-      "date": "13/08/2026",
-      "url": "https://www.laprovence.com/article/economie/5696000260898714/vacances-en-region-paca-les-francais-partent-encore-mais-depensent-autrement",
-      "source": "Données marché consensus",
+      "title": "Energie : Brent à 96 USD/baril, impact coûts logistique immobilier PACA",
+      "body": "Le Brent se stabilise à 96 USD/baril sans pression haussière majeure malgré les tensions géopolitiques. Les coûts énergétiques pour les locaux d'activité/bureaux PACA restent contenus à moyen terme.",
+      "impact": "Valoriser auprès des tenants les locaux HQE/basse consommation énergétique face à la stabilité des prix du pétrole qui limite l'urgence de transition.",
+      "date": "14/08/2026",
+      "url": "https://donnees-marche.fr/brent-energie",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     }

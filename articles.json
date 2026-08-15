@@ -1,11 +1,11 @@
 {
-  "generated_at": "14/08/2026",
+  "generated_at": "15/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Facturation électronique : TPE et indépendants PACA doivent s'adapter",
-      "body": "La réforme de la facturation électronique concerne bien plus d'entreprises qu'on ne le pense, notamment les TPE et indépendants qui ne peuvent plus repousser cette évolution. De nombreux dirigeants pensent à tort que leur régime fiscal ou faible volume de facturation les dispense de cette obligation.",
-      "impact": "Les cabinets de conseil CRE PACA doivent intégrer l'assistance à la conformité facturation électronique dans leur offre aux PME/TPE pour valoriser les transactions de petits locaux d'activité.",
+      "title": "Facturation électronique : TPE et indépendants doivent se préparer",
+      "body": "La réforme de la facturation électronique concerne bien plus d'entreprises qu'on ne le pense, notamment les TPE et indépendants qui ne peuvent plus repousser cette évolution. Les petites structures doivent rapidement adapter leurs processus pour se conformer à cette obligation réglementaire.",
+      "impact": "Les petits commerces et locaux d'activité PACA doivent anticiper les coûts de digitalisation de leur facturation avant les délais imposés.",
       "date": "13/08/2026",
       "url": "https://www.laprovence.com/article/economie/6911275322324414/facturation-electronique-pourquoi-les-tpe-et-independants-ne-peuvent-plus-se-permettre-dattendre",
       "source": "La Provence",
@@ -22,15 +22,15 @@
     },
     {
       "id": "f2",
-      "title": "Femmes entrepreneuses : réseau FCE en expansion à La Ciotat",
-      "body": "Le réseau Femmes cheffes d'entreprises (FCE) célèbre son premier anniversaire à La Ciotat avec une première année réussie depuis juillet 2025. Cette dynamique interprofessionnelle crée un écosystème de soutien pour les entrepreneuses locales.",
-      "impact": "Opportunité de ciblage pour les offres d'espaces de coworking et de bureaux partagés auprès des femmes entrepreneurs en croissance en PACA.",
+      "title": "Tour de France féminin : impacts mitigés pour les commerces",
+      "body": "Le passage du Tour de France féminin à Sisteron le 8 août 2026 a généré des retours polarisés auprès des commerçants locaux. Les impacts économiques restent contrastés et questionnent la rentabilité réelle des grands événements pour le commerce local.",
+      "impact": "Les acteurs du secteur commercial PACA doivent évaluer précisément les retours sur investissement des événements ponctuels plutôt que de les considérer comme leviers automatiques de chiffre d'affaires.",
       "date": "13/08/2026",
-      "url": "https://www.laprovence.com/article/economie/8959265031009214/ces-femmes-entrepreneuses-celebrent-le-premier-anniversaire-de-leur-reseau-economique-local-a-la-ciotat",
+      "url": "https://www.laprovence.com/article/economie/9118322515647114/le-tour-de-france-feminin-laisse-un-souvenir-mitige-et-polarise-aux-commercants-de-sisteron",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché PACA",
+          "label": "Marché",
           "cls": "tm"
         },
         {
@@ -41,58 +41,58 @@
     },
     {
       "id": "f3",
-      "title": "Commerçants Sisteron : Tour de France féminin impact économique mitigé",
-      "body": "Le passage du Tour de France féminin à Sisteron le 8 août 2026 a laissé un souvenir mitigé et polarisé auprès des commerçants locaux. La question de l'impact économique réel des grands événements sur le commerce de proximité demeure controversée.",
-      "impact": "À Sisteron et communes PACA similaires, évaluer précisément l'impact des événements sur les flux commerciaux avant de justifier des investissements locaux en immobilier de commerce.",
-      "date": "13/08/2026",
-      "url": "https://www.laprovence.com/article/economie/9118322515647114/le-tour-de-france-feminin-laisse-un-souvenir-mitige-et-polarise-aux-commercants-de-sisteron",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Commerce PACA",
-          "cls": "tm"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Fabrication glaçons Vaucluse : PME agro-industrie bénéficie canicule",
-      "body": "Angélique Maurin, seule fabricante de glaçons du Vaucluse à 44 ans, prospère avec les vagues de canicule successives et l'été particulièrement chaud. Son activité agro-industrielle illustre une niche rentable en contexte climatique changeant.",
-      "impact": "Identifier les petites industries agro-alimentaires en croissance dans le Vaucluse pour proposer des locaux d'activité/entrepôts adaptés aux besoins de production thermiquement critiques.",
-      "date": "14/08/2026",
-      "url": "https://www.laprovence.com/article/economie/13679152154863/a-camaret-sur-aygues-avec-ses-glacons-made-in-vaucluse-elle-les-fait-tous-fondre-de-plaisir",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Marché PACA",
-          "cls": "tm"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Apiculteurs Vaucluse : canicule impacte production et revenus",
-      "body": "La saison 2026 s'avère mauvaise pour les apiculteurs du Vaucluse en raison des vagues de canicule successives. Le marché d'Orange illustre la fragilité des petits producteurs locaux face aux chocs climatiques.",
-      "impact": "Anticiper une demande accrue de petits locaux de stockage climatisé et de transformation pour les producteurs agricoles/apicoles du Vaucluse touchés par les aléas climatiques.",
+      "title": "Apiculteurs Vaucluse : canicule impacte la saison économique",
+      "body": "Les apiculteurs du Vaucluse connaissent une mauvaise saison due aux vagues de canicule successives qui perturbent les cycles de production. Cette conjoncture climatique défavorable affecte directement les activités économiques locales et les revenus des petits producteurs.",
+      "impact": "La baisse du pouvoir d'achat liée aux difficultés saisonnières des secteurs touristiques et agricoles PACA réduit la demande locative de commerces et d'activités.",
       "date": "13/08/2026",
       "url": "https://www.laprovence.com/article/societe/9103288939318814/pour-les-apiculteurs-du-vaucluse-la-saison-est-mauvaise-en-raison-de-la-canicule",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché PACA",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         },
+        {
+          "label": "Conjoncture",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Tourisme PACA : affluence en trompe-l'oeil malgré baisse pouvoir d'achat",
+      "body": "Moustiers-Sainte-Marie enregistre une forte affluence touristique estivale, mais la baisse du pouvoir d'achat des visiteurs crée une illusion de prospérité économique. Les commerçants et prestataires touristiques doivent adapter leurs offres à une clientèle moins dépensière.",
+      "impact": "Les acteurs de la transaction commerciale PACA doivent réviser à la baisse les projections de chiffre d'affaires pour les locations touristiques et de commerces en zones touristiques.",
+      "date": "14/08/2026",
+      "url": "https://www.laprovence.com/article/tourisme/56041308849695/baisse-du-pouvoir-d-achat-et-affluence-une-saison-touristique-en-trompe-l-oeil-a-moustiers-sainte-marie",
+      "source": "La Provence",
+      "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Manosque prépare arrivée Vuelta 2026 : impact économique immobilier",
+      "body": "Manosque s'apprête à accueillir une arrivée d'étape de la Vuelta 2026 dans 10 jours, mobilisant les ressources locales et générant des flux touristiques ponctuels. Cet événement majeur crée des opportunités temporaires pour les activités commerciales et de services liées au tourisme sportif.",
+      "impact": "Les propriétaires de locaux d'activité et commerciaux à Manosque doivent anticiper une hausse temporaire de la demande locative, mais sans surestimer les effets durables post-événement.",
+      "date": "14/08/2026",
+      "url": "https://www.laprovence.com/article/tourisme/13263697092625/vuelta-manosque-se-prepare-a-passer-a-l-heure-espagnole-a-dix-jours-de-l-arrivee-du-tour-d-espagne",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,27 +100,27 @@
   "macro": [
     {
       "id": "m1",
-      "title": "OAT 10Y stable à 3.70% : financement immobilier entreprise maintient coût",
-      "body": "Les taux OAT français demeurent à 3.70% sans signal de baisse court terme, stabilisant le coût de financement long terme pour les investisseurs immobiliers. L'Euribor3M se maintient à 2.15%, supportant les financements variables des PME.",
-      "impact": "Conseiller aux clients PACA de verrouiller les taux de financement long terme pour les acquisitions de locaux activité/bureau avant toute volatilité des taux.",
+      "title": "Climat économique PACA : secteurs touristiques et agricoles sous pression",
+      "body": "La conjoncture estivale 2026 en PACA révèle un paradoxe : forte affluence touristique couplée à une baisse du pouvoir d'achat des consommateurs et à des difficultés saisonnières (apiculture, viticulture). Les canicules répétées fragilisent les modèles économiques traditionnels de la région.",
+      "impact": "Les conseillers en transaction immobilière d'entreprise doivent anticiper une baisse des investissements en locaux commerciaux et d'activité si la conjoncture régionale continue à se détériorer.",
       "date": "14/08/2026",
-      "url": "https://donnees-marche.fr/oat-euribor",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/ecoplanete/914528023060514/a-chabanon-dans-les-alpes-de-haute-provence-la-survie-d-une-petite-station-face-au-changement-climatique",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France à 1.7% : environnement favorable investissement immobilier",
-      "body": "L'inflation en France se modère à 1.7%, créant un environnement macro favorable pour les investissements immobiliers à long terme. Les perspectives de stabilité de la BCE à 2.15% de taux directeur soutiennent cette trajectoire modérée.",
-      "impact": "L'inflation basse justifie un positionnement agressif auprès des investisseurs institutionnels pour les acquisitions immobilières PACA avec horizon long terme.",
+      "title": "Retraites : mesures pour femmes bénéficient aux revenus locaux PACA",
+      "body": "Les trimestres enfants intégrés au calcul des retraites des femmes à partir de septembre 2026 amélioreront les pensions de plus d'une femme sur deux. Cette mesure sociale augmente le pouvoir d'achat des retraités et soutient la consommation locale, notamment en PACA région à forte démographie retraite.",
+      "impact": "L'augmentation des revenus des femmes retraitées en PACA devrait soutenir modérément la demande de locaux commerciaux et services aux séniors.",
       "date": "14/08/2026",
-      "url": "https://donnees-marche.fr/inflation-france",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/58280735392465/retraites-comment-les-trimestres-enfants-vont-ameliorer-les-pensions-de-plus-dune-femme-sur-deux-en-septembre",
+      "source": "La Provence",
       "tags": [
         {
           "label": "Conjoncture",
@@ -130,16 +130,16 @@
     },
     {
       "id": "m3",
-      "title": "Energie : Brent à 96 USD/baril, impact coûts logistique immobilier PACA",
-      "body": "Le Brent se stabilise à 96 USD/baril sans pression haussière majeure malgré les tensions géopolitiques. Les coûts énergétiques pour les locaux d'activité/bureaux PACA restent contenus à moyen terme.",
-      "impact": "Valoriser auprès des tenants les locaux HQE/basse consommation énergétique face à la stabilité des prix du pétrole qui limite l'urgence de transition.",
-      "date": "14/08/2026",
-      "url": "https://donnees-marche.fr/brent-energie",
+      "title": "Contexte financier août 2026 : taux stables, inflation modérée",
+      "body": "Les conditions de financement restent stables avec OAT à 3.70% et Euribor 3M à 2.15%, reflétant une politique monétaire accommodante de la BCE à 2.15%. L'inflation française modérée à 1.7% maintient un environnement favorable aux investissements long terme en immobilier d'entreprise.",
+      "impact": "Les taux de financement stables permettent aux investisseurs et utilisateurs PACA de sécuriser leurs acquisitions d'immobilier d'entreprise sans crainte d'hausse rapide des coûts de crédit.",
+      "date": "15/08/2026",
+      "url": "https://www.laprovence.com/article/economie/6911275322324414/facturation-electronique-pourquoi-les-tpe-et-independants-ne-peuvent-plus-se-permettre-dattendre",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

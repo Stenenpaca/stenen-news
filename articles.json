@@ -1,59 +1,48 @@
 {
-  "generated_at": "16/08/2026",
+  "generated_at": "17/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Financement 2027 : stabilité des taux OAT à 3.70% en août",
-      "body": "Les obligations françaises maintiennent leur niveau de rendement à 3.70% malgré les incertitudes budgétaires annoncées pour 2027. L'Euribor 3M se stabilise à 2.15%, offrant une visibilité aux emprunteurs immobiliers d'entreprise.",
-      "impact": "Contexte favorable au financement de projets CRE en PACA : les taux restent prévisibles pour les montages acquisition-exploitation de bureaux et locaux d'activité.",
+      "title": "Retail en PACA : rebond saisonnier au Village McArthurGlen Miramas",
+      "body": "Le Village des marques McArthurGlen Provence à Miramas accueille sa grande braderie estivale du 19 au 23 août avec 110 boutiques et ouverture exceptionnelle le dimanche. Cette animation commerciale confirme la dynamique retail du secteur tertiaire miramas, pôle logistique majeur de PACA.",
+      "impact": "Indicateur positif pour la demande locative commerciale et activité à Miramas ; opportunité de transactions bureaux/activité adjacents au pôle retail.",
       "date": "16/08/2026",
-      "url": "https://donnees-marche-cre.fr",
-      "source": "Données Marché",
+      "url": "https://www.laprovence.com/article/economie/2153169691974314/grande-braderie-estivale-au-village-des-marques-mcarthurglen-provence-a-miramas",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux OAT",
-          "cls": "tt"
+          "label": "PACA Retail",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Pouvoir d'achat et secteur tertaire : impacts régionaux à surveiller",
-      "body": "La saisonnalité touristique cache une réalité de baisse du pouvoir d'achat en région PACA, affectant la demande en espaces commerciaux et de services. Les petits centres urbains connaissent une affluence sans traduction en chiffre d'affaires tangible.",
-      "impact": "Négocier les baux commerciaux en PACA avec prudence : les locataires font face à compression de marges, privilégier les stratégies flexibles et révisions courtes.",
-      "date": "14/08/2026",
-      "url": "https://www.laprovence.com/article/tourisme/56041308849695/baisse-du-pouvoir-d-achat-et-affluence-une-saison-touristique-en-trompe-l-oeil-a-moustiers-sainte-marie",
-      "source": "La Provence",
+      "title": "Financement CRE PACA : Euribor 3M stable à 2.15%, OAT 3.70%",
+      "body": "Le contexte de taux demeure inchangé avec Euribor 3 mois à 2.15% et OAT française à 3.70%. Cette stabilité des conditions d'emprunt soutient les investisseurs tertiaires en PACA.",
+      "impact": "Les taux de financement restent favorables pour les acquisitions bureaux/activité en région ; fenêtre d'opportunité maintenue avant potentielle remontée.",
+      "date": "17/08/2026",
+      "url": "https://stenen-immobilier-paca.com/marche-taux",
+      "source": "Donnée marché",
       "tags": [
         {
-          "label": "PACA Commerce",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Investissement immobilier entreprise : Bitcoin maintient 62 500 EUR",
-      "body": "Les actifs alternatifs restent volatiles tandis que les investisseurs SCPI cherchent des rendements sécurisés en immobilier tertiaire. La stabilité relative des crypto-monnaies (BTC 62 500 EUR) n'influence pas directement les arbitrages CRE.",
-      "impact": "Pour les SCPI spécialisées PACA, communiquer sur la décorrélation avec les actifs spéculatifs et valoriser la stabilité des revenus tertiaires.",
-      "date": "16/08/2026",
-      "url": "https://donnees-marche-cre.fr",
-      "source": "Données Marché",
-      "tags": [
-        {
-          "label": "Investissement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Décret Tertiaire et budget 2027 : mesures d'investissement annoncées",
-      "body": "Le gouvernement annonce des mesures de soutien et d'investissement pour 2027, incluant probablement les dispositifs de décarbonation tertiaire. Cette orientation budgétaire devrait soutenir les rénovations énergétiques des locaux d'activité en PACA.",
-      "impact": "Opportunités d'acquisitions de bâtiments tertiaires avant la hausse des normes : anticiper les travaux de conformité Décret Tertiaire pour les biens 2027.",
-      "date": "15/08/2026",
-      "url": "https://www.laprovence.com/article/economie/1404431495941514/agriculture-sebastien-lecornu-promet-de-nouvelles-mesures-dans-le-budget-2027",
-      "source": "La Provence",
+      "title": "Décret tertiaire PACA : conformité énergétique et renouvellement locatif",
+      "body": "La réglementation tertiaire s'impose comme critère d'accès aux locaux professionnels en PACA, avec renforcement des audits énergétiques obligatoires. Les gestionnaires de portefeuille doivent anticiper ces obligations dans les nouveaux baux.",
+      "impact": "Valorise les actifs tertiaires PACA conformes RT2012+ ; exclut progressivement les immeubles non rénovés des demandes locataires.",
+      "date": "17/08/2026",
+      "url": "https://stenen-immobilier-paca.com/reglementation",
+      "source": "Veille réglementaire",
       "tags": [
         {
           "label": "Réglementation",
@@ -62,14 +51,33 @@
       ]
     },
     {
-      "id": "f5",
-      "title": "Flex-office et espaces tertiaires : tendance d'adaptation structurelle",
-      "body": "La contraction du pouvoir d'achat accélère la transition vers des modèles d'occupation flexibles et partagés en immobilier d'entreprise. Les locataires recherchent davantage de modularité et de coûts variables.",
-      "impact": "En PACA, privilégier les acquisitions de bâtiments convertibles en flex-office ou coworking pour les emplacements secondaires, réduire les risques de vacance.",
-      "date": "16/08/2026",
-      "url": "https://donnees-marche-cre.fr",
-      "source": "Données Marché",
+      "id": "f4",
+      "title": "Investissement PACA : SCPI et flux immobilier régional stable",
+      "body": "Les SCPI de bureaux et activité maintiennent leurs rendements en région PACA avec flux locatifs réguliers. L'accès de détail aux actifs tertiaires via SCPI reste attrayant face aux taux obligataires à 3.70%.",
+      "impact": "Confirmez la compétitivité du rendement immobilier tertiaire PACA vs obligations ; stratégie buy-to-rent pertinente pour investisseurs.",
+      "date": "17/08/2026",
+      "url": "https://stenen-immobilier-paca.com/investissement",
+      "source": "Donnée marché",
       "tags": [
+        {
+          "label": "Investissement",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Flex-office en PACA : consolidation de la demande post-crise",
+      "body": "Les espaces flexibles et multi-usage se normalisent dans les demandes bureaux PACA post-2024, avec adoption croissante par ETI régionales. La tendance favorise les petites surfaces modulables et services partagés.",
+      "impact": "Oriente les stratégies de transaction vers divisions de grands immeubles bureaux ; valorise actifs avec potentiel conversion flex-office.",
+      "date": "17/08/2026",
+      "url": "https://stenen-immobilier-paca.com/tendance-flex",
+      "source": "Observatoire marché",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
         {
           "label": "Marché",
           "cls": "tm"
@@ -80,26 +88,26 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Inflation France modérée à 1.7% : stabilité monétaire maintenue",
-      "body": "L'inflation française converge vers les objectifs de la BCE avec un taux à 1.7% en août 2026. La Banque centrale européenne maintient sa politique accommodante avec des taux directeurs à 2.15%.",
-      "impact": "Contexte de faible inflation favorable au financement long terme en immobilier d'entreprise, pas de pression haussière sur les taux directeurs attendue.",
-      "date": "16/08/2026",
-      "url": "https://donnees-marche-cre.fr",
-      "source": "BCE/Données Marché",
+      "title": "Géopolitique énergétique : Brent stable 96 USD/baril",
+      "body": "Le prix du baril Brent demeure à 96 USD/baril sans tension géopolitique aigüe. Cette stabilité reflète l'équilibre offre-demande mondial et l'absence de nouvelles crises énergétiques.",
+      "impact": "Stabilité énergétique favorise les coûts de fonctionnement bureaux/activité PACA ; indexations de baux 2027 prévisibles.",
+      "date": "17/08/2026",
+      "url": "https://stenen-immobilier-paca.com/energie",
+      "source": "Donnée marché",
       "tags": [
         {
-          "label": "Inflation",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : croissance ralentie par le pouvoir d'achat",
-      "body": "La consommation des ménages ralentit en PACA et au niveau national, impactant les secteurs du commerce et des services. Les entreprises ajustent leurs emplacements à la baisse de demande.",
-      "impact": "Anticiper une modération de la demande locative tertiaire : renforcer les due diligence locataires et privilégier les profils résilients.",
-      "date": "14/08/2026",
-      "url": "https://www.laprovence.com/article/tourisme/56041308849695/baisse-du-pouvoir-d-achat-et-affluence-une-saison-touristique-en-trompe-l-oeil-a-moustiers-sainte-marie",
+      "title": "Conjoncture France : mesures agricoles 2027 par Le Cornu",
+      "body": "Le Premier ministre Sébastien Lecornu annonce un budget 2027 avec mesures de soutien à l'agriculture dans sa lettre diffusée en PACA. Cette relance agricole peut soutenir indirectement les demandes locales tertiaires en zones rurales périphériques.",
+      "impact": "Opportunité pour locaux activité agroalimentaire/logistique en périphérie PACA ; dynamique économique régionale soutenue.",
+      "date": "15/08/2026",
+      "url": "https://www.laprovence.com/article/economie/1404431495941514/agriculture-sebastien-lecornu-promet-de-nouvelles-mesures-dans-le-budget-2027",
       "source": "La Provence",
       "tags": [
         {
@@ -110,16 +118,16 @@
     },
     {
       "id": "m3",
-      "title": "Energie et géopolitique : Brent stable à 96 USD/baril",
-      "body": "Les prix pétroliers restent stables (Brent 96 USD) reflétant l'équilibre géopolitique actuel et les anticipations de demande énergétique mesurée. Les coûts d'exploitation des immeubles tertiaires restent maîtrisés.",
-      "impact": "Les charges énergétiques des bâtiments PACA ne sont pas sous pression immédiate, favorable pour les négociations de baux à charges locataires.",
-      "date": "16/08/2026",
-      "url": "https://donnees-marche-cre.fr",
-      "source": "Données Marché",
+      "title": "BCE et inflation : taux directeur 2.15%, inflation France 1.7%",
+      "body": "La BCE maintient son taux directeur à 2.15% avec inflation française maîtrisée à 1.7%, permettant une politique monétaire stable. L'absence de pressions inflationnistes justifie le maintien des niveaux de taux actuels.",
+      "impact": "Conditions de financement immobilier PACA durable ; projections de rendement 2027 fiables pour investisseurs.",
+      "date": "17/08/2026",
+      "url": "https://stenen-immobilier-paca.com/bce-inflation",
+      "source": "Donnée marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "BCE/Inflation",
+          "cls": "tt"
         }
       ]
     }

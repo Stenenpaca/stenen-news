@@ -1,86 +1,98 @@
 {
-  "generated_at": "17/08/2026",
+  "generated_at": "18/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Retail en PACA : rebond saisonnier au Village McArthurGlen Miramas",
-      "body": "Le Village des marques McArthurGlen Provence à Miramas accueille sa grande braderie estivale du 19 au 23 août avec 110 boutiques et ouverture exceptionnelle le dimanche. Cette animation commerciale confirme la dynamique retail du secteur tertiaire miramas, pôle logistique majeur de PACA.",
-      "impact": "Indicateur positif pour la demande locative commerciale et activité à Miramas ; opportunité de transactions bureaux/activité adjacents au pôle retail.",
-      "date": "16/08/2026",
-      "url": "https://www.laprovence.com/article/economie/2153169691974314/grande-braderie-estivale-au-village-des-marques-mcarthurglen-provence-a-miramas",
+      "title": "Hôtel d'Entreprises de Barcelonnette : transformation réussie post-caserne",
+      "body": "La Communauté de communes vallée de l'Ubaye Serre-Ponçon (CCVUSP) a transformé en trois ans l'ancien quartier du 11e bataillon de chasseurs alpins en véritable Hôtel d'Entreprises moderne. Cette reconversion illustre le dynamisme de l'immobilier d'activité en zones rurales de PACA.",
+      "impact": "Opportunité pour identifier et valoriser des reconversions d'actifs publics/militaires en locaux d'activité dans les zones montagnardes PACA.",
+      "date": "17/08/2026",
+      "url": "https://www.laprovence.com/article/region/3135005196064114/a-barcelonnette-dans-les-alpes-de-haute-provence-l-hotel-d-entreprises-tourne-la-page-de-la-caserne",
       "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA Retail",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Financement CRE PACA : Euribor 3M stable à 2.15%, OAT 3.70%",
-      "body": "Le contexte de taux demeure inchangé avec Euribor 3 mois à 2.15% et OAT française à 3.70%. Cette stabilité des conditions d'emprunt soutient les investisseurs tertiaires en PACA.",
-      "impact": "Les taux de financement restent favorables pour les acquisitions bureaux/activité en région ; fenêtre d'opportunité maintenue avant potentielle remontée.",
-      "date": "17/08/2026",
-      "url": "https://stenen-immobilier-paca.com/marche-taux",
-      "source": "Donnée marché",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Décret tertiaire PACA : conformité énergétique et renouvellement locatif",
-      "body": "La réglementation tertiaire s'impose comme critère d'accès aux locaux professionnels en PACA, avec renforcement des audits énergétiques obligatoires. Les gestionnaires de portefeuille doivent anticiper ces obligations dans les nouveaux baux.",
-      "impact": "Valorise les actifs tertiaires PACA conformes RT2012+ ; exclut progressivement les immeubles non rénovés des demandes locataires.",
-      "date": "17/08/2026",
-      "url": "https://stenen-immobilier-paca.com/reglementation",
-      "source": "Veille réglementaire",
-      "tags": [
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Investissement PACA : SCPI et flux immobilier régional stable",
-      "body": "Les SCPI de bureaux et activité maintiennent leurs rendements en région PACA avec flux locatifs réguliers. L'accès de détail aux actifs tertiaires via SCPI reste attrayant face aux taux obligataires à 3.70%.",
-      "impact": "Confirmez la compétitivité du rendement immobilier tertiaire PACA vs obligations ; stratégie buy-to-rent pertinente pour investisseurs.",
-      "date": "17/08/2026",
-      "url": "https://stenen-immobilier-paca.com/investissement",
-      "source": "Donnée marché",
-      "tags": [
-        {
-          "label": "Investissement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Flex-office en PACA : consolidation de la demande post-crise",
-      "body": "Les espaces flexibles et multi-usage se normalisent dans les demandes bureaux PACA post-2024, avec adoption croissante par ETI régionales. La tendance favorise les petites surfaces modulables et services partagés.",
-      "impact": "Oriente les stratégies de transaction vers divisions de grands immeubles bureaux ; valorise actifs avec potentiel conversion flex-office.",
-      "date": "17/08/2026",
-      "url": "https://stenen-immobilier-paca.com/tendance-flex",
-      "source": "Observatoire marché",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Immobilier activité",
           "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Vallée de l'Ubaye : développement retail et services tertiaires",
+      "body": "Mille100-47 intègre progressivement des commerces de proximité (boutique vélo avec marque maison) dans ses espaces anciennement hôteliers. Cette évolution montre la diversification des usages tertiaires en zones périphériques PACA.",
+      "impact": "Suivre les mutations des espaces commerciaux et tertiaires en montagne PACA pour identifier des demandes preneurs retail/services innovants.",
+      "date": "17/08/2026",
+      "url": "https://www.laprovence.com/article/region/88525034205831/mille100-47-tisse-sa-marque-au-coeur-de-la-vallee-de-l-ubaye",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce tertiaire",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Auto-écoles PACA : impact carburant sur modèle économique tertiaire",
+      "body": "Les auto-écoles côte d'Azur signalent une nouvelle envolée des prix à la pompe impactant directement leur rentabilité d'exploitation. Cette augmentation des coûts d'énergie affecte tous les secteurs tertiaires basés sur la mobilité.",
+      "impact": "Intégrer dans les évaluations d'offres tertiaires (commerce, services mobiles) les risques énergétiques et carburant pour affiner les marges nettes des candidats preneurs.",
+      "date": "17/08/2026",
+      "url": "https://www.laprovence.com/article/societe/2838845394345714/ca-fait-un-trou-dans-la-caisse-le-cri-d-alerte-des-auto-ecoles-de-la-cote-dazur-face-a-l-augmentation-des-prix-du-carburant",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Énergie",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Financement immobilier tertiaire : OAT 3,70%, Euribor 3M 2,15%",
+      "body": "Les conditions de financement restent à des niveaux de taux structurellement élevés avec OAT 10 ans à 3,70% et Euribor 3 mois à 2,15%. Ces niveaux continuent de peser sur la rentabilité des opérations d'acquisition/rénovation de bureaux et locaux PACA.",
+      "impact": "Recommander aux investisseurs une stratégie de taux fixes ou couverture partielle pour les transactions >2M€ afin de sécuriser la profitabilité long terme.",
+      "date": "18/08/2026",
+      "url": "https://www.stenen-paca.fr/donnees-marche",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Taux Euribor/OAT",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Décret tertiaire et conformité : vigilance accrue demandée aux bailleurs",
+      "body": "La pression réglementaire sur la décarbonation du tertiaire persiste avec des obligations 2030 approchant. Les bailleurs PACA doivent anticiper les investissements de transition énergétique pour rester conformes et attractifs.",
+      "impact": "Sensibiliser les vendeurs de bureaux/locaux activité à intégrer un audit décret tertiaire dans le dossier de vente pour maximiser l'attractivité auprès des preneurs institutionnels.",
+      "date": "18/08/2026",
+      "url": "https://www.stenen-paca.fr/donnees-marche",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Décret tertiaire",
+          "cls": "tr"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     }
@@ -88,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Géopolitique énergétique : Brent stable 96 USD/baril",
-      "body": "Le prix du baril Brent demeure à 96 USD/baril sans tension géopolitique aigüe. Cette stabilité reflète l'équilibre offre-demande mondial et l'absence de nouvelles crises énergétiques.",
-      "impact": "Stabilité énergétique favorise les coûts de fonctionnement bureaux/activité PACA ; indexations de baux 2027 prévisibles.",
-      "date": "17/08/2026",
-      "url": "https://stenen-immobilier-paca.com/energie",
-      "source": "Donnée marché",
+      "title": "Conjoncture France : inflation modérée à 1,7%, BCE stable à 2,15%",
+      "body": "L'inflation française demeure contenue à 1,7% tandis que la BCE maintient ses taux directeurs à 2,15%. Ces conditions de stabilité macroéconomique soutiennent la prévisibilité des décisions d'investissement immobilier tertiaire.",
+      "impact": "Environnement favorable pour conseiller des acquisitions immobilières sans crainte d'érosion monétaire majeure court terme en PACA.",
+      "date": "18/08/2026",
+      "url": "https://www.stenen-paca.fr/donnees-marche",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Inflation",
+          "cls": "tg"
+        },
+        {
+          "label": "BCE",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : mesures agricoles 2027 par Le Cornu",
-      "body": "Le Premier ministre Sébastien Lecornu annonce un budget 2027 avec mesures de soutien à l'agriculture dans sa lettre diffusée en PACA. Cette relance agricole peut soutenir indirectement les demandes locales tertiaires en zones rurales périphériques.",
-      "impact": "Opportunité pour locaux activité agroalimentaire/logistique en périphérie PACA ; dynamique économique régionale soutenue.",
-      "date": "15/08/2026",
-      "url": "https://www.laprovence.com/article/economie/1404431495941514/agriculture-sebastien-lecornu-promet-de-nouvelles-mesures-dans-le-budget-2027",
-      "source": "La Provence",
+      "title": "Géopolitique énergétique : Brent 96 USD/baril, tensions persistantes",
+      "body": "Le Brent reste positionné à 96 USD/baril dans un contexte géopolitique tendu. Les risques d'approvisionnement énergétique global pèsent sur les coûts d'exploitation tertiaire et sur les appétences d'investissement.",
+      "impact": "Intégrer une prime de risque énergétique dans les valorisations immobilières PACA et expliciter les hypothèses de coûts exploitation aux investisseurs.",
+      "date": "18/08/2026",
+      "url": "https://www.stenen-paca.fr/donnees-marche",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Énergie/Brent",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE et inflation : taux directeur 2.15%, inflation France 1.7%",
-      "body": "La BCE maintient son taux directeur à 2.15% avec inflation française maîtrisée à 1.7%, permettant une politique monétaire stable. L'absence de pressions inflationnistes justifie le maintien des niveaux de taux actuels.",
-      "impact": "Conditions de financement immobilier PACA durable ; projections de rendement 2027 fiables pour investisseurs.",
+      "title": "Précité étudiante et fonds publics : aide aux collectivités territoriales",
+      "body": "Le Gouvernement promet 12 millions d'euros d'aide aux collectivités affectées par les incendies (Gironde/Landes) et engage un débat sur les priorités budgétaires (étudiants à 1.300€/mois). Ces arbitrages publics affectent les appels d'offre publics de bureaux/locaux en PACA.",
+      "impact": "Veiller aux nouvelles enveloppes publiques régionales pour immobilier tertiaire et aux appels d'offre décentralisés susceptibles de dynamiser le marché PACA.",
       "date": "17/08/2026",
-      "url": "https://stenen-immobilier-paca.com/bce-inflation",
-      "source": "Donnée marché",
+      "url": "https://www.laprovence.com/article/economie/3007187041910314/incendies-en-gironde-et-dans-les-landes-12-millions-deuros-promis-par-lecornu-comment-sera-repartie-cette-aide",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "BCE/Inflation",
-          "cls": "tt"
+          "label": "Conjoncture",
+          "cls": "tg"
+        },
+        {
+          "label": "Politique publique",
+          "cls": "tg"
         }
       ]
     }

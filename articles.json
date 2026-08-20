@@ -1,45 +1,76 @@
 {
-  "generated_at": "19/08/2026",
+  "generated_at": "20/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Dette publique : taux d'emprunt France au plus haut depuis 2008",
-      "body": "Le taux d'intérêt de la dette française a atteint mardi 18 août son plus haut niveau depuis 2008, sur fond de flambée généralisée du coût des emprunts des États. Cette hausse reflète les craintes inflationnistes sur les marchés des obligations.",
-      "impact": "Les conditions de financement se durcissent pour les entreprises PACA : les taux de crédit aux PME-ETI et aux projets immobiliers tertiaires vont augmenter, impactant les dossiers de transaction et les projets d'expansion.",
-      "date": "18/08/2026",
-      "url": "https://www.laprovence.com/article/economie/35897751557681/dette-publique-le-taux-d-emprunt-de-la-france-au-plus-haut-depuis-2008",
+      "title": "Coupures électricité en Provence : risques opérationnels pour tertiai",
+      "body": "Les zones urbaines denses de Provence connaissent des coupures d'électricité répétées liées aux fortes chaleurs, affectant 5 000 foyers à Avignon et milliers à Marseille. Le réseau électrique montre des signes de faiblesse structurels avec l'été.",
+      "impact": "Conseillers CRE : mettre en avant la résilience énergétique des immeubles tertiaires PACA lors de négociations, vérifier stabilité alimentation électrique des locaux d'activité.",
+      "date": "19/08/2026",
+      "url": "https://www.laprovence.com/article/societe/140148706866214/coupures-d-electricite-en-provence-avec-les-fortes-chaleurs-les-zones-urbaines-denses-sont-exposees",
       "source": "La Provence",
       "tags": [
         {
-          "label": "OAT/Financement",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Infrastructure",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Sécheresse : marchés PACA face à la hausse des prix agricoles",
-      "body": "Les canicules à répétition et la sécheresse mettent les cultures à rude épreuve, affectant les prix des fruits et légumes. Sur le marché de Noailles à Marseille, les petits prix se font plus rares et les produits se raréfient.",
-      "impact": "Les commerces de proximité et petits locaux de vente en PACA doivent anticiper une hausse des charges d'approvisionnement et une baisse potentielle de fréquentation estivale, affectant les baux commerciaux.",
-      "date": "18/08/2026",
-      "url": "https://www.laprovence.com/article/region/37478774262484/canicules-a-repetition-et-secheresse-sur-le-populaire-marche-de-noailles-a-marseille-les-petits-prix-se-font-plus-rares",
+      "title": "Arts of Infinity : entrepreneuriat jeune à Marseille",
+      "body": "Deux cousins marseillais de 22 ans lancent une marque de t-shirts combinant design graphique et conception 3D. Projet local d'innovation créative dans le 13e arrondissement.",
+      "impact": "Opportunité d'offres de locaux d'activité flexibles pour jeunes startups créatives, segment en croissance sur Marseille intra-muros.",
+      "date": "19/08/2026",
+      "url": "https://www.laprovence.com/article/economie/1458802290672414/arts-of-infinity-cette-marque-de-t-shirts-cree-et-elaboree-par-deux-cousins-a-marseille",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché PACA",
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Piratage du fisc : 700 000 données personnelles et entreprises compromises",
-      "body": "Le ministre des Comptes publics David Amiel a présenté des excuses pour le piratage du fisc ayant entraîné le vol de données de quelque 700 000 particuliers et entreprises. Une troisième fuite de données liées aux successions a également été annoncée.",
-      "impact": "Les propriétaires d'immeubles tertiaires et commerciaux en PACA doivent renforcer leur cybersécurité et vérifier leurs données fiscales ; les délais administratifs d'autorisation de travaux pourraient s'allonger.",
-      "date": "18/08/2026",
-      "url": "https://www.laprovence.com/article/societe/44021696649174/piratage-du-fisc-le-ministre-des-comptes-publics-david-amiel-presente-des-excuses",
+      "title": "Instant Frais ouvre boutique au Thor : essor commerce alimentaire",
+      "body": "Nouvelle enseigne spécialisée dans la vente de fruits, légumes et produits frais ouvre au Thor en Provence, avec mission de lutte contre le gaspillage alimentaire. Segment commerce de proximité en expansion.",
+      "impact": "Demande croissante d'espaces commerciaux petits/moyens (500-1000m²) pour commerce alimentaire spécialisé en PACA ; valoriser emplacements haute fréquentation.",
+      "date": "19/08/2026",
+      "url": "https://www.laprovence.com/article/societe/1208088235713214/instant-frais-une-nouvelle-boutique-ouvre-ses-portes-au-thor-afin-de-lutter-contre-le-gaspillage-alimentaire",
       "source": "La Provence",
       "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Marché tertiaire PACA : tensions liées à canicule et résilience",
+      "body": "Les coupures d'électricité massives en Provence impactent directement la continuité opérationnelle des entreprises tertiaires (frigorifiques, data, conservation). Problématique structurelle d'infrastructure affectant locataires.",
+      "impact": "Transacteurs CRE doivent évaluer vulnérabilité énergétique des immeubles : critères d'audit électrique, backup énergétique et clauses de responsabilité du bailleur à valoriser.",
+      "date": "19/08/2026",
+      "url": "https://www.laprovence.com/article/societe/1208088235713214/instant-frais-une-nouvelle-boutique-ouvre-ses-portes-au-thor-afin-de-lutter-contre-le-gaspillage-alimentaire",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
         {
           "label": "Réglementation",
           "cls": "tr"
@@ -47,32 +78,21 @@
       ]
     },
     {
-      "id": "f4",
-      "title": "Barcelonnette : transformation de l'Hôtel d'Entreprises en hub professionnel",
-      "body": "L'Hôtel d'Entreprises de la CCVUSP dans les Alpes-de-Haute-Provence a transformé l'ancien quartier du 11e bataillon de chasseurs alpins en espace flexible. En trois ans, cette reconversion dynamise l'écosystème entrepreneurial local.",
-      "impact": "Ce modèle d'Hôtel d'Entreprises offre une opportunité pour les acteurs PACA : développer des offres de bureaux partagés et locaux d'activité flexibles en zones secondaires pour capter les entreprises en quête d'espaces abordables et modulables.",
-      "date": "17/08/2026",
-      "url": "https://www.laprovence.com/article/region/3135005196064114/a-barcelonnette-dans-les-alpes-de-haute-provence-l-hotel-d-entreprises-tourne-la-page-de-la-caserne",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
       "id": "f5",
-      "title": "Grande distribution : engagement pour produits français malgré sécheresse",
-      "body": "Les enseignes de la grande distribution s'engagent à être plus tolérantes sur les calibres et aspects des fruits et légumes et à privilégier les produits français. Cette initiative vise à soutenir les agriculteurs face à la sécheresse exceptionnelle.",
-      "impact": "Les locaux commerciaux alimentaires en PACA bénéficient d'une demande accrue de surfaces de stockage et de vente pour les produits locaux ; les commerces agrandis verront leur valeur de marché augmenter.",
-      "date": "18/08/2026",
-      "url": "https://www.laprovence.com/article/economie/40531522921800/face-a-la-secheresse-les-supermarches-s-engagent-a-acheter-plus-de-produits-francais-meme-imparfaits",
-      "source": "La Provence",
+      "title": "Conditions financement immobilier : OAT 3.70% stabilisé",
+      "body": "Contexte de taux stables avec OAT 10Y à 3.70% et Euribor 3M à 2.15% ; BCE maintient son taux directeur à 2.15%. Financement immobilier tertiaire en PACA reste accessible.",
+      "impact": "Conseil acquisition immobilière CRE PACA : fenêtre de refinancement favorable pour investisseurs ; argumenter stabilité taux à long terme pour décisions d'investissement.",
+      "date": "20/08/2026",
+      "url": "https://www.laprovence.com/article/economie/1458802290672414/arts-of-infinity-cette-marque-de-t-shirts-cree-et-elaboree-par-deux-cousins-a-marseille",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Commerce PACA",
-          "cls": "tm"
+          "label": "Taux/OAT",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     }
@@ -80,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "OAT France au plus haut depuis 2008 : durcissement financier confirmé",
-      "body": "Le taux d'intérêt français a atteint 3,70% mardi 18 août, son niveau le plus élevé depuis 2008. Cette hausse généralisée du coût des emprunts reflète les préoccupations inflationnistes et le resserrement monétaire global.",
-      "impact": "Les investisseurs institutionnels réduisent les acquisitions d'actifs immobiliers ; les rendements exigés sur les SCPI et les biens tertiaires augmentent, créant des opportunités de rendement pour les placements résilients.",
-      "date": "18/08/2026",
-      "url": "https://www.laprovence.com/article/economie/35897751557681/dette-publique-le-taux-d-emprunt-de-la-france-au-plus-haut-depuis-2008",
+      "title": "Piratages informatiques : nouvelle unité cyber gouvernementale",
+      "body": "Le Premier ministre Sébastien Lecornu demande à l'ANSSI de constituer une nouvelle unité cyber pour réponse opérationnelle plus réactive face aux piratages. Renforcement de la sécurité informatique d'État.",
+      "impact": "Impact indirect : renforcement normes cybersécurité pour immeubles tertiaires connectés (smart buildings) ; anticiper investissements conformité pour immeubles PACA à louer à secteur sensible.",
+      "date": "19/08/2026",
+      "url": "https://www.laprovence.com/article/politique/1313565967125914/piratages-pour-une-reponse-operationnelle-plus-reactive-sebastien-lecornu-veut-une-nouvelle-unite-cyber",
       "source": "La Provence",
       "tags": [
         {
-          "label": "OAT/Taux",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : crise climatique impacte secteur agro-alimentaire",
-      "body": "Les canicules répétées et la sécheresse créent une crise agricole majeure en France, affectant 20% de la production nationale de riz en Camargue et généralisant la hausse des prix alimentaires. Les supermarchés adaptent leurs stratégies pour soutenir les producteurs locaux.",
-      "impact": "L'inflation alimentaire rampante et l'instabilité climatique réduisent le pouvoir d'achat des ménages français, contractant la demande pour les surfaces commerciales en PACA et pressurisant les marges des distributeurs.",
-      "date": "18/08/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/52791863351060/la-seule-solution-c-est-l-hybridation-face-a-la-salinisation-un-riz-2-0-en-phase-de-test-en-camargue",
+      "title": "Conflit social majeur : grève Haribo Marseille suspendue",
+      "body": "Après 7 semaines de mobilisation sans quasi aucune concession patronale, les salariés d'Haribo à Marseille suspendent temporairement leur grève. Tension sociale majeure dans usine marseillaise historique.",
+      "impact": "Conjoncture France : tensions sociales secteur agroalimentaire persistantes ; impact indirect sur loyers activité industrielle/logistique autour Marseille via capacité paiement locataires.",
+      "date": "19/08/2026",
+      "url": "https://www.laprovence.com/article/societe/1281289049999214/les-salaries-d-haribo-a-marseille-annoncent-la-suspension-temporaire-de-la-greve-apres-7-semaines-de-mobilisation",
       "source": "La Provence",
       "tags": [
         {
           "label": "Conjoncture",
           "cls": "tg"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Données manquantes BCE/inflation : recours données marché de référence",
-      "body": "Euribor 3M : 2,15% | Taux BCE : 2,15% | Inflation France : 1,7%. Les taux directeurs restent élevés malgré une inflation modérée, signalant une poursuite du resserrement monétaire de la BCE pour contrer les pressions price-level.",
-      "impact": "Le maintien de taux élevés (OAT 3,70%) freine les appétits d'investissement immobilier en PACA ; favoriser les actifs résilients et diversifier les portefeuilles SCPI pour capturer les rendements défensifs.",
-      "date": "19/08/2026",
-      "url": "https://www.laprovence.com/article/economie/35897751557681/dette-publique-le-taux-d-emprunt-de-la-france-au-plus-haut-depuis-2008",
-      "source": "Données Marché",
+      "title": "Inflation France stable : contexte BCE 2.15% maintenu",
+      "body": "Inflation France à 1.7% ; BCE maintient taux directeur à 2.15% dans contexte de stabilité macroéconomique. Environnement de financement favorable pour investissements immobiliers.",
+      "impact": "Marché immobilier PACA : inflation modérée préserve pouvoir d'achat des entreprises ; contexte favorable pour transactions bureaux/activité et renouvellement baux commerciaux.",
+      "date": "20/08/2026",
+      "url": "https://www.laprovence.com/article/economie/1458802290672414/arts-of-infinity-cette-marque-de-t-shirts-cree-et-elaboree-par-deux-cousins-a-marseille",
+      "source": "Données marché BCE",
       "tags": [
         {
-          "label": "BCE/Inflation",
+          "label": "Inflation/BCE",
           "cls": "tt"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     }

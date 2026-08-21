@@ -1,74 +1,17 @@
 {
-  "generated_at": "20/08/2026",
+  "generated_at": "21/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Coupures électricité en Provence : risques opérationnels pour tertiai",
-      "body": "Les zones urbaines denses de Provence connaissent des coupures d'électricité répétées liées aux fortes chaleurs, affectant 5 000 foyers à Avignon et milliers à Marseille. Le réseau électrique montre des signes de faiblesse structurels avec l'été.",
-      "impact": "Conseillers CRE : mettre en avant la résilience énergétique des immeubles tertiaires PACA lors de négociations, vérifier stabilité alimentation électrique des locaux d'activité.",
-      "date": "19/08/2026",
-      "url": "https://www.laprovence.com/article/societe/140148706866214/coupures-d-electricite-en-provence-avec-les-fortes-chaleurs-les-zones-urbaines-denses-sont-exposees",
+      "title": "Avignon : nouvel arrêté municipal pour occupation espace public",
+      "body": "La mairie d'Avignon a mis en place un arrêté contre l'occupation prolongée de l'espace public, bien accueilli par les commerçants des axes principaux (rue de la République, place Pie, cours Jean-Jaurès). Cette mesure vise à sécuriser et valoriser les zones commerciales du centre-ville.",
+      "impact": "Recommander aux candidats preneurs en commerce à Avignon de vérifier la mise en application de cet arrêté pour évaluer l'amélioration du contexte commercial et de la clientèle.",
+      "date": "20/08/2026",
+      "url": "https://www.laprovence.com/article/societe/18294203297118/a-avignon-le-nouvel-arrete-municipal-contre-l-occupation-de-l-espace-public-prolongee-est-bien-accueilli-par-les-commercants",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Infrastructure",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Arts of Infinity : entrepreneuriat jeune à Marseille",
-      "body": "Deux cousins marseillais de 22 ans lancent une marque de t-shirts combinant design graphique et conception 3D. Projet local d'innovation créative dans le 13e arrondissement.",
-      "impact": "Opportunité d'offres de locaux d'activité flexibles pour jeunes startups créatives, segment en croissance sur Marseille intra-muros.",
-      "date": "19/08/2026",
-      "url": "https://www.laprovence.com/article/economie/1458802290672414/arts-of-infinity-cette-marque-de-t-shirts-cree-et-elaboree-par-deux-cousins-a-marseille",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Instant Frais ouvre boutique au Thor : essor commerce alimentaire",
-      "body": "Nouvelle enseigne spécialisée dans la vente de fruits, légumes et produits frais ouvre au Thor en Provence, avec mission de lutte contre le gaspillage alimentaire. Segment commerce de proximité en expansion.",
-      "impact": "Demande croissante d'espaces commerciaux petits/moyens (500-1000m²) pour commerce alimentaire spécialisé en PACA ; valoriser emplacements haute fréquentation.",
-      "date": "19/08/2026",
-      "url": "https://www.laprovence.com/article/societe/1208088235713214/instant-frais-une-nouvelle-boutique-ouvre-ses-portes-au-thor-afin-de-lutter-contre-le-gaspillage-alimentaire",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Marché tertiaire PACA : tensions liées à canicule et résilience",
-      "body": "Les coupures d'électricité massives en Provence impactent directement la continuité opérationnelle des entreprises tertiaires (frigorifiques, data, conservation). Problématique structurelle d'infrastructure affectant locataires.",
-      "impact": "Transacteurs CRE doivent évaluer vulnérabilité énergétique des immeubles : critères d'audit électrique, backup énergétique et clauses de responsabilité du bailleur à valoriser.",
-      "date": "19/08/2026",
-      "url": "https://www.laprovence.com/article/societe/1208088235713214/instant-frais-une-nouvelle-boutique-ouvre-ses-portes-au-thor-afin-de-lutter-contre-le-gaspillage-alimentaire",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
+          "label": "Commerce PACA",
           "cls": "tp"
         },
         {
@@ -78,21 +21,78 @@
       ]
     },
     {
-      "id": "f5",
-      "title": "Conditions financement immobilier : OAT 3.70% stabilisé",
-      "body": "Contexte de taux stables avec OAT 10Y à 3.70% et Euribor 3M à 2.15% ; BCE maintient son taux directeur à 2.15%. Financement immobilier tertiaire en PACA reste accessible.",
-      "impact": "Conseil acquisition immobilière CRE PACA : fenêtre de refinancement favorable pour investisseurs ; argumenter stabilité taux à long terme pour décisions d'investissement.",
+      "id": "f2",
+      "title": "Taxe foncière 2026 : calendrier de mise à disposition",
+      "body": "Les avis de taxe foncière 2026 seront disponibles en ligne à partir du 27 août 2026 sur l'espace personnel des impôts pour les propriétaires non-mensualisés. Cette obligation fiscale impacte directement le coût d'exploitation des actifs immobiliers professionnels.",
+      "impact": "Anticiper l'impact de la taxe foncière 2026 dans les analyses de rentabilité des biens en conseil/transaction, particulièrement sur les locaux d'activité et commerces.",
       "date": "20/08/2026",
-      "url": "https://www.laprovence.com/article/economie/1458802290672414/arts-of-infinity-cette-marque-de-t-shirts-cree-et-elaboree-par-deux-cousins-a-marseille",
+      "url": "https://www.laprovence.com/article/economie/2079758397145414/taxe-fonciere-2026-a-quelle-date-allez-vous-la-recevoir-et-jusqu-a-quand-pouvez-vous-la-payer",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Fiscalité immobilière",
+          "cls": "tr"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Incendies Var : impacts économiques sur zones productrices",
+      "body": "Plus de 6 000 hectares brûlés dans le Var ont gravement endommagé les zones agricoles et forestières, impactant les chaînes logistiques régionales. Les paysages transformés bouleversent l'économie locale et les activités annexes (transport, stockage).",
+      "impact": "Évaluer l'impact des incendies sur l'offre et la demande de locaux logistiques/stockage dans le Var ; certains exploitants cherchent à relocaliser leurs activités.",
+      "date": "20/08/2026",
+      "url": "https://www.laprovence.com/article/region/84625219805175/incendies-dans-le-var-des-vendanges-ameres-apres-plus-de-6-000-hectares-brules",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Activités PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Risques",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Tourisme été 2026 : profil clientèle en Alpes-de-Haute-Provence",
+      "body": "L'été 2026 en PACA attire une clientèle familiale diversifiée vers les activités de loisirs (accrobranche, karting) à Manosque et zones touristiques. Cette dynamique renforce la demande de locaux commerciaux et de services en zones de chalandise touristique.",
+      "impact": "Identifier les opportunités de commerces et locaux d'activité touristique en Alpes-de-Haute-Provence profitant de l'afflux estival ; cibler les zones de passage.",
+      "date": "20/08/2026",
+      "url": "https://www.laprovence.com/article/tourisme/23105690634878/a-manosque-dans-les-alpes-de-haute-provence-a-quoi-ressemble-le-visage-du-touriste-de-l-ete-2026",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Commerce PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché local",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Financement crédit : contexte Euribor 3M stable à 2.15%",
+      "body": "L'Euribor 3M reste stable à 2.15% en août 2026, maintenant des conditions de financement prévisibles pour les acquisitions immobilières professionnelles en PACA. Les taux obligataires OAT à 3.70% reflètent une stabilité relative du marché du crédit.",
+      "impact": "Capitaliser sur la stabilité des taux Euribor pour conseiller les clients preneurs/vendeurs en transaction bureaux et locaux d'activité sur le coût du financement.",
+      "date": "21/08/2026",
+      "url": "https://www.laprovence.com",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux/OAT",
+          "label": "Taux/Financement",
           "cls": "tt"
         },
         {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,58 +100,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Piratages informatiques : nouvelle unité cyber gouvernementale",
-      "body": "Le Premier ministre Sébastien Lecornu demande à l'ANSSI de constituer une nouvelle unité cyber pour réponse opérationnelle plus réactive face aux piratages. Renforcement de la sécurité informatique d'État.",
-      "impact": "Impact indirect : renforcement normes cybersécurité pour immeubles tertiaires connectés (smart buildings) ; anticiper investissements conformité pour immeubles PACA à louer à secteur sensible.",
-      "date": "19/08/2026",
-      "url": "https://www.laprovence.com/article/politique/1313565967125914/piratages-pour-une-reponse-operationnelle-plus-reactive-sebastien-lecornu-veut-une-nouvelle-unite-cyber",
+      "title": "Budget 2027 France : risques majeurs en cas de loi spéciale prolongée",
+      "body": "L'Inspection générale des finances (IGF) avertit que l'absence d'accord sur le budget 2027 et l'application durable d'une loi spéciale exposent la France à des risques majeurs. Cette incertitude budgétaire affecte la conjoncture macroéconomique et les perspectives d'investissement.",
+      "impact": "Anticiper une volatilité accrue sur les valorisations immobilières en PACA ; recommander aux vendeurs de concrétiser avant l'automne dans un contexte budgétaire tendu.",
+      "date": "20/08/2026",
+      "url": "https://www.laprovence.com/article/economie/2239001697001314/budget-2027-la-france-exposee-a-des-risques-majeurs-en-cas-de-loi-speciale-prolongee",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture France",
           "cls": "tg"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conflit social majeur : grève Haribo Marseille suspendue",
-      "body": "Après 7 semaines de mobilisation sans quasi aucune concession patronale, les salariés d'Haribo à Marseille suspendent temporairement leur grève. Tension sociale majeure dans usine marseillaise historique.",
-      "impact": "Conjoncture France : tensions sociales secteur agroalimentaire persistantes ; impact indirect sur loyers activité industrielle/logistique autour Marseille via capacité paiement locataires.",
-      "date": "19/08/2026",
-      "url": "https://www.laprovence.com/article/societe/1281289049999214/les-salaries-d-haribo-a-marseille-annoncent-la-suspension-temporaire-de-la-greve-apres-7-semaines-de-mobilisation",
+      "title": "Washington accélère offensive économique contre l'Iran",
+      "body": "Les États-Unis pressent leurs alliés et la Chine de rejoindre une nouvelle offensive économique contre l'Iran, selon le secrétaire au Trésor Scott Bessent. Cette escalade géopolitique crée des turbulences énergétiques et commerciales mondiales.",
+      "impact": "Surveiller les impacts sur les prix de l'énergie (Brent à 96 USD) influençant les coûts opérationnels des biens immobiliers professionnels PACA.",
+      "date": "20/08/2026",
+      "url": "https://www.laprovence.com/article/france-monde/2261267254291314/washington-appelle-ses-allies-et-la-chine-a-rejoindre-son-offensive-economique-contre-l-iran",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique/Énergie",
           "cls": "tg"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France stable : contexte BCE 2.15% maintenu",
-      "body": "Inflation France à 1.7% ; BCE maintient taux directeur à 2.15% dans contexte de stabilité macroéconomique. Environnement de financement favorable pour investissements immobiliers.",
-      "impact": "Marché immobilier PACA : inflation modérée préserve pouvoir d'achat des entreprises ; contexte favorable pour transactions bureaux/activité et renouvellement baux commerciaux.",
-      "date": "20/08/2026",
-      "url": "https://www.laprovence.com/article/economie/1458802290672414/arts-of-infinity-cette-marque-de-t-shirts-cree-et-elaboree-par-deux-cousins-a-marseille",
-      "source": "Données marché BCE",
+      "title": "Inflation France stable : OAT 3.70%, BCE 2.15% inchangée",
+      "body": "L'inflation en France reste modérée à 1.7% en août 2026 ; la BCE maintient ses taux directeurs à 2.15% et les OAT se stabilisent à 3.70%. Cet environnement de taux bas favorise le financement long terme des actifs immobiliers.",
+      "impact": "Profiter de la stabilité des taux OAT et des conditions BCE favorables pour structurer des opérations de financement immobilier professionnel à long terme en PACA.",
+      "date": "21/08/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Inflation/BCE",
+          "label": "BCE/Inflation/OAT",
           "cls": "tt"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tg"
         }
       ]
     }

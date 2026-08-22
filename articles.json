@@ -1,98 +1,98 @@
 {
-  "generated_at": "21/08/2026",
+  "generated_at": "22/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Avignon : nouvel arrêté municipal pour occupation espace public",
-      "body": "La mairie d'Avignon a mis en place un arrêté contre l'occupation prolongée de l'espace public, bien accueilli par les commerçants des axes principaux (rue de la République, place Pie, cours Jean-Jaurès). Cette mesure vise à sécuriser et valoriser les zones commerciales du centre-ville.",
-      "impact": "Recommander aux candidats preneurs en commerce à Avignon de vérifier la mise en application de cet arrêté pour évaluer l'amélioration du contexte commercial et de la clientèle.",
-      "date": "20/08/2026",
-      "url": "https://www.laprovence.com/article/societe/18294203297118/a-avignon-le-nouvel-arrete-municipal-contre-l-occupation-de-l-espace-public-prolongee-est-bien-accueilli-par-les-commercants",
+      "title": "Les Bureaux du couvent à Alleins : coworking en milieu historique",
+      "body": "Depuis 2021, l'ancien couvent d'Alleins propose des espaces de bureaux modernes en coworking au premier étage, dans un environnement calme et patrimonial. Cette reconversion illustre la tendance flex-office en région PACA, conjuguant modernité et charme historique.",
+      "impact": "Opportunité de transaction : marché du flex-office PACA en expansion, attrait croissant pour espaces atypiques et bien localisés en milieu rural/périurbain.",
+      "date": "21/08/2026",
+      "url": "https://www.laprovence.com/article/economie/14408869251618/les-bureaux-du-couvent-a-alleins-un-espace-de-travail-pas-comme-les-autres",
       "source": "La Provence",
       "tags": [
-        {
-          "label": "Commerce PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Taxe foncière 2026 : calendrier de mise à disposition",
-      "body": "Les avis de taxe foncière 2026 seront disponibles en ligne à partir du 27 août 2026 sur l'espace personnel des impôts pour les propriétaires non-mensualisés. Cette obligation fiscale impacte directement le coût d'exploitation des actifs immobiliers professionnels.",
-      "impact": "Anticiper l'impact de la taxe foncière 2026 dans les analyses de rentabilité des biens en conseil/transaction, particulièrement sur les locaux d'activité et commerces.",
-      "date": "20/08/2026",
-      "url": "https://www.laprovence.com/article/economie/2079758397145414/taxe-fonciere-2026-a-quelle-date-allez-vous-la-recevoir-et-jusqu-a-quand-pouvez-vous-la-payer",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Fiscalité immobilière",
-          "cls": "tr"
-        },
         {
           "label": "PACA",
           "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Incendies Var : impacts économiques sur zones productrices",
-      "body": "Plus de 6 000 hectares brûlés dans le Var ont gravement endommagé les zones agricoles et forestières, impactant les chaînes logistiques régionales. Les paysages transformés bouleversent l'économie locale et les activités annexes (transport, stockage).",
-      "impact": "Évaluer l'impact des incendies sur l'offre et la demande de locaux logistiques/stockage dans le Var ; certains exploitants cherchent à relocaliser leurs activités.",
-      "date": "20/08/2026",
-      "url": "https://www.laprovence.com/article/region/84625219805175/incendies-dans-le-var-des-vendanges-ameres-apres-plus-de-6-000-hectares-brules",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Activités PACA",
-          "cls": "tp"
         },
         {
-          "label": "Risques",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Tourisme été 2026 : profil clientèle en Alpes-de-Haute-Provence",
-      "body": "L'été 2026 en PACA attire une clientèle familiale diversifiée vers les activités de loisirs (accrobranche, karting) à Manosque et zones touristiques. Cette dynamique renforce la demande de locaux commerciaux et de services en zones de chalandise touristique.",
-      "impact": "Identifier les opportunités de commerces et locaux d'activité touristique en Alpes-de-Haute-Provence profitant de l'afflux estival ; cibler les zones de passage.",
-      "date": "20/08/2026",
-      "url": "https://www.laprovence.com/article/tourisme/23105690634878/a-manosque-dans-les-alpes-de-haute-provence-a-quoi-ressemble-le-visage-du-touriste-de-l-ete-2026",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Commerce PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché local",
+          "label": "Flex-office",
           "cls": "tm"
         }
       ]
     },
     {
-      "id": "f5",
-      "title": "Financement crédit : contexte Euribor 3M stable à 2.15%",
-      "body": "L'Euribor 3M reste stable à 2.15% en août 2026, maintenant des conditions de financement prévisibles pour les acquisitions immobilières professionnelles en PACA. Les taux obligataires OAT à 3.70% reflètent une stabilité relative du marché du crédit.",
-      "impact": "Capitaliser sur la stabilité des taux Euribor pour conseiller les clients preneurs/vendeurs en transaction bureaux et locaux d'activité sur le coût du financement.",
+      "id": "f2",
+      "title": "CCI PACA alerte sur les risques budgétaires pour l'économie régionale",
+      "body": "Les Chambres de commerce et d'industrie PACA craignent des coupes budgétaires au niveau national qui impacteraient les TPE/PME et l'écosystème entrepreneurial régional. Cette mise en garde souligne l'incertitude macro-économique affectant les secteurs tertiaire et activité.",
+      "impact": "Conseil transaction : vigilance accrue sur capacité de refinancement des locataires PME/PMI et réévaluation des risques de défaut dans les portefeuilles bureaux/activité PACA.",
       "date": "21/08/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/34155644480331/budget-la-mise-en-garde-des-chambres-de-commerce-et-dindustrie-qui-craignent-des-coupes",
+      "source": "La Provence",
       "tags": [
-        {
-          "label": "Taux/Financement",
-          "cls": "tt"
-        },
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Fibre Excellence Tarascon : liquidation et impacts emploi local",
+      "body": "Le tribunal de commerce de Toulouse a annoncé la liquidation du site Fibre Excellence Tarascon le 29 juillet, générant des licenciements massifs et des alertes syndicales sur les risques industriels. Cet événement illustre la fragilité de l'activité manufacturière en PACA.",
+      "impact": "Transaction CRE : possibilité de déstockage immobilier locaux activité Tarascon, risque de vacance sur ce secteur, à monitorer pour reprises éventuelles.",
+      "date": "21/08/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/2779226827992114/fibre-excellence-tarascon-la-cgt-alerte-sur-les-risques-industriels-encourus-par-le-depart-des-salaries",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché activité",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "OAT 10Y à 3.70% : contexte de financement pour immobilier PACA",
+      "body": "Le contexte de taux OAT demeure stable à 3.70%, avec Euribor 3M à 2.15%, reflétant une politique monétaire prudente de la BCE. Ces conditions impactent directement le coût du capital pour les opérations immobilières et acquisitions PACA.",
+      "impact": "Conseil financement : coûts de crédit tertiaire/activité en légère détente, fenêtre de refinancement favorable pour opérations relocalisées avant fin 2026.",
+      "date": "22/08/2026",
+      "url": "https://www.laprovence.com/article/economie/",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Taux OAT",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Infra logistique : réductions trafic canal Panama affectant chaînes approvisionnement",
+      "body": "Le canal de Panama réduit le nombre de passages quotidiens de 36 à 32 navires dès septembre 2026 en raison d'El Niño, impactant la logistique maritime mondiale. Cette contraction affecte les délais et coûts de transport pour stocks régionaux PACA.",
+      "impact": "Transaction CRE : demande locaux logistique/activité PACA susceptible d'augmenter (stocks de sécurité), vérifier clauses d'indexation charges sur indices transport.",
+      "date": "21/08/2026",
+      "url": "https://www.laprovence.com/article/france-monde/50148382904528/el-nino-le-canal-de-panama-va-reduire-le-nombre-de-passages-de-navires-des-septembre",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Logistique",
+          "cls": "tm"
+        },
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     }
@@ -100,45 +100,53 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Budget 2027 France : risques majeurs en cas de loi spéciale prolongée",
-      "body": "L'Inspection générale des finances (IGF) avertit que l'absence d'accord sur le budget 2027 et l'application durable d'une loi spéciale exposent la France à des risques majeurs. Cette incertitude budgétaire affecte la conjoncture macroéconomique et les perspectives d'investissement.",
-      "impact": "Anticiper une volatilité accrue sur les valorisations immobilières en PACA ; recommander aux vendeurs de concrétiser avant l'automne dans un contexte budgétaire tendu.",
-      "date": "20/08/2026",
-      "url": "https://www.laprovence.com/article/economie/2239001697001314/budget-2027-la-france-exposee-a-des-risques-majeurs-en-cas-de-loi-speciale-prolongee",
+      "title": "El Niño : restrictions trafic Panama affectent commerce mondial et Brent",
+      "body": "Les réductions de passages au canal de Panama dès septembre ralentissent le commerce océanique et renchérissent les coûts logistiques. Le Brent reste orienté vers 96 USD/baril dans ce contexte de tensions géopolitiques persistantes.",
+      "impact": "Macro-économie : inflation d'importation en PACA probable, surveiller répercussions sur indices de révision loyers tertiaire/activité.",
+      "date": "21/08/2026",
+      "url": "https://www.laprovence.com/article/france-monde/50148382904528/el-nino-le-canal-de-panama-va-reduire-le-nombre-de-passages-de-navires-des-septembre",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture France",
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Washington accélère offensive économique contre l'Iran",
-      "body": "Les États-Unis pressent leurs alliés et la Chine de rejoindre une nouvelle offensive économique contre l'Iran, selon le secrétaire au Trésor Scott Bessent. Cette escalade géopolitique crée des turbulences énergétiques et commerciales mondiales.",
-      "impact": "Surveiller les impacts sur les prix de l'énergie (Brent à 96 USD) influençant les coûts opérationnels des biens immobiliers professionnels PACA.",
-      "date": "20/08/2026",
-      "url": "https://www.laprovence.com/article/france-monde/2261267254291314/washington-appelle-ses-allies-et-la-chine-a-rejoindre-son-offensive-economique-contre-l-iran",
+      "title": "Conjoncture France : CCI alertent risques coupes budgétaires gouvernementales",
+      "body": "Les Chambres de commerce françaises avertissent sur les impacts de réductions budgétaires nationales affectant l'environnement des entreprises et l'économie régionale. L'inflation reste modérée à 1.7%, mais la confiance entrepreneuriale s'érode.",
+      "impact": "Conjoncture immobilier PACA : prudence accrue sur lease-up tertiaire/activité, anticipate défaut locataires PME sensibles aux coupes publiques.",
+      "date": "21/08/2026",
+      "url": "https://www.laprovence.com/article/economie/34155644480331/budget-la-mise-en-garde-des-chambres-de-commerce-et-dindustrie-qui-craignent-des-coupes",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
-          "cls": "tg"
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France stable : OAT 3.70%, BCE 2.15% inchangée",
-      "body": "L'inflation en France reste modérée à 1.7% en août 2026 ; la BCE maintient ses taux directeurs à 2.15% et les OAT se stabilisent à 3.70%. Cet environnement de taux bas favorise le financement long terme des actifs immobiliers.",
-      "impact": "Profiter de la stabilité des taux OAT et des conditions BCE favorables pour structurer des opérations de financement immobilier professionnel à long terme en PACA.",
-      "date": "21/08/2026",
-      "url": "https://www.laprovence.com",
+      "title": "BCE : politique monétaire prudente, OAT 3.70%, Euribor 3M 2.15%",
+      "body": "La BCE maintient son taux directeur à 2.15%, avec OAT 10Y à 3.70% et Euribor 3M stable. L'inflation maîtrisée à 1.7% justifie cette ligne prudente sans nouveaux assouplissements attendus court terme.",
+      "impact": "Financement PACA : fenêtre de refinancement préservée, coûts crédit tertiaire/activité sans tension immédiate, favorise opérations M&A immobilier 2026.",
+      "date": "22/08/2026",
+      "url": "https://www.laprovence.com/article/economie/",
       "source": "Données marché",
       "tags": [
         {
-          "label": "BCE/Inflation/OAT",
+          "label": "BCE",
+          "cls": "tt"
+        },
+        {
+          "label": "Taux",
           "cls": "tt"
         }
       ]

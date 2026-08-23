@@ -1,11 +1,11 @@
 {
-  "generated_at": "22/08/2026",
+  "generated_at": "23/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Les Bureaux du couvent à Alleins : coworking en milieu historique",
-      "body": "Depuis 2021, l'ancien couvent d'Alleins propose des espaces de bureaux modernes en coworking au premier étage, dans un environnement calme et patrimonial. Cette reconversion illustre la tendance flex-office en région PACA, conjuguant modernité et charme historique.",
-      "impact": "Opportunité de transaction : marché du flex-office PACA en expansion, attrait croissant pour espaces atypiques et bien localisés en milieu rural/périurbain.",
+      "title": "Bureaux du couvent à Alleins : coworking en lieu historique",
+      "body": "Depuis 2021, l'ancien couvent rénové d'Alleins propose des espaces de bureaux en mode coworking au premier étage, offrant un environnement calme et moderne. Cette reconversion illustre la tendance flex-office en milieu rural PACA.",
+      "impact": "Opportunité de valorisation immobilière tertiaire en provinces : les propriétaires de bâtiments patrimoniaux peuvent explorer l'aménagement en espaces de travail partagés pour diversifier les revenus.",
       "date": "21/08/2026",
       "url": "https://www.laprovence.com/article/economie/14408869251618/les-bureaux-du-couvent-a-alleins-un-espace-de-travail-pas-comme-les-autres",
       "source": "La Provence",
@@ -22,9 +22,66 @@
     },
     {
       "id": "f2",
-      "title": "CCI PACA alerte sur les risques budgétaires pour l'économie régionale",
-      "body": "Les Chambres de commerce et d'industrie PACA craignent des coupes budgétaires au niveau national qui impacteraient les TPE/PME et l'écosystème entrepreneurial régional. Cette mise en garde souligne l'incertitude macro-économique affectant les secteurs tertiaire et activité.",
-      "impact": "Conseil transaction : vigilance accrue sur capacité de refinancement des locataires PME/PMI et réévaluation des risques de défaut dans les portefeuilles bureaux/activité PACA.",
+      "title": "Phénomène kidult : nouvelle dynamique commerciale à Marseille",
+      "body": "Les magasins de jouets de Marseille ciblent désormais les adultes consommateurs (kidultes) en diversifiant leur offre au-delà de la clientèle enfantine. Ce repositionnement commercial reflète l'évolution des usages des locaux de commerce urbains.",
+      "impact": "Pour les transactions commerciales Marseille, identifier les concepts multi-générations peut justifier des loyers prime et attirer des enseignes en expansion.",
+      "date": "22/08/2026",
+      "url": "https://www.laprovence.com/article/societe/74548269517003/phenomene-kidult-decryptage-dun-engouement-qui-sinstalle-a-marseille",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Restaurant municipal Suzette : reprise locative communale",
+      "body": "Le restaurant de la commune de Suzette a rouvert sous le nom « Les Miracles » avec un couple gestionnaire. Le modèle loué par la mairie démontre les stratégies de collectivités pour sécuriser l'exploitation d'équipements communaux.",
+      "impact": "Transaction de locaux commerciaux en zones rurales PACA : favoriser les baux précaires ou baux emphytéotiques avec collectivités pour garantir une stabilité locative et une valeur de rendement.",
+      "date": "21/08/2026",
+      "url": "https://www.laprovence.com/article/economie/52404704665409/le-restaurant-municipal-de-suzette-a-rouvert-ses-portes-sous-le-nom-les-miracles",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Reprise boulangerie Aureille : transmission réussie en zone rurale",
+      "body": "Thomas Blanc a repris depuis le 1er août la boulangerie historique d'Aureille suite à une recherche intense de repreneur. Cette transition de fonds de commerce illustre les enjeux de succession dans le retail rural PACA.",
+      "impact": "Transaction de locaux commerciaux de petite surface : structurer les baux avec clauses de transmission pour sécuriser la continuité et valoriser le fonds commercial aux acquéreurs.",
+      "date": "22/08/2026",
+      "url": "https://www.laprovence.com/article/economie/1933919199292614/il-fait-un-tres-bon-pain-thomas-blanc-a-repris-les-fourneaux-de-la-boulangerie-d-aureille",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "CCI PACA : inquiétudes budgétaires et coupes gouvernementales",
+      "body": "Les Chambres de commerce et d'industrie régionales alertent sur les risques de réduction budgétaire gouvernementale impactant directement les services aux entreprises. Cette incertitude budgétaire affecte la confiance des investisseurs tertiaires.",
+      "impact": "Financement CRE PACA : anticiper une potentielle restriction de l'accès aux crédits d'investissement ; privilégier les structures de financement privées et renforcer les garanties apportées par les demandeurs.",
       "date": "21/08/2026",
       "url": "https://www.laprovence.com/article/economie/34155644480331/budget-la-mise-en-garde-des-chambres-de-commerce-et-dindustrie-qui-craignent-des-coupes",
       "source": "La Provence",
@@ -34,65 +91,8 @@
           "cls": "tp"
         },
         {
-          "label": "Conjoncture",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Fibre Excellence Tarascon : liquidation et impacts emploi local",
-      "body": "Le tribunal de commerce de Toulouse a annoncé la liquidation du site Fibre Excellence Tarascon le 29 juillet, générant des licenciements massifs et des alertes syndicales sur les risques industriels. Cet événement illustre la fragilité de l'activité manufacturière en PACA.",
-      "impact": "Transaction CRE : possibilité de déstockage immobilier locaux activité Tarascon, risque de vacance sur ce secteur, à monitorer pour reprises éventuelles.",
-      "date": "21/08/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/2779226827992114/fibre-excellence-tarascon-la-cgt-alerte-sur-les-risques-industriels-encourus-par-le-depart-des-salaries",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché activité",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "OAT 10Y à 3.70% : contexte de financement pour immobilier PACA",
-      "body": "Le contexte de taux OAT demeure stable à 3.70%, avec Euribor 3M à 2.15%, reflétant une politique monétaire prudente de la BCE. Ces conditions impactent directement le coût du capital pour les opérations immobilières et acquisitions PACA.",
-      "impact": "Conseil financement : coûts de crédit tertiaire/activité en légère détente, fenêtre de refinancement favorable pour opérations relocalisées avant fin 2026.",
-      "date": "22/08/2026",
-      "url": "https://www.laprovence.com/article/economie/",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Taux OAT",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Infra logistique : réductions trafic canal Panama affectant chaînes approvisionnement",
-      "body": "Le canal de Panama réduit le nombre de passages quotidiens de 36 à 32 navires dès septembre 2026 en raison d'El Niño, impactant la logistique maritime mondiale. Cette contraction affecte les délais et coûts de transport pour stocks régionaux PACA.",
-      "impact": "Transaction CRE : demande locaux logistique/activité PACA susceptible d'augmenter (stocks de sécurité), vérifier clauses d'indexation charges sur indices transport.",
-      "date": "21/08/2026",
-      "url": "https://www.laprovence.com/article/france-monde/50148382904528/el-nino-le-canal-de-panama-va-reduire-le-nombre-de-passages-de-navires-des-septembre",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Logistique",
-          "cls": "tm"
-        },
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     }
@@ -100,9 +100,24 @@
   "macro": [
     {
       "id": "m1",
-      "title": "El Niño : restrictions trafic Panama affectent commerce mondial et Brent",
-      "body": "Les réductions de passages au canal de Panama dès septembre ralentissent le commerce océanique et renchérissent les coûts logistiques. Le Brent reste orienté vers 96 USD/baril dans ce contexte de tensions géopolitiques persistantes.",
-      "impact": "Macro-économie : inflation d'importation en PACA probable, surveiller répercussions sur indices de révision loyers tertiaire/activité.",
+      "title": "Budget 2027 : risque d'impasse électorale sur la stabilité économique",
+      "body": "Sébastien Lecornu met en garde contre le report de l'adoption budgétaire après la présidentielle 2027, qualifiant cette option de « choix du désordre ». L'incertitude budgétaire prolongée pèse sur les prévisions d'investissement des entreprises.",
+      "impact": "Recommander aux clients en négociation de baux tertiaires PACA de sécuriser les conditions de financement avant automne 2026, période critique avant les tensions budgétaires de 2027.",
+      "date": "22/08/2026",
+      "url": "https://www.laprovence.com/article/politique/2038334742911114/lecornu-met-en-garde-les-parlementaires-contre-labsence-de-budget-et-promet-de-prendre-le-temps-quil-faut",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Canal Panama : réduction trafic dès septembre face à El Niño",
+      "body": "Le canal de Panama réduit de 36 à 34 passages quotidiens de navires à partir du 3 septembre, puis à 32, en raison de la baisse des précipitations liée à El Niño. Cette congestion accroît les délais et les coûts logistiques mondiaux.",
+      "impact": "Impacts indirects sur la logistique import-export PACA : anticiper une hausse des coûts maritimes et des délais de chaîne d'approvisionnement affectant les demandes d'activité portuaire.",
       "date": "21/08/2026",
       "url": "https://www.laprovence.com/article/france-monde/50148382904528/el-nino-le-canal-de-panama-va-reduire-le-nombre-de-passages-de-navires-des-septembre",
       "source": "La Provence",
@@ -110,41 +125,18 @@
         {
           "label": "Géopolitique",
           "cls": "tg"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Conjoncture France : CCI alertent risques coupes budgétaires gouvernementales",
-      "body": "Les Chambres de commerce françaises avertissent sur les impacts de réductions budgétaires nationales affectant l'environnement des entreprises et l'économie régionale. L'inflation reste modérée à 1.7%, mais la confiance entrepreneuriale s'érode.",
-      "impact": "Conjoncture immobilier PACA : prudence accrue sur lease-up tertiaire/activité, anticipate défaut locataires PME sensibles aux coupes publiques.",
-      "date": "21/08/2026",
-      "url": "https://www.laprovence.com/article/economie/34155644480331/budget-la-mise-en-garde-des-chambres-de-commerce-et-dindustrie-qui-craignent-des-coupes",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE : politique monétaire prudente, OAT 3.70%, Euribor 3M 2.15%",
-      "body": "La BCE maintient son taux directeur à 2.15%, avec OAT 10Y à 3.70% et Euribor 3M stable. L'inflation maîtrisée à 1.7% justifie cette ligne prudente sans nouveaux assouplissements attendus court terme.",
-      "impact": "Financement PACA : fenêtre de refinancement préservée, coûts crédit tertiaire/activité sans tension immédiate, favorise opérations M&A immobilier 2026.",
-      "date": "22/08/2026",
-      "url": "https://www.laprovence.com/article/economie/",
+      "title": "Contexte financier : OAT/Euribor stables, confiance mitigée",
+      "body": "Marché obligataire stable avec OAT à 3.70%, Euribor 3M à 2.15% et taux BCE inchangé à 2.15%. Inflation en retrait à 1.7% offre une stabilité relative mais les incertitudes budgétaires 2027 maintiennent la vigilance.",
+      "impact": "Conditions de financement CRE PACA : les taux demeurent favorables pour refinancer jusqu'à fin 2026 ; étudier des emprunts longs avant toute volatilité liée à l'impasse budgétaire.",
+      "date": "23/08/2026",
+      "url": "https://www.bce.eu",
       "source": "Données marché",
       "tags": [
-        {
-          "label": "BCE",
-          "cls": "tt"
-        },
         {
           "label": "Taux",
           "cls": "tt"

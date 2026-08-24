@@ -1,13 +1,13 @@
 {
-  "generated_at": "23/08/2026",
+  "generated_at": "24/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Bureaux du couvent à Alleins : coworking en lieu historique",
-      "body": "Depuis 2021, l'ancien couvent rénové d'Alleins propose des espaces de bureaux en mode coworking au premier étage, offrant un environnement calme et moderne. Cette reconversion illustre la tendance flex-office en milieu rural PACA.",
-      "impact": "Opportunité de valorisation immobilière tertiaire en provinces : les propriétaires de bâtiments patrimoniaux peuvent explorer l'aménagement en espaces de travail partagés pour diversifier les revenus.",
-      "date": "21/08/2026",
-      "url": "https://www.laprovence.com/article/economie/14408869251618/les-bureaux-du-couvent-a-alleins-un-espace-de-travail-pas-comme-les-autres",
+      "title": "Connectivité aéroportuaire : enjeu majeur pour l'attractivité des locaux PACA",
+      "body": "La navette Gare Saint-Charles/Aéroport de Marseille figure parmi les plus chères de France, impactant la mobilité des professionnels et visiteurs. Cette surcharge tarifaire constitue un frein à l'accessibilité des zones d'activité et bureaux proches de l'aéroport.",
+      "impact": "À privilégier lors de la valorisation des locaux tertiarise : les tarifs élevés de transport pourraient réduire l'attrait de certains secteurs périaéroportuaires pour les PME/ETI.",
+      "date": "23/08/2026",
+      "url": "https://www.laprovence.com/article/economie/48682277728283/la-navette-qui-relie-la-gare-saint-charles-a-marseille-a-l-aeroport-est-l-une-des-plus-cheres-de-france",
       "source": "La Provence",
       "tags": [
         {
@@ -15,37 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Flex-office",
+          "label": "Mobilité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Phénomène kidult : nouvelle dynamique commerciale à Marseille",
-      "body": "Les magasins de jouets de Marseille ciblent désormais les adultes consommateurs (kidultes) en diversifiant leur offre au-delà de la clientèle enfantine. Ce repositionnement commercial reflète l'évolution des usages des locaux de commerce urbains.",
-      "impact": "Pour les transactions commerciales Marseille, identifier les concepts multi-générations peut justifier des loyers prime et attirer des enseignes en expansion.",
-      "date": "22/08/2026",
-      "url": "https://www.laprovence.com/article/societe/74548269517003/phenomene-kidult-decryptage-dun-engouement-qui-sinstalle-a-marseille",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Restaurant municipal Suzette : reprise locative communale",
-      "body": "Le restaurant de la commune de Suzette a rouvert sous le nom « Les Miracles » avec un couple gestionnaire. Le modèle loué par la mairie démontre les stratégies de collectivités pour sécuriser l'exploitation d'équipements communaux.",
-      "impact": "Transaction de locaux commerciaux en zones rurales PACA : favoriser les baux précaires ou baux emphytéotiques avec collectivités pour garantir une stabilité locative et une valeur de rendement.",
-      "date": "21/08/2026",
-      "url": "https://www.laprovence.com/article/economie/52404704665409/le-restaurant-municipal-de-suzette-a-rouvert-ses-portes-sous-le-nom-les-miracles",
+      "title": "Requalification commerciale : L'Alegria crée dynamique de centre-ville à Forcalquier",
+      "body": "L'ouverture d'une nouvelle brasserie thématique sur la place Saint-Michel revitalise le cœur historique de Forcalquier. Cette reprise de commerce illustre la tendance à la requalification des centres anciens par des concepts porteurs.",
+      "impact": "Signer les locaux commerciaux en centre-ville historique : la demande de petites surfaces restauration-loisir demeure solide malgré la saisonnalité estivale.",
+      "date": "23/08/2026",
+      "url": "https://www.laprovence.com/article/societe/4702155973918714/la-nouvelle-brasserie-lalegria-met-la-place-saint-michel-de-forcalquerequi-a-lheure-espagnole",
       "source": "La Provence",
       "tags": [
         {
@@ -59,10 +40,48 @@
       ]
     },
     {
+      "id": "f3",
+      "title": "Berre : Les Rives de l'étang, projet mixte récompensé à la rentrée 2026",
+      "body": "Le projet immobilier Les Rives de l'étang (Berre) a remporté un prix régional de la FPI Provence et sera lancé à la rentrée. Cette distinction souligne la qualité architecturale et la capacité de mobilisation du marché immobilier PACA actuellement.",
+      "impact": "Opportunité transaction : les projets de cette envergure en zone étang drainent les financements ; à prospecter pour animer le portefeuille locatif bureaux/activité.",
+      "date": "23/08/2026",
+      "url": "https://www.laprovence.com/article/economie/4582789303265714/a-berre-le-projet-immobilier-les-rives-de-l-etang-qui-sera-lance-a-la-rentree-a-obtenu-un-prix-regional",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
       "id": "f4",
-      "title": "Reprise boulangerie Aureille : transmission réussie en zone rurale",
-      "body": "Thomas Blanc a repris depuis le 1er août la boulangerie historique d'Aureille suite à une recherche intense de repreneur. Cette transition de fonds de commerce illustre les enjeux de succession dans le retail rural PACA.",
-      "impact": "Transaction de locaux commerciaux de petite surface : structurer les baux avec clauses de transmission pour sécuriser la continuité et valoriser le fonds commercial aux acquéreurs.",
+      "title": "OAT et taux : contexte budgétaire tendu pour le financement immobilier 2027",
+      "body": "Le gouvernement Lecornu annonce des tensions budgétaires pour 2027 face au risque de récession. Ces incertitudes macro pourraient durcir les conditions de financement des projets de développement immobilier en région.",
+      "impact": "Conseil : accélérer les montages de financement avant fin 2026 ; les OAT (3.70%) et Euribor 3M (2.15%) devraient rester sous pression en cas d'instabilité politique.",
+      "date": "22/08/2026",
+      "url": "https://www.laprovence.com/article/politique/2038334742911114/lecornu-met-en-garde-les-parlementaires-contre-labsence-de-budget-et-promet-de-prendre-le-temps-quil-faut",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Taux/Financement",
+          "cls": "tt"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Repreneuriat de petits commerces : consolidation du tissu retail PACA",
+      "body": "La reprise de la boulangerie d'Aureille par Thomas Blanc et celle d'autres petits commerces régionaux témoignent d'une demande constante pour des locaux de petit format. Cette dynamique confirme la résilience du segment commerce <100m² en zone rurale/périurbaine.",
+      "impact": "Portefeuille small-shop : maintenir l'offre de petits locaux commerciaux en centres-bourgs ; la succession générationnelle reste motrice et valorisante pour les portefeuilles.",
       "date": "22/08/2026",
       "url": "https://www.laprovence.com/article/economie/1933919199292614/il-fait-un-tres-bon-pain-thomas-blanc-a-repris-les-fourneaux-de-la-boulangerie-d-aureille",
       "source": "La Provence",
@@ -72,27 +91,8 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "CCI PACA : inquiétudes budgétaires et coupes gouvernementales",
-      "body": "Les Chambres de commerce et d'industrie régionales alertent sur les risques de réduction budgétaire gouvernementale impactant directement les services aux entreprises. Cette incertitude budgétaire affecte la confiance des investisseurs tertiaires.",
-      "impact": "Financement CRE PACA : anticiper une potentielle restriction de l'accès aux crédits d'investissement ; privilégier les structures de financement privées et renforcer les garanties apportées par les demandeurs.",
-      "date": "21/08/2026",
-      "url": "https://www.laprovence.com/article/economie/34155644480331/budget-la-mise-en-garde-des-chambres-de-commerce-et-dindustrie-qui-craignent-des-coupes",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Régulation",
-          "cls": "tr"
         }
       ]
     }
@@ -100,46 +100,54 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Budget 2027 : risque d'impasse électorale sur la stabilité économique",
-      "body": "Sébastien Lecornu met en garde contre le report de l'adoption budgétaire après la présidentielle 2027, qualifiant cette option de « choix du désordre ». L'incertitude budgétaire prolongée pèse sur les prévisions d'investissement des entreprises.",
-      "impact": "Recommander aux clients en négociation de baux tertiaires PACA de sécuriser les conditions de financement avant automne 2026, période critique avant les tensions budgétaires de 2027.",
+      "title": "Conjoncture France : récession imminente, freinage de l'investissement CRE",
+      "body": "Le gouvernement Lecornu signale un risque de récession aggravé par les tensions budgétaires 2027 et les arbitrages politiques. La conjoncture française se contracte, pressurisant les appétits d'investissement immobilier.",
+      "impact": "Attendu : repli des valorisations immobilier d'activité et bureaux Q4 2026/Q1 2027 ; anticiper baisse de 3-5% sur les prix de sortie en zone PACA.",
       "date": "22/08/2026",
       "url": "https://www.laprovence.com/article/politique/2038334742911114/lecornu-met-en-garde-les-parlementaires-contre-labsence-de-budget-et-promet-de-prendre-le-temps-quil-faut",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Canal Panama : réduction trafic dès septembre face à El Niño",
-      "body": "Le canal de Panama réduit de 36 à 34 passages quotidiens de navires à partir du 3 septembre, puis à 32, en raison de la baisse des précipitations liée à El Niño. Cette congestion accroît les délais et les coûts logistiques mondiaux.",
-      "impact": "Impacts indirects sur la logistique import-export PACA : anticiper une hausse des coûts maritimes et des délais de chaîne d'approvisionnement affectant les demandes d'activité portuaire.",
-      "date": "21/08/2026",
-      "url": "https://www.laprovence.com/article/france-monde/50148382904528/el-nino-le-canal-de-panama-va-reduire-le-nombre-de-passages-de-navires-des-septembre",
-      "source": "La Provence",
+      "title": "Stabilité BCE à 2.15% : maintien du coût du crédit immobilier élevé",
+      "body": "La BCE maintient ses taux directeurs à 2.15% dans un contexte inflationniste persistant (1.7%). Les OAT restent ancrées à 3.70%, reflétant une prime de risque France élevée.",
+      "impact": "Coût d'emprunt immobilier stable mais élevé (4.5-5.2%) : les taux hypothécaires PACA restent un frein ; privilégier les montages court-terme et refinancement avant Q4 2026.",
+      "date": "24/08/2026",
+      "url": "https://www.laprovence.com/article/politique/2038334742911114/lecornu-met-en-garde-les-parlementaires-contre-labsence-de-budget-et-promet-de-prendre-le-temps-quil-faut",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Taux/Financement",
+          "cls": "tt"
+        },
+        {
+          "label": "Inflation",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte financier : OAT/Euribor stables, confiance mitigée",
-      "body": "Marché obligataire stable avec OAT à 3.70%, Euribor 3M à 2.15% et taux BCE inchangé à 2.15%. Inflation en retrait à 1.7% offre une stabilité relative mais les incertitudes budgétaires 2027 maintiennent la vigilance.",
-      "impact": "Conditions de financement CRE PACA : les taux demeurent favorables pour refinancer jusqu'à fin 2026 ; étudier des emprunts longs avant toute volatilité liée à l'impasse budgétaire.",
-      "date": "23/08/2026",
-      "url": "https://www.bce.eu",
+      "title": "Brent 96 USD : énergie et charge immobilier sous pression modérée",
+      "body": "Le pétrole brut Brent s'affiche à 96 USD/baril, reflétant une géopolitique volatile sans crise aiguë. Les charges énergétiques immobilier restent élevées mais stables.",
+      "impact": "Valorisation locaux activité/bureaux : inclure une prime énergétique 15-20% supplémentaire ; les locataires exigent efficacité thermique renforcée (décret tertiaire).",
+      "date": "24/08/2026",
+      "url": "https://www.laprovence.com/article/economie/44066841915365/en-meeting-jean-luc-melenchon-promet-la-censure-pour-le-budget-2027-de-letat",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Geopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Energie",
+          "cls": "tg"
         }
       ]
     }

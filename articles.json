@@ -1,32 +1,13 @@
 {
-  "generated_at": "24/08/2026",
+  "generated_at": "25/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Connectivité aéroportuaire : enjeu majeur pour l'attractivité des locaux PACA",
-      "body": "La navette Gare Saint-Charles/Aéroport de Marseille figure parmi les plus chères de France, impactant la mobilité des professionnels et visiteurs. Cette surcharge tarifaire constitue un frein à l'accessibilité des zones d'activité et bureaux proches de l'aéroport.",
-      "impact": "À privilégier lors de la valorisation des locaux tertiarise : les tarifs élevés de transport pourraient réduire l'attrait de certains secteurs périaéroportuaires pour les PME/ETI.",
-      "date": "23/08/2026",
-      "url": "https://www.laprovence.com/article/economie/48682277728283/la-navette-qui-relie-la-gare-saint-charles-a-marseille-a-l-aeroport-est-l-une-des-plus-cheres-de-france",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Mobilité",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Requalification commerciale : L'Alegria crée dynamique de centre-ville à Forcalquier",
-      "body": "L'ouverture d'une nouvelle brasserie thématique sur la place Saint-Michel revitalise le cœur historique de Forcalquier. Cette reprise de commerce illustre la tendance à la requalification des centres anciens par des concepts porteurs.",
-      "impact": "Signer les locaux commerciaux en centre-ville historique : la demande de petites surfaces restauration-loisir demeure solide malgré la saisonnalité estivale.",
-      "date": "23/08/2026",
-      "url": "https://www.laprovence.com/article/societe/4702155973918714/la-nouvelle-brasserie-lalegria-met-la-place-saint-michel-de-forcalquerequi-a-lheure-espagnole",
+      "title": "Restauration Aix-en-Provence : alerte sur la viabilité post-exposition",
+      "body": "Les restaurateurs aixois tirent la sonnette d'alarme après une année 2025 portée par l'exposition Cézanne. La baisse de fréquentation en 2026 remet en question la pérennité des établissements.",
+      "impact": "Risque de contraction des surfaces commerciales et de restauration à Aix ; recommander audit de valorisation des locaux tertiaires pour cession ou restructuration.",
+      "date": "25/08/2026",
+      "url": "https://www.laprovence.com/article/societe/75274370213401/on-commence-a-se-poser-des-questions-sur-notre-avenir-a-aix-les-restaurateurs-tirent-la-sonnette-d-alarme",
       "source": "La Provence",
       "tags": [
         {
@@ -40,17 +21,95 @@
       ]
     },
     {
-      "id": "f3",
-      "title": "Berre : Les Rives de l'étang, projet mixte récompensé à la rentrée 2026",
-      "body": "Le projet immobilier Les Rives de l'étang (Berre) a remporté un prix régional de la FPI Provence et sera lancé à la rentrée. Cette distinction souligne la qualité architecturale et la capacité de mobilisation du marché immobilier PACA actuellement.",
-      "impact": "Opportunité transaction : les projets de cette envergure en zone étang drainent les financements ; à prospecter pour animer le portefeuille locatif bureaux/activité.",
-      "date": "23/08/2026",
-      "url": "https://www.laprovence.com/article/economie/4582789303265714/a-berre-le-projet-immobilier-les-rives-de-l-etang-qui-sera-lance-a-la-rentree-a-obtenu-un-prix-regional",
+      "id": "f2",
+      "title": "Prix du gaz septembre 2026 : +23,7% annuel, PACA moins impactée",
+      "body": "La facture gazière augmente fortement (+23,7% sur 12 mois) mais la région PACA bénéficie de protections structurelles réduisant l'onde de choc. Les exploitants de locaux d'activité et bureaux climatisés doivent anticiper les surcoûts énergétiques.",
+      "impact": "Budgétiser une hausse des charges énergétiques pour les transactions tertiaires ; vérifier la performance énergétique des bâtiments (DPE) et les contrats gaz existants.",
+      "date": "24/08/2026",
+      "url": "https://www.laprovence.com/article/economie/5732019822954514/hausse-du-prix-du-gaz-en-septembre-23-7-en-un-an-pourquoi-paca-reste-l-une-des-regions-les-mieux-protegees",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Coûts exploitation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "La Ciotat : chantiers navals renforcent sécurité et clôture",
+      "body": "Les Chantiers navals de La Ciotat déploient 120 caméras et renforcent les contrôles d'accès depuis 2022. Cet investissement en sécurité redessine les besoins en immobilier logistique et de bureaux administratifs.",
+      "impact": "Opportunité d'offres immobilières dédiées aux services de support des chantiers (bureaux, locaux tiers de confiance) ; valoriser la proximité aux sites portuaires sécurisés.",
+      "date": "24/08/2026",
+      "url": "https://www.laprovence.com/article/economie/59902099516152/cloture-120-cameras-controles-les-chantiers-navals-renforcent-leur-securite-a-la-ciotat",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Sisteron : commerçants satisfaits animations estivales 2026",
+      "body": "Malgré l'absence temporaire d'association de commerçants après les élections de mars, les animations municipales de Sisteron ont généré une satisfaction globale du secteur retail. La commune redéploie son attractivité commerciale.",
+      "impact": "Pérenniser l'offre commerciale de centre-ville ; valoriser les locaux commerciaux de Sisteron auprès des franchiseurs intéressés par relocalisation régionale.",
+      "date": "24/08/2026",
+      "url": "https://www.laprovence.com/article/region/5602847076491914/les-commercants-de-sisteron-globalement-satisfaits-des-animations-estivales-de-2026",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Euribor 3M stabil 2,15% : financement tertiaire accessible",
+      "body": "Les taux Euribor 3 mois se maintiennent à 2,15%, soutenant une stabilité des conditions de financement immobilier. Environnement favorable aux montages d'investissement en bureaux et locaux d'activité PACA.",
+      "impact": "Négocier des crédits relais et mezzanines à taux compétitifs pour acquisitions de portefeuille immobilier tertiaire ; valider la viabilité des projets avec spreads bancaires 2026.",
+      "date": "25/08/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-marche-euribor-25-08-2026",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "id": "m1",
+      "title": "Arabie Saoudite : contrats transports France, stratégie investissement régional",
+      "body": "Le prince héritier saoudien signe des contrats majeurs avec Alstom et CMA CGM (transports) et protocole pour trois parcs d'attractions franciliens. Dynamique d'investissement étrangère en infrastructure francaise.",
+      "impact": "Anticiper les retombées tertiaires régionales (centres d'appels, bureaux d'études, logistique) ; positionner l'offre PACA comme alternative attractive aux investissements concentrés en Île-de-France.",
+      "date": "24/08/2026",
+      "url": "https://www.laprovence.com/article/economie/5770635563999614/l-arabie-saoudite-signe-des-contrats-dans-les-transports-avec-deux-groupes-francais",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
         },
         {
           "label": "Investissement",
@@ -59,94 +118,39 @@
       ]
     },
     {
-      "id": "f4",
-      "title": "OAT et taux : contexte budgétaire tendu pour le financement immobilier 2027",
-      "body": "Le gouvernement Lecornu annonce des tensions budgétaires pour 2027 face au risque de récession. Ces incertitudes macro pourraient durcir les conditions de financement des projets de développement immobilier en région.",
-      "impact": "Conseil : accélérer les montages de financement avant fin 2026 ; les OAT (3.70%) et Euribor 3M (2.15%) devraient rester sous pression en cas d'instabilité politique.",
-      "date": "22/08/2026",
-      "url": "https://www.laprovence.com/article/politique/2038334742911114/lecornu-met-en-garde-les-parlementaires-contre-labsence-de-budget-et-promet-de-prendre-le-temps-quil-faut",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Taux/Financement",
-          "cls": "tt"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Repreneuriat de petits commerces : consolidation du tissu retail PACA",
-      "body": "La reprise de la boulangerie d'Aureille par Thomas Blanc et celle d'autres petits commerces régionaux témoignent d'une demande constante pour des locaux de petit format. Cette dynamique confirme la résilience du segment commerce <100m² en zone rurale/périurbaine.",
-      "impact": "Portefeuille small-shop : maintenir l'offre de petits locaux commerciaux en centres-bourgs ; la succession générationnelle reste motrice et valorisante pour les portefeuilles.",
-      "date": "22/08/2026",
-      "url": "https://www.laprovence.com/article/economie/1933919199292614/il-fait-un-tres-bon-pain-thomas-blanc-a-repris-les-fourneaux-de-la-boulangerie-d-aureille",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "id": "m1",
-      "title": "Conjoncture France : récession imminente, freinage de l'investissement CRE",
-      "body": "Le gouvernement Lecornu signale un risque de récession aggravé par les tensions budgétaires 2027 et les arbitrages politiques. La conjoncture française se contracte, pressurisant les appétits d'investissement immobilier.",
-      "impact": "Attendu : repli des valorisations immobilier d'activité et bureaux Q4 2026/Q1 2027 ; anticiper baisse de 3-5% sur les prix de sortie en zone PACA.",
-      "date": "22/08/2026",
-      "url": "https://www.laprovence.com/article/politique/2038334742911114/lecornu-met-en-garde-les-parlementaires-contre-labsence-de-budget-et-promet-de-prendre-le-temps-quil-faut",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Conjoncture",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
       "id": "m2",
-      "title": "Stabilité BCE à 2.15% : maintien du coût du crédit immobilier élevé",
-      "body": "La BCE maintient ses taux directeurs à 2.15% dans un contexte inflationniste persistant (1.7%). Les OAT restent ancrées à 3.70%, reflétant une prime de risque France élevée.",
-      "impact": "Coût d'emprunt immobilier stable mais élevé (4.5-5.2%) : les taux hypothécaires PACA restent un frein ; privilégier les montages court-terme et refinancement avant Q4 2026.",
+      "title": "Washington intensifie sanctions Iran : dégagement économique global",
+      "body": "Le secrétaire américain au Trésor annonce un nouveau train de sanctions contre Téhéran, visant à isoler économiquement l'Iran. Durcissement de la pression géopolitique et impacts potentiels sur cours des matières premières.",
+      "impact": "Surveiller volatilité énergétique (Brent ~96 USD) et inflation importations ; ajuster hypothèses de taux pour investissements long terme en immobilier tertiaire PACA.",
       "date": "24/08/2026",
-      "url": "https://www.laprovence.com/article/politique/2038334742911114/lecornu-met-en-garde-les-parlementaires-contre-labsence-de-budget-et-promet-de-prendre-le-temps-quil-faut",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/france-monde/5749883397734814/iran-washington-lance-de-nouvelles-sanctions-pour-isoler-economiquement-teheran",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         },
         {
-          "label": "Inflation",
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Brent 96 USD : énergie et charge immobilier sous pression modérée",
-      "body": "Le pétrole brut Brent s'affiche à 96 USD/baril, reflétant une géopolitique volatile sans crise aiguë. Les charges énergétiques immobilier restent élevées mais stables.",
-      "impact": "Valorisation locaux activité/bureaux : inclure une prime énergétique 15-20% supplémentaire ; les locataires exigent efficacité thermique renforcée (décret tertiaire).",
-      "date": "24/08/2026",
-      "url": "https://www.laprovence.com/article/economie/44066841915365/en-meeting-jean-luc-melenchon-promet-la-censure-pour-le-budget-2027-de-letat",
-      "source": "Données marché",
+      "title": "BCE 2,15% / OAT 3,70% : environnement taux stable fin été 2026",
+      "body": "La Banque centrale européenne maintient les taux à 2,15%, les OAT françaises à 3,70%, soutenant une conjoncture de financement stable. Inflation France contenue à 1,7% sur période.",
+      "impact": "Marges de négociation favorables pour investisseurs immobiliers tertiaires PACA ; valoriser les actifs déjà financés avant remontée potentielle des taux 2027.",
+      "date": "25/08/2026",
+      "url": "https://www.bce.eu/donnees-25-08-2026",
+      "source": "Données marché BCE",
       "tags": [
         {
-          "label": "Geopolitique",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Energie",
+          "label": "Inflation",
           "cls": "tg"
         }
       ]

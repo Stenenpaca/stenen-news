@@ -1,98 +1,82 @@
 {
-  "generated_at": "25/08/2026",
+  "generated_at": "26/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Restauration Aix-en-Provence : alerte sur la viabilité post-exposition",
-      "body": "Les restaurateurs aixois tirent la sonnette d'alarme après une année 2025 portée par l'exposition Cézanne. La baisse de fréquentation en 2026 remet en question la pérennité des établissements.",
-      "impact": "Risque de contraction des surfaces commerciales et de restauration à Aix ; recommander audit de valorisation des locaux tertiaires pour cession ou restructuration.",
+      "title": "Pertuis : lancement du chantier Jas de Beaumont",
+      "body": "Le ministre du Logement Vincent Jeanbrun a inauguré mardi 25 août le chantier immobilier du Jas de Beaumont à Pertuis, situé à 600 mètres du centre-ville. Ce projet marque un engagement politique majeur en faveur de la production de logements en PACA.",
+      "impact": "Opportunité d'identification de locaux d'activité et commerciaux dans la zone de développement périphérique de Pertuis.",
       "date": "25/08/2026",
-      "url": "https://www.laprovence.com/article/societe/75274370213401/on-commence-a-se-poser-des-questions-sur-notre-avenir-a-aix-les-restaurateurs-tirent-la-sonnette-d-alarme",
+      "url": "https://www.laprovence.com/article/economie/54158880896738/le-ministre-du-logement-vincent-jeanbrun-a-inaugure-le-chantier-immobilier-du-jas-de-beaumont-a-pertuis",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Prix du gaz septembre 2026 : +23,7% annuel, PACA moins impactée",
-      "body": "La facture gazière augmente fortement (+23,7% sur 12 mois) mais la région PACA bénéficie de protections structurelles réduisant l'onde de choc. Les exploitants de locaux d'activité et bureaux climatisés doivent anticiper les surcoûts énergétiques.",
-      "impact": "Budgétiser une hausse des charges énergétiques pour les transactions tertiaires ; vérifier la performance énergétique des bâtiments (DPE) et les contrats gaz existants.",
-      "date": "24/08/2026",
-      "url": "https://www.laprovence.com/article/economie/5732019822954514/hausse-du-prix-du-gaz-en-septembre-23-7-en-un-an-pourquoi-paca-reste-l-une-des-regions-les-mieux-protegees",
+      "title": "Aérodrome Aix-Les Milles : nouvel arrêté nuisances sonores",
+      "body": "L'arrêté limitant les conditions d'utilisation des tours de piste sur l'aérodrome d'Aix-Les Milles, publié au Journal Officiel le 14 juillet 2026, clôt un processus long entre l'État et la société Edeis. Cette réglementation impacte directement l'attractivité des locaux proximité.",
+      "impact": "À évaluer dans les critères de choix locaux activité à proximité de l'aérodrome ; réduction potentielle des nuisances améliore la valeur locative.",
+      "date": "25/08/2026",
+      "url": "https://www.laprovence.com/article/economie/49039602140748/aerodrome-d-aix-les-milles-un-arrete-majeur-contre-les-nuisances-sonores",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Réglementation",
+          "cls": "tr"
         },
         {
-          "label": "Coûts exploitation",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "La Ciotat : chantiers navals renforcent sécurité et clôture",
-      "body": "Les Chantiers navals de La Ciotat déploient 120 caméras et renforcent les contrôles d'accès depuis 2022. Cet investissement en sécurité redessine les besoins en immobilier logistique et de bureaux administratifs.",
-      "impact": "Opportunité d'offres immobilières dédiées aux services de support des chantiers (bureaux, locaux tiers de confiance) ; valoriser la proximité aux sites portuaires sécurisés.",
-      "date": "24/08/2026",
-      "url": "https://www.laprovence.com/article/economie/59902099516152/cloture-120-cameras-controles-les-chantiers-navals-renforcent-leur-securite-a-la-ciotat",
+      "title": "Fibre Excellence Tarascon : fermeture et réindustrialisation",
+      "body": "Fibre Excellence Provence ferme ses portes le 28 août avec 270 licenciements, mais la Région Sud lance un plan de réindustrialisation des locaux. Cette dynamique offre des opportunités de restructuration immobilière tertiaire/activité.",
+      "impact": "Surveiller la libération de surfaces importantes à Tarascon pour repositionnement en locaux d'activité ou bureaux restructurés.",
+      "date": "25/08/2026",
+      "url": "https://www.laprovence.com/article/societe/48843740309764/fibre-excellence-tarascon-la-region-veut-transformer-cette-crise-en-opportunite-de-reindustrialisation",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Sisteron : commerçants satisfaits animations estivales 2026",
-      "body": "Malgré l'absence temporaire d'association de commerçants après les élections de mars, les animations municipales de Sisteron ont généré une satisfaction globale du secteur retail. La commune redéploie son attractivité commerciale.",
-      "impact": "Pérenniser l'offre commerciale de centre-ville ; valoriser les locaux commerciaux de Sisteron auprès des franchiseurs intéressés par relocalisation régionale.",
-      "date": "24/08/2026",
-      "url": "https://www.laprovence.com/article/region/5602847076491914/les-commercants-de-sisteron-globalement-satisfaits-des-animations-estivales-de-2026",
+      "title": "Nouvelle liaison aérienne New York-Marseille dès juin 2027",
+      "body": "United Airlines lancera une connexion directe quotidienne entre Newark et Marseille à partir de juin 2027. Cette ouverture renforce l'attractivité économique de la métropole marseillaise pour les sièges sociaux et bureaux high-tech.",
+      "impact": "Hausse anticipée de demande en bureaux premium et flex-office aux abords de l'aéroport et centre-ville marseillais.",
+      "date": "25/08/2026",
+      "url": "https://www.laprovence.com/article/economie/35655810040241/nouvelle-ligne-new-york-marseille-tout-savoir-sur-larrivee-de-la-liaison-directe-en-juin-2027",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Euribor 3M stabil 2,15% : financement tertiaire accessible",
-      "body": "Les taux Euribor 3 mois se maintiennent à 2,15%, soutenant une stabilité des conditions de financement immobilier. Environnement favorable aux montages d'investissement en bureaux et locaux d'activité PACA.",
-      "impact": "Négocier des crédits relais et mezzanines à taux compétitifs pour acquisitions de portefeuille immobilier tertiaire ; valider la viabilité des projets avec spreads bancaires 2026.",
+      "title": "Crise de la restauration à Aix : l'UMIH appelle à réinvention",
+      "body": "Le président de l'UMIH 13 Mikael Mendez alerte sur la crise du secteur restauration post-Cézanne à Aix-en-Provence. Les restaurateurs doivent repenser leurs modèles économiques et leurs implantations physiques.",
+      "impact": "Renégociation probable des contrats de location de petits commerces/restaurants à Aix ; valoriser flex-concept et multi-usage pour nouveaux locataires.",
       "date": "25/08/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-marche-euribor-25-08-2026",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/societe/10634549040895/on-va-devoir-se-reinventer-le-president-de-lumih-13-mikael-mendez-sinquiete-de-la-crise-de-la-restauration-a-aix",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,58 +84,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Arabie Saoudite : contrats transports France, stratégie investissement régional",
-      "body": "Le prince héritier saoudien signe des contrats majeurs avec Alstom et CMA CGM (transports) et protocole pour trois parcs d'attractions franciliens. Dynamique d'investissement étrangère en infrastructure francaise.",
-      "impact": "Anticiper les retombées tertiaires régionales (centres d'appels, bureaux d'études, logistique) ; positionner l'offre PACA comme alternative attractive aux investissements concentrés en Île-de-France.",
-      "date": "24/08/2026",
-      "url": "https://www.laprovence.com/article/economie/5770635563999614/l-arabie-saoudite-signe-des-contrats-dans-les-transports-avec-deux-groupes-francais",
-      "source": "La Provence",
+      "title": "Inflation France stable à 1,7%, OAT 3,70% et Euribor3M 2,15%",
+      "body": "L'inflation française demeure modérée à 1,7% tandis que l'OAT 10 ans se stabilise à 3,70% et l'Euribor 3M à 2,15%. Les conditions de financement restent favorables pour les investisseurs CRE en PACA.",
+      "impact": "Taux d'emprunt préférentiels maintiennent l'attractivité des acquisitions bureaux/activité ; négocier avant remonté potentielle des taux.",
+      "date": "26/08/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Washington intensifie sanctions Iran : dégagement économique global",
-      "body": "Le secrétaire américain au Trésor annonce un nouveau train de sanctions contre Téhéran, visant à isoler économiquement l'Iran. Durcissement de la pression géopolitique et impacts potentiels sur cours des matières premières.",
-      "impact": "Surveiller volatilité énergétique (Brent ~96 USD) et inflation importations ; ajuster hypothèses de taux pour investissements long terme en immobilier tertiaire PACA.",
-      "date": "24/08/2026",
-      "url": "https://www.laprovence.com/article/france-monde/5749883397734814/iran-washington-lance-de-nouvelles-sanctions-pour-isoler-economiquement-teheran",
-      "source": "La Provence",
+      "title": "Brent 96 USD/bl : énergie stable, contexte macro apaisé",
+      "body": "Le pétrole Brent se stabilise à 96 USD le baril dans un contexte géopolitique contenu. Les prix énergétiques restent modérés et soutiennent la rentabilité des actifs immobiliers d'activité.",
+      "impact": "Charges énergétiques prévisibles : avantage pour immeubles activité modernes ; inclure clauses énergétiques dans baux.",
+      "date": "26/08/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
           "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE 2,15% / OAT 3,70% : environnement taux stable fin été 2026",
-      "body": "La Banque centrale européenne maintient les taux à 2,15%, les OAT françaises à 3,70%, soutenant une conjoncture de financement stable. Inflation France contenue à 1,7% sur période.",
-      "impact": "Marges de négociation favorables pour investisseurs immobiliers tertiaires PACA ; valoriser les actifs déjà financés avant remontée potentielle des taux 2027.",
-      "date": "25/08/2026",
-      "url": "https://www.bce.eu/donnees-25-08-2026",
-      "source": "Données marché BCE",
+      "title": "BCE taux directeur 2,15% : politique monétaire stabilisée",
+      "body": "La Banque centrale européenne maintient son taux directeur à 2,15%, signalant une pause après le cycle de hausse. Cette stabilité favorise la prévisibilité des financements immobiliers multi-annuels.",
+      "impact": "Environnement de taux à long terme stable ; privilégier acquisitions avant réduction tarifaire BCE et refinancement compétitif.",
+      "date": "26/08/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
           "label": "Taux",
           "cls": "tt"
-        },
-        {
-          "label": "Inflation",
-          "cls": "tg"
         }
       ]
     }

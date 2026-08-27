@@ -1,28 +1,89 @@
 {
-  "generated_at": "26/08/2026",
+  "generated_at": "27/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Pertuis : lancement du chantier Jas de Beaumont",
-      "body": "Le ministre du Logement Vincent Jeanbrun a inauguré mardi 25 août le chantier immobilier du Jas de Beaumont à Pertuis, situé à 600 mètres du centre-ville. Ce projet marque un engagement politique majeur en faveur de la production de logements en PACA.",
-      "impact": "Opportunité d'identification de locaux d'activité et commerciaux dans la zone de développement périphérique de Pertuis.",
-      "date": "25/08/2026",
-      "url": "https://www.laprovence.com/article/economie/54158880896738/le-ministre-du-logement-vincent-jeanbrun-a-inaugure-le-chantier-immobilier-du-jas-de-beaumont-a-pertuis",
+      "title": "Canicule : impact direct sur la fréquentation commerciale en PACA",
+      "body": "Les commerces orangeois signalent une baisse drastique de la fréquentation lors des pics de chaleur, avec des rues devenues quasi-désertes. Ce phénomène saisonnier affecte directement la rentabilité des locaux commerciaux et crée des tensions sur les charges d'exploitation.",
+      "impact": "Conseil : anticiper clauses de révision de loyers et évaluer surcoûts climatisation pour les baux commerciaux PACA estivaux.",
+      "date": "27/08/2026",
+      "url": "https://www.laprovence.com/article/region/2137268060613414/a-orange-la-canicule-a-fait-mal-aux-commerces",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Aérodrome Aix-Les Milles : nouvel arrêté nuisances sonores",
-      "body": "L'arrêté limitant les conditions d'utilisation des tours de piste sur l'aérodrome d'Aix-Les Milles, publié au Journal Officiel le 14 juillet 2026, clôt un processus long entre l'État et la société Edeis. Cette réglementation impacte directement l'attractivité des locaux proximité.",
-      "impact": "À évaluer dans les critères de choix locaux activité à proximité de l'aérodrome ; réduction potentielle des nuisances améliore la valeur locative.",
-      "date": "25/08/2026",
-      "url": "https://www.laprovence.com/article/economie/49039602140748/aerodrome-d-aix-les-milles-un-arrete-majeur-contre-les-nuisances-sonores",
+      "title": "Application Proximity : nouvelle dynamique de visibilité pour petits commerces",
+      "body": "L'application aubagnaise Proximity aide les petits commerces à regagner en visibilité face à la fermeture croissante de boutiques traditionnelles. Cette solution digitale offre une alternative aux commerçants locaux pour capter une clientèle de proximité.",
+      "impact": "Opportunité : identifier locaux commerciaux en zones de faible visibilité bénéficiant de solutions digitales pour optimiser valorisation locataire.",
+      "date": "27/08/2026",
+      "url": "https://www.laprovence.com/article/economie/1825849010814814/avec-lapplication-aubagnaise-proximity-les-petits-commerces-regagnent-de-la-visibilite",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Marché de centre-ville d'Avignon : résilience et vitalité commerciale",
+      "body": "Malgré les tensions sectorielles, le marché du centre-ville d'Avignon maintient une forte dynamique avec une fréquentation régulière chaque samedi matin. Cette stabilité démontre la persistance du commerce de proximité attractif en PACA.",
+      "impact": "Conseil : valoriser locaux d'activité/commerce en centre-ville comme assets défensifs avec clientèle captive et régulière.",
+      "date": "26/08/2026",
+      "url": "https://www.laprovence.com/article/economie/1370589436049914/la-guerre-des-etals-n-empeche-pas-le-marche-du-centre-ville-de-faire-battre-le-coeur-d-avignon",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Qista : innovation technologique dans locaux de grande distribution",
+      "body": "La startup provençale Qista développe des bornes antimoustiques compactes ciblant la grande distribution face à la multiplication des épisodes caniculaires. Cette tendance d'équipement spécialisé crée une nouvelle catégorie de besoins locatifs.",
+      "impact": "Identifier demande croissante de locaux tertiaires/commerce avec adaptations climatiques et équipements sanitaires innovants.",
+      "date": "26/08/2026",
+      "url": "https://www.laprovence.com/article/economie/1328237330322614/avec-ses-bornes-antimoustiques-compactes-qista-cible-la-grande-distribution",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Innovation",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Tensions patronales présidentielle 2027 : enjeux emploi et compétitivité",
+      "body": "Près de 20 000 chefs d'entreprise mobilisent les candidats à l'élection présidentielle sur leurs priorités économiques et sociales. Les débats portent sur l'indemnisation chômage et la compétitivité des PME-ETI françaises.",
+      "impact": "Anticiper évolutions réglementaires post-électorales sur coûts d'exploitation et politiques de location-vente pour locaux d'activité.",
+      "date": "27/08/2026",
+      "url": "https://www.laprovence.com/article/politique/2924859408713/presidentielle-2027-les-patrons-mettent-la-pression-sur-les-candidats",
       "source": "La Provence",
       "tags": [
         {
@@ -30,53 +91,8 @@
           "cls": "tr"
         },
         {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Fibre Excellence Tarascon : fermeture et réindustrialisation",
-      "body": "Fibre Excellence Provence ferme ses portes le 28 août avec 270 licenciements, mais la Région Sud lance un plan de réindustrialisation des locaux. Cette dynamique offre des opportunités de restructuration immobilière tertiaire/activité.",
-      "impact": "Surveiller la libération de surfaces importantes à Tarascon pour repositionnement en locaux d'activité ou bureaux restructurés.",
-      "date": "25/08/2026",
-      "url": "https://www.laprovence.com/article/societe/48843740309764/fibre-excellence-tarascon-la-region-veut-transformer-cette-crise-en-opportunite-de-reindustrialisation",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Nouvelle liaison aérienne New York-Marseille dès juin 2027",
-      "body": "United Airlines lancera une connexion directe quotidienne entre Newark et Marseille à partir de juin 2027. Cette ouverture renforce l'attractivité économique de la métropole marseillaise pour les sièges sociaux et bureaux high-tech.",
-      "impact": "Hausse anticipée de demande en bureaux premium et flex-office aux abords de l'aéroport et centre-ville marseillais.",
-      "date": "25/08/2026",
-      "url": "https://www.laprovence.com/article/economie/35655810040241/nouvelle-ligne-new-york-marseille-tout-savoir-sur-larrivee-de-la-liaison-directe-en-juin-2027",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Crise de la restauration à Aix : l'UMIH appelle à réinvention",
-      "body": "Le président de l'UMIH 13 Mikael Mendez alerte sur la crise du secteur restauration post-Cézanne à Aix-en-Provence. Les restaurateurs doivent repenser leurs modèles économiques et leurs implantations physiques.",
-      "impact": "Renégociation probable des contrats de location de petits commerces/restaurants à Aix ; valoriser flex-concept et multi-usage pour nouveaux locataires.",
-      "date": "25/08/2026",
-      "url": "https://www.laprovence.com/article/societe/10634549040895/on-va-devoir-se-reinventer-le-president-de-lumih-13-mikael-mendez-sinquiete-de-la-crise-de-la-restauration-a-aix",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Macro",
+          "cls": "tg"
         }
       ]
     }
@@ -84,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Inflation France stable à 1,7%, OAT 3,70% et Euribor3M 2,15%",
-      "body": "L'inflation française demeure modérée à 1,7% tandis que l'OAT 10 ans se stabilise à 3,70% et l'Euribor 3M à 2,15%. Les conditions de financement restent favorables pour les investisseurs CRE en PACA.",
-      "impact": "Taux d'emprunt préférentiels maintiennent l'attractivité des acquisitions bureaux/activité ; négocier avant remonté potentielle des taux.",
-      "date": "26/08/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "title": "Conjoncture France : facteurs géopolitiques affectant stabilité",
+      "body": "La présidentielle 2027 cristallise tensions économiques structurelles (chômage, compétitivité) avec propositions de réforme des allocations. Brent 96$/bbl, OAT 3.70%, Euribor 3M 2.15% reflètent attentisme des marchés pré-électoraux.",
+      "impact": "Préparer scénarios tarifaires multiples pour contrats longs durée via révisions clausées sur indices économiques.",
+      "date": "27/08/2026",
+      "url": "https://www.laprovence.com/article/politique/2924859408713/presidentielle-2027-les-patrons-mettent-la-pression-sur-les-candidats",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Brent 96 USD/bl : énergie stable, contexte macro apaisé",
-      "body": "Le pétrole Brent se stabilise à 96 USD le baril dans un contexte géopolitique contenu. Les prix énergétiques restent modérés et soutiennent la rentabilité des actifs immobiliers d'activité.",
-      "impact": "Charges énergétiques prévisibles : avantage pour immeubles activité modernes ; inclure clauses énergétiques dans baux.",
-      "date": "26/08/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
+      "title": "Politique emploi : impact coûts salariaux sur locaux d'activité",
+      "body": "Les propositions de réduction des allocations chômage (12 mois pour <50ans) signalent orientation vers flexibilité du marché du travail. Ces réformes impacteront demandes d'espaces flex et co-working en régions.",
+      "impact": "Optimiser offres locaux activité modulables pour adapter capacités entreprises face mutations emploi attendues.",
+      "date": "27/08/2026",
+      "url": "https://www.laprovence.com/article/economie/1825849010814814/chomage-edouard-philippe-veut-abaisser-a-12-mois-la-duree-de-l-indemnisation-pour-les-moins-de-50-ans",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Réglementation",
+          "cls": "tr"
+        },
+        {
+          "label": "Emploi",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE taux directeur 2,15% : politique monétaire stabilisée",
-      "body": "La Banque centrale européenne maintient son taux directeur à 2,15%, signalant une pause après le cycle de hausse. Cette stabilité favorise la prévisibilité des financements immobiliers multi-annuels.",
-      "impact": "Environnement de taux à long terme stable ; privilégier acquisitions avant réduction tarifaire BCE et refinancement compétitif.",
-      "date": "26/08/2026",
-      "url": "https://www.laprovence.com",
+      "title": "Inflation stable et taux BCE : maintien contexte financement modéré",
+      "body": "Inflation France 1.7%, BCE 2.15%, OAT 3.70% confirment stabilisation post-crise énergétique. Brent 96$/bbl et Euribor 3M 2.15% offrent visibilité pour structures de financement immobilier.",
+      "impact": "Recommander refinancement longs taux avant ajustements potentiels post-électoraux sur politique monétaire européenne.",
+      "date": "27/08/2026",
+      "url": "https://www.laprovence.com/article/economie/1825849010814814/chomage-edouard-philippe-veut-abaisser-a-12-mois-la-duree-de-l-indemnisation-pour-les-moins-de-50-ans",
       "source": "Données marché",
       "tags": [
         {
           "label": "Taux",
           "cls": "tt"
+        },
+        {
+          "label": "Inflation",
+          "cls": "tg"
         }
       ]
     }

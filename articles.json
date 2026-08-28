@@ -1,13 +1,13 @@
 {
-  "generated_at": "27/08/2026",
+  "generated_at": "28/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Canicule : impact direct sur la fréquentation commerciale en PACA",
-      "body": "Les commerces orangeois signalent une baisse drastique de la fréquentation lors des pics de chaleur, avec des rues devenues quasi-désertes. Ce phénomène saisonnier affecte directement la rentabilité des locaux commerciaux et crée des tensions sur les charges d'exploitation.",
-      "impact": "Conseil : anticiper clauses de révision de loyers et évaluer surcoûts climatisation pour les baux commerciaux PACA estivaux.",
-      "date": "27/08/2026",
-      "url": "https://www.laprovence.com/article/region/2137268060613414/a-orange-la-canicule-a-fait-mal-aux-commerces",
+      "title": "Incendies été 2026 : 500M€ de dégâts assurés en région Sud",
+      "body": "Les feux dévastateurs du Var et des Landes ont généré près de 500 millions d'euros de sinistres assurés cet été 2026, portant à 25 000 le nombre de dossiers traités. Cette vague de sinistralité exceptionnelle impacte directement les tarifs d'assurance et les conditions de financement immobilier en PACA.",
+      "impact": "Les transactions de locaux d'activité et commerce en zones exposées aux risques climatiques doivent intégrer une hausse des primes d'assurance et une révision des garanties environnementales dans les dossiers de financement.",
+      "date": "28/08/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/3000554453678914/incendies-dans-le-sud-pres-de-500-millions-d-euros-de-degats-assures-cet-ete",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Risque climat",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Application Proximity : nouvelle dynamique de visibilité pour petits commerces",
-      "body": "L'application aubagnaise Proximity aide les petits commerces à regagner en visibilité face à la fermeture croissante de boutiques traditionnelles. Cette solution digitale offre une alternative aux commerçants locaux pour capter une clientèle de proximité.",
-      "impact": "Opportunité : identifier locaux commerciaux en zones de faible visibilité bénéficiant de solutions digitales pour optimiser valorisation locataire.",
-      "date": "27/08/2026",
-      "url": "https://www.laprovence.com/article/economie/1825849010814814/avec-lapplication-aubagnaise-proximity-les-petits-commerces-regagnent-de-la-visibilite",
+      "title": "Rénovation tertiaire : 200k€ investis à Auriol avant rentrée",
+      "body": "La Ville d'Auriol déploie plus de 200 000€ de travaux de rénovation dans ses établissements scolaires avant la rentrée 2026. Cette accélération des investissements publics en rénovation tertiaire confirme la tendance des décrets tertiaire et AGEC.",
+      "impact": "Les propriétaires de locaux tertiaires et bureaux en PACA doivent anticiper les obligations de conformité énergétique : les appels d'offres publics privilégient désormais les biens rénovés aux normes décret tertiaire.",
+      "date": "28/08/2026",
+      "url": "https://www.laprovence.com/article/economie/17875328229347/plus-de-200-000e-investis-pour-la-renovation-des-etablissements-scolaires-a-auriol-avant-la-rentree-des-classes",
       "source": "La Provence",
       "tags": [
         {
@@ -34,23 +34,101 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "Tertiaire",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Marché de centre-ville d'Avignon : résilience et vitalité commerciale",
-      "body": "Malgré les tensions sectorielles, le marché du centre-ville d'Avignon maintient une forte dynamique avec une fréquentation régulière chaque samedi matin. Cette stabilité démontre la persistance du commerce de proximité attractif en PACA.",
-      "impact": "Conseil : valoriser locaux d'activité/commerce en centre-ville comme assets défensifs avec clientèle captive et régulière.",
-      "date": "26/08/2026",
-      "url": "https://www.laprovence.com/article/economie/1370589436049914/la-guerre-des-etals-n-empeche-pas-le-marche-du-centre-ville-de-faire-battre-le-coeur-d-avignon",
+      "title": "Location courte durée : cadre réglementaire renforcé d'ici fin 2026",
+      "body": "Le portail national d'enregistrement obligatoire pour la location courte durée devient effectif avant fin 2026, avec des critères de classement plus exigeants depuis la loi Le Meur de 2024. Cette conformité accrue redéfinit l'usage mixte des locaux commerciaux et de service en PACA.",
+      "impact": "Les conseils en transaction doivent valider la conformité réglementaire des biens en location courte durée : l'absence d'enregistrement national pénalisera fortement les valeurs locatives et la commercialité avant fin 2026.",
+      "date": "28/08/2026",
+      "url": "https://www.laprovence.com/article/economie/2795854088943814/location-courte-duree-comment-amenager-son-bien-pour-seduire-les-voyageurs",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Marché étudiant Marseille : loyers studios à 490€/mois",
+      "body": "Le logement étudiant à Marseille absorbe 50% du budget estudiantin, avec un studio meublé loué en moyenne 490€/mois. Cette demande soutenue du parc résidentiel étudiant irrigue les quartiers universitaires PACA en transactions et investissements d'usage mixte.",
+      "impact": "Les investisseurs en SCPI ou immobilier résidentiel doivent cibler les segments étudiants à Marseille/Aix : la tension locative justifie des acquisitions tertiaires convertibles en micro-logements pour capter cette demande structurelle.",
+      "date": "28/08/2026",
+      "url": "https://www.laprovence.com/article/economie/278428982466114/etudier-a-marseille-comment-optimiser-son-budget-des-la-rentree",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Habitat résilient : Aubagne anticipe dérèglement climatique",
+      "body": "Aubagne conçoit l'habitat de demain face aux vagues de chaleur estivales, intégrant désurbénisation et végétalisation massive des quartiers tertiaires. Cette mutation des standards urbains influe sur les nouveaux usages flex-office et la conception des locaux d'activité en PACA.",
+      "impact": "Les conseils CRE doivent promouvoir les bureaux et locaux d'activité avec espaces verts, orientation bioclimatique et flex-work : les nouveaux locataires exigent désormais une résilience climatique et un bien-être au travail en PACA.",
+      "date": "28/08/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/2669500580515314/a-quoi-pourrait-ressembler-l-habitat-de-demain-a-aubagne-pour-faire-face-au-dereglement-climatique",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Flex-office",
+          "cls": "tm"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "id": "m1",
+      "title": "Assurance : sinistralité climat redéfinit coût du capital immobilier",
+      "body": "Les 500M€ de dégâts assurés estivaux en région Sud illustrent l'accélération de la sinistralité climatique. Cette hausse des primes d'assurance élève le coût du financement immobilier et pénalise le rendement net des actifs CRE en zone exposée.",
+      "impact": "Les primes d'assurance multirisques explosion en PACA : intégrer +15 à +25% de surcoût assurantiel dans les enveloppes de financement OAT-indexées pour acquisitions 2026-2027.",
+      "date": "28/08/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/3000554453678914/incendies-dans-le-sud-pres-de-500-millions-d-euros-de-degats-assures-cet-ete",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Taux",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Investissement public tertiaire : relance rénovation avant automne",
+      "body": "Les 200k€ mobilisés par Auriol avant rentrée scolaire signalent une accélération des dépenses publiques tertiaires avant le ralentissement budgétaire automnal. Cette dynamique transfère aux appels d'offres privés une demande accrue de locaux aux normes décret tertiaire.",
+      "impact": "Conjoncture immobilière tertiaire France : la rentrée 2026 maintient la demande publique d'acquisitions/rénovations ; verrouiller dès septembre les pips de locaux rénovés AGEC avant envolée tarifaire Q4.",
+      "date": "28/08/2026",
+      "url": "https://www.laprovence.com/article/economie/17875328229347/plus-de-200-000e-investis-pour-la-renovation-des-etablissements-scolaires-a-auriol-avant-la-rentree-des-classes",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Conjoncture",
+          "cls": "tg"
         },
         {
           "label": "Marché",
@@ -59,90 +137,12 @@
       ]
     },
     {
-      "id": "f4",
-      "title": "Qista : innovation technologique dans locaux de grande distribution",
-      "body": "La startup provençale Qista développe des bornes antimoustiques compactes ciblant la grande distribution face à la multiplication des épisodes caniculaires. Cette tendance d'équipement spécialisé crée une nouvelle catégorie de besoins locatifs.",
-      "impact": "Identifier demande croissante de locaux tertiaires/commerce avec adaptations climatiques et équipements sanitaires innovants.",
-      "date": "26/08/2026",
-      "url": "https://www.laprovence.com/article/economie/1328237330322614/avec-ses-bornes-antimoustiques-compactes-qista-cible-la-grande-distribution",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Innovation",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Tensions patronales présidentielle 2027 : enjeux emploi et compétitivité",
-      "body": "Près de 20 000 chefs d'entreprise mobilisent les candidats à l'élection présidentielle sur leurs priorités économiques et sociales. Les débats portent sur l'indemnisation chômage et la compétitivité des PME-ETI françaises.",
-      "impact": "Anticiper évolutions réglementaires post-électorales sur coûts d'exploitation et politiques de location-vente pour locaux d'activité.",
-      "date": "27/08/2026",
-      "url": "https://www.laprovence.com/article/politique/2924859408713/presidentielle-2027-les-patrons-mettent-la-pression-sur-les-candidats",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
-          "label": "Macro",
-          "cls": "tg"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "id": "m1",
-      "title": "Conjoncture France : facteurs géopolitiques affectant stabilité",
-      "body": "La présidentielle 2027 cristallise tensions économiques structurelles (chômage, compétitivité) avec propositions de réforme des allocations. Brent 96$/bbl, OAT 3.70%, Euribor 3M 2.15% reflètent attentisme des marchés pré-électoraux.",
-      "impact": "Préparer scénarios tarifaires multiples pour contrats longs durée via révisions clausées sur indices économiques.",
-      "date": "27/08/2026",
-      "url": "https://www.laprovence.com/article/politique/2924859408713/presidentielle-2027-les-patrons-mettent-la-pression-sur-les-candidats",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Politique emploi : impact coûts salariaux sur locaux d'activité",
-      "body": "Les propositions de réduction des allocations chômage (12 mois pour <50ans) signalent orientation vers flexibilité du marché du travail. Ces réformes impacteront demandes d'espaces flex et co-working en régions.",
-      "impact": "Optimiser offres locaux activité modulables pour adapter capacités entreprises face mutations emploi attendues.",
-      "date": "27/08/2026",
-      "url": "https://www.laprovence.com/article/economie/1825849010814814/chomage-edouard-philippe-veut-abaisser-a-12-mois-la-duree-de-l-indemnisation-pour-les-moins-de-50-ans",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
-          "label": "Emploi",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
       "id": "m3",
-      "title": "Inflation stable et taux BCE : maintien contexte financement modéré",
-      "body": "Inflation France 1.7%, BCE 2.15%, OAT 3.70% confirment stabilisation post-crise énergétique. Brent 96$/bbl et Euribor 3M 2.15% offrent visibilité pour structures de financement immobilier.",
-      "impact": "Recommander refinancement longs taux avant ajustements potentiels post-électoraux sur politique monétaire européenne.",
-      "date": "27/08/2026",
-      "url": "https://www.laprovence.com/article/economie/1825849010814814/chomage-edouard-philippe-veut-abaisser-a-12-mois-la-duree-de-l-indemnisation-pour-les-moins-de-50-ans",
+      "title": "Financement immobilier : OAT 3.70%, Euribor 2.15%, BCE stable",
+      "body": "Contexte de taux persistants à 3.70% (OAT 10Y) et Euribor 3M à 2.15%, reflétant la posture accommodante de la BCE maintenus à 2.15%. La stabilité monétaire européenne soutient les refinancements CRE long terme sans volatilité majeure avant automne.",
+      "impact": "Financement 2026-2027 : taux immobilier commercial stabilisés autour de 3.8-4.1% sur 15 ans ; accélérer acquisitions PACA avant toute remontée BCE Q4 si inflation rebondit au-delà 1.7%.",
+      "date": "28/08/2026",
+      "url": "https://www.laprovence.com/article/economie/2795854088943814/location-courte-duree-comment-amenager-son-bien-pour-seduire-les-voyageurs",
       "source": "Données marché",
       "tags": [
         {
@@ -150,7 +150,7 @@
           "cls": "tt"
         },
         {
-          "label": "Inflation",
+          "label": "BCE",
           "cls": "tg"
         }
       ]

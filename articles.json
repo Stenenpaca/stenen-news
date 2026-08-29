@@ -1,13 +1,13 @@
 {
-  "generated_at": "28/08/2026",
+  "generated_at": "29/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Incendies été 2026 : 500M€ de dégâts assurés en région Sud",
-      "body": "Les feux dévastateurs du Var et des Landes ont généré près de 500 millions d'euros de sinistres assurés cet été 2026, portant à 25 000 le nombre de dossiers traités. Cette vague de sinistralité exceptionnelle impacte directement les tarifs d'assurance et les conditions de financement immobilier en PACA.",
-      "impact": "Les transactions de locaux d'activité et commerce en zones exposées aux risques climatiques doivent intégrer une hausse des primes d'assurance et une révision des garanties environnementales dans les dossiers de financement.",
-      "date": "28/08/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/3000554453678914/incendies-dans-le-sud-pres-de-500-millions-d-euros-de-degats-assures-cet-ete",
+      "title": "Fos-sur-Mer : usine éoliennes flottantes 200M€ et 1 300 emplois",
+      "body": "BW Ideol et NGE ont signé un accord de partenariat exclusif pour construire à l'horizon 2030 une usine d'éoliennes flottantes à Fos-sur-Mer. Ce projet structurant générera une forte demande de locaux d'activité et de bureaux tertiaires dans le secteur industriel portuaire méditerranéen.",
+      "impact": "Opportunité majeure de transactions locaux d'activité et bureaux administratifs liés à ce grand projet d'envergure régionale.",
+      "date": "29/08/2026",
+      "url": "https://www.laprovence.com/article/region/3711473183127614/a-fos-sur-mer-une-usine-d-eoliennes-flottantes-a-200-millions-d-euros-pourrait-creer-1-300-emplois",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Risque climat",
+          "label": "Activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Rénovation tertiaire : 200k€ investis à Auriol avant rentrée",
-      "body": "La Ville d'Auriol déploie plus de 200 000€ de travaux de rénovation dans ses établissements scolaires avant la rentrée 2026. Cette accélération des investissements publics en rénovation tertiaire confirme la tendance des décrets tertiaire et AGEC.",
-      "impact": "Les propriétaires de locaux tertiaires et bureaux en PACA doivent anticiper les obligations de conformité énergétique : les appels d'offres publics privilégient désormais les biens rénovés aux normes décret tertiaire.",
-      "date": "28/08/2026",
-      "url": "https://www.laprovence.com/article/economie/17875328229347/plus-de-200-000e-investis-pour-la-renovation-des-etablissements-scolaires-a-auriol-avant-la-rentree-des-classes",
+      "title": "Marseille attire croissance touristes internationaux et dynamisme immobilier",
+      "body": "La capitale régionale enregistre un afflux croissant de touristes internationaux attirés par son offre culturelle et ses espaces naturels. Cette dynamique crée une demande supplémentaire pour les locaux commerciaux, bureaux de services et espaces touristiques en centre-ville.",
+      "impact": "Valorisation des commerces et bureaux marseillais en zones touristiques; stratégies de transmission de baux attractifs pour l'hôtellerie et services.",
+      "date": "29/08/2026",
+      "url": "https://www.laprovence.com/article/economie/3602395276991614/l-energie-de-marseille-attire-de-plus-en-plus-de-touristes-internationaux",
       "source": "La Provence",
       "tags": [
         {
@@ -34,24 +34,20 @@
           "cls": "tp"
         },
         {
-          "label": "Tertiaire",
-          "cls": "tr"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Location courte durée : cadre réglementaire renforcé d'ici fin 2026",
-      "body": "Le portail national d'enregistrement obligatoire pour la location courte durée devient effectif avant fin 2026, avec des critères de classement plus exigeants depuis la loi Le Meur de 2024. Cette conformité accrue redéfinit l'usage mixte des locaux commerciaux et de service en PACA.",
-      "impact": "Les conseils en transaction doivent valider la conformité réglementaire des biens en location courte durée : l'absence d'enregistrement national pénalisera fortement les valeurs locatives et la commercialité avant fin 2026.",
-      "date": "28/08/2026",
-      "url": "https://www.laprovence.com/article/economie/2795854088943814/location-courte-duree-comment-amenager-son-bien-pour-seduire-les-voyageurs",
+      "title": "Facturation électronique obligatoire au 1er septembre : impact CRE",
+      "body": "À partir du 1er septembre 2026, la facturation électronique devient obligatoire pour tous les professionnels en France. Cette norme impacte la gestion administrative des baux commerciaux et les contrats de location de bureaux et activités.",
+      "impact": "Conseillers CRE doivent adapter clauses contractuelles et obligations de facturation e-facture dans les nouveaux baux tertiaires et locaux d'activité.",
+      "date": "29/08/2026",
+      "url": "https://www.laprovence.com/article/economie/352694073309514/prix-du-gaz-arrets-de-travail-facturation-electronique-tout-ce-qui-change-au-1er-septembre",
       "source": "La Provence",
       "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
         {
           "label": "Réglementation",
           "cls": "tr"
@@ -60,38 +56,30 @@
     },
     {
       "id": "f4",
-      "title": "Marché étudiant Marseille : loyers studios à 490€/mois",
-      "body": "Le logement étudiant à Marseille absorbe 50% du budget estudiantin, avec un studio meublé loué en moyenne 490€/mois. Cette demande soutenue du parc résidentiel étudiant irrigue les quartiers universitaires PACA en transactions et investissements d'usage mixte.",
-      "impact": "Les investisseurs en SCPI ou immobilier résidentiel doivent cibler les segments étudiants à Marseille/Aix : la tension locative justifie des acquisitions tertiaires convertibles en micro-logements pour capter cette demande structurelle.",
+      "title": "Incendies été 2026 : 500M€ dégâts assurés, impacts assurance-loyers",
+      "body": "Les incendies d'été ont occasionné 25 000 sinistres et 500 millions d'euros de dégâts assurés dans le Sud-Est. Cette vague sinistrale affecte les primes d'assurance immobilière et les clauses de responsabilité des locataires en zones sinistrées.",
+      "impact": "Augmentation des franchises d'assurance et primes tertiaires en PACA ; révision des clauses d'assurance obligatoires dans les nouveaux baux commerciaux et activité.",
       "date": "28/08/2026",
-      "url": "https://www.laprovence.com/article/economie/278428982466114/etudier-a-marseille-comment-optimiser-son-budget-des-la-rentree",
+      "url": "https://www.laprovence.com/article/ecoplanete/3000554453678914/incendies-dans-le-sud-pres-de-500-millions-d-euros-de-degats-assures-cet-ete",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Habitat résilient : Aubagne anticipe dérèglement climatique",
-      "body": "Aubagne conçoit l'habitat de demain face aux vagues de chaleur estivales, intégrant désurbénisation et végétalisation massive des quartiers tertiaires. Cette mutation des standards urbains influe sur les nouveaux usages flex-office et la conception des locaux d'activité en PACA.",
-      "impact": "Les conseils CRE doivent promouvoir les bureaux et locaux d'activité avec espaces verts, orientation bioclimatique et flex-work : les nouveaux locataires exigent désormais une résilience climatique et un bien-être au travail en PACA.",
-      "date": "28/08/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/2669500580515314/a-quoi-pourrait-ressembler-l-habitat-de-demain-a-aubagne-pour-faire-face-au-dereglement-climatique",
+      "title": "Reprise commerciale locale : successions entrepreneuriales à Peypin",
+      "body": "À 29 ans, Anthony Morellini reprend l'exploitation de la boulangerie La Fournée au centre de Peypin, illustrant une tendance de transmission patrimoniale active. Ces reprises commerciales s'accompagnent souvent de renégociation de baux commerciaux et d'aménagements locaux.",
+      "impact": "Identifier opportunités de renegociation de baux commerciaux et d'optimisation immobilière lors des successions d'exploitation en zone PACA.",
+      "date": "29/08/2026",
+      "url": "https://www.laprovence.com/article/economie/3670694724334114/a-29-ans-anthony-prend-la-releve-de-ses-parents-a-la-boulangerie-la-fournee-de-peypin",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Flex-office",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
@@ -100,57 +88,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Assurance : sinistralité climat redéfinit coût du capital immobilier",
-      "body": "Les 500M€ de dégâts assurés estivaux en région Sud illustrent l'accélération de la sinistralité climatique. Cette hausse des primes d'assurance élève le coût du financement immobilier et pénalise le rendement net des actifs CRE en zone exposée.",
-      "impact": "Les primes d'assurance multirisques explosion en PACA : intégrer +15 à +25% de surcoût assurantiel dans les enveloppes de financement OAT-indexées pour acquisitions 2026-2027.",
-      "date": "28/08/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/3000554453678914/incendies-dans-le-sud-pres-de-500-millions-d-euros-de-degats-assures-cet-ete",
+      "title": "Relocalisation industrielle énergies renouvelables : accélérateur géopolitique",
+      "body": "Le projet d'usine d'éoliennes flottantes à Fos-sur-Mer s'inscrit dans la stratégie européenne de souveraineté énergétique face aux tensions géopolitiques. Cette relocalisation manufacturière bénéficie des investissements publics et privés en transition énergétique.",
+      "impact": "Renforcement long terme de la demande immobilière tertiaire et industrielle en PACA ; fenêtre d'opportunités pour transactions BTP et logistique avant saturation marché.",
+      "date": "29/08/2026",
+      "url": "https://www.laprovence.com/article/region/3711473183127614/a-fos-sur-mer-une-usine-d-eoliennes-flottantes-a-200-millions-d-euros-pourrait-creer-1-300-emplois",
       "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
           "cls": "tg"
-        },
-        {
-          "label": "Taux",
-          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Investissement public tertiaire : relance rénovation avant automne",
-      "body": "Les 200k€ mobilisés par Auriol avant rentrée scolaire signalent une accélération des dépenses publiques tertiaires avant le ralentissement budgétaire automnal. Cette dynamique transfère aux appels d'offres privés une demande accrue de locaux aux normes décret tertiaire.",
-      "impact": "Conjoncture immobilière tertiaire France : la rentrée 2026 maintient la demande publique d'acquisitions/rénovations ; verrouiller dès septembre les pips de locaux rénovés AGEC avant envolée tarifaire Q4.",
-      "date": "28/08/2026",
-      "url": "https://www.laprovence.com/article/economie/17875328229347/plus-de-200-000e-investis-pour-la-renovation-des-etablissements-scolaires-a-auriol-avant-la-rentree-des-classes",
+      "title": "Inflation France stable 1.7% : contexte taux BCE 2.15% inchangé",
+      "body": "L'inflation française demeure maîtrisée à 1.7% en août 2026, justifiant le maintien des taux BCE à 2.15%. Les OAT 10ans restent ancrées à 3.70%, reflétant une stabilité de l'environnement macroéconomique français.",
+      "impact": "Conditions financement immobilier tertiaire stables; taux Euribor 3M à 2.15% maintient attractivité des crédits à taux variable pour investisseurs CRE.",
+      "date": "29/08/2026",
+      "url": "https://www.laprovence.com/article/economie/352694073309514/prix-du-gaz-arrets-de-travail-facturation-electronique-tout-ce-qui-change-au-1er-septembre",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Financement immobilier : OAT 3.70%, Euribor 2.15%, BCE stable",
-      "body": "Contexte de taux persistants à 3.70% (OAT 10Y) et Euribor 3M à 2.15%, reflétant la posture accommodante de la BCE maintenus à 2.15%. La stabilité monétaire européenne soutient les refinancements CRE long terme sans volatilité majeure avant automne.",
-      "impact": "Financement 2026-2027 : taux immobilier commercial stabilisés autour de 3.8-4.1% sur 15 ans ; accélérer acquisitions PACA avant toute remontée BCE Q4 si inflation rebondit au-delà 1.7%.",
-      "date": "28/08/2026",
-      "url": "https://www.laprovence.com/article/economie/2795854088943814/location-courte-duree-comment-amenager-son-bien-pour-seduire-les-voyageurs",
-      "source": "Données marché",
+      "title": "Conjoncture France septembre : ajustements fiscaux et réglementaires",
+      "body": "Le 1er septembre 2026 marque plusieurs changements réglementaires majeurs (e-facturation, prix gaz, MaPrimRénov') impactant la conjoncture française et les coûts d'exploitation tertiaire. Ces mesures augmentent les charges d'exploitation des locataires de bureaux et activité.",
+      "impact": "Anticiper réévaluations charges locatives et demander révisions de baux pour répercussion coûts conformité réglementaire et énergétique en PACA.",
+      "date": "29/08/2026",
+      "url": "https://www.laprovence.com/article/economie/352694073309514/prix-du-gaz-arrets-de-travail-facturation-electronique-tout-ce-qui-change-au-1er-septembre",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "BCE",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]

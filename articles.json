@@ -1,13 +1,13 @@
 {
-  "generated_at": "29/08/2026",
+  "generated_at": "30/08/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Fos-sur-Mer : usine éoliennes flottantes 200M€ et 1 300 emplois",
-      "body": "BW Ideol et NGE ont signé un accord de partenariat exclusif pour construire à l'horizon 2030 une usine d'éoliennes flottantes à Fos-sur-Mer. Ce projet structurant générera une forte demande de locaux d'activité et de bureaux tertiaires dans le secteur industriel portuaire méditerranéen.",
-      "impact": "Opportunité majeure de transactions locaux d'activité et bureaux administratifs liés à ce grand projet d'envergure régionale.",
+      "title": "Miratlas lève 20M€ pour accélérer sa croissance en Vaucluse",
+      "body": "La société vauclusienne Miratlas, créée en 2018 à Pertuis avec 15 salariés actuels, prépare une levée de fonds de 20 millions d'euros pour changer d'échelle. Avec 60 instruments déployés dans 20 pays, l'entreprise ambitionne d'accélérer son développement international.",
+      "impact": "Signal positif de dynamisme entrepreneurial en PACA : les levées de fonds de cette envergure démontrent l'attractivité du tissu business régional pour les investisseurs et les fonciers tertiaires spécialisés.",
       "date": "29/08/2026",
-      "url": "https://www.laprovence.com/article/region/3711473183127614/a-fos-sur-mer-une-usine-d-eoliennes-flottantes-a-200-millions-d-euros-pourrait-creer-1-300-emplois",
+      "url": "https://www.laprovence.com/article/economie/3941704512837414/miratlas-la-societe-vauclusienne-veut-lever-20-millions-d-euros-pour-changer-dechelle",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
-          "cls": "tm"
+          "label": "Invest",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Marseille attire croissance touristes internationaux et dynamisme immobilier",
-      "body": "La capitale régionale enregistre un afflux croissant de touristes internationaux attirés par son offre culturelle et ses espaces naturels. Cette dynamique crée une demande supplémentaire pour les locaux commerciaux, bureaux de services et espaces touristiques en centre-ville.",
-      "impact": "Valorisation des commerces et bureaux marseillais en zones touristiques; stratégies de transmission de baux attractifs pour l'hôtellerie et services.",
+      "title": "Activiz : startup marseillaise en développement, besoin d'espaces collaboratifs",
+      "body": "Deux frères marseillais, Pierre et Raphaël Fillinger (24 et 20 ans), lancent Activiz, une application pour simplifier le choix d'activité à plusieurs. Cette jeune pousse illustre la vitalité de l'écosystème startup en PACA.",
+      "impact": "Les jeunes startups comme Activiz recherchent des locaux flexibles et collaboratifs : opportunité de positionnement pour l'offre de petits espaces tertiaires et zones de coworking en centre-ville.",
       "date": "29/08/2026",
-      "url": "https://www.laprovence.com/article/economie/3602395276991614/l-energie-de-marseille-attire-de-plus-en-plus-de-touristes-internationaux",
+      "url": "https://www.laprovence.com/article/economie/3951594241353714/activiz-l-appli-creee-par-deux-marseillais-pour-choisir-une-activite-a-plusieurs",
       "source": "La Provence",
       "tags": [
         {
@@ -34,35 +34,43 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Facturation électronique obligatoire au 1er septembre : impact CRE",
-      "body": "À partir du 1er septembre 2026, la facturation électronique devient obligatoire pour tous les professionnels en France. Cette norme impacte la gestion administrative des baux commerciaux et les contrats de location de bureaux et activités.",
-      "impact": "Conseillers CRE doivent adapter clauses contractuelles et obligations de facturation e-facture dans les nouveaux baux tertiaires et locaux d'activité.",
+      "title": "Taxe foncière PACA : disparités du simple au double entre départements",
+      "body": "En PACA, la taxe foncière varie considérablement : Alpes-Maritimes à 23,3%, Hautes-Alpes à 43,7%. Ces écarts significatifs impactent directement la rentabilité des investissements immobiliers selon la localisation géographique.",
+      "impact": "Pour vos montages de transaction, intégrer les différentiels fiscaux régionaux dans l'analyse de rentabilité : crucial pour les comparatifs locatifs et les valuations entre départements PACA.",
       "date": "29/08/2026",
-      "url": "https://www.laprovence.com/article/economie/352694073309514/prix-du-gaz-arrets-de-travail-facturation-electronique-tout-ce-qui-change-au-1er-septembre",
+      "url": "https://www.laprovence.com/article/economie/3826135227339514/taxe-fonciere-en-paca-du-simple-au-double-selon-votre-departement-simulez-votre-facture",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Régl",
           "cls": "tr"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Incendies été 2026 : 500M€ dégâts assurés, impacts assurance-loyers",
-      "body": "Les incendies d'été ont occasionné 25 000 sinistres et 500 millions d'euros de dégâts assurés dans le Sud-Est. Cette vague sinistrale affecte les primes d'assurance immobilière et les clauses de responsabilité des locataires en zones sinistrées.",
-      "impact": "Augmentation des franchises d'assurance et primes tertiaires en PACA ; révision des clauses d'assurance obligatoires dans les nouveaux baux commerciaux et activité.",
-      "date": "28/08/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/3000554453678914/incendies-dans-le-sud-pres-de-500-millions-d-euros-de-degats-assures-cet-ete",
+      "title": "Partage d'outils : tendance économique et durable gagne les entreprises",
+      "body": "La tendance du partage d'outils s'accélère pour limiter les frais et préserver la planète, notamment en contexte de baisse du pouvoir d'achat. Les entreprises adoptent progressivement ce modèle collaboratif.",
+      "impact": "Opportunité pour les immobiliers tertiaires : valoriser les espaces flexibles avec mise à disposition d'équipements partagés répond à cette demande croissante et améliore l'attractivité locative.",
+      "date": "30/08/2026",
+      "url": "https://www.laprovence.com/article/economie/4508724178685514/la-tendance-du-partage-d-outils-pour-limiter-les-frais-et-preserver-la-planete",
       "source": "La Provence",
       "tags": [
+        {
+          "label": "Marché",
+          "cls": "tm"
+        },
         {
           "label": "PACA",
           "cls": "tp"
@@ -71,15 +79,19 @@
     },
     {
       "id": "f5",
-      "title": "Reprise commerciale locale : successions entrepreneuriales à Peypin",
-      "body": "À 29 ans, Anthony Morellini reprend l'exploitation de la boulangerie La Fournée au centre de Peypin, illustrant une tendance de transmission patrimoniale active. Ces reprises commerciales s'accompagnent souvent de renégociation de baux commerciaux et d'aménagements locaux.",
-      "impact": "Identifier opportunités de renegociation de baux commerciaux et d'optimisation immobilière lors des successions d'exploitation en zone PACA.",
-      "date": "29/08/2026",
-      "url": "https://www.laprovence.com/article/economie/3670694724334114/a-29-ans-anthony-prend-la-releve-de-ses-parents-a-la-boulangerie-la-fournee-de-peypin",
+      "title": "Afpa Pontet : formation et emploi, rentrée dynamique septembre 2026",
+      "body": "L'Afpa du Pontet organise une journée portes ouvertes le 3 septembre 2026 (9h-16h, 56 avenue Émile-Zola) dédiée à l'emploi, formation et alternance. Cet événement reflète la dynamique de reconversion professionnelle en région.",
+      "impact": "Signals positif : demande croissante de locaux de formation et d'alternance en PACA ; explorer les partenariats immobiliers avec organismes de formation pour diversifier l'offre tertiaire.",
+      "date": "30/08/2026",
+      "url": "https://www.laprovence.com/article/economie/39084349938564/emploi-formation-alternance-l-afpa-du-pontet-organise-une-journee-pour-construire-son-projet-professionnel",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce",
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
           "cls": "tm"
         }
       ]
@@ -88,28 +100,17 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Relocalisation industrielle énergies renouvelables : accélérateur géopolitique",
-      "body": "Le projet d'usine d'éoliennes flottantes à Fos-sur-Mer s'inscrit dans la stratégie européenne de souveraineté énergétique face aux tensions géopolitiques. Cette relocalisation manufacturière bénéficie des investissements publics et privés en transition énergétique.",
-      "impact": "Renforcement long terme de la demande immobilière tertiaire et industrielle en PACA ; fenêtre d'opportunités pour transactions BTP et logistique avant saturation marché.",
+      "title": "France : dette souveraine confirmée A+ par Fitch, perspective stable",
+      "body": "Fitch Ratings a maintenu vendredi la note A+ de la dette souveraine française avec perspective stable, signifiant aucune modification envisagée à court/moyen terme malgré les estimations déficitaires.",
+      "impact": "Environnement de taux stable attendu : OAT maintenu à ~3.70%, favorable aux financements immobiliers d'entreprise long terme en PACA.",
       "date": "29/08/2026",
-      "url": "https://www.laprovence.com/article/region/3711473183127614/a-fos-sur-mer-une-usine-d-eoliennes-flottantes-a-200-millions-d-euros-pourrait-creer-1-300-emplois",
+      "url": "https://www.laprovence.com/article/economie/22084909834688/dette-de-la-france-que-signifie-la-note-a-attribuee-par-lagence-fitch-ratings",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Géo",
           "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Inflation France stable 1.7% : contexte taux BCE 2.15% inchangé",
-      "body": "L'inflation française demeure maîtrisée à 1.7% en août 2026, justifiant le maintien des taux BCE à 2.15%. Les OAT 10ans restent ancrées à 3.70%, reflétant une stabilité de l'environnement macroéconomique français.",
-      "impact": "Conditions financement immobilier tertiaire stables; taux Euribor 3M à 2.15% maintient attractivité des crédits à taux variable pour investisseurs CRE.",
-      "date": "29/08/2026",
-      "url": "https://www.laprovence.com/article/economie/352694073309514/prix-du-gaz-arrets-de-travail-facturation-electronique-tout-ce-qui-change-au-1er-septembre",
-      "source": "La Provence",
-      "tags": [
+        },
         {
           "label": "Taux",
           "cls": "tt"
@@ -117,17 +118,40 @@
       ]
     },
     {
-      "id": "m3",
-      "title": "Conjoncture France septembre : ajustements fiscaux et réglementaires",
-      "body": "Le 1er septembre 2026 marque plusieurs changements réglementaires majeurs (e-facturation, prix gaz, MaPrimRénov') impactant la conjoncture française et les coûts d'exploitation tertiaire. Ces mesures augmentent les charges d'exploitation des locataires de bureaux et activité.",
-      "impact": "Anticiper réévaluations charges locatives et demander révisions de baux pour répercussion coûts conformité réglementaire et énergétique en PACA.",
-      "date": "29/08/2026",
-      "url": "https://www.laprovence.com/article/economie/352694073309514/prix-du-gaz-arrets-de-travail-facturation-electronique-tout-ce-qui-change-au-1er-septembre",
+      "id": "m2",
+      "title": "Conjoncture France : baisse du pouvoir d'achat impacte consommation rentrée",
+      "body": "La rentrée 2026 confirme la pression sur le pouvoir d'achat français : budgets serré après vacances, tendance au partage et solutions low-cost dominantes. Contexte économique tendu pour les ménages français.",
+      "impact": "Contexte déflationniste : négociation baissière probable sur loyers tertiaires ; privilégier offre attractive et flexible pour capter la demande locataire sensibilisée aux coûts.",
+      "date": "30/08/2026",
+      "url": "https://www.laprovence.com/article/economie/4508724178685514/la-tendance-du-partage-d-outils-pour-limiter-les-frais-et-preserver-la-planete",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géo",
           "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Marchés : Euribor 3M stable à 2.15%, inflation France 1.7%, BCE 2.15%",
+      "body": "Données de marché août 2026 : Euribor 3 mois à 2.15%, inflation France 1.7%, taux directeur BCE 2.15%, Brent 96 USD/bl, BTC 62 500 EUR. Environnement monétaire stabilisé.",
+      "impact": "Conditions financement stables : TAEG immobilier tertiaire inchangé (~4.8-5.2%), permettant des montages crédit sécurisés pour acquisition/refinancement portefeuille bureaux activité PACA.",
+      "date": "30/08/2026",
+      "url": "https://www.laprovence.com/article/economie/22084909834688/dette-de-la-france-que-signifie-la-note-a-attribuee-par-lagence-fitch-ratings",
+      "source": "Données Marché",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }

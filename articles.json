@@ -1,56 +1,75 @@
 {
-  "generated_at": "31/08/2026",
+  "generated_at": "01/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Malaise patronal rentrée 2026 : faillites et fiscalité en question",
-      "body": "L'université d'été du Medef révèle un grand malaise des patrons pour cette rentrée 2026 avec des préoccupations majeures autour des faillites, de la fiscalité et des incertitudes économiques. Cette consultation OpinionWay auprès des dirigeants montre une nervosité accrue sur le climat des affaires.",
-      "impact": "Vigilance accrue recommandée pour les transactions CRE PACA : demandeurs d'espace pourraient reporter leurs projets ; valorisation locataire à ajuster selon secteur.",
-      "date": "31/08/2026",
-      "url": "https://www.laprovence.com/article/economie/69850580288244/faillites-fiscalite-et-incertitudes-le-grand-malaise-des-patrons-pour-cette-rentree-2026",
+      "title": "Facturation électronique : obligation universelle dès septembre",
+      "body": "L'obligation stricte de réception des factures électroniques devient universelle à partir du 01/09/2026, s'imposant à l'ensemble des structures assujetties, y compris les micro-entrepreneurs. La CCI métropolitaine Aix-Marseille-Provence a accompagné les TPE-PME avec des webinaires et ateliers pour faciliter la transition.",
+      "impact": "Les propriétaires et gestionnaires de locaux d'activité et commerces en PACA doivent s'assurer que leurs locataires TPE-PME sont conformes à cette obligation pour éviter les ruptures de paiement.",
+      "date": "01/09/2026",
+      "url": "https://www.laprovence.com/article/economie/88909667471792/facture-electronique-tout-le-monde-est-un-peu-en-panique-le-grand-saut-sous-haute-tension",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché PACA",
-          "cls": "tp"
+          "label": "Réglementation",
+          "cls": "tr"
         },
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Reconversion professionnelle : AVARAP Provence aide PME/PMI",
-      "body": "L'association AVARAP Provence accompagne les professionnels en reprise post-vacances à Aix et Marseille qui envisagent des changements d'orientation professionnelle ou d'employeur. Cette dynamique de reconversion peut générer des mouvements de relocalisations bureaux/activité.",
-      "impact": "Opportunité pour les conseils CRE PACA : identifier les entreprises accompagnées par AVARAP pour repositionnement immobilier et relocalisations potentielles.",
+      "title": "Data center « vertueux » : reconversion industrielle à Marseille",
+      "body": "L'ancienne sucrière Saint-Louis dans le 15e arrondissement de Marseille accueillera un data center respectueux de l'environnement, transformant une zone d'activité en déshérence depuis 2015. Ce projet de reconversion illustre les opportunités de requalification immobilière en PACA.",
+      "impact": "Les investisseurs en locaux d'activité disposent d'un exemple concret de conversion de zones industrielles obsolètes en actifs technologiques à forte valeur ajoutée sur le marché marseillais.",
       "date": "31/08/2026",
-      "url": "https://www.laprovence.com/article/economie/26431511388733/l-association-avarap-provence-aide-a-repenser-son-avenir-professionnel-a-aix-et-marseille",
+      "url": "https://www.laprovence.com/article/economie/51564024285270/l-ancienne-sucriere-saint-louis-devrait-accueillir-un-data-center-vertueux",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Marché immobilier",
+          "cls": "tm"
         },
         {
-          "label": "Emploi/Tertaire",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "RV et orientation emploi : nouvelle tendance flex-work à La Ciotat",
-      "body": "La Mission locale de La Ciotat organise des sessions d'immersion en réalité virtuelle pour 70 jeunes en recherche d'emploi afin de découvrir les métiers en conditions réelles. Cette innovation pédagogique signe une montée du flex-learning et des espaces collaboratifs adaptés.",
-      "impact": "Demande croissante pour espaces de co-working et salles immersives en PACA : valoriser les locaux bureaux/activité équipés de technologie pour formation professionnelle.",
-      "date": "30/08/2026",
-      "url": "https://www.laprovence.com/article/economie/21482620721641/ils-partent-en-immersion-totale-quand-la-realite-virtuelle-aide-des-jeunes-en-recherche-d-emploi-a-la-ciotat",
+      "title": "Coûts de garde d'enfants : enjeu RH pour les entreprises PACA",
+      "body": "La région PACA figure parmi les plus chères de France pour la garde d'enfants, avec des tarifs atteignant 11,46 euros par heure selon le baromètre Yoopies 2026. Cette tendance impacte les politiques de rétention des talents dans les entreprises locales.",
+      "impact": "Les conseil en transaction bureaux doivent valoriser les locaux avec services annexes (crèche, espace bien-être) pour atténuer les coûts de garde auprès des entreprises en recherche de localisations optimales.",
+      "date": "01/09/2026",
+      "url": "https://www.laprovence.com/article/economie/11699890584364/garde-denfants-jusqua-11-46-euros-par-heure-la-region-paca-parmi-les-plus-cheres-de-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Flex-office/Innovation",
+          "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché immobilier",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Innovation thermique : solutions d'isolation pour bâtiments PACA",
+      "body": "La startup Azur Cover teste un vernis isolant novateur à Salon-de-Provence réduisant les déperditions thermiques par les vitrages. Cette technologie green répond aux enjeux de conformité réglementaire et de réduction énergétique des bâtiments tertiaires.",
+      "impact": "Les transactions de bureaux et locaux d'activité en PACA peuvent intégrer cette solution d'isolation comme critère de différenciation pour les clients soucieux de performance énergétique et conformité décret tertiaire.",
+      "date": "01/09/2026",
+      "url": "https://www.laprovence.com/article/economie/94993415581493/une-solution-de-vernis-isolant-en-test-a-l-ecole-michelet-de-salon-de-provence",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Réglementation",
+          "cls": "tr"
         },
         {
           "label": "PACA",
@@ -59,40 +78,21 @@
       ]
     },
     {
-      "id": "f4",
-      "title": "Aides carburant prolongées : impact sur coûts logistique PACA",
-      "body": "Le gouvernement prolonge les aides sur les prix des carburants au-delà du 31 août 2026 pour les entreprises les plus en difficulté, notamment les grands rouleurs. Cette mesure soutient les logisticiens et transporteurs PACA dépendants de la mobilité.",
-      "impact": "Stabilisation des coûts d'exploitation pour locataires logistique/commerce : opportunité à mettre en avant dans négociations loyers PACA jusqu'à visibilité fiscale claire.",
-      "date": "31/08/2026",
-      "url": "https://www.laprovence.com/article/economie/18434295862393/prix-des-carburants-les-aides-ne-seront-pas-suspendues-annonce-la-porte-parole-du-gouvernement",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        },
-        {
-          "label": "Coûts exploitation",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
       "id": "f5",
-      "title": "Bull : contrat 387M€ IA en Finlande, impact éco régionale",
-      "body": "L'entreprise française Bull remporte un contrat majeur de 387,8 millions d'euros pour livrer un supercalculateur IA en Finlande, illustrant la vigueur des secteurs haute technologie français. Ce succès export renforce les perspectives de croissance interne des secteurs IA/data en PACA.",
-      "impact": "Surveillance des demandes espaces bureaux/R&D pour startups IA PACA : secteur dynamique pour transactions et relocalisations vers clusters Aix-Marseille.",
+      "title": "Consolidation PME : TechnicoFlor acquiert Azur Fragrances",
+      "body": "Le compositeur de parfums TechnicoFlor d'Allauch a finalisé le rachat d'Azur Fragrances (Mouans-Sartoux), illustrant les mouvements de consolidation en cours dans le secteur de l'industrie manufacturière PACA. Cette dynamique M&A crée des besoins immobiliers accrus.",
+      "impact": "Les transactions de locaux d'activité doivent anticiper les fusions-acquisitions régionales générant des demandes de restructuration spatiale et de regroupement de sites pour les acquéreurs.",
       "date": "31/08/2026",
-      "url": "https://www.laprovence.com/article/economie/16904270017576/supercalculateur-l-entreprise-francaise-bull-remporte-un-contrat-de-pres-de-400-millions-d-euros-en-finlande",
+      "url": "https://www.laprovence.com/article/economie/57025113500875/le-parfumeur-allaudien-technicoflor-s-offre-azur-fragrances",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Tech/IA",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Marché PACA",
-          "cls": "tp"
+          "label": "Marché immobilier",
+          "cls": "tm"
         }
       ]
     }
@@ -100,58 +100,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Centrale Tricastin : changement direction EDF, stabilité nucléaire PACA",
-      "body": "José de Carvalho succède à Cédrick Hausseguy à la tête de la centrale nucléaire du Tricastin. Ce changement de gouvernance n'affecte pas l'opérationnel et confirme la continuité stratégique du parc nucléaire régional.",
-      "impact": "Stabilité énergétique PACA maintenue : secteurs dépendants (logistique, data-center) conservent visibilité tarification électricité long terme.",
-      "date": "30/08/2026",
-      "url": "https://www.laprovence.com/article/economie/4853389307038814/centrale-nucleaire-du-tricastin-jose-de-carvalho-succede-a-cedrick-hausseguy-en-tant-que-directeur",
-      "source": "La Provence",
+      "title": "Taux OAT stables : financement immobilier inchangé",
+      "body": "Les OAT françaises restent stables à 3,70% dans un contexte de politique monétaire prudente de la BCE à 2,15%. L'Euribor 3M se maintient à 2,15%, offrant une stabilité de financement pour les investisseurs immobiliers.",
+      "impact": "Les conditions de financement immobilier restent favorables pour les transactions PACA avec des taux de crédit prévisibles à moyen terme.",
+      "date": "01/09/2026",
+      "url": "https://www.laprovence.com/article/economie/1073827404813814/facturation-electronique-opportunite-de-gestion-et-casse-tete-financier-pour-les-patrons-provencaux",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
-          "cls": "tg"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Contexte macro France : tensions fiscales et conjoncture en retrait",
-      "body": "La rentrée 2026 s'annonce sous le signe de l'incertitude avec un malaise croissant chez les patrons français face aux risques de faillites et révisions fiscales. L'inflation maîtrisée à 1,7% offre un léger répit, mais la confiance des dirigeants s'érode.",
-      "impact": "Environnement CRE PACA dégradé : préférer stratégies défensives, valoriser locaux efficacité énergétique et souplesse contractuelle pour conserver locataires.",
-      "date": "31/08/2026",
-      "url": "https://www.laprovence.com/article/economie/69850580288244/faillites-fiscalite-et-incertitudes-le-grand-malaise-des-patrons-pour-cette-rentree-2026",
-      "source": "La Provence",
+      "title": "Inflation France modérée à 1,7% : contexte favorable",
+      "body": "L'inflation française demeure sous contrôle à 1,7%, bien en deçà des seuils d'alerte de la BCE et de l'objectif européen de 2%. Ce contexte économique stable limite les risques de variation des coûts immobiliers en PACA.",
+      "impact": "L'environnement inflationniste maîtrisé réduit l'imprévisibilité des valeurs d'actifs immobiliers et soutient les stratégies d'investissement à long terme.",
+      "date": "01/09/2026",
+      "url": "https://www.laprovence.com/article/economie/1073827404813814/facturation-electronique-opportunite-de-gestion-et-casse-tete-financier-pour-les-patrons-provencaux",
+      "source": "Données marché",
       "tags": [
         {
           "label": "Conjoncture",
-          "cls": "tm"
-        },
-        {
-          "label": "Fiscalité",
-          "cls": "tr"
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Taux et financement stables : OAT 3,70%, Euribor 2,15%, BCE maintient",
-      "body": "Les conditions de financement immobilier restent stables avec OAT à 3,70% et Euribor 3M à 2,15%, la BCE maintenant ses taux directeurs à 2,15%. Cette stabilité offre une visibilité aux acquéreurs de murs commerciaux/bureaux PACA.",
-      "impact": "Fenêtre de financement accessible maintenue pour investisseurs SCPI et acquisitions immobilier entreprise PACA : taux refinancement prévisibles jusqu'à fin 2026.",
-      "date": "31/08/2026",
-      "url": "https://www.laprovence.com/article/economie/69850580288244/faillites-fiscalite-et-incertitudes-le-grand-malaise-des-patrons-pour-cette-rentree-2026",
+      "title": "Énergie : Brent à 96 USD, stabilité énergétique mondiale",
+      "body": "Le prix du Brent se maintient à 96 USD/baril, reflétant un équilibre fragile des marchés mondiaux de l'énergie sans perturbations majeures. Cette stabilité soutient les perspectives économiques de la zone euro et limite les risques géopolitiques.",
+      "impact": "La stabilité des cours pétroliers réduit la volatilité des charges d'exploitation (énergie, chauffage) pour les locataires immobiliers en PACA, renforçant la prévisibilité des loyers.",
+      "date": "01/09/2026",
+      "url": "https://www.laprovence.com/article/economie/1073827404813814/facturation-electronique-opportunite-de-gestion-et-casse-tete-financier-pour-les-patrons-provencaux",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     }

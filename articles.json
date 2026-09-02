@@ -1,11 +1,11 @@
 {
-  "generated_at": "01/09/2026",
+  "generated_at": "02/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Facturation électronique : obligation universelle dès septembre",
-      "body": "L'obligation stricte de réception des factures électroniques devient universelle à partir du 01/09/2026, s'imposant à l'ensemble des structures assujetties, y compris les micro-entrepreneurs. La CCI métropolitaine Aix-Marseille-Provence a accompagné les TPE-PME avec des webinaires et ateliers pour faciliter la transition.",
-      "impact": "Les propriétaires et gestionnaires de locaux d'activité et commerces en PACA doivent s'assurer que leurs locataires TPE-PME sont conformes à cette obligation pour éviter les ruptures de paiement.",
+      "title": "Facturation électronique : obligation universelle dès septembre pour les patrons",
+      "body": "L'obligation stricte de réception des factures électroniques devient universelle dès le 1er septembre 2026, s'imposant à l'ensemble des structures assujetties, y compris les micro-entrepreneurs. La CCI métropolitaine Aix-Marseille-Provence a accompagné les TPE-PME du territoire à travers des webinaires, ateliers et réunions d'information.",
+      "impact": "Les propriétaires-bailleurs de bureaux et locaux d'activité doivent sécuriser leur transition numérique et celle de leurs locataires pour éviter les ruptures de conformité contractuelle.",
       "date": "01/09/2026",
       "url": "https://www.laprovence.com/article/economie/88909667471792/facture-electronique-tout-le-monde-est-un-peu-en-panique-le-grand-saut-sous-haute-tension",
       "source": "La Provence",
@@ -22,15 +22,15 @@
     },
     {
       "id": "f2",
-      "title": "Data center « vertueux » : reconversion industrielle à Marseille",
-      "body": "L'ancienne sucrière Saint-Louis dans le 15e arrondissement de Marseille accueillera un data center respectueux de l'environnement, transformant une zone d'activité en déshérence depuis 2015. Ce projet de reconversion illustre les opportunités de requalification immobilière en PACA.",
-      "impact": "Les investisseurs en locaux d'activité disposent d'un exemple concret de conversion de zones industrielles obsolètes en actifs technologiques à forte valeur ajoutée sur le marché marseillais.",
-      "date": "31/08/2026",
-      "url": "https://www.laprovence.com/article/economie/51564024285270/l-ancienne-sucriere-saint-louis-devrait-accueillir-un-data-center-vertueux",
+      "title": "Garde d'enfants en PACA : coûts élevés impactant le pouvoir d'achat des salariés",
+      "body": "La région PACA figure parmi les plus chères de France pour la garde d'enfants, avec des tarifs jusqu'à 11,46 euros par heure selon le baromètre 2026 de Yoopies. Cette hausse des charges familiales affecte directement le pouvoir d'achat des collaborateurs des entreprises implantées dans la région.",
+      "impact": "Les entreprises recherchant des bureaux et locaux d'activité en PACA doivent anticiper les demandes croissantes d'aménagements flexibles (télétravail, crèches d'entreprise) pour attirer et retenir les talents.",
+      "date": "01/09/2026",
+      "url": "https://www.laprovence.com/article/economie/11699890584364/garde-denfants-jusqua-11-46-euros-par-heure-la-region-paca-parmi-les-plus-cheres-de-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché immobilier",
+          "label": "Marché PACA",
           "cls": "tm"
         },
         {
@@ -41,28 +41,28 @@
     },
     {
       "id": "f3",
-      "title": "Coûts de garde d'enfants : enjeu RH pour les entreprises PACA",
-      "body": "La région PACA figure parmi les plus chères de France pour la garde d'enfants, avec des tarifs atteignant 11,46 euros par heure selon le baromètre Yoopies 2026. Cette tendance impacte les politiques de rétention des talents dans les entreprises locales.",
-      "impact": "Les conseil en transaction bureaux doivent valoriser les locaux avec services annexes (crèche, espace bien-être) pour atténuer les coûts de garde auprès des entreprises en recherche de localisations optimales.",
-      "date": "01/09/2026",
-      "url": "https://www.laprovence.com/article/economie/11699890584364/garde-denfants-jusqua-11-46-euros-par-heure-la-region-paca-parmi-les-plus-cheres-de-france",
+      "title": "IUT Arles : 60 nouveaux étudiants stimulent la demande immobilière étudiante",
+      "body": "L'IUT Aix-Marseille d'Arles accueille 60 nouveaux étudiants en Bachelor pour cette rentrée 2026. Cette dynamique universitaire crée une pression croissante sur le marché des locaux d'activité et de bureaux à proximité des campus.",
+      "impact": "Les investisseurs immobiliers doivent valoriser les emplacements proches des pôles étudiants (Arles) et identifier les opportunités de conversion de petits commerces en espaces de coworking étudiants-professionnels.",
+      "date": "02/09/2026",
+      "url": "https://www.laprovence.com/article/societe/35907309675139/a-arles-les-60-nouveaux-etudiants-de-l-iut-font-leurs-premiers-pas-dans-la-vie-universitaire",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Marché PACA",
+          "cls": "tm"
         },
         {
-          "label": "Marché immobilier",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Innovation thermique : solutions d'isolation pour bâtiments PACA",
-      "body": "La startup Azur Cover teste un vernis isolant novateur à Salon-de-Provence réduisant les déperditions thermiques par les vitrages. Cette technologie green répond aux enjeux de conformité réglementaire et de réduction énergétique des bâtiments tertiaires.",
-      "impact": "Les transactions de bureaux et locaux d'activité en PACA peuvent intégrer cette solution d'isolation comme critère de différenciation pour les clients soucieux de performance énergétique et conformité décret tertiaire.",
+      "title": "Innovation isolant thermique : test à Salon-de-Provence pour réduire déperditions",
+      "body": "La jeune startup Azur Cover teste une solution de vernis isolant à l'école Michelet de Salon-de-Provence, capable de réduire les apports d'UV et de rayons solaires. Cette innovation répond aux enjeux de conformité énergétique des bâtiments tertiaires.",
+      "impact": "Les propriétaires de bureaux et locaux commerciaux en PACA peuvent intégrer cette solution d'isolation performante pour améliorer le DPE, réduire les charges locatives et attirer les preneurs sensibles à la décarbonation.",
       "date": "01/09/2026",
       "url": "https://www.laprovence.com/article/economie/94993415581493/une-solution-de-vernis-isolant-en-test-a-l-ecole-michelet-de-salon-de-provence",
       "source": "La Provence",
@@ -79,20 +79,20 @@
     },
     {
       "id": "f5",
-      "title": "Consolidation PME : TechnicoFlor acquiert Azur Fragrances",
-      "body": "Le compositeur de parfums TechnicoFlor d'Allauch a finalisé le rachat d'Azur Fragrances (Mouans-Sartoux), illustrant les mouvements de consolidation en cours dans le secteur de l'industrie manufacturière PACA. Cette dynamique M&A crée des besoins immobiliers accrus.",
-      "impact": "Les transactions de locaux d'activité doivent anticiper les fusions-acquisitions régionales générant des demandes de restructuration spatiale et de regroupement de sites pour les acquéreurs.",
-      "date": "31/08/2026",
-      "url": "https://www.laprovence.com/article/economie/57025113500875/le-parfumeur-allaudien-technicoflor-s-offre-azur-fragrances",
+      "title": "Rentrée scolaire 2026 : impacts économiques locaux et besoins de services tertiaires",
+      "body": "La rentrée scolaire s'est déroulée le 1er septembre 2026 dans les communes de Pélissanne et alentours, créant une dynamique d'activité économique locale. Les familles et établissements génèrent une demande accrue en espaces commerciaux et services de proximité.",
+      "impact": "Les acteurs immobiliers doivent cibler les petits commerces et locaux d'activité à proximité des zones scolaires pour anticiper la demande en services (restauration, papeterie, petits commerces).",
+      "date": "02/09/2026",
+      "url": "https://www.laprovence.com/article/economie/1845153713252614/ca-leur-a-manque-mais-pour-nous-ce-nest-pas-evident-des-rires-et-des-larmes-a-la-rentree-scolaire-a-pelissanne",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Marché PACA",
+          "cls": "tm"
         },
         {
-          "label": "Marché immobilier",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,46 +100,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Taux OAT stables : financement immobilier inchangé",
-      "body": "Les OAT françaises restent stables à 3,70% dans un contexte de politique monétaire prudente de la BCE à 2,15%. L'Euribor 3M se maintient à 2,15%, offrant une stabilité de financement pour les investisseurs immobiliers.",
-      "impact": "Les conditions de financement immobilier restent favorables pour les transactions PACA avec des taux de crédit prévisibles à moyen terme.",
-      "date": "01/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1073827404813814/facturation-electronique-opportunite-de-gestion-et-casse-tete-financier-pour-les-patrons-provencaux",
-      "source": "Données marché",
+      "title": "Pétrole : tensions moyen-orientales propulsent le Brent à 96 USD/baril",
+      "body": "Le conflit au Moyen-Orient fait flamber les prix énergétiques. Le baril de WTI pour livraison en octobre atteint 90,22 dollars (+5,20%), repassant le seuil des 90 dollars pour la première fois depuis fin juillet.",
+      "impact": "La hausse des prix énergétiques renchérit les coûts d'exploitation des immeubles tertiaires et augmente les charges locatives, impactant la rentabilité nette des investissements immobiliers PACA.",
+      "date": "02/09/2026",
+      "url": "https://www.laprovence.com/article/economie/1818757549837714/petrole-et-gaz-la-guerre-au-moyen-orient-propulse-les-prix-a-des-niveaux-inedits-depuis-juillet",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France modérée à 1,7% : contexte favorable",
-      "body": "L'inflation française demeure sous contrôle à 1,7%, bien en deçà des seuils d'alerte de la BCE et de l'objectif européen de 2%. Ce contexte économique stable limite les risques de variation des coûts immobiliers en PACA.",
-      "impact": "L'environnement inflationniste maîtrisé réduit l'imprévisibilité des valeurs d'actifs immobiliers et soutient les stratégies d'investissement à long terme.",
+      "title": "Impôts : rentrée fiscale 2026 avec dématérialisation accélérée",
+      "body": "La campagne des avis d'impôt sur les revenus 2025 a débuté le 24 juillet 2026 et la dématérialisation continue de progresser dans les démarches fiscales. Cette transition numérique impacte l'ensemble des contribuables et entreprises.",
+      "impact": "Les sociétés civiles immobilières et investisseurs doivent anticiper la dématérialisation croissante de leurs déclarations fiscales et s'équiper de solutions numériques conformes à la réglementation.",
       "date": "01/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1073827404813814/facturation-electronique-opportunite-de-gestion-et-casse-tete-financier-pour-les-patrons-provencaux",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/1228171088816514/impots-les-echeances-et-les-annonces-de-la-rentree-dans-la-region",
+      "source": "La Provence",
       "tags": [
         {
           "label": "Conjoncture",
-          "cls": "tg"
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Énergie : Brent à 96 USD, stabilité énergétique mondiale",
-      "body": "Le prix du Brent se maintient à 96 USD/baril, reflétant un équilibre fragile des marchés mondiaux de l'énergie sans perturbations majeures. Cette stabilité soutient les perspectives économiques de la zone euro et limite les risques géopolitiques.",
-      "impact": "La stabilité des cours pétroliers réduit la volatilité des charges d'exploitation (énergie, chauffage) pour les locataires immobiliers en PACA, renforçant la prévisibilité des loyers.",
-      "date": "01/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1073827404813814/facturation-electronique-opportunite-de-gestion-et-casse-tete-financier-pour-les-patrons-provencaux",
+      "title": "Contexte macro : OAT 3,70%, Euribor 2,15%, inflation 1,7% stables",
+      "body": "L'environnement macroéconomique reste stabilisé : OAT à 3,70%, Euribor 3M à 2,15% et inflation à 1,7%. Ces niveaux reflètent une certaine prudence de la BCE face aux tensions géopolitiques et énergétiques.",
+      "impact": "Les taux de financement pour acquisitions immobilières restent élevés mais stables ; les investisseurs doivent sécuriser leurs emprunts avant une potentielle remontée liée aux tensions énergétiques.",
+      "date": "02/09/2026",
+      "url": "https://www.laprovence.com/article/economie/",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

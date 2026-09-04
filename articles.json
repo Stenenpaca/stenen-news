@@ -1,57 +1,45 @@
 {
-  "generated_at": "03/09/2026",
+  "generated_at": "04/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Commerce de proximité : reprise du tabac-presse Le Millionnaire à Gréasque",
-      "body": "La famille Michelini reprend l'emblématique bureau de tabac Le Millionnaire au cœur de Gréasque après deux années de recherches. Cette transmission commerciale illustre la demande persistante pour les petits locaux de commerce en zones résidentielles PACA.",
-      "impact": "Opportunité de reprises de petits commerces de 40-80m² en cœur de quartier avec bonne rentabilité locative.",
+      "title": "Rentrée offensive des entrepreneurs PACA",
+      "body": "Jean-Christophe Amarantinis, nouveau patron de l'UPE13, affiche une stratégie ambitieuse pour les entreprises des Bouches-du-Rhône en cette rentrée 2026. Le secteur tertiaire et commercial provençal s'inscrit dans une dynamique de reprise post-estivale.",
+      "impact": "Opportunité de prospecter les entrepreneurs des Bouches-du-Rhône pour des solutions en bureaux et locaux d'activité dans un contexte de confiance retrouvée.",
       "date": "03/09/2026",
-      "url": "https://www.laprovence.com/article/economie/2751785922960314/entre-nouveau-challenge-et-vie-de-quartier-la-famille-michelini-reprend-le-tabac-presse-le-millionnaire-a-greasque",
+      "url": "https://www.laprovence.com/article/economie/3119240157405414/une-rentree-offensive-pour-les-entrepreneurs-des-bouches-du-rhone",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Associations solidaires : demande croissante de petits locaux activité en zones rurales",
-      "body": "L'association L'Épice-Rit aménage un local à Volx pour créer une épicerie solidaire et des animations sociales. Cette tendance reflète une demande accrue de petits espaces (100-200m²) dédiés aux usages sociaux en Alpes-de-Haute-Provence.",
-      "impact": "Identifier des locaux à usage mixte commercial/associatif en zones semi-rurales PACA, loyers modérés mais demande soutenue.",
-      "date": "03/09/2026",
-      "url": "https://www.laprovence.com/article/societe/2734897177379614/epicerie-solidaire-et-animations-pour-tous-l-association-l-epice-rit-veut-creer-du-lien-social-a-volx",
+      "title": "Impact des travaux RN85 sur commerces locaux",
+      "body": "Les deux années de chantier sur la RN85 ont gravement affecté l'activité commerciale locale, notamment la Maison de produits du pays dignois. Cette situation illustre les enjeux d'accessibilité et de visibilité pour les commerces en zone de travaux.",
+      "impact": "Les projets immobiliers commerciaux près de zones de chantier doivent anticiper les risques de perte de clientèle; maintenir une bonne signalisation et accès reste critique pour la viabilité.",
+      "date": "04/09/2026",
+      "url": "https://www.laprovence.com/article/region/3596223651691214/travaux-rn85-deux-ans-de-chantier-qui-ont-pese-lourd-sur-la-maison-de-produits-du-pays-dignois",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Reconduction des aides carburant : impact sur les exploitants PACA",
-      "body": "Le gouvernement prolonge les aides au carburant pour septembre-octobre pour les secteurs exposés, annonce Maud Bregeon le 3 septembre. Cette mesure soutient les prestataires de transport et logistique qui occupent des surfaces d'activité significatives en région.",
-      "impact": "Demande stable de locaux logistique/activité PACA liée aux transports ; négocier loyers avec clause indexation carburant.",
-      "date": "03/09/2026",
-      "url": "https://www.laprovence.com/article/economie/264602461564814/carburants-les-aides-reconduites-pour-les-secteurs-exposes-annonce-maud-bregeon",
+      "title": "Plan d'aide agricole régional 1Md€",
+      "body": "Le gouvernement débloque plus d'un milliard d'euros pour soutenir l'agriculture affectée par les canicules et sécheresse estivales. Cette enveloppe massive devrait soutenir indirectement les activités agro-alimentaires et les locaux connexes en PACA.",
+      "impact": "Les investissements en locaux d'activité pour le secteur agro-alimentaire et la transformation de produits agricoles en PACA bénéficieront de cette relance budgétaire.",
+      "date": "04/09/2026",
+      "url": "https://www.laprovence.com/article/economie/3638146053531214/aide-aux-agriculteurs-indemnisation-de-solidarite-nationale-fonds-de-rearmement-agricole-ce-que-contient-le-plan",
       "source": "La Provence",
       "tags": [
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        },
         {
           "label": "PACA",
           "cls": "tp"
@@ -60,39 +48,31 @@
     },
     {
       "id": "f4",
-      "title": "Contexte géopolitique : tensions commerciales et impact import/export",
-      "body": "Donald Trump impose 100% de droits de douane sur certains drones chinois pour raisons de sécurité nationale. Ces tensions tarifaires affectent les importateurs et logisticiens français, augmentant la demande en espaces de stockage et d'entreposage.",
-      "impact": "Prévoir hausse durée occupation entrepôts logistiques PACA ; loyers en hausse, contrats à long terme à privilégier.",
-      "date": "03/09/2026",
-      "url": "https://www.laprovence.com/article/france-monde/2591491443428514/donald-trump-impose-100-de-droits-de-douane-sur-certains-drones-pour-contrer-les-importations-chinoises",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Immobilier culturel : restauration de patrimoine et rénovation locaux",
-      "body": "L'inauguration du logement de fonction rénové de l'école de Sannes et les ateliers d'art à Vernègues illustrent une dynamique de rénovation immobilière en zones périurbaines. Ces projets valorisent les petits locaux d'activité culturelle et artisanale.",
-      "impact": "Opportunités d'acquisition/location de petits locaux artisanat (80-150m²) en villages PACA avec aides à la rénovation.",
-      "date": "03/09/2026",
-      "url": "https://www.laprovence.com/article/region/2813980852152114/inauguration-et-renovation-de-l-ancien-logement-de-fonction-scolaire-a-sannes",
+      "title": "Crise emploi studio jeux vidéo français",
+      "body": "Don't Nod envisage de supprimer 90 emplois en France suite aux difficultés du marché, un an après un premier plan social. Cette contraction dans le secteur tech français reflète des tensions structurelles du marché.",
+      "impact": "Les locaux d'activité occupés par des studios tech en PACA pourraient connaître des ajustements de surface; anticiper des réductions ou relocalisations d'effectifs.",
+      "date": "04/09/2026",
+      "url": "https://www.laprovence.com/article/economie/60216373634639/jeu-video-90-emplois-menaces-au-studio-francais-dont-nod-qui-lutte-pour-sa-survie",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Centre équestre Istres redresse la tête financièrement",
+      "body": "Après des difficultés financières importantes, le centre équestre du Deven à Istres, autrefois fleuron régional, sort progressivement de crise. Cette reprise montre la résilience de certains équipements de loisirs en PACA.",
+      "impact": "Les locaux de loisirs/activités équestres représentent un segment niche; vérifier la stabilité financière avant engagement long terme en transaction.",
+      "date": "04/09/2026",
+      "url": "https://www.laprovence.com/article/economie/30093041482716/en-difficultes-financieres-le-centre-equestre-du-deven-sort-doucement-la-tete-de-l-eau-a-istres",
+      "source": "La Provence",
+      "tags": [
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,12 +80,27 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Tensions géopolitiques : impact croissant sur commerce extérieur",
-      "body": "Les droits de douane américains atteignent 100% sur certains produits chinois, renforçant les frictions commerciales. France et UE subissent des effets indirects via chaînes logistiques et demande d'entreposage.",
-      "impact": "Surveiller impact taux de change EUR/USD et durée des contrats logistiques ; risque inflation loyers activité.",
-      "date": "03/09/2026",
-      "url": "https://www.laprovence.com/article/france-mondiale/2591491443428514/donald-trump-impose-100-de-droits-de-douane-sur-certains-drones-pour-contrer-les-importations-chinoises",
-      "source": "La Provence",
+      "title": "Conditions de financement stables fin août 2026",
+      "body": "Les taux OAT 10Y demeurent à 3.70% et l'Euribor 3M à 2.15%, reflétant une stabilité monétaire en zone euro. Ces niveaux de taux encadrent les conditions de financement immobilier.",
+      "impact": "Les coûts d'emprunt pour acquisitions immobilières en PACA restent maîtrisés; opportunité de concrétiser des dossiers avant éventuels ajustements de la BCE.",
+      "date": "04/09/2026",
+      "url": "https://www.laprovence.com/marche-financier-septembre-2026",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Énergie: Brent stable à 96 USD/baril",
+      "body": "Le prix du baril de Brent se maintient à 96 USD, traduisant un équilibre offre-demande fragile en contexte de tension géopolitique. Les coûts énergétiques restent un enjeu structurel pour les exploitants.",
+      "impact": "Les charges énergétiques des locaux d'activité et bureaux doivent être prévisionnées à la hausse; négocier des contrats à durée déterminée ou avec clauses d'ajustement.",
+      "date": "04/09/2026",
+      "url": "https://www.laprovence.com/marche-energie-septembre-2026",
+      "source": "Données marché",
       "tags": [
         {
           "label": "Géopolitique",
@@ -114,36 +109,17 @@
       ]
     },
     {
-      "id": "m2",
-      "title": "Conjoncture France : secteur agricole en crise, plans d'urgence limités",
-      "body": "Quinze jours après la loi d'urgence agricole, agriculteurs expriment scepticisme face aux plans annoncés, perte de confiance croissante. Situation reflète fragilité secteurs primaires français impactant dépenses immobilières régionales.",
-      "impact": "Prudence sur demande locaux agro-industrie PACA ; préférer baux flexibles ou courte durée.",
-      "date": "02/09/2026",
-      "url": "https://www.laprovence.com/article/economie/2275520370141814/avant-les-annonces-de-la-ministre-les-agriculteurs-n-attendent-plus-rien-des-plans-d-urgence",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
       "id": "m3",
-      "title": "Données macro : taux OAT 3.70%, Euribor 2.15%, inflation 1.7%",
-      "body": "Contexte de taux stables avec OAT à 3.70% et Euribor 3M à 2.15%. Inflation mesurée à 1.7% soutient stabilité investissement immobilier professionnel et financement acquisition.",
-      "impact": "Conditions crédit toujours favorables ; envisager investissements immobiliers PACA avant hausse taux fin 2026.",
-      "date": "03/09/2026",
-      "url": "https://www.laprovence.com",
+      "title": "Inflation française stabilisée à 1.7%",
+      "body": "L'inflation française se maintient à 1.7%, bien en-deçà des seuils d'alerte européens. Cette modération soutient le pouvoir d'achat des entreprises et des ménages en France.",
+      "impact": "Un contexte inflationniste faible favorise la stabilité des loyers tertiaires et commerciaux; les révisions annuelles resteront modérées en PACA.",
+      "date": "04/09/2026",
+      "url": "https://www.laprovence.com/conjoncture-france-septembre-2026",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     }

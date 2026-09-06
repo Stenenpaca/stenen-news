@@ -1,78 +1,98 @@
 {
-  "generated_at": "05/09/2026",
+  "generated_at": "06/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Salon-de-Provence : commerces en demi-teinte, relocalisations gagnantes",
-      "body": "Les commerçants du centre-ville de Salon-de-Provence ont enregistré un été difficile marqué par la canicule exceptionnelle. Certains ont cependant trouvé des solutions, comme la relocalisation en zone plus attractive (cours Victor-Hugo) générant une augmentation de 4x de la clientèle.",
-      "impact": "Opportunity : relocalisation vers zones à fort potentiel (cours Victor-Hugo, Salon) ; optimiser mix-tenant et localisation pour commerces/bureaux en PACA face aux défis climatiques.",
-      "date": "04/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3989300139344214/il-faut-se-reinventer-graziella-rimorini-mise-sur-les-lives-pour-attirer-la-clientele-a-salon-de-provence",
+      "title": "French Tech Aix-Marseille : dynamique innovation et attractivité locaux",
+      "body": "Le Grand Bain 2026, rendez-vous phare de la French Tech Aix-Marseille, se tiendra le 14 septembre au palais du Pharo à Marseille, positionnant la région comme hub d'innovation majeur. Cet événement consolide l'attractivité des zones d'activité pour héberger des startups et PME innovantes.",
+      "impact": "Accélération de la demande de locaux activité et bureaux flexibles en zones centrales marseillaises et aixoises pour jeunes entreprises tech.",
+      "date": "06/09/2026",
+      "url": "https://www.laprovence.com/article/economie/538065348761714/french-tech-aix-marseille-le-grand-bain-veut-faire-de-l-erreur-un-moteur-de-reussite",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA - Commerce",
+          "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Aubagne : restauration et tertiaire fragilisés par record de chaleur",
-      "body": "Les Bouches-du-Rhône ont connu un écart de +3,36°C par rapport aux normales cet été 2026, battant le record national depuis 1900. Les restaurateurs et commerces urbains rapportent une baisse sensible de l'activité estivale.",
-      "impact": "Conseil : intégrer critères climat/résilience thermique dans évaluations locatives bureaux/commerce ; valoriser bâtiments avec performance énergétique en PACA sud.",
-      "date": "04/09/2026",
-      "url": "https://www.laprovence.com/article/economie/12626616441843/on-se-serait-cru-au-texas-des-restaurateurs-seches-par-un-ete-caniculaire-mauvais-pour-les-affaires-a-aubagne",
+      "title": "Braderie Marseille : regain de fréquentation commerciale centre-ville",
+      "body": "La Grande Braderie de Marseille a enregistré un flux continu de badauds dans le quartier de l'Opéra avec réductions massives (-70% à -80%), démontrant une résilience du commerce de centre-ville. Cette dynamique illustre le potentiel des espaces commerciaux bien positionnés.",
+      "impact": "Opportunités de restructuration et relocation de commerces dans les zones à forte fréquentation marseillaise, justifiant des investissements en immobilier retail.",
+      "date": "05/09/2026",
+      "url": "https://www.laprovence.com/article/economie/93264633369012/video-encore-mieux-les-soldes-a-la-grande-braderie-de-marseille-les-badauds-etaient-bien-au-rendez-vous",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA - Activité",
+          "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "La Ciotat : Kérat'innov relance la filière laine en zone Athélia",
-      "body": "Kérat'innov, PME implantée en zone Athélia (La Ciotat) depuis 2012, transforme la laine de mouton en kératine et positionne la France sur ce segment innovant. Cette success-story peu médiatisée illustre le potentiel des zones d'activité PACA.",
-      "impact": "Prospection : zones activité (Athélia La Ciotat) attractives pour PME innovantes ; localisation littorale + infrastructure = valeur locative stable.",
-      "date": "04/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3967358261735414/cette-entreprise-de-la-ciotat-transforme-la-laine-de-mouton-en-keratine-et-veut-relancer-la-filiere-francaise-de-la-laine",
+      "title": "Provepharm : réinvestissement croissance PME innovante Marseille",
+      "body": "Provepharm, laboratoire marseillais, reçoit un nouvel apport de fonds de Sofipaca et Région Sud Investissement après 20 ans de partenariat, renouvelant la confiance dans le secteur biotech régional. Cette trajectoire de croissance génère des besoins d'espaces de R&D et bureaux techniques qualifiés.",
+      "impact": "Demande accrue de locaux spécialisés (R&D, labos) et bureaux haut de gamme pour PME biotech en région Provence, secteur à fort potentiel.",
+      "date": "05/09/2026",
+      "url": "https://www.laprovence.com/article/economie/4666534084233614/le-laboratoire-marseillais-provepharm-rearme-sa-recherche-sur-les-colorants-chirurgicaux-du-futur",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA - Locaux activité",
+          "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Agrosemens (Aix) : leader bio, croissance secteur agritech PACA",
-      "body": "Agrosemens, basée à Aix-en-Provence, est devenue leader français de la semence certifiée bio avec une trajectoire remarquable. Le secteur agritech-agro confirme sa dynamique de croissance régionale.",
-      "impact": "Niche tertiaire : demande croissante de locaux R&D/bureaux pour secteur agritech/biotech en PACA métropolitaine (Aix).",
+      "title": "Agrosemens : leader français semence bio, dynamique Aix-en-Provence",
+      "body": "Agrosemens, entreprise aixoise, s'affirme comme leader français de la semence certifiée bio, illustrant la montée en puissance du secteur agritech en région PACA. Cette croissance sectielle crée une demande de locaux d'activité dédiés aux industries vertes.",
+      "impact": "Sollicitation croissante de locaux activité agroindustriels et espaces logistiques autour d'Aix-en-Provence pour secteur bioagriculture en expansion.",
       "date": "05/09/2026",
       "url": "https://www.laprovence.com/article/ecoplanete/4413097311451614/agrosemens-cette-entreprise-aixoise-devenue-leader-francais-de-la-semence-certifiee-bio",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA - Bureaux",
+          "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Fos-sur-Mer : projet Mistral relance industrielle, permis 20 nov",
-      "body": "Marcegaglia engage le projet Mistral à Fos-sur-Mer avec calendrier accéléré ; consultation environnementale/permis ouverte jusqu'au 20 novembre. Cette dynamique industrielle majeure impacte la structuration foncière et immobilière du secteur.",
-      "impact": "Suivi : opportunités immobilières logistique/industrie à Fos-sur-Mer ; surveiller permis novembre pour flux d'investissements tertiaires/locaux adjacents.",
+      "title": "Salon-de-Provence : relocalisation et réinvention commerces centre-ville",
+      "body": "Graziella Rimorini a multiplié par quatre sa clientèle après relocalisation en cours Victor-Hugo, démontrant l'importance critique du positionnement géographique dans le succès commercial. Cette trajectoire valide la stratégie de restructuration des centres commerciaux périphériques.",
+      "impact": "Recommandation aux propriétaires/gestionnaires de portfolios commerciaux de Salon-de-Provence et régions PACA d'analyser relocalisation pour optimiser captures de flux et rentabilité.",
       "date": "04/09/2026",
-      "url": "https://www.laprovence.com/article/economie/58764925106747/de-la-consultation-a-la-premiere-coulee-le-calendrier-du-projet-mistral-a-fos-sur-mer",
+      "url": "https://www.laprovence.com/article/economie/3989300139344214/il-faut-se-reinventer-graziella-rimorini-mise-sur-les-lives-pour-attirer-la-clientele-a-salon-de-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA - Réglementation",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     }
@@ -80,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Hausse record canicule France 2026 : impact macroéconomique secteur tertiaire",
-      "body": "L'été 2026 a battu le record national de chaleur depuis 1900, avec +3,36°C en Bouches-du-Rhône. Cette exception climatique fragilise secteurs commerce/restauration/services malgré résilience partielle de certaines zones.",
-      "impact": "France : inflation services locaux en PACA ; ajuster valuations tertiaire sur critères climat/efficacité énergétique ; risk premium sur immobilier exposé.",
-      "date": "04/09/2026",
-      "url": "https://www.laprovence.com/article/economie/12626616441843/on-se-serait-cru-au-texas-des-restaurateurs-seches-par-un-ete-caniculaire-mauvais-pour-les-affaires-a-aubagne",
+      "title": "Climat économique France : canicule et pressurisation commerces été 2026",
+      "body": "L'été 2026 a été le plus chaud jamais enregistré en France depuis 1900, impactant négativement les chiffres d'affaires des commerçants PACA avec variations importantes selon secteurs. Cette perturbation climatique structure les attentes de rentabilité immobilière pour rentrée.",
+      "impact": "Intégrer stress climatique récurrent dans modèles valorisation immobilier commercial et bureaux ; adapter offres de locaux pour résilience thermique.",
+      "date": "05/09/2026",
+      "url": "https://www.laprovence.com/article/economie/4483864287011414/pourquoi-le-livret-a-pourrait-etre-utilise-pour-financer-l-adaptation-au-changement-climatique",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture France",
+          "label": "Géopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Airbus atteint record commandes, montée cadence A320 fin 2027",
-      "body": "Guillaume Faury (PDG Airbus) confirme objectif 75 A320/mois fin 2027 sans précédent historique ; chaîne approvisionnement globale s'inscrit dans montée en cadence. Dynamique aéronautique-défense renforce pôles régionaux (Toulouse, côte méditerranéenne).",
-      "impact": "Géopolitique/énergie : aéronautique moteur croissance France/PACA ; activité logistique/services B2B en décorrélation inflation généralisée.",
+      "title": "Airbus : expansion production A320/A321, demande aéronautique historique",
+      "body": "Airbus atteint un niveau de commandes jamais vu et vise 75 avions A320 mensuels fin 2027, confirmant la robustesse de la chaîne de valeur industrielle française. Tous les fournisseurs s'inscrivent dans cette montée en cadence, structurant dynamique économique régionale.",
+      "impact": "Secteur aéronautique PACA bénéficie d'effet palier ; opportunités de desserrage foncier/immobilier pour ETI sous-traitants autour Marseille-Provence.",
       "date": "05/09/2026",
       "url": "https://www.laprovence.com/article/economie/4352285275001414/ce-niveau-de-commandes-d-avions-n-avait-jamais-existe-auparavant-linterview-de-guillaume-faury-patron-d-airbus",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Conjoncture",
           "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macro : taux OAT 3.70%, Euribor 2.15%, BCE stable",
-      "body": "Environnement de taux orienté : OAT 3.70%, Euribor 3M 2.15%, BCE 2.15%, inflation France 1.7%. Marché stabilisé post-été 2026 malgré chocs climatiques régionaux.",
-      "impact": "Financement CRE : coûts emprunt stables/favorables ; opportunité affinage stratégie taux (swaps, caps) avant fin Q3 2026.",
-      "date": "05/09/2026",
-      "url": "https://www.laprovence.com/article/economie/4352285275001414/donnees-marche-macro",
+      "title": "Taux OAT et financement : contexte stable septembre 2026",
+      "body": "OAT 10Y stable à 3.70%, Euribor 3M à 2.15%, reflétant stabilité monétaire BCE. Environnement de taux supportable pour investisseurs immobiliers tertiaires et PME en financement d'acquisition/restructuration.",
+      "impact": "Fenêtre de financement opportune pour transactions CRE PACA ; recommander verrouillage taux fixes moyens/longs termes avant potentielles révisions BCE Q4 2026.",
+      "date": "06/09/2026",
+      "url": "https://marche-data.interne",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux/Financement",
+          "label": "Taux",
           "cls": "tt"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "06/09/2026",
+  "generated_at": "07/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "French Tech Aix-Marseille : dynamique innovation et attractivité locaux",
-      "body": "Le Grand Bain 2026, rendez-vous phare de la French Tech Aix-Marseille, se tiendra le 14 septembre au palais du Pharo à Marseille, positionnant la région comme hub d'innovation majeur. Cet événement consolide l'attractivité des zones d'activité pour héberger des startups et PME innovantes.",
-      "impact": "Accélération de la demande de locaux activité et bureaux flexibles en zones centrales marseillaises et aixoises pour jeunes entreprises tech.",
+      "title": "French Tech Aix-Marseille : innovation et dynamique entrepreneuriale",
+      "body": "Le Grand Bain 2026, rendez-vous phare de la French Tech Aix-Marseille, se tiendra le 14 septembre au palais du Pharo à Marseille. L'événement positionne l'échec comme moteur de réussite et d'innovation pour les startups régionales.",
+      "impact": "Dynamique positive pour les locaux d'activité innovants et espaces de coworking en zone Aix-Marseille, secteur en croissance.",
       "date": "06/09/2026",
       "url": "https://www.laprovence.com/article/economie/538065348761714/french-tech-aix-marseille-le-grand-bain-veut-faire-de-l-erreur-un-moteur-de-reussite",
       "source": "La Provence",
@@ -13,18 +13,14 @@
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Braderie Marseille : regain de fréquentation commerciale centre-ville",
-      "body": "La Grande Braderie de Marseille a enregistré un flux continu de badauds dans le quartier de l'Opéra avec réductions massives (-70% à -80%), démontrant une résilience du commerce de centre-ville. Cette dynamique illustre le potentiel des espaces commerciaux bien positionnés.",
-      "impact": "Opportunités de restructuration et relocation de commerces dans les zones à forte fréquentation marseillaise, justifiant des investissements en immobilier retail.",
+      "title": "Braderie de Marseille : dynamisme du commerce de détail",
+      "body": "La grande braderie de Marseille dans le quartier de l'Opéra affiche un succès commercial avec des réductions jusqu'à -80%. L'affluence continue de badauds confirme la vitalité du commerce de rue marseillais.",
+      "impact": "Valide la pertinence des locaux commerciaux en zone urbaine dense (1er arrondissement) pour le retail et la circulation piétonne.",
       "date": "05/09/2026",
       "url": "https://www.laprovence.com/article/economie/93264633369012/video-encore-mieux-les-soldes-a-la-grande-braderie-de-marseille-les-badauds-etaient-bien-au-rendez-vous",
       "source": "La Provence",
@@ -32,18 +28,14 @@
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Provepharm : réinvestissement croissance PME innovante Marseille",
-      "body": "Provepharm, laboratoire marseillais, reçoit un nouvel apport de fonds de Sofipaca et Région Sud Investissement après 20 ans de partenariat, renouvelant la confiance dans le secteur biotech régional. Cette trajectoire de croissance génère des besoins d'espaces de R&D et bureaux techniques qualifiés.",
-      "impact": "Demande accrue de locaux spécialisés (R&D, labos) et bureaux haut de gamme pour PME biotech en région Provence, secteur à fort potentiel.",
+      "title": "Provepharm : investissement régional en R&D industrielle",
+      "body": "Le laboratoire marseillais Provepharm bénéficie d'une nouvelle injection de fonds via Sofipaca et Région Sud Investissement après 20 ans de confiance. L'entreprise poursuit sa recherche sur les colorants chirurgicaux du futur.",
+      "impact": "Opportunités de locaux d'activité R&D et bureaux techniques pour les clusters pharma/biotech en région Provence.",
       "date": "05/09/2026",
       "url": "https://www.laprovence.com/article/economie/4666534084233614/le-laboratoire-marseillais-provepharm-rearme-sa-recherche-sur-les-colorants-chirurgicaux-du-futur",
       "source": "La Provence",
@@ -53,64 +45,20 @@
           "cls": "tp"
         },
         {
-          "label": "Investissement",
+          "label": "Invest",
           "cls": "ti2"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Agrosemens : leader français semence bio, dynamique Aix-en-Provence",
-      "body": "Agrosemens, entreprise aixoise, s'affirme comme leader français de la semence certifiée bio, illustrant la montée en puissance du secteur agritech en région PACA. Cette croissance sectielle crée une demande de locaux d'activité dédiés aux industries vertes.",
-      "impact": "Sollicitation croissante de locaux activité agroindustriels et espaces logistiques autour d'Aix-en-Provence pour secteur bioagriculture en expansion.",
-      "date": "05/09/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/4413097311451614/agrosemens-cette-entreprise-aixoise-devenue-leader-francais-de-la-semence-certifiee-bio",
+      "title": "Budget 2027 : mesures sur épargne salariale et cotisations",
+      "body": "Le gouvernement envisage de soumettre une partie des primes d'intéressement à cotisations sociales dans le cadre du budget 2027. Cette réforme impactera les dispositifs d'épargne salariale des entreprises.",
+      "impact": "Anticiper les impacts de fiscalité sur les coûts d'occupation immobilière et compétitivité des locations tertiaires.",
+      "date": "07/09/2026",
+      "url": "https://www.laprovence.com/article/economie/15468077606659/budget-2027-epargne-salariale-retraites-depenses-de-l-etat-les-pistes-du-gouvernement",
       "source": "La Provence",
       "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Salon-de-Provence : relocalisation et réinvention commerces centre-ville",
-      "body": "Graziella Rimorini a multiplié par quatre sa clientèle après relocalisation en cours Victor-Hugo, démontrant l'importance critique du positionnement géographique dans le succès commercial. Cette trajectoire valide la stratégie de restructuration des centres commerciaux périphériques.",
-      "impact": "Recommandation aux propriétaires/gestionnaires de portfolios commerciaux de Salon-de-Provence et régions PACA d'analyser relocalisation pour optimiser captures de flux et rentabilité.",
-      "date": "04/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3989300139344214/il-faut-se-reinventer-graziella-rimorini-mise-sur-les-lives-pour-attirer-la-clientele-a-salon-de-provence",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "id": "m1",
-      "title": "Climat économique France : canicule et pressurisation commerces été 2026",
-      "body": "L'été 2026 a été le plus chaud jamais enregistré en France depuis 1900, impactant négativement les chiffres d'affaires des commerçants PACA avec variations importantes selon secteurs. Cette perturbation climatique structure les attentes de rentabilité immobilière pour rentrée.",
-      "impact": "Intégrer stress climatique récurrent dans modèles valorisation immobilier commercial et bureaux ; adapter offres de locaux pour résilience thermique.",
-      "date": "05/09/2026",
-      "url": "https://www.laprovence.com/article/economie/4483864287011414/pourquoi-le-livret-a-pourrait-etre-utilise-pour-financer-l-adaptation-au-changement-climatique",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
         {
           "label": "Régulation",
           "cls": "tr"
@@ -118,40 +66,68 @@
       ]
     },
     {
-      "id": "m2",
-      "title": "Airbus : expansion production A320/A321, demande aéronautique historique",
-      "body": "Airbus atteint un niveau de commandes jamais vu et vise 75 avions A320 mensuels fin 2027, confirmant la robustesse de la chaîne de valeur industrielle française. Tous les fournisseurs s'inscrivent dans cette montée en cadence, structurant dynamique économique régionale.",
-      "impact": "Secteur aéronautique PACA bénéficie d'effet palier ; opportunités de desserrage foncier/immobilier pour ETI sous-traitants autour Marseille-Provence.",
-      "date": "05/09/2026",
-      "url": "https://www.laprovence.com/article/economie/4352285275001414/ce-niveau-de-commandes-d-avions-n-avait-jamais-existe-auparavant-linterview-de-guillaume-faury-patron-d-airbus",
+      "id": "f5",
+      "title": "Carburants en Provence : volatilité géopolitique et prix",
+      "body": "Les tarifs à la pompe en Provence suivent les tensions géopolitiques mondiales, notamment l'Iran qui augmente les prix de l'essence. L'importation de pétrole fait face à des blocages navals impactant les coûts logistiques régionaux.",
+      "impact": "Réviser les budgets de transport et livraison pour les baux commerciaux/activité; considérer proximité clients pour réduire déplacements.",
+      "date": "07/09/2026",
+      "url": "https://www.laprovence.com/article/france-monde/14783009342097/carte-prix-des-carburants-decouvrez-les-tarifs-a-la-pompe-en-provence-alors-que-l-iran-augmente-le-prix-de-l-essence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
+          "cls": "tg"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "id": "m1",
+      "title": "Géopolitique énergétique : tensions Iran et blocus naval",
+      "body": "L'Iran augmente les prix de l'essence pour contrer les difficultés d'importation de pétrole causées par un blocus naval. Cette tension géopolitique affecte directement les prix des carburants en Provence et la chaîne d'approvisionnement régionale.",
+      "impact": "Volatilité énergétique impact coûts logistiques CRE PACA; intégrer clause d'ajustement énergétique dans les nouveaux baux.",
+      "date": "07/09/2026",
+      "url": "https://www.laprovence.com/article/france-monde/14783009342097/carte-prix-des-carburants-decouvrez-les-tarifs-a-la-pompe-en-provence-alors-que-l-iran-augmente-le-prix-de-l-essence",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Changement climatique : été 2026 le plus chaud depuis 1900",
+      "body": "La France a connu l'été 2026 le plus chaud jamais enregistré depuis le début des mesures en 1900, selon la ministre de la Transition écologique. Le Livret A pourrait financer l'adaptation au changement climatique et les mesures résilience.",
+      "impact": "Climatisation/rafraîchissement deviennent critères majeurs locatifs; financement vert (OAT climat, Livret A) ouvre opportunités immobilier durable.",
+      "date": "05/09/2026",
+      "url": "https://www.laprovence.com/article/economie/4483864287011414/pourquoi-le-livret-a-pourrait-etre-utilise-pour-financer-l-adaptation-au-changement-climatique",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Climat",
           "cls": "tg"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Taux OAT et financement : contexte stable septembre 2026",
-      "body": "OAT 10Y stable à 3.70%, Euribor 3M à 2.15%, reflétant stabilité monétaire BCE. Environnement de taux supportable pour investisseurs immobiliers tertiaires et PME en financement d'acquisition/restructuration.",
-      "impact": "Fenêtre de financement opportune pour transactions CRE PACA ; recommander verrouillage taux fixes moyens/longs termes avant potentielles révisions BCE Q4 2026.",
-      "date": "06/09/2026",
-      "url": "https://marche-data.interne",
-      "source": "Données marché",
+      "title": "Contexte macroéconomique septembre 2026",
+      "body": "OAT à 3.70%, Euribor3M à 2.15%, BCE à 2.15%, inflation France à 1.7%. Brent à 96 USD/baril reflète tensions géopolitiques. Contexte de taux normalisés post-hausse avec inflation maîtrisée.",
+      "impact": "Financement immobilier stable; négocier taux longs sur OAT 10y; vigilance sur clauses révision loyer indexées inflation ou Euribor.",
+      "date": "07/09/2026",
+      "url": "https://www.laprovence.com/article/economie/15468077606659/budget-2027-epargne-salariale-retraites-depenses-de-l-etat-les-pistes-du-gouvernement",
+      "source": "La Provence",
       "tags": [
         {
           "label": "Taux",
           "cls": "tt"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
         }
       ]
     }

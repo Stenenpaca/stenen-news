@@ -1,43 +1,13 @@
 {
-  "generated_at": "07/09/2026",
+  "generated_at": "08/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "French Tech Aix-Marseille : innovation et dynamique entrepreneuriale",
-      "body": "Le Grand Bain 2026, rendez-vous phare de la French Tech Aix-Marseille, se tiendra le 14 septembre au palais du Pharo à Marseille. L'événement positionne l'échec comme moteur de réussite et d'innovation pour les startups régionales.",
-      "impact": "Dynamique positive pour les locaux d'activité innovants et espaces de coworking en zone Aix-Marseille, secteur en croissance.",
-      "date": "06/09/2026",
-      "url": "https://www.laprovence.com/article/economie/538065348761714/french-tech-aix-marseille-le-grand-bain-veut-faire-de-l-erreur-un-moteur-de-reussite",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Braderie de Marseille : dynamisme du commerce de détail",
-      "body": "La grande braderie de Marseille dans le quartier de l'Opéra affiche un succès commercial avec des réductions jusqu'à -80%. L'affluence continue de badauds confirme la vitalité du commerce de rue marseillais.",
-      "impact": "Valide la pertinence des locaux commerciaux en zone urbaine dense (1er arrondissement) pour le retail et la circulation piétonne.",
-      "date": "05/09/2026",
-      "url": "https://www.laprovence.com/article/economie/93264633369012/video-encore-mieux-les-soldes-a-la-grande-braderie-de-marseille-les-badauds-etaient-bien-au-rendez-vous",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Provepharm : investissement régional en R&D industrielle",
-      "body": "Le laboratoire marseillais Provepharm bénéficie d'une nouvelle injection de fonds via Sofipaca et Région Sud Investissement après 20 ans de confiance. L'entreprise poursuit sa recherche sur les colorants chirurgicaux du futur.",
-      "impact": "Opportunités de locaux d'activité R&D et bureaux techniques pour les clusters pharma/biotech en région Provence.",
-      "date": "05/09/2026",
-      "url": "https://www.laprovence.com/article/economie/4666534084233614/le-laboratoire-marseillais-provepharm-rearme-sa-recherche-sur-les-colorants-chirurgicaux-du-futur",
+      "title": "Fiscalité entreprises : priorité n°1 pour retrouver des marges",
+      "body": "93% des patrons de la région demandent une réduction de la fiscalité et des charges sociales pour améliorer leur compétitivité. Cette pression du patronat s'intensifie avant la présidentielle 2027 face à une croissance économique au point mort.",
+      "impact": "Les locataires bureaux/activité PACA réclament des allègements fiscaux ; valoriser dans vos argumentaires les économies d'exploitation possibles des bâtiments tertiaires optimisés.",
+      "date": "08/09/2026",
+      "url": "https://www.laprovence.com/article/economie/106705546369614/reduire-la-fiscalite-et-les-charges-des-entreprises-ces-leviers-pour-retrouver-des-marges-de-manoeuvre",
       "source": "La Provence",
       "tags": [
         {
@@ -45,38 +15,84 @@
           "cls": "tp"
         },
         {
-          "label": "Invest",
+          "label": "Réglementation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Chargepoly lève 23M€ pour l'infrastructure de recharge poids lourds",
+      "body": "La startup aixoise Chargepoly accélère son déploiement d'infrastructures de recharge rapide pour flottes électriques via une levée de fonds majeure. Ce secteur en croissance crée une demande nouvelle de locaux activité et terrains en PACA.",
+      "impact": "Opportunité : identifier des terrains/locaux d'activité PACA pour accueil de bornes de recharge ; secteur décarbonation attire investisseurs et subventions publiques.",
+      "date": "08/09/2026",
+      "url": "https://www.laprovence.com/article/economie/70763123672612/la-societe-chargepoly-leve-23-millions-deuros-pour-etendre-ses-bornes-de-recharge-pour-le-transport-lourd",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "E-santé PACA mobilise 228.8M€ au S1 2026, secteur résilient",
+      "body": "Malgré l'attentisme des marchés, le pôle Eurobiomed (PACA-Occitanie) démontre la solidité de la filière santé avec 228.8M€ de capitaux levés au premier semestre. La e-santé demeure un moteur d'investissement immobilier tertiaire.",
+      "impact": "Privilégier les transactions bureaux/locaux pour secteur santé numérique : demande stable, locataires solvables, rentes durables en PACA.",
+      "date": "07/09/2026",
+      "url": "https://www.laprovence.com/article/economie/63956157899584/dans-le-grand-sud-la-e-sante-resiste-et-attire-les-capitaux",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Investissement",
           "cls": "ti2"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Budget 2027 : mesures sur épargne salariale et cotisations",
-      "body": "Le gouvernement envisage de soumettre une partie des primes d'intéressement à cotisations sociales dans le cadre du budget 2027. Cette réforme impactera les dispositifs d'épargne salariale des entreprises.",
-      "impact": "Anticiper les impacts de fiscalité sur les coûts d'occupation immobilière et compétitivité des locations tertiaires.",
-      "date": "07/09/2026",
-      "url": "https://www.laprovence.com/article/economie/15468077606659/budget-2027-epargne-salariale-retraites-depenses-de-l-etat-les-pistes-du-gouvernement",
+      "title": "Mistral AI lève des moyens pour rivaliser en intelligence artificielle",
+      "body": "La startup marseillaise Mistral AI renforce ses investissements en R&D et infrastructure pour accélérer son déploiement face aux géants OpenAI et Anthropic. Le secteur tech-IA crée une forte demande de locaux bureaux modernes en PACA.",
+      "impact": "Cibler les startups IA/tech PACA : besoin croissant de bureaux flex, espaces collaboration, proximité centres d'innovation ; valoriser connectivité, services digitaux.",
+      "date": "08/09/2026",
+      "url": "https://www.laprovence.com/article/economie/99908450347374/course-a-lia-mistral-ai-se-dote-de-moyens-pour-rivaliser-avec-openai-et-anthropic",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Carburants en Provence : volatilité géopolitique et prix",
-      "body": "Les tarifs à la pompe en Provence suivent les tensions géopolitiques mondiales, notamment l'Iran qui augmente les prix de l'essence. L'importation de pétrole fait face à des blocages navals impactant les coûts logistiques régionaux.",
-      "impact": "Réviser les budgets de transport et livraison pour les baux commerciaux/activité; considérer proximité clients pour réduire déplacements.",
-      "date": "07/09/2026",
-      "url": "https://www.laprovence.com/article/france-monde/14783009342097/carte-prix-des-carburants-decouvrez-les-tarifs-a-la-pompe-en-provence-alors-que-l-iran-augmente-le-prix-de-l-essence",
+      "title": "Patronat PACA mobilisé pour débat présidentiel 2027",
+      "body": "À 8 mois de la présidentielle, le patronat PACA intensifie sa présence politique face à une croissance au point mort (+0.0% T2 2026). Les enjeux fiscaux, emploi et pouvoir d'achat structurent les négociations immobilières actuelles.",
+      "impact": "Contexte politique tendu impacte négociation loyers/valeurs tertiaires ; anticiper stabilisation post-élection, privilégier baux longs et locataires AAA.",
+      "date": "08/09/2026",
+      "url": "https://www.laprovence.com/article/economie/99196044325975/le-patronat-veut-peser-dans-le-debat-presidentiel",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     }
@@ -84,32 +100,28 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Géopolitique énergétique : tensions Iran et blocus naval",
-      "body": "L'Iran augmente les prix de l'essence pour contrer les difficultés d'importation de pétrole causées par un blocus naval. Cette tension géopolitique affecte directement les prix des carburants en Provence et la chaîne d'approvisionnement régionale.",
-      "impact": "Volatilité énergétique impact coûts logistiques CRE PACA; intégrer clause d'ajustement énergétique dans les nouveaux baux.",
-      "date": "07/09/2026",
-      "url": "https://www.laprovence.com/article/france-monde/14783009342097/carte-prix-des-carburants-decouvrez-les-tarifs-a-la-pompe-en-provence-alors-que-l-iran-augmente-le-prix-de-l-essence",
+      "title": "Croissance France au point mort, T2 2026 +0.0%",
+      "body": "La France connaît une stagnation conjoncturelle avec +0.0% au T2 2026 après -0.2% précédemment, plombée par tensions gouvernementales et attentisme consommateurs. Cet arrêt de la croissance fragilise l'immobilier tertiaire et reporte les décisions d'investissement.",
+      "impact": "Marché CRE PACA : demande locataire figée, pression baissière sur les rentes, allongement cycles de négociation en 2026.",
+      "date": "08/09/2026",
+      "url": "https://www.laprovence.com/article/economie/99196044325975/le-patronat-veut-peser-dans-le-debat-presidentiel",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Changement climatique : été 2026 le plus chaud depuis 1900",
-      "body": "La France a connu l'été 2026 le plus chaud jamais enregistré depuis le début des mesures en 1900, selon la ministre de la Transition écologique. Le Livret A pourrait financer l'adaptation au changement climatique et les mesures résilience.",
-      "impact": "Climatisation/rafraîchissement deviennent critères majeurs locatifs; financement vert (OAT climat, Livret A) ouvre opportunités immobilier durable.",
-      "date": "05/09/2026",
-      "url": "https://www.laprovence.com/article/economie/4483864287011414/pourquoi-le-livret-a-pourrait-etre-utilise-pour-financer-l-adaptation-au-changement-climatique",
-      "source": "La Provence",
+      "title": "OAT 3.70%, Euribor3M 2.15% : financement tertiaire stabilisé",
+      "body": "Les taux obligations français et Euribor court terme restent contenus (OAT 3.70%, Euribor3M 2.15%), soutenant l'accès au financement pour les investisseurs immobiliers. Cet environnement tarifaire stable favorise les opérations à taux fixes long terme.",
+      "impact": "Opportunité : promouvoir aux institutionnels les acquisitions tertiaires PACA en financement LT à taux actuels avant durcissement probable post-élection.",
+      "date": "08/09/2026",
+      "url": "https://www.bpifrance.fr",
+      "source": "Données marché",
       "tags": [
-        {
-          "label": "Climat",
-          "cls": "tg"
-        },
         {
           "label": "Taux",
           "cls": "tt"
@@ -118,12 +130,12 @@
     },
     {
       "id": "m3",
-      "title": "Contexte macroéconomique septembre 2026",
-      "body": "OAT à 3.70%, Euribor3M à 2.15%, BCE à 2.15%, inflation France à 1.7%. Brent à 96 USD/baril reflète tensions géopolitiques. Contexte de taux normalisés post-hausse avec inflation maîtrisée.",
-      "impact": "Financement immobilier stable; négocier taux longs sur OAT 10y; vigilance sur clauses révision loyer indexées inflation ou Euribor.",
-      "date": "07/09/2026",
-      "url": "https://www.laprovence.com/article/economie/15468077606659/budget-2027-epargne-salariale-retraites-depenses-de-l-etat-les-pistes-du-gouvernement",
-      "source": "La Provence",
+      "title": "BCE 2.15%, inflation 1.7% : politique monétaire accommodante",
+      "body": "Avec une inflation contenue à 1.7% et la BCE maintenant les taux directeurs à 2.15%, l'environnement monétaire demeure souple. Cette stabilité encourage le crédit immobilier malgré les incertitudes politiques françaises.",
+      "impact": "Contexte favorable aux montages de financement innovants (CPP, CMBS) ; valoriser la sécurité des locaux tertiaire PACA vs contexte macro fragilisé.",
+      "date": "08/09/2026",
+      "url": "https://www.ecb.europa.eu",
+      "source": "BCE",
       "tags": [
         {
           "label": "Taux",

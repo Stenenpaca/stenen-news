@@ -1,51 +1,43 @@
 {
-  "generated_at": "09/09/2026",
+  "generated_at": "10/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Demande de stabilité des entrepreneurs Sud en région PACA",
-      "body": "Les Entrepreneurs Sud (anciennement CPME Sud) appellent à plus de stabilité et une vision claire pour le tissu économique régional. Cette organisation représentative revendique un cadre prévisible pour les entreprises du secteur tertiaire et de services.",
-      "impact": "Climat d'incertitude observé chez les PME PACA : à privilégier dans les négociations de bureaux/locaux activité des contrats avec clauses de flexibilité accrue.",
-      "date": "09/09/2026",
-      "url": "https://www.laprovence.com/article/economie/45334869384618/les-entrepreneurs-sud-demandent-de-la-stabilite-et-une-vision",
+      "title": "Budget AMP: tensions budgétaires impactent les investissements tertiaires",
+      "body": "La Métropole Aix-Marseille-Provence fait face à une crise budgétaire majeure avec trois scénarios en débat ce jeudi 10 septembre. Cette instabilité budgétaire régionale freine les investissements immobiliers et les appels d'offres publics en locaux tertiaires.",
+      "impact": "Privilégier les transactions privées court terme sur les lots tertiaires AMP; négocier des flexibilités contractuelles face à l'incertitude publique.",
+      "date": "10/09/2026",
+      "url": "https://www.laprovence.com/article/politique/70196208610723/budget-de-la-metropole-aix-marseille-provence-on-vous-detaille-les-trois-scenarios-possibles-ce-jeudi-10-septembre",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Agora : menace de fermeture du centre de congrès aubagnais",
-      "body": "Le centre de congrès Agora à Aubagne, facility majeure accueillant séminaires et salons, fait face à une situation de blocage avec risque de fermeture initié par la Métropole. Ce défi impacte directement l'écosystème des locaux événementiels et activité en zone métropolitaine.",
-      "impact": "Opportunité pour Stenen : repositionner surfaces commerciales/activité vers prestataires événementiels cherchant alternatives à Agora dans l'axe Aubagne-Marseille.",
-      "date": "09/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1804945843585914/une-situation-de-blocage-le-centre-de-congres-aubagnais-agora-menace-de-fermeture-par-la-metropole",
+      "title": "TPE-PME: précarité psychologique des dirigeants impacte leurs décisions",
+      "body": "Selon le baromètre AG2R La Mondiale/Ipsos BVA, les dirigeants de TPE-PME souffrent d'isolement et de burn-out, sacrifiant leur santé pour sauver leur entreprise. Ce stress affecte directement les capacités d'investissement et les projets d'expansion immobilière.",
+      "impact": "Adapter l'offre locative aux contraintes financières accrues des petites structures; proposer des solutions de court terme et de flexibilité locative.",
+      "date": "10/09/2026",
+      "url": "https://www.laprovence.com/article/economie/16066352892899/isolement-tensions-economiques-les-patrons-de-tpe-pme-particulierement-exposes-au-burn-out",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Immobilier activité",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "L'Occitane en Provence : 20 ans de philanthropie et vision future",
-      "body": "L'Occitane marque ses 20 ans d'engagement philanthropique lors d'un événement à Marseille, signalant une consolidation de ses opérations régionales. Cette stabilité d'un grand groupe du luxe renforce la demande de bureaux haut de gamme en région PACA.",
-      "impact": "Acteur majeur PACA confirmé : cibler locaux de prestige (bureaux, logistique premium) pour groupe cosmetique en croissance philanthropique et développement.",
-      "date": "08/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1310723519975414/l-occitane-en-provence-fete-20-ans-de-philanthropie-et-prepare-l-avenir",
+      "title": "Financement startup: ANA Healthcare lève 2,2M€ en région PACA",
+      "body": "ANA Healthcare à Marseille a levé 2,2 millions d'euros pour valoriser les données de santé et exploiter les gisements cliniques inexploités. Cette dynamique de financement confirme l'attractivité du secteur santé-tech en PACA pour les locaux d'activité innovants.",
+      "impact": "Identifier espaces flex-office qualifiés pour biotech/santé-tech sur Marseille; cibler les zones proches de pôles hospitalo-universitaires.",
+      "date": "10/09/2026",
+      "url": "https://www.laprovence.com/article/economie/2823970159227814/ana-healthcare-a-marseille-leve-2-2-millions-d-euros-pour-valoriser-la-donnee-de-sante",
       "source": "La Provence",
       "tags": [
         {
@@ -53,46 +45,38 @@
           "cls": "tp"
         },
         {
-          "label": "Marché bureaux",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Tourisme PACA : les Américains moteurs économiques hôtellerie",
-      "body": "Les touristes américains représentent près de 800 000 séjours annuels en région PACA, confirmant leur rôle de moteur économique majeur pour l'hôtellerie. Au-delà du volume, leur forte valeur ajoutée soutient la demande tertaire et commerciale.",
-      "impact": "Flux touristique américain stable = demande d'immobilier activité/commerce côtier et urbain confirmée ; cibler acquisitions à proximité zones touristiques Côte d'Azur.",
-      "date": "09/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1923049170669914/tourisme-les-americains-moteur-economique-de-l-hotellerie-en-region-paca",
+      "title": "ZAC Molières Miramas: consultation publique jusqu'au 15 septembre",
+      "body": "L'extension de la ZAC des Molières à Miramas entre dans sa phase finale de consultation publique (jusqu'au 15 septembre). Ce projet d'aménagement du secteur nord représente une opportunité majeure de locaux d'activité en région PACA.",
+      "impact": "Anticiper l'ouverture de nouveaux terrains tertiaires/activité post-validation; prospecter les entreprises en recherche de relocalisation.",
+      "date": "10/09/2026",
+      "url": "https://www.laprovence.com/article/economie/2224691547084414/les-derniers-jours-pour-se-prononcer-sur-lextension-de-la-zac-des-molieres-a-miramas",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché commerce",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "SCI pour gestion patrimoine immobilier : avantages structurels",
-      "body": "La structure juridique SCI offre des mécanismes fondamentaux pour optimiser la gestion patrimoniale immobilière et la transmission. Cet outil demeure pertinent pour les investisseurs PACA structurant leurs acquisitions tertiaires.",
-      "impact": "Conseiller montage SCI aux clients acquéreurs de portefeuille bureaux/activité : fiscalité maîtrisée + flexibilité transmission pour optimiser ROI.",
-      "date": "08/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1354825135368814/quels-sont-les-avantages-dune-sci-pour-la-gestion-de-patrimoine",
+      "title": "Transparence salariale: directive UE au Conseil des ministres 10/09",
+      "body": "Le projet de loi transposant la directive transparence salariale est examiné ce jeudi 10 septembre au Conseil des ministres. Quelques entreprises ont déjà anticipé cette réglementation impactant les stratégies RH et les espaces collaboratifs.",
+      "impact": "Intégrer dans les cahiers des charges des espaces flex-office des zones confidentielles pour entretiens; anticiper révisions réglementaires locatives.",
+      "date": "10/09/2026",
+      "url": "https://www.laprovence.com/article/economie/2789470399954314/transparence-salariale-savoir-combien-est-paye-son-collegue-ca-change-quoi",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Investissement SCI",
-          "cls": "ti2"
-        },
-        {
-          "label": "Financement",
-          "cls": "tt"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     }
@@ -100,26 +84,26 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Pétrole/Géopolitique : tensions Iran impactent carburants France",
-      "body": "La guerre en Iran pousse le prix du carburant français au-delà de 2€/L (SP95-E10), affectant directement portefeuille des automobilistes et coûts opérationnels entreprises. Brent oscillant autour 96 USD reflète tensions géopolitiques persistantes.",
-      "impact": "Hausse coûts logistique immobilière : négocier clauses d'indexation énergie dans contrats long terme bureaux/activité ; anticiper inflation opérationnelle locataires.",
-      "date": "08/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1300755261840614/le-sp95-e10-a-plus-de-2-euros-quelques-penuries-de-sp98-ou-trouver-votre-carburant-en-provence-et-a-quel-prix",
+      "title": "Infrastructure énergétique: ligne THT Fos-sur-Mer accélérée par patronat/syndicats",
+      "body": "Patronat et syndicats font front commun le 9 septembre 2026 pour réclamer l'accélération de la future ligne à très haute tension à Fos-sur-Mer. Ce projet est présenté comme condition sine qua non pour la décarbonation industrielle régionale.",
+      "impact": "Amélioration long terme de l'attractivité énergétique PACA pour localisations industrielles; anticiper hausse demande immobilière activité post-2027.",
+      "date": "09/09/2026",
+      "url": "https://www.laprovence.com/article/economie/10547683990823/ligne-a-tres-haute-tension-de-fos-sur-mer-patronat-et-syndicats-font-front-commun-pour-accelerer-le-projet",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Géopolitique-Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : stabilité budgétaire gouvernement 2027",
-      "body": "Le gouvernement Lecornu étudie réductions indemnités ministres pour 2027, signalant contexte budgétaire tendu et rigueur attendue. Cette orientation macro-budgétaire peut influencer dépenses publiques immobilière et investissements tertiaires état-régions.",
-      "impact": "Surveiller politiques budgétaires publiques PACA : possibles réductions budgets immobiliers collectivités = moins de demande bureaux administratifs régionaux.",
-      "date": "09/09/2026",
-      "url": "https://www.laprovence.com/article/politique/25429144715052/budget-2027-la-baisse-des-indemnites-des-ministres-a-l-etude-combien-percoivent-ils-actuellement",
+      "title": "Conjoncture: tensions économiques TPE-PME et sacrifices des dirigeants",
+      "body": "Le baromètre AG2R La Mondiale/Ipsos BVA révèle une précarité psychologique systématique chez les dirigeants de TPE-PME en France, soumis à tensions économiques croissantes. L'indifférence quasi-générale face à cette crise du bien-être entrepreneurial signale un ralentissement des investissements.",
+      "impact": "Conjoncture française fragilisée; anticiper réductions budgets expansion immobilière PME et recours croissant au télétravail.",
+      "date": "10/09/2026",
+      "url": "https://www.laprovence.com/article/economie/16066352892899/isolement-tensions-economiques-les-patrons-de-tpe-pme-particulierement-exposes-au-burn-out",
       "source": "La Provence",
       "tags": [
         {
@@ -130,15 +114,15 @@
     },
     {
       "id": "m3",
-      "title": "Taux/BCE : Euribor 3M 2.15% stable, OAT 3.70%, inflation 1.7%",
-      "body": "L'environnement de taux demeure supportable (Euribor 3M à 2.15%, OAT à 3.70%) avec inflation maîtrisée à 1.7%, reflétant positionnement BCE équilibré. Taux de refinancement immobilier restent accessibles pour acquéreurs CRE PACA.",
-      "impact": "Contexte favorable au financement : promouvoir acquisitions bureaux/activité clients avant potentiel raidissement taux ; négocier lock-in taux longs auprès bailleurs.",
-      "date": "09/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1354825135368814/quels-sont-les-avantages-dune-sci-pour-la-gestion-de-patrimoine",
-      "source": "Data marché",
+      "title": "Taux & Financement: Euribor 3M 2.15%, OAT 3.70%, BCE 2.15%",
+      "body": "Les taux directeurs restent stables en septembre 2026 avec la BCE maintenue à 2.15% et l'Euribor 3 mois à 2.15%. Les OAT françaises affichent 3.70%, reflétant les tensions budgétaires métropolitaines et la volatilité politique post-élections.",
+      "impact": "Coût financement immobilier entreprise stable mais élevé; favoriser crédits court terme et renégocier lignes existantes avant fin Q3.",
+      "date": "10/09/2026",
+      "url": "https://www.laprovence.com/article/economie/16066352892899/isolement-tensions-economiques-les-patrons-de-tpe-pme-particulierement-exposes-au-burn-out",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "Taux/OAT/BCE",
+          "label": "Taux & Financement",
           "cls": "tt"
         }
       ]

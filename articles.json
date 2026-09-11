@@ -1,43 +1,13 @@
 {
-  "generated_at": "10/09/2026",
+  "generated_at": "11/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Budget AMP: tensions budgétaires impactent les investissements tertiaires",
-      "body": "La Métropole Aix-Marseille-Provence fait face à une crise budgétaire majeure avec trois scénarios en débat ce jeudi 10 septembre. Cette instabilité budgétaire régionale freine les investissements immobiliers et les appels d'offres publics en locaux tertiaires.",
-      "impact": "Privilégier les transactions privées court terme sur les lots tertiaires AMP; négocier des flexibilités contractuelles face à l'incertitude publique.",
-      "date": "10/09/2026",
-      "url": "https://www.laprovence.com/article/politique/70196208610723/budget-de-la-metropole-aix-marseille-provence-on-vous-detaille-les-trois-scenarios-possibles-ce-jeudi-10-septembre",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "TPE-PME: précarité psychologique des dirigeants impacte leurs décisions",
-      "body": "Selon le baromètre AG2R La Mondiale/Ipsos BVA, les dirigeants de TPE-PME souffrent d'isolement et de burn-out, sacrifiant leur santé pour sauver leur entreprise. Ce stress affecte directement les capacités d'investissement et les projets d'expansion immobilière.",
-      "impact": "Adapter l'offre locative aux contraintes financières accrues des petites structures; proposer des solutions de court terme et de flexibilité locative.",
-      "date": "10/09/2026",
-      "url": "https://www.laprovence.com/article/economie/16066352892899/isolement-tensions-economiques-les-patrons-de-tpe-pme-particulierement-exposes-au-burn-out",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Financement startup: ANA Healthcare lève 2,2M€ en région PACA",
-      "body": "ANA Healthcare à Marseille a levé 2,2 millions d'euros pour valoriser les données de santé et exploiter les gisements cliniques inexploités. Cette dynamique de financement confirme l'attractivité du secteur santé-tech en PACA pour les locaux d'activité innovants.",
-      "impact": "Identifier espaces flex-office qualifiés pour biotech/santé-tech sur Marseille; cibler les zones proches de pôles hospitalo-universitaires.",
-      "date": "10/09/2026",
-      "url": "https://www.laprovence.com/article/economie/2823970159227814/ana-healthcare-a-marseille-leve-2-2-millions-d-euros-pour-valoriser-la-donnee-de-sante",
+      "title": "Marseille Chanot : nouveaux espaces pour événements d'entreprise",
+      "body": "Marseille Chanot enrichit son offre avec des espaces végétalisés et aménageables permettant des événements indoor/outdoor. Cette infrastructure renforce l'attractivité de la métropole pour les séminaires et conférences professionnelles.",
+      "impact": "Opportunité pour les prestataires immobiliers de proposer des packages événementiels intégrés aux locaux de prestige.",
+      "date": "11/09/2026",
+      "url": "https://www.laprovence.com/article/economie/3651021536678614/marseille-chanot-le-lieu-ideal-pour-vos-evenements-dentreprise",
       "source": "La Provence",
       "tags": [
         {
@@ -45,38 +15,84 @@
           "cls": "tp"
         },
         {
-          "label": "Investissement",
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Stratégies de financement : réduire le coût global du crédit",
+      "body": "Au-delà du taux affiché, Cafpi identifie plusieurs leviers pour négocier des crédits avantageux en période de tensions. Ces stratégies permettent aux emprunteurs d'optimiser le coût total de leurs opérations immobilières.",
+      "impact": "Conseillers en transaction : valoriser les montages financiers innovants auprès des investisseurs institutionnels et occupants.",
+      "date": "11/09/2026",
+      "url": "https://www.laprovence.com/article/economie/3659438086380314/immobilier-les-strategies-de-cafpi-pour-negocier-des-taux-avantageux-meme-en-periode-de-tensions",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
           "cls": "ti2"
         }
       ]
     },
     {
-      "id": "f4",
-      "title": "ZAC Molières Miramas: consultation publique jusqu'au 15 septembre",
-      "body": "L'extension de la ZAC des Molières à Miramas entre dans sa phase finale de consultation publique (jusqu'au 15 septembre). Ce projet d'aménagement du secteur nord représente une opportunité majeure de locaux d'activité en région PACA.",
-      "impact": "Anticiper l'ouverture de nouveaux terrains tertiaires/activité post-validation; prospecter les entreprises en recherche de relocalisation.",
+      "id": "f3",
+      "title": "Artisanat PACA : difficultés conjoncturelles mais rôle de stabilité",
+      "body": "La Chambre des métiers PACA signale des difficultés au premier semestre 2026 mais souligne le rôle de bouclier social du secteur artisanal. Les TPE/PME demeurent des locataires essentiels des zones d'activité.",
+      "impact": "Anticiper des demandes de flexibilité contractuelle des artisans-locataires ; renforcer les offres de petites surfaces tertiaires.",
       "date": "10/09/2026",
-      "url": "https://www.laprovence.com/article/economie/2224691547084414/les-derniers-jours-pour-se-prononcer-sur-lextension-de-la-zac-des-molieres-a-miramas",
+      "url": "https://www.laprovence.com/article/economie/23400135343145/malgre-la-crise-l-artisanat-joue-un-role-de-bouclier-social-pour-yannick-mazette-de-la-chambre-des-metiers-paca",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Viaduc de Martigues : travaux réguliers impactant le transit",
+      "body": "Les travaux de consolidation du viaduc de Martigues perturbent régulièrement les flux logistiques régionaux. Ces contraintes d'accessibilité affectent l'attrait des zones d'activité proches.",
+      "impact": "Prioriser les actifs tertiaires sur axes alternatifs ; négocier des abattements temporaires pour locataires logistiques en cas de fermetures.",
+      "date": "11/09/2026",
+      "url": "https://www.laprovence.com/article/economie/3072444295339714/soumis-a-lepreuve-du-trafic-le-viaduc-de-martigues-doit-regulierement-etre-consolide-au-grand-dam-des-usagers",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Transparence salariale: directive UE au Conseil des ministres 10/09",
-      "body": "Le projet de loi transposant la directive transparence salariale est examiné ce jeudi 10 septembre au Conseil des ministres. Quelques entreprises ont déjà anticipé cette réglementation impactant les stratégies RH et les espaces collaboratifs.",
-      "impact": "Intégrer dans les cahiers des charges des espaces flex-office des zones confidentielles pour entretiens; anticiper révisions réglementaires locatives.",
-      "date": "10/09/2026",
-      "url": "https://www.laprovence.com/article/economie/2789470399954314/transparence-salariale-savoir-combien-est-paye-son-collegue-ca-change-quoi",
+      "title": "Carburants : inflation énergétique et impact sur la mobilité salariés",
+      "body": "Les prix des carburants dépassent 2€/litre sous tension géopolitique. Cette hausse affecte les coûts immobiliers indirects (déplacements, prestataires) et la valeur locative des locaux mal desservis.",
+      "impact": "Valoriser proximité transports collectifs et télétravail dans les pitchs locatifs ; anticiper hausses de charges.",
+      "date": "11/09/2026",
+      "url": "https://www.laprovence.com/article/economie/3591294570199514/carburants-a-plus-de-2-euros-le-litre-vers-un-retour-des-gilets-jaunes",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -84,46 +100,54 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Infrastructure énergétique: ligne THT Fos-sur-Mer accélérée par patronat/syndicats",
-      "body": "Patronat et syndicats font front commun le 9 septembre 2026 pour réclamer l'accélération de la future ligne à très haute tension à Fos-sur-Mer. Ce projet est présenté comme condition sine qua non pour la décarbonation industrielle régionale.",
-      "impact": "Amélioration long terme de l'attractivité énergétique PACA pour localisations industrielles; anticiper hausse demande immobilière activité post-2027.",
-      "date": "09/09/2026",
-      "url": "https://www.laprovence.com/article/economie/10547683990823/ligne-a-tres-haute-tension-de-fos-sur-mer-patronat-et-syndicats-font-front-commun-pour-accelerer-le-projet",
+      "title": "INSEE : croissance France abaissée à 0,4% en 2026",
+      "body": "L'INSEE a fortement revu à la baisse sa prévision de croissance France 2026 de 0,7% à 0,4%, signalant un décrochage européen. Cette stagnation affecte directement les décisions d'investissement tertiaire et locatif.",
+      "impact": "Anticiper frilosité investisseurs et locataires ; repositionner offre sur segments defensifs (logistique, santé, retail essentiel).",
+      "date": "10/09/2026",
+      "url": "https://www.laprovence.com/article/economie/9171860935059/l-insee-abaisse-fortement-sa-prevision-de-croissance-pour-la-france-en-2026-a-0-4",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique-Énergie",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture: tensions économiques TPE-PME et sacrifices des dirigeants",
-      "body": "Le baromètre AG2R La Mondiale/Ipsos BVA révèle une précarité psychologique systématique chez les dirigeants de TPE-PME en France, soumis à tensions économiques croissantes. L'indifférence quasi-générale face à cette crise du bien-être entrepreneurial signale un ralentissement des investissements.",
-      "impact": "Conjoncture française fragilisée; anticiper réductions budgets expansion immobilière PME et recours croissant au télétravail.",
+      "title": "BCE relève taux et avertit sur inflation énergétique",
+      "body": "La Banque centrale européenne a relevé ses taux en réaction aux tensions énergétiques liées à la guerre Moyen-Orient. Les perspectives restent incertaines avec risques inflationnistes persistants.",
+      "impact": "Taux crédit immobilier resteront élevés (Euribor 2.15%, OAT 3.70%) ; affaiblir la demande acquisition, renforcer l'attractivité locative longue durée.",
       "date": "10/09/2026",
-      "url": "https://www.laprovence.com/article/economie/16066352892899/isolement-tensions-economiques-les-patrons-de-tpe-pme-particulierement-exposes-au-burn-out",
+      "url": "https://www.laprovence.com/article/economie/14489295745546/la-banque-centrale-europeenne-releve-ses-taux-face-aux-risques-inflationnistes-lies-a-l-energie",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Taux & Financement: Euribor 3M 2.15%, OAT 3.70%, BCE 2.15%",
-      "body": "Les taux directeurs restent stables en septembre 2026 avec la BCE maintenue à 2.15% et l'Euribor 3 mois à 2.15%. Les OAT françaises affichent 3.70%, reflétant les tensions budgétaires métropolitaines et la volatilité politique post-élections.",
-      "impact": "Coût financement immobilier entreprise stable mais élevé; favoriser crédits court terme et renégocier lignes existantes avant fin Q3.",
+      "title": "Gaz : +6,3% tarifaire au 1er octobre 2026",
+      "body": "La Commission de régulation annonce une hausse de 6,3% du prix de référence du gaz au 1er octobre suite à tensions août sur marchés de gros. L'inflation énergétique s'étend au-delà du pétrole.",
+      "impact": "Intégrer impact énergétique dans évaluation charges tertiaires ; négocier clauses d'ajustement avec locataires ; cibler bâtiments performants thermiquement.",
       "date": "10/09/2026",
-      "url": "https://www.laprovence.com/article/economie/16066352892899/isolement-tensions-economiques-les-patrons-de-tpe-pme-particulierement-exposes-au-burn-out",
-      "source": "Données Marché",
+      "url": "https://www.laprovence.com/article/economie/16497326599075/prix-de-reference-du-gaz-une-augmentation-attendue-de-6-3-au-1er-octobre-en-france",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux & Financement",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     }

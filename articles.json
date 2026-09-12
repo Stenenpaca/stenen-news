@@ -1,13 +1,13 @@
 {
-  "generated_at": "11/09/2026",
+  "generated_at": "12/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Marseille Chanot : nouveaux espaces pour événements d'entreprise",
-      "body": "Marseille Chanot enrichit son offre avec des espaces végétalisés et aménageables permettant des événements indoor/outdoor. Cette infrastructure renforce l'attractivité de la métropole pour les séminaires et conférences professionnelles.",
-      "impact": "Opportunité pour les prestataires immobiliers de proposer des packages événementiels intégrés aux locaux de prestige.",
+      "title": "Économie PACA en récession : le BTP chute de 2% par trimestre",
+      "body": "Le président des Entrepreneurs Sud alerte sur une saison touristique en demi-teinte et un secteur du bâtiment en récession marquée. La demande en locaux d'activité et bureaux devrait rester sous pression dans les prochains mois en région PACA.",
+      "impact": "Prudence recommandée sur les valorisations et les délais de commercialisation des actifs tertiaires et d'activité en PACA.",
       "date": "11/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3651021536678614/marseille-chanot-le-lieu-ideal-pour-vos-evenements-dentreprise",
+      "url": "https://www.laprovence.com/article/economie/19519732846672/on-ne-veut-plus-de-promesses-on-veut-des-actes-le-president-des-entrepreneurs-sud-tire-la-sonnette-dalarme",
       "source": "La Provence",
       "tags": [
         {
@@ -22,30 +22,49 @@
     },
     {
       "id": "f2",
-      "title": "Stratégies de financement : réduire le coût global du crédit",
-      "body": "Au-delà du taux affiché, Cafpi identifie plusieurs leviers pour négocier des crédits avantageux en période de tensions. Ces stratégies permettent aux emprunteurs d'optimiser le coût total de leurs opérations immobilières.",
-      "impact": "Conseillers en transaction : valoriser les montages financiers innovants auprès des investisseurs institutionnels et occupants.",
+      "title": "Regroupements bancaires : LCL ferme 60 à 90 agences en France",
+      "body": "La banque LCL, filiale du Crédit Agricole, envisage de réduire son réseau de 1 400 agences en fermant entre 60 et 90 points de présence. Cette consolidation bancaire affectera la disponibilité de financement immobilier et les espaces commerciaux occupés par les agences.",
+      "impact": "Opportunités de reprise d'agences bancaires libérées en centre-ville et zones commerciales PACA ; réviser les hypothèses de financing pour les projets tertiaires.",
       "date": "11/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3659438086380314/immobilier-les-strategies-de-cafpi-pour-negocier-des-taux-avantageux-meme-en-periode-de-tensions",
+      "url": "https://www.laprovence.com/article/economie/3807319093732514/la-banque-lcl-envisage-de-fermer-entre-60-et-90-agences",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Financement",
           "cls": "tt"
         },
         {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Artisanat PACA : difficultés conjoncturelles mais rôle de stabilité",
-      "body": "La Chambre des métiers PACA signale des difficultés au premier semestre 2026 mais souligne le rôle de bouclier social du secteur artisanal. Les TPE/PME demeurent des locataires essentiels des zones d'activité.",
-      "impact": "Anticiper des demandes de flexibilité contractuelle des artisans-locataires ; renforcer les offres de petites surfaces tertiaires.",
-      "date": "10/09/2026",
-      "url": "https://www.laprovence.com/article/economie/23400135343145/malgre-la-crise-l-artisanat-joue-un-role-de-bouclier-social-pour-yannick-mazette-de-la-chambre-des-metiers-paca",
+      "title": "Taux et conditions de financement immobilier : stratégies Cafpi",
+      "body": "Au-delà du taux affiché, plusieurs leviers permettent de réduire le coût global d'un crédit immobilier, que Cafpi mobilise pour accompagner les emprunteurs en négociation. Ces optimisations deviennent essentielles face aux tensions actuelles de financement.",
+      "impact": "Intégrer les stratégies de réduction du coût crédit (assurances, garanties) dans les montages financiers des acquisitions de bureaux et locaux d'activité PACA.",
+      "date": "11/09/2026",
+      "url": "https://www.laprovence.com/article/economie/3659438086380314/immobilier-les-strategies-de-cafpi-pour-negocier-des-taux-avantageux-meme-en-periode-de-tensions",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Financement",
+          "cls": "tt"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Réseau entreprenarial : Morning Business à Gignac-la-Nerthe",
+      "body": "Les entrepreneurs de l'Étang se réunissent pour échanger et créer des liens professionnels en cette rentrée 2026. Ces événements de networking reflètent une volonté de consolidation commerciale en zone littorale PACA.",
+      "impact": "Identifier les zones d'activité en demande auprès des réseaux locaux ; prospecter les besoins en bureaux et locaux partagés des PME PACA.",
+      "date": "11/09/2026",
+      "url": "https://www.laprovence.com/article/economie/3853127358584414/les-entrepreneurs-de-l-etang-se-retrouvent-pour-echanger-et-creer-des-liens-a-gignac-la-nerthe",
       "source": "La Provence",
       "tags": [
         {
@@ -59,31 +78,12 @@
       ]
     },
     {
-      "id": "f4",
-      "title": "Viaduc de Martigues : travaux réguliers impactant le transit",
-      "body": "Les travaux de consolidation du viaduc de Martigues perturbent régulièrement les flux logistiques régionaux. Ces contraintes d'accessibilité affectent l'attrait des zones d'activité proches.",
-      "impact": "Prioriser les actifs tertiaires sur axes alternatifs ; négocier des abattements temporaires pour locataires logistiques en cas de fermetures.",
-      "date": "11/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3072444295339714/soumis-a-lepreuve-du-trafic-le-viaduc-de-martigues-doit-regulierement-etre-consolide-au-grand-dam-des-usagers",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
       "id": "f5",
-      "title": "Carburants : inflation énergétique et impact sur la mobilité salariés",
-      "body": "Les prix des carburants dépassent 2€/litre sous tension géopolitique. Cette hausse affecte les coûts immobiliers indirects (déplacements, prestataires) et la valeur locative des locaux mal desservis.",
-      "impact": "Valoriser proximité transports collectifs et télétravail dans les pitchs locatifs ; anticiper hausses de charges.",
+      "title": "Carburants : impact inflationniste persistant sur les coûts logistiques",
+      "body": "Le SP95-E10 a augmenté de 25 centimes et le gazole de 50 centimes depuis février 2026, directement attribuable à l'escalade au Moyen-Orient. Cette hausse pénalise les coûts d'exploitation des entreprises de transport et logistique basées en PACA.",
+      "impact": "Factoriser la volatilité des carburants dans les analyses de faisabilité des locaux d'activité logistiques ; prévoir des locaux à proximité des axes autoroutiers stratégiques.",
       "date": "11/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3591294570199514/carburants-a-plus-de-2-euros-le-litre-vers-un-retour-des-gilets-jaunes",
+      "url": "https://www.laprovence.com/article/economie/83365766828025/carburants-a-plus-de-2-euros-le-litre-ou-faire-son-plein-et-a-quel-prix-en-provence",
       "source": "La Provence",
       "tags": [
         {
@@ -91,8 +91,8 @@
           "cls": "tg"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,54 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "INSEE : croissance France abaissée à 0,4% en 2026",
-      "body": "L'INSEE a fortement revu à la baisse sa prévision de croissance France 2026 de 0,7% à 0,4%, signalant un décrochage européen. Cette stagnation affecte directement les décisions d'investissement tertiaire et locatif.",
-      "impact": "Anticiper frilosité investisseurs et locataires ; repositionner offre sur segments defensifs (logistique, santé, retail essentiel).",
-      "date": "10/09/2026",
-      "url": "https://www.laprovence.com/article/economie/9171860935059/l-insee-abaisse-fortement-sa-prevision-de-croissance-pour-la-france-en-2026-a-0-4",
+      "title": "Inflation et croissance : nouvelles prévisions gouvernement 2026-2027",
+      "body": "Le gouvernement révise ses prévisions : inflation 2,1% en 2026 et 1,8% en 2027, avec des hypothèses de croissance actualisées. Ces niveaux restent supérieurs aux objectifs BCE mais marquent une modération.",
+      "impact": "OAT 3.70% et Euribor3M 2.15% maintiennent une pression sur les taux de financement tertiaire ; monitorer l'évolution avant fin 2026.",
+      "date": "11/09/2026",
+      "url": "https://www.laprovence.com/article/economie/16016802203344/inflation-croissance-deficit-les-nouvelles-previsions-economiques-du-gouvernement",
       "source": "La Provence",
       "tags": [
         {
+          "label": "Inflation",
+          "cls": "tt"
+        },
+        {
           "label": "Conjoncture",
-          "cls": "tg"
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "BCE relève taux et avertit sur inflation énergétique",
-      "body": "La Banque centrale européenne a relevé ses taux en réaction aux tensions énergétiques liées à la guerre Moyen-Orient. Les perspectives restent incertaines avec risques inflationnistes persistants.",
-      "impact": "Taux crédit immobilier resteront élevés (Euribor 2.15%, OAT 3.70%) ; affaiblir la demande acquisition, renforcer l'attractivité locative longue durée.",
-      "date": "10/09/2026",
-      "url": "https://www.laprovence.com/article/economie/14489295745546/la-banque-centrale-europeenne-releve-ses-taux-face-aux-risques-inflationnistes-lies-a-l-energie",
+      "title": "Tensions énergétiques : escalade au Moyen-Orient pèse sur Brent",
+      "body": "L'escalade géopolitique au Moyen-Orient impacte directement les prix des carburants et l'énergie en France depuis février 2026. Le Brent reste volatil aux alentours de 96 USD/baril, répercutant les risques de supply shock.",
+      "impact": "Risque inflationniste persistant sur les coûts d'exploitation immobilière ; prévoir clauses d'indexation énergétique dans les baux tertiaires.",
+      "date": "11/09/2026",
+      "url": "https://www.laprovence.com/article/economie/83365766828025/carburants-a-plus-de-2-euros-le-litre-ou-faire-son-plein-et-a-quel-prix-en-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         },
         {
-          "label": "Géopolitique",
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Gaz : +6,3% tarifaire au 1er octobre 2026",
-      "body": "La Commission de régulation annonce une hausse de 6,3% du prix de référence du gaz au 1er octobre suite à tensions août sur marchés de gros. L'inflation énergétique s'étend au-delà du pétrole.",
-      "impact": "Intégrer impact énergétique dans évaluation charges tertiaires ; négocier clauses d'ajustement avec locataires ; cibler bâtiments performants thermiquement.",
-      "date": "10/09/2026",
-      "url": "https://www.laprovence.com/article/economie/16497326599075/prix-de-reference-du-gaz-une-augmentation-attendue-de-6-3-au-1er-octobre-en-france",
+      "title": "SNCF/Alstom : nouveau report TGV M, mise en service automne 2026",
+      "body": "La mise en service du nouveau TGV M sur l'axe Paris-Marseille est confirmée pour l'automne 2026, après un nouveau report annoncé vendredi. Cette connectivité améliorée structurera les opportunités de bureaux en zones gares.",
+      "impact": "Anticiper une demande accrue en espaces tertiaires et hôtellerie à proximité des gares marseillaises et provençales post-automne 2026.",
+      "date": "11/09/2026",
+      "url": "https://www.laprovence.com/article/economie/3931764530434814/nouveau-tgv-m-la-sncf-et-alstom-reportent-de-nouveau-la-mise-en-service-en-france-a-l-automne-2026",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Conjoncture",
+          "cls": "tm"
         },
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }

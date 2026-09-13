@@ -1,13 +1,13 @@
 {
-  "generated_at": "12/09/2026",
+  "generated_at": "13/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Économie PACA en récession : le BTP chute de 2% par trimestre",
-      "body": "Le président des Entrepreneurs Sud alerte sur une saison touristique en demi-teinte et un secteur du bâtiment en récession marquée. La demande en locaux d'activité et bureaux devrait rester sous pression dans les prochains mois en région PACA.",
-      "impact": "Prudence recommandée sur les valorisations et les délais de commercialisation des actifs tertiaires et d'activité en PACA.",
-      "date": "11/09/2026",
-      "url": "https://www.laprovence.com/article/economie/19519732846672/on-ne-veut-plus-de-promesses-on-veut-des-actes-le-president-des-entrepreneurs-sud-tire-la-sonnette-dalarme",
+      "title": "Taxe foncière 2026 : comparatif des taux en Provence",
+      "body": "La taxe foncière 2026 est consultable depuis le 27 août pour les non-mensualisés et arrivera le 19 septembre pour les mensualisés. Un comparateur permet aux propriétaires provençaux d'évaluer leur taux par rapport aux autres communes de la région.",
+      "impact": "Les investisseurs immobiliers PACA doivent actualiser leurs calculs de rendement avec les nouveaux taux 2026 pour affiner leurs stratégies d'acquisition bureaux/activité.",
+      "date": "12/09/2026",
+      "url": "https://www.laprovence.com/article/economie/82428789481304/taxe-fonciere-2026-votre-taux-est-il-plus-cher-quailleurs-en-provence-reponse-avec-notre-comparateur",
       "source": "La Provence",
       "tags": [
         {
@@ -15,54 +15,35 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Regroupements bancaires : LCL ferme 60 à 90 agences en France",
-      "body": "La banque LCL, filiale du Crédit Agricole, envisage de réduire son réseau de 1 400 agences en fermant entre 60 et 90 points de présence. Cette consolidation bancaire affectera la disponibilité de financement immobilier et les espaces commerciaux occupés par les agences.",
-      "impact": "Opportunités de reprise d'agences bancaires libérées en centre-ville et zones commerciales PACA ; réviser les hypothèses de financing pour les projets tertiaires.",
+      "title": "Carburants à plus de 2€/L en Provence : impact sur les exploitants",
+      "body": "Depuis fin février 2026, le SP95-E10 a augmenté de 25 cts/L et le gazole de 50 cts/L, directement lié à l'escalade géopolitique au Moyen-Orient. Les prix dépassent désormais les 2€ le litre en Provence.",
+      "impact": "Les prestataires logistiques et secteurs d'activité basés en PACA voient leurs charges opérationnelles augmenter significativement, impactant la rentabilité des locaux d'activité et les prix de reprise.",
       "date": "11/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3807319093732514/la-banque-lcl-envisage-de-fermer-entre-60-et-90-agences",
+      "url": "https://www.laprovence.com/article/economie/83365766828025/carburants-a-plus-de-2-euros-le-litre-ou-faire-son-plein-et-a-quel-prix-en-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Financement",
-          "cls": "tt"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Taux et conditions de financement immobilier : stratégies Cafpi",
-      "body": "Au-delà du taux affiché, plusieurs leviers permettent de réduire le coût global d'un crédit immobilier, que Cafpi mobilise pour accompagner les emprunteurs en négociation. Ces optimisations deviennent essentielles face aux tensions actuelles de financement.",
-      "impact": "Intégrer les stratégies de réduction du coût crédit (assurances, garanties) dans les montages financiers des acquisitions de bureaux et locaux d'activité PACA.",
-      "date": "11/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3659438086380314/immobilier-les-strategies-de-cafpi-pour-negocier-des-taux-avantageux-meme-en-periode-de-tensions",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Financement",
-          "cls": "tt"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Réseau entreprenarial : Morning Business à Gignac-la-Nerthe",
-      "body": "Les entrepreneurs de l'Étang se réunissent pour échanger et créer des liens professionnels en cette rentrée 2026. Ces événements de networking reflètent une volonté de consolidation commerciale en zone littorale PACA.",
-      "impact": "Identifier les zones d'activité en demande auprès des réseaux locaux ; prospecter les besoins en bureaux et locaux partagés des PME PACA.",
+      "title": "Morning business : entrepreneurs de l'Étang créent des liens",
+      "body": "Le 10 septembre à Gignac-la-Nerthe, les entrepreneurs de l'Étang se sont réunis pour un 'Morning business' d'échanges et de networking autour d'un café. La rencontre s'inscrit dans une dynamique de création de liens professionnels locaux.",
+      "impact": "Ces initiatives de coworking et d'espaces de rencontre entrepreneuriaux en PACA renforcent la demande de petits locaux flexibles et de bureaux partagés adaptés aux PME.",
       "date": "11/09/2026",
       "url": "https://www.laprovence.com/article/economie/3853127358584414/les-entrepreneurs-de-l-etang-se-retrouvent-pour-echanger-et-creer-des-liens-a-gignac-la-nerthe",
       "source": "La Provence",
@@ -78,21 +59,40 @@
       ]
     },
     {
-      "id": "f5",
-      "title": "Carburants : impact inflationniste persistant sur les coûts logistiques",
-      "body": "Le SP95-E10 a augmenté de 25 centimes et le gazole de 50 centimes depuis février 2026, directement attribuable à l'escalade au Moyen-Orient. Cette hausse pénalise les coûts d'exploitation des entreprises de transport et logistique basées en PACA.",
-      "impact": "Factoriser la volatilité des carburants dans les analyses de faisabilité des locaux d'activité logistiques ; prévoir des locaux à proximité des axes autoroutiers stratégiques.",
+      "id": "f4",
+      "title": "LCL envisage la fermeture de 60 à 90 agences bancaires",
+      "body": "La banque LCL, filiale du Crédit Agricole, prévoit de fermer entre 60 et 90 agences sur un parc d'environ 1 400. Cette stratégie de regroupement reflète l'accélération de la digitalisation bancaire et la réduction de la présence physique.",
+      "impact": "La contraction des services bancaires physiques en PACA peut favoriser une mutation des immeubles commerciaux/bureaux en centres de services multi-usages ou espaces flex, offrant des opportunités de repositionnement.",
       "date": "11/09/2026",
-      "url": "https://www.laprovence.com/article/economie/83365766828025/carburants-a-plus-de-2-euros-le-litre-ou-faire-son-plein-et-a-quel-prix-en-provence",
+      "url": "https://www.laprovence.com/article/economie/3807319093732514/la-banque-lcl-envisage-de-fermer-entre-60-et-90-agences",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "PACA",
+          "cls": "tp"
         },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "TGV M : report de mise en service automne 2026 sur Paris-Marseille",
+      "body": "La SNCF et Alstom confirment un nouveau report de la mise en service commercial du TGV M sur l'axe Paris-Marseille à 'l'automne 2026'. Ces délais successifs impactent les prévisions de dynamisme économique régional.",
+      "impact": "Le délai supplémentaire du TGV M repousse l'amélioration attendue de l'accessibilité de la PACA et de la demande de bureaux/activités aux pôles gares, conseillant la prudence sur les arbitrages immobiliers à court terme.",
+      "date": "11/09/2026",
+      "url": "https://www.laprovence.com/article/economie/3931764530434814/nouveau-tgv-m-la-sncf-et-alstom-reportent-de-nouveau-la-mise-en-service-en-france-a-l-automne-2026",
+      "source": "La Provence",
+      "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Infrastructure",
+          "cls": "tg"
         }
       ]
     }
@@ -100,28 +100,9 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Inflation et croissance : nouvelles prévisions gouvernement 2026-2027",
-      "body": "Le gouvernement révise ses prévisions : inflation 2,1% en 2026 et 1,8% en 2027, avec des hypothèses de croissance actualisées. Ces niveaux restent supérieurs aux objectifs BCE mais marquent une modération.",
-      "impact": "OAT 3.70% et Euribor3M 2.15% maintiennent une pression sur les taux de financement tertiaire ; monitorer l'évolution avant fin 2026.",
-      "date": "11/09/2026",
-      "url": "https://www.laprovence.com/article/economie/16016802203344/inflation-croissance-deficit-les-nouvelles-previsions-economiques-du-gouvernement",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Inflation",
-          "cls": "tt"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Tensions énergétiques : escalade au Moyen-Orient pèse sur Brent",
-      "body": "L'escalade géopolitique au Moyen-Orient impacte directement les prix des carburants et l'énergie en France depuis février 2026. Le Brent reste volatil aux alentours de 96 USD/baril, répercutant les risques de supply shock.",
-      "impact": "Risque inflationniste persistant sur les coûts d'exploitation immobilière ; prévoir clauses d'indexation énergétique dans les baux tertiaires.",
+      "title": "Crise énergétique : carburants et Brent, escalade Moyen-Orient",
+      "body": "L'escalade géopolitique au Moyen-Orient depuis fin février 2026 provoque une hausse continue des prix des carburants et du pétrole Brent (96$/bbl). Cette tension inflationniste traverse directement les chaînes d'approvisionnement et les coûts logistiques français.",
+      "impact": "La pression énergétique persiste sur les taux directeurs et les attentes d'inflation, soutenant les OAT à 3.70% et l'Euribor3M à 2.15%, freinant l'attractivité des financements longs pour l'immobilier d'entreprise.",
       "date": "11/09/2026",
       "url": "https://www.laprovence.com/article/economie/83365766828025/carburants-a-plus-de-2-euros-le-litre-ou-faire-son-plein-et-a-quel-prix-en-provence",
       "source": "La Provence",
@@ -137,21 +118,40 @@
       ]
     },
     {
-      "id": "m3",
-      "title": "SNCF/Alstom : nouveau report TGV M, mise en service automne 2026",
-      "body": "La mise en service du nouveau TGV M sur l'axe Paris-Marseille est confirmée pour l'automne 2026, après un nouveau report annoncé vendredi. Cette connectivité améliorée structurera les opportunités de bureaux en zones gares.",
-      "impact": "Anticiper une demande accrue en espaces tertiaires et hôtellerie à proximité des gares marseillaises et provençales post-automne 2026.",
-      "date": "11/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3931764530434814/nouveau-tgv-m-la-sncf-et-alstom-reportent-de-nouveau-la-mise-en-service-en-france-a-l-automne-2026",
+      "id": "m2",
+      "title": "Conjoncture France : secteurs agricoles/viticoles en activité saisonnière",
+      "body": "Septembre 2026 marque le pic des vendanges et cueillettes en Provence (Carry Winery, La Barben), traduisant une certaine vitalité des secteurs agro-alimentaires régionaux malgré les défis climatiques. Cette activité saisonnière structure les cycles d'investissement et d'emploi locaux.",
+      "impact": "L'activité agricole-touristique génère une demande stable de locaux d'activité (caves, installations, stockage) en zones rurales PACA, offrant des niches de transaction à explorer en segments mid-market.",
+      "date": "12/09/2026",
+      "url": "https://www.laprovence.com/article/economie/4854337030901414/des-vendanges-a-la-main-comme-autrefois-la-belle-histoire-d-une-bande-de-copains-qui-s-est-lancee-dans-le-vin-a-carry",
       "source": "La Provence",
       "tags": [
         {
           "label": "Conjoncture",
-          "cls": "tm"
+          "cls": "tg"
         },
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Secteurs",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "BCE et taux directeurs : stabilité à 2.15% maintenue",
+      "body": "La Banque Centrale Européenne maintient son taux directeur à 2.15%, en cohérence avec une inflation française contrôlée à 1.7%. Les OAT restent stables à 3.70%, reflétant les anticipations de politique monétaire inchangée.",
+      "impact": "Le cadre de taux stable (OAT 3.70%, Euribor3M 2.15%) préserve la viabilité des financements immobiliers structurés mais ne relâche pas les contraintes d'emprunt, exigeant une discipline stricte sur les rendements mini en CRE PACA.",
+      "date": "13/09/2026",
+      "url": "https://marche.bceuat.eu",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "BCE",
+          "cls": "tg"
         }
       ]
     }

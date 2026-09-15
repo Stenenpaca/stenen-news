@@ -1,13 +1,13 @@
 {
-  "generated_at": "14/09/2026",
+  "generated_at": "15/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Carburants : la consommation chute en août malgré les hausses",
-      "body": "La hausse des prix à la pompe a provoqué une nette diminution de la consommation de carburant en août 2026. Cette tendance reflète l'impact des tensions géopolitiques au Moyen-Orient sur les coûts énergétiques.",
-      "impact": "Les entreprises PACA doivent anticiper une stabilisation des frais de transport et logistique pour les locaux d'activité et commerce.",
-      "date": "14/09/2026",
-      "url": "https://www.laprovence.com/article/economie/22325096925271/hausses-a-la-pompe-la-consommation-de-carburant-a-connu-une-nette-chute-au-mois-daout",
+      "title": "Commerces PACA : indemnisations travaux centre-ville Manosque",
+      "body": "Une nouvelle vague d'indemnisations a été votée pour les commerces impactés par les travaux du centre-ville de Manosque. Cette mesure soutient les petits commerces locaux affectés par les chantiers urbains en cœur de ville.",
+      "impact": "Opportunité de placements commerciaux en centre-ville PACA après travaux de rénovation urbaine avec mesures de soutien municipal.",
+      "date": "15/09/2026",
+      "url": "https://www.laprovence.com/article/region/32375920587491/une-nouvelle-vague-d-indemnisations-des-commerces-impactes-par-les-travaux-du-centre-ville-de-manosque",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Prix du lait en hausse : impacts secteur agroalimentaire PACA",
-      "body": "La sécheresse et la canicule de l'été 2026 menacent d'augmenter les prix du lait, jusque-là relativement préservés de l'inflation. Cette hausse affectera directement les entreprises agroalimentaires régionales.",
-      "impact": "Conseil aux entreprises agroalimentaires PACA : anticiper les augmentations de charges et évaluer les espaces de stockage réfrigéré adéquats.",
-      "date": "14/09/2026",
-      "url": "https://www.laprovence.com/article/economie/60177581678644/le-prix-du-lait-va-t-il-flamber-secheresse-canicule-les-raisons-dune-hausse-annoncee",
+      "title": "Boulangeries PACA : accélération des ouvertures Ange réseau",
+      "body": "Ange, réseau de boulangeries né en Provence en 2008 et basé à Aix-en-Provence, accélère son expansion avec l'ouverture d'une trentaine de boulangeries par an. Cette dynamique démontre une tension croissante sur les locaux commerciaux et de restauration en PACA.",
+      "impact": "Demande accrue de locaux commerciaux en centre-ville et proximité pour concept de restauration rapide en PACA.",
+      "date": "15/09/2026",
+      "url": "https://www.laprovence.com/article/economie/48373354966609/boulangeries-en-paca-ange-accelere-pour-rester-dans-la-course",
       "source": "La Provence",
       "tags": [
         {
@@ -34,56 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Risque climatique : prévention incendies pour assureurs et locataires",
-      "body": "Les incendies d'été 2026 ont généré plus de 1900 sinistres pour AXA, obligeant assureurs et propriétaires à renforcer la prévention. Cette tendance impacte directement les conditions d'assurance des bâtiments tertiaires.",
-      "impact": "Pour les nouveaux baux bureaux/activité PACA, exiger des audits risque incendie renforcés et des clauses d'assurance adaptées au contexte climatique.",
-      "date": "13/09/2026",
-      "url": "https://www.laprovence.com/article/economie/71494462968816/risque-climatique-pour-les-assureurs-la-prevention-des-incendies-devient-incontournable",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Télémédecine Rofim : développement secteur services PACA",
-      "body": "Rofim a levé 10 millions d'euros et ouvre ses portes aux patients pour accéder à des spécialistes. Cette plateforme innovante représente une nouvelle demande de locaux médicaux technologisés en région.",
-      "impact": "Identifier des opportunités de location de bureaux/locaux pour entreprises de santé numérique dans l'écosystème innovant PACA.",
-      "date": "14/09/2026",
-      "url": "https://www.laprovence.com/article/sante/16703946588091/telemedecine-rofim-ouvre-ses-portes-aux-patients-qui-peuvent-interpeller-directement-les-meilleurs-specialistes",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Maisons d'édition indépendantes : nouvelle demande de locaux créatifs",
-      "body": "De petites maisons d'édition émergent en résistance face aux grands groupes, créant une nouvelle dynamique créative régionale. Ces entreprises recherchent des espaces de travail flexibles et collaboratifs.",
-      "impact": "Proposer des petits locaux commerciaux/bureaux PACA adaptés aux startups éditoriales avec services partagés.",
-      "date": "13/09/2026",
-      "url": "https://www.laprovence.com/article/societe/22071177765252/on-ne-peut-pas-laisser-le-champ-libre-de-petites-maison-dedition-se-creent-et-entrent-en-resistance",
+      "title": "Hat's : success story boulangerie diversification PACA",
+      "body": "Hat's, boulangerie familiale marseillaise née en 2005, illustre la stratégie de diversification dans le secteur de la restauration rapide en PACA. Le passage d'une franchise à l'indépendance révèle les besoins en locaux flexibles pour croissance.",
+      "impact": "Nécessité d'offres immobilières modulables et évolutives pour PME de restauration en croissance en région PACA.",
+      "date": "15/09/2026",
+      "url": "https://www.laprovence.com/article/economie/1050773998363414/hats-la-success-story-dune-boulangerie-familiale-qui-carbure-a-la-diversification",
       "source": "La Provence",
       "tags": [
         {
@@ -93,6 +55,36 @@
         {
           "label": "Marché",
           "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Manifestations secteur : impact conditions travail électriciens gaziers",
+      "body": "Électriciens, gaziers, pompiers et infirmiers manifestent le 15 septembre pour dénoncer leurs conditions de travail. Ces mobilisations affectent les secteurs clés des installations tertiaires et activités.",
+      "impact": "Tensions sur les délais de chantiers immobiliers tertiaires et activités dues aux mouvements sociaux sectoriels en PACA.",
+      "date": "15/09/2026",
+      "url": "https://www.laprovence.com/article/societe/10079005073993/pompiers-infirmiers-policiers-electriciens-et-gaziers-pourquoi-ils-manifestent-ce-mardi",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Réglementation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Facture gaz 2026 : hausse 120 euros CRE prévoit 6,3%",
+      "body": "La Commission de régulation de l'énergie prévoit une augmentation de 6,3% des prix du gaz au 1er octobre 2026 et une hausse d'environ 30% depuis début 2026. Cet impact énergétique affecte significativement les charges immobilières tertiaires.",
+      "impact": "Hausse substantielle des charges énergétiques à intégrer dans les évaluations de rendement des immeubles tertiaires et activités PACA.",
+      "date": "15/09/2026",
+      "url": "https://www.laprovence.com/article/economie/1052559588562414/votre-facture-de-gaz-va-t-elle-flamber-la-commission-de-regulation-de-l-energie-prevoit-120-euros-de-plus-en-2026",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }
@@ -100,54 +92,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Tensions géopolitiques : Moyen-Orient et détroit d'Ormuz impactent Brent",
-      "body": "Les affrontements entre Américains et Iraniens au détroit d'Ormuz maintiennent la pression haussière sur le baril de pétrole. Cette instabilité persistante influence les coûts énergétiques européens et français.",
-      "impact": "Anticiper une volatilité prolongée du coût énergétique pour les contrats de bail tertiaire long terme en PACA.",
-      "date": "14/09/2026",
-      "url": "https://www.laprovence.com/article/economie/22325096925271/hausses-a-la-pompe-la-consommation-de-carburant-a-connu-une-nette-chute-au-mois-daout",
+      "title": "Dividendes France : champion Europe 70,4 Mds USD versés",
+      "body": "Les principales sociétés cotées françaises ont distribué 70,4 milliards de dollars (61 milliards d'euros) à leurs actionnaires selon Janus Henderson. La France se positionne championne d'Europe et numéro 2 mondiale en matière de versement de dividendes.",
+      "impact": "Excellente liquidité du marché français soutenant la capacité de financement des investissements immobiliers tertiaires par les institutionnels.",
+      "date": "15/09/2026",
+      "url": "https://www.laprovence.com/article/economie/1082679739228414/dividendes-la-france-championne-deurope-et-numero-2-mondiale-a-verse-70-4-milliards-de-dollars",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Présidentielle 2027 : incertitude politique sur les politiques économiques",
-      "body": "Marine Le Pen reste favorite du premier tour selon le sondage Toluna Harris Interactive, mais perd des points. Cette incertitude politique pèse sur les décisions d'investissement et de location immobilière.",
-      "impact": "Recommander aux clients PACA de sécuriser les baux long terme avant potentiels changements de cadre fiscal/réglementaire.",
-      "date": "14/09/2026",
-      "url": "https://www.laprovence.com/article/economie/21682029084149/presidentielle-2027-marine-le-pen-perd-des-points-mais-reste-favorite-au-premier-tour-dans-un-nouveau-sondage",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Conjoncture",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "m3",
-      "title": "Inflation et BCE : taux OAT 3.70%, Euribor 3M à 2.15%",
-      "body": "L'inflation française stabilisée à 1.7% permet à la BCE de maintenir le taux directeur à 2.15%, soutenant la stabilité des taux longs. Les OAT restent à 3.70%, reflétant la confiance relative du marché.",
-      "impact": "Conditions de financement favorables pour investissements immobiliers PACA : verrouiller les taux avant potentiel resserrement BCE.",
-      "date": "14/09/2026",
-      "url": "https://www.laprovence.com/article/economie/default",
+      "title": "Conjoncture France : inflation contrôlée, OAT 3.70%, Euribor 2.15%",
+      "body": "L'environnement macroéconomique français reste stable avec inflation à 1,7% et taux directeurs BCE à 2,15%. Les conditions de financement demeurent accommodantes pour investissements immobiliers de long terme.",
+      "impact": "Taux de financement stables favorables aux transactions immobilières professionnelles en PACA sur semestre Q4 2026.",
+      "date": "15/09/2026",
+      "url": "https://marche-immobilier-paca.fr",
       "source": "Données marché",
       "tags": [
         {
           "label": "Taux",
           "cls": "tt"
-        },
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Énergie : Brent 96 USD, tensions géopolitiques persistantes",
+      "body": "Le prix du Brent reste à 96 USD/baril dans contexte de tensions géopolitiques durables et impacts énergétiques globaux. Cette stabilité relative des prix pétroliers préserve les perspectives d'inflation maîtrisée.",
+      "impact": "Stabilité relative des coûts d'énergie supportant les investissements tertiaires, bien que charges énergétiques gaz restent en hausse structurelle.",
+      "date": "15/09/2026",
+      "url": "https://marche-energie-mondial.fr",
+      "source": "Données marché",
+      "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     }

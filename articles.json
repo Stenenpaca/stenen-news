@@ -1,78 +1,98 @@
 {
-  "generated_at": "16/09/2026",
+  "generated_at": "17/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Banque de France : croissance 2026 à 0,4%, résilience confirmée",
-      "body": "La Banque de France abaisse légèrement sa prévision de croissance pour 2026 à 0,4%, alignée sur l'INSEE mais insistant sur la résilience de l'économie française. Cette stabilité macroéconomique soutient la demande d'immobilier tertiaire malgré un contexte d'austérité budgétaire.",
-      "impact": "Contexte de croissance faible mais stable : privilégier les baux longs terme et négocier des prix fermes pour les actifs PACA 2026-2027.",
-      "date": "15/09/2026",
-      "url": "https://www.laprovence.com/article/economie/22570507654936/la-banque-de-france-abaisse-legerement-sa-prevision-de-croissance-pour-2026",
+      "title": "Immobilier Marseille : prix médian en hausse, dynamique résiliente",
+      "body": "Malgré un contexte économique fragile, Marseille affiche une résilience remarquable avec une hausse des prix médians et une attractivité croissante des secteurs comme Endoume et le 7e arrondissement. La deuxième ville de France bénéficie de ses atouts structurels pour maintenir son attractivité commerciale et tertiaire.",
+      "impact": "Opportunités de transactions tertiaires/commerce à Marseille : valorisation accélérée des emplacements premium et locaux activité dans les zones dynamiques.",
+      "date": "17/09/2026",
+      "url": "https://www.laprovence.com/article/economie/2183643227397814/prix-median-en-hausse-endoume-et-le-7e-arrondissement-attractifs-tout-dhorizon-de-limmobilier-a-marseille",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Arnaques aux conseillers : +34% - risques accrus pour transactions",
-      "body": "Les arnaq aux faux conseillers bancaires enregistrent une hausse de 34% en PACA, soutirant plusieurs milliers d'euros aux victimes par manipulation. Ce risque de fraude affecte directement les montages financiers et les versements de garanties immobilières.",
-      "impact": "Renforcer les protocoles de vérification bancaire pour tous les paiements de transactions immobilières PACA : confirmation directe auprès des établissements.",
-      "date": "16/09/2026",
-      "url": "https://www.laprovence.com/article/economie/5311373106042/arnaques-au-faux-conseiller-boom-de-34-comment-eviter-le-piege",
+      "title": "Taux d'emprunt à 3,5% : fenêtre d'opportunité avant hausse",
+      "body": "Les taux d'emprunt immobilier s'établissent autour de 3,5% hors assurance à Marseille, en tendance haussière depuis un mois. Les experts recommandent de concrétiser les emprunts rapidement avant une nouvelle remontée des taux.",
+      "impact": "Conseillers CRE : accélérer les montages financiers clients avant remontée des taux ; opportunité d'acquisition de portefeuilles immobiliers tertiaires à financement avantageux.",
+      "date": "17/09/2026",
+      "url": "https://www.laprovence.com/article/economie/2700446686710614/immobilier-a-marseille-face-au-risque-de-hausse-des-taux-il-vaut-mieux-emprunter-aujourd-hui-a-3-5",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Cap Horizon Vitrolles : académie hélicoptère, 2000 étudiants/an",
-      "body": "Un pôle d'échanges multimodal inauguré le 15 septembre à Vitrolles accueillera une académie de formation aéronautique de 2000 étudiants annuels si le permis est validé. Ce projet structurant crée une forte demande de locaux de formation et bureaux administratifs tertiaires.",
-      "impact": "Opportunité de commercialisation locaux activité/bureaux Vitrolles : secteur formation aéronautique en croissance, tirants d'eau spécifiques à anticiper.",
-      "date": "15/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1399450001867114/cap-horizon-vitrolles-une-academie-de-l-helicoptere-pour-former-2-000-etudiants-par-an-va-ouvrir",
-      "source": "La Provence",
-      "tags": [
+          "label": "Taux",
+          "cls": "tt"
+        },
         {
-          "label": "PACA marché",
+          "label": "PACA",
           "cls": "tp"
         }
       ]
     },
     {
-      "id": "f4",
-      "title": "Marseille Marea : grand salon méditerranéen de la mer lancé",
-      "body": "Marseille inaugure 'Marea', nouveau grand salon maritime méditerranéen, succédant aux Nauticales de La Ciotat après 5 ans d'organisation. Cet événement de prestige génère une demande forte de surfaces d'exposition, bureaux commerciaux et locaux d'activité temporaires.",
-      "impact": "Mobiliser offre commerce/bureaux Marseille centre pour événements maritimes : secteur nautique=demande saisonnière haute marge.",
-      "date": "15/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1419142495883114/avec-marea-marseille-veut-s-imposer-comme-la-capitale-mediterraneenne-de-la-mer",
+      "id": "f3",
+      "title": "Bouches-du-Rhône : marché immobilier prudent mais en hausse",
+      "body": "La Chambre des notaires des Bouches-du-Rhône qualifie le marché d'« prudent mais fragile » avec une hausse de 2,5% sur l'ancien. Cette dynamique affecte aussi le segment des locaux activité et commerces dans un contexte de pouvoir d'achat dégradé.",
+      "impact": "Négociation ferme sur les locaux tertiaires/commerce 13 : les vendeurs doivent s'adapter aux conditions d'achat plus strictes des preneurs.",
+      "date": "17/09/2026",
+      "url": "https://www.laprovence.com/article/economie/2787613112393414/immobilier-dans-les-bouches-du-rhone-de-la-singularite-du-marche-aixois-au-luxe-des-alpilles",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA marché",
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Prix carburants 2,37€/L : impact coûts transport locaux activité",
+      "body": "Le gazole atteint 2,37€/litre, approchant son record de 2,38€ d'avril 2026, impactant directement les coûts d'exploitation des entreprises multisite. Les locaux activité avec logistique interne subissent une forte pression opérationnelle.",
+      "impact": "Transactions locaux activité PACA : valoriser les immeubles avec optimisation logistique et proximité axes routiers majeurs ; reprendre les niveaux de loyer.",
+      "date": "17/09/2026",
+      "url": "https://www.laprovence.com/article/economie/73384648796234/prix-des-carburants-le-gazole-a-2-37e-le-sp95-e10-depasse-son-pic-de-2022",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "PACA",
           "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Vaucluse : neurodiversité en TPE/PME, insertion professionnelle",
-      "body": "LADAPT organise le 15 septembre à Châteauneuf-du-Pape une conférence sur l'intégration de personnes en situation de handicap (neurodiversité) dans les dirigeants TPE/PME. Cette tendance RSE crée une demande de locaux tertiaires accessibles et inclusifs en région.",
-      "impact": "Valoriser critères d'accessibilité/conformité Agenda d'Accessibilité Programmé (AAP) dans pitch locaux bureaux PACA auprès PME.",
-      "date": "15/09/2026",
-      "url": "https://www.laprovence.com/article/region/20516184909115/et-si-en-vaucluse-les-entreprises-osaient-la-neurodiversite",
+      "title": "Mobilité La Ciotat : voiture solo domine, enjeu flex-office",
+      "body": "Enquête Un-Adrac : 70%+ des salariés de La Ciotat se rendent seuls en voiture au travail, révélant une faible adoption du covoiturage et télétravail. Cette tendance pèse sur les besoins d'espaces bureaux compacts et proches des transports.",
+      "impact": "Stratégie flex-office/co-working en PACA : localiser les petits espaces Bureau à proximité parking/routes au lieu de grands sièges traditionnels ; reprendre les bases de loyer.",
+      "date": "17/09/2026",
+      "url": "https://www.laprovence.com/article/societe/1125409521625214/selon-une-etude-les-salaries-de-la-ciotat-se-rendent-majoritairement-au-travail-seuls-au-volant-de-leur-voiture",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA RSE",
+          "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -80,46 +100,50 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Banque de France : croissance France 0,4% en 2026, résilience",
-      "body": "La Banque de France confirme une prévision de 0,4% de croissance pour 2026, alignée sur l'INSEE, insistant sur la résilience de l'économie française face aux tensions géopolitiques. Euribor 3M stable à 2,15%, OAT à 3,70%.",
-      "impact": "Contexte de financement stable : taux long terme immobilier (OAT+spread) maintiennent capacité d'investissement institutions PACA.",
-      "date": "15/09/2026",
-      "url": "https://www.laprovence.com/article/economie/22570507654936/la-banque-de-france-abaisse-legerement-sa-prevision-de-croissance-pour-2026",
+      "title": "Crise carburant : aide secteurs BTP/agriculture, impact immobilier",
+      "body": "Le gouvernement renforce les aides aux secteurs énergivores (BTP, agriculture, pêche) face aux prix carburant historiques, visant à « préserver l'activité, emploi et croissance ». Cette intervention budgétaire maintient la demande en locaux activité mais freine les investissements tertiaires.",
+      "impact": "Marché immobilier France : soutien cyclique court terme aux locaux activité/industriels ; fragilité durable des budgets tertiaires.",
+      "date": "17/09/2026",
+      "url": "https://www.laprovence.com/article/politique/13489690705512/prix-des-carburants-ce-que-les-nouvelles-aides-changent-pour-les-pecheurs-le-btp-et-les-agriculteurs",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Plan social Afpa : 867 postes supprimés, crise modèle formation",
-      "body": "L'Afpa annonce un plan social majeur supprimant 867 postes suite à l'érosion de son modèle économique : chiffre d'affaires -25% (2021-2025), stagiaires -39%. Crise structurelle de la formation professionnelle en France impactant accès main d'œuvre tertiaire.",
-      "impact": "Risque de tension RH dans secteur immobilier PACA : anticiper pénuries compétences, réviser grilles salaires conseillers/collaborateurs.",
-      "date": "15/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1419142495883114/plan-social-dampleur-a-lafpa-867-postes-menaces-tension-maximale-au-siege",
+      "title": "Pouvoir d'achat France dégradé : 61% des Français l'évaluent mauvais",
+      "body": "Sondage Appinio/LSA : 61% des Français jugent leur pouvoir d'achat « mauvais », en hausse notamment sous effet guerre Moyen-Orient et inflation énergétique. Contexte de présidentielle 2027 où l'enjeu fiscal domine.",
+      "impact": "Immobilier entreprise France : cycle de récession attendu en 2027 ; comprimer offre tertiaire/commerce et viser locaux activité essentiels moins sensibles.",
+      "date": "17/09/2026",
+      "url": "https://www.laprovence.com/article/politique/1461249687648314/presidentielle-2027-quelles-propositions-sur-le-pouvoir-d-achat-determineront-votre-vote-ecrivez-nous",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Emploi France",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Crise pêche : blocages Fos-sur-Mer, quotas thon, charges admin",
-      "body": "Blocage du dépôt pétrolier Fos-sur-Mer le 15/09 par 50+ pêcheurs professionnels contre quotas thon rouge (plan WestMed) et charges administratives excessives. Tensions géopolitiques méditerranéennes et régulation impactent économie locale côtière PACA.",
-      "impact": "Vigilance secteur logistique/activité Fos : risques de perturbations transport/manutention, négocier clauses force majeure baux.",
-      "date": "15/09/2026",
-      "url": "https://www.laprovence.com/article/societe/1330114114776914/quota-de-thon-rouge-plan-westmed-charge-administrative-des-professionnels-de-la-peche-a-bout-a-fos-sur-mer",
+      "title": "Sofitel Marseille Vieux-Port en vente immobilière",
+      "body": "Le fleuron hôtelier marseillais pourrait être vendu à l'occasion de son 50e anniversaire (2026), ses murs se séparant potentiellement de la marque. Cette démarche reflète les stress immobiliers du secteur hôtellerie post-COVID en PACA.",
+      "impact": "Marché investissement PACA : opportunité acquisition murs hôtels de prestige pour SCPI/institutionnels ; vigilance sur viabilité exploitation tertiaire Marseille.",
+      "date": "16/09/2026",
+      "url": "https://www.laprovence.com/article/region/2222163091683814/le-sofitel-marseille-vieux-port-bientot-vendu",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Investissement",
+          "cls": "ti2"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }

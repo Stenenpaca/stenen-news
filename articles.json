@@ -1,13 +1,13 @@
 {
-  "generated_at": "17/09/2026",
+  "generated_at": "18/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Immobilier Marseille : prix médian en hausse, dynamique résiliente",
-      "body": "Malgré un contexte économique fragile, Marseille affiche une résilience remarquable avec une hausse des prix médians et une attractivité croissante des secteurs comme Endoume et le 7e arrondissement. La deuxième ville de France bénéficie de ses atouts structurels pour maintenir son attractivité commerciale et tertiaire.",
-      "impact": "Opportunités de transactions tertiaires/commerce à Marseille : valorisation accélérée des emplacements premium et locaux activité dans les zones dynamiques.",
-      "date": "17/09/2026",
-      "url": "https://www.laprovence.com/article/economie/2183643227397814/prix-median-en-hausse-endoume-et-le-7e-arrondissement-attractifs-tout-dhorizon-de-limmobilier-a-marseille",
+      "title": "Hausse record du carburant : impact sur les coûts logistiques PACA",
+      "body": "Le gazole atteint 2,39 euros en moyenne en France, un nouveau pic dépassant celui d'avril 2026. Cette tension énergétique affecte directement les charges d'exploitation des locaux d'activité et surfaces commerciales en région PACA.",
+      "impact": "Négocier les contrats de location avec clauses d'indexation carburant pour les activités logistiques/distribution en PACA.",
+      "date": "18/09/2026",
+      "url": "https://www.laprovence.com/article/economie/3601243803327214/carburant-le-gazole-atteint-un-nouveau-record-a-plus-de-2-39-euros-en-moyenne",
       "source": "La Provence",
       "tags": [
         {
@@ -15,75 +15,75 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Energie",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Taux d'emprunt à 3,5% : fenêtre d'opportunité avant hausse",
-      "body": "Les taux d'emprunt immobilier s'établissent autour de 3,5% hors assurance à Marseille, en tendance haussière depuis un mois. Les experts recommandent de concrétiser les emprunts rapidement avant une nouvelle remontée des taux.",
-      "impact": "Conseillers CRE : accélérer les montages financiers clients avant remontée des taux ; opportunité d'acquisition de portefeuilles immobiliers tertiaires à financement avantageux.",
-      "date": "17/09/2026",
-      "url": "https://www.laprovence.com/article/economie/2700446686710614/immobilier-a-marseille-face-au-risque-de-hausse-des-taux-il-vaut-mieux-emprunter-aujourd-hui-a-3-5",
+      "title": "Immobilier commercial : Godot & Fils ouvre 4e agence à Marseille",
+      "body": "Le spécialiste de métaux précieux implante une nouvelle agence rue Paradis (8e arrondissement) le 15 juillet 2026, profitant de la hausse de 220% du cours de l'or. Cette dynamique commerciale illustre l'attractivité de certains secteurs PACA.",
+      "impact": "Exploiter cette dynamique pour proposer des surfaces commerciales premium à Marseille, secteur des services financiers et luxe.",
+      "date": "18/09/2026",
+      "url": "https://www.laprovence.com/article/economie/1622447468024914/specialiste-dans-l-achat-et-la-vente-d-or-godot-fils-a-implante-sa-4e-agence-rue-paradis-a-marseille",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché commercial",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Bouches-du-Rhône : marché immobilier prudent mais en hausse",
-      "body": "La Chambre des notaires des Bouches-du-Rhône qualifie le marché d'« prudent mais fragile » avec une hausse de 2,5% sur l'ancien. Cette dynamique affecte aussi le segment des locaux activité et commerces dans un contexte de pouvoir d'achat dégradé.",
-      "impact": "Négociation ferme sur les locaux tertiaires/commerce 13 : les vendeurs doivent s'adapter aux conditions d'achat plus strictes des preneurs.",
-      "date": "17/09/2026",
-      "url": "https://www.laprovence.com/article/economie/2787613112393414/immobilier-dans-les-bouches-du-rhone-de-la-singularite-du-marche-aixois-au-luxe-des-alpilles",
+      "title": "Rigueur budgétaire 2027 : impact sur les investissements tertiaires",
+      "body": "Le gouvernement vise un déficit public inférieur à 5,4% du PIB pour 2027, impliquant des économies de 54 milliards d'euros sur retraites, APL et fonctionnaires. Cette consolidation budgétaire réduira les enveloppes d'investissement public en immobilier tertiaire.",
+      "impact": "Anticiper une baisse de la demande de bureaux dans les projets publics/semi-publics en PACA ; privilégier les locataires privés stables.",
+      "date": "18/09/2026",
+      "url": "https://www.laprovence.com/article/economie/360752423875314/budget-2027-retraites-apl-fonctionnaires-les-pistes-pour-economiser-54-milliards-d-euros",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Conjoncture",
+          "cls": "tg"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Prix carburants 2,37€/L : impact coûts transport locaux activité",
-      "body": "Le gazole atteint 2,37€/litre, approchant son record de 2,38€ d'avril 2026, impactant directement les coûts d'exploitation des entreprises multisite. Les locaux activité avec logistique interne subissent une forte pression opérationnelle.",
-      "impact": "Transactions locaux activité PACA : valoriser les immeubles avec optimisation logistique et proximité axes routiers majeurs ; reprendre les niveaux de loyer.",
-      "date": "17/09/2026",
-      "url": "https://www.laprovence.com/article/economie/73384648796234/prix-des-carburants-le-gazole-a-2-37e-le-sp95-e10-depasse-son-pic-de-2022",
+      "title": "Prolongation aides carburant : stabilité pour secteur logistique PACA",
+      "body": "Le ministre Serge Papin annonce le 18 septembre une prolongation des aides aux 'gros rouleurs' au-delà du 30 septembre 2026, avec réunion lundi pour affiner les modalités. Cette mesure soutient la viabilité économique des secteurs logistique/transport en région.",
+      "impact": "Valoriser les locaux d'activité/logistique PACA en mettant en avant la stabilité des aides gouvernementales pour les transporteurs.",
+      "date": "18/09/2026",
+      "url": "https://www.laprovence.com/article/economie/3574378689992514/aide-carburant-aux-gros-rouleurs-serge-papin-annonce-une-prolongation-au-dela-du-30-septembre",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Politique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Mobilité La Ciotat : voiture solo domine, enjeu flex-office",
-      "body": "Enquête Un-Adrac : 70%+ des salariés de La Ciotat se rendent seuls en voiture au travail, révélant une faible adoption du covoiturage et télétravail. Cette tendance pèse sur les besoins d'espaces bureaux compacts et proches des transports.",
-      "impact": "Stratégie flex-office/co-working en PACA : localiser les petits espaces Bureau à proximité parking/routes au lieu de grands sièges traditionnels ; reprendre les bases de loyer.",
-      "date": "17/09/2026",
-      "url": "https://www.laprovence.com/article/societe/1125409521625214/selon-une-etude-les-salaries-de-la-ciotat-se-rendent-majoritairement-au-travail-seuls-au-volant-de-leur-voiture",
+      "title": "Tension financière des ménages : consommation tertiaire fragilisée",
+      "body": "Un Français sur trois découvert chaque mois depuis un an, avec 20% en découvert permanent selon YouGov. Cette détresse financière affecte la dynamique commerciale et locataire du secteur tertiaire PACA.",
+      "impact": "Adapter les stratégies commerciales PACA en renforçant l'accessibilité et réduisant les loyers des zones sensibles ; anticiper une contraction de la demande retail.",
+      "date": "18/09/2026",
+      "url": "https://www.laprovence.com/article/economie/1727706649130214/1-francais-sur-3-a-decouvert-chaque-mois-depuis-un-an-qui-sont-les-plus-touches-et-comment-eviter-le-piege",
       "source": "La Provence",
       "tags": [
         {
@@ -91,8 +91,8 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     }
@@ -100,50 +100,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Crise carburant : aide secteurs BTP/agriculture, impact immobilier",
-      "body": "Le gouvernement renforce les aides aux secteurs énergivores (BTP, agriculture, pêche) face aux prix carburant historiques, visant à « préserver l'activité, emploi et croissance ». Cette intervention budgétaire maintient la demande en locaux activité mais freine les investissements tertiaires.",
-      "impact": "Marché immobilier France : soutien cyclique court terme aux locaux activité/industriels ; fragilité durable des budgets tertiaires.",
-      "date": "17/09/2026",
-      "url": "https://www.laprovence.com/article/politique/13489690705512/prix-des-carburants-ce-que-les-nouvelles-aides-changent-pour-les-pecheurs-le-btp-et-les-agriculteurs",
+      "title": "Crise énergétique : carburant au plus haut depuis avril 2026",
+      "body": "Le gazole franchit 2,39 euros/litre en moyenne nationale, dépassant le pic d'avril 2026 et alimentant des appels à manifester. Cette tension énergétique reflète les enjeux géopolitiques et les perturbations logistiques mondiales.",
+      "impact": "Évaluer l'impact sur les coûts de transport et les rendements des actifs logistiques/activité PACA exposés aux charges énergétiques.",
+      "date": "18/09/2026",
+      "url": "https://www.laprovence.com/article/economie/3601243803327214/carburant-le-gazole-atteint-un-nouveau-record-a-plus-de-2-39-euros-en-moyenne",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Géopolitique/Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Pouvoir d'achat France dégradé : 61% des Français l'évaluent mauvais",
-      "body": "Sondage Appinio/LSA : 61% des Français jugent leur pouvoir d'achat « mauvais », en hausse notamment sous effet guerre Moyen-Orient et inflation énergétique. Contexte de présidentielle 2027 où l'enjeu fiscal domine.",
-      "impact": "Immobilier entreprise France : cycle de récession attendu en 2027 ; comprimer offre tertiaire/commerce et viser locaux activité essentiels moins sensibles.",
-      "date": "17/09/2026",
-      "url": "https://www.laprovence.com/article/politique/1461249687648314/presidentielle-2027-quelles-propositions-sur-le-pouvoir-d-achat-determineront-votre-vote-ecrivez-nous",
+      "title": "Déficit public 2027 : consolidation budgétaire et contraction d'investissement",
+      "body": "La France vise un déficit inférieur à 5,4% du PIB en 2027 après 5,1% en 2025, nécessitant 54 milliards d'économies. Cette rigueur budgétaire pèsera sur l'investissement public et la consommation domestique.",
+      "impact": "Anticiper une moindre dynamique de demande tertiaire publique et une potentielle récession de faible ampleur affectant les valuations immobilières d'entreprise.",
+      "date": "18/09/2026",
+      "url": "https://www.laprovence.com/article/economie/360752423875314/budget-2027-retraites-apl-fonctionnaires-les-pistes-pour-economiser-54-milliards-d-euros",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture France",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Sofitel Marseille Vieux-Port en vente immobilière",
-      "body": "Le fleuron hôtelier marseillais pourrait être vendu à l'occasion de son 50e anniversaire (2026), ses murs se séparant potentiellement de la marque. Cette démarche reflète les stress immobiliers du secteur hôtellerie post-COVID en PACA.",
-      "impact": "Marché investissement PACA : opportunité acquisition murs hôtels de prestige pour SCPI/institutionnels ; vigilance sur viabilité exploitation tertiaire Marseille.",
-      "date": "16/09/2026",
-      "url": "https://www.laprovence.com/article/region/2222163091683814/le-sofitel-marseille-vieux-port-bientot-vendu",
+      "title": "Données macroéconomiques : taux et inflation stables en septembre 2026",
+      "body": "OAT 10ans à 3,70%, Euribor 3M à 2,15%, taux directeur BCE à 2,15%, inflation à 1,7%. Ces niveaux reflètent une stabilisation progressive de la politique monétaire restrictive.",
+      "impact": "Taux d'intérêt stables favorisent les financements d'acquisition PACA ; attendre une potentielle baisse si inflation poursuit sa décrue.",
+      "date": "18/09/2026",
+      "url": "https://www.laprovence.com/article/economie/360752423875314/budget-2027-retraites-apl-fonctionnaires-les-pistes-pour-economiser-54-milliards-d-euros",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Investissement",
-          "cls": "ti2"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux/Financement",
+          "cls": "tt"
         }
       ]
     }

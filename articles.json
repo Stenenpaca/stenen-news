@@ -1,13 +1,13 @@
 {
-  "generated_at": "18/09/2026",
+  "generated_at": "19/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Hausse record du carburant : impact sur les coûts logistiques PACA",
-      "body": "Le gazole atteint 2,39 euros en moyenne en France, un nouveau pic dépassant celui d'avril 2026. Cette tension énergétique affecte directement les charges d'exploitation des locaux d'activité et surfaces commerciales en région PACA.",
-      "impact": "Négocier les contrats de location avec clauses d'indexation carburant pour les activités logistiques/distribution en PACA.",
-      "date": "18/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3601243803327214/carburant-le-gazole-atteint-un-nouveau-record-a-plus-de-2-39-euros-en-moyenne",
+      "title": "Alpilles Tech accueille innovation : Kyoui France médaillée d'or",
+      "body": "La société Kyoui France, domiciliée à Alpilles Tech à Fontvieille, a remporté la médaille d'or de la Fédération française des inventeurs au salon de Châlons-en-Champagne (2-7 septembre 2026). Cette distinction valorise les pépinières technologiques PACA comme espaces d'innovation et d'incubation.",
+      "impact": "Dynamique positive pour la demande de locaux d'activité et bureaux dans les technopôles PACA, justifiant des montées en charge et extensions.",
+      "date": "19/09/2026",
+      "url": "https://www.laprovence.com/article/economie/75593232982781/une-entrepreneuse-dalpilles-tech-decroche-une-medaille-dor-de-linnovation-grace-a-sa-brosse-a-dents",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Energie",
-          "cls": "tg"
+          "label": "Activité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Immobilier commercial : Godot & Fils ouvre 4e agence à Marseille",
-      "body": "Le spécialiste de métaux précieux implante une nouvelle agence rue Paradis (8e arrondissement) le 15 juillet 2026, profitant de la hausse de 220% du cours de l'or. Cette dynamique commerciale illustre l'attractivité de certains secteurs PACA.",
-      "impact": "Exploiter cette dynamique pour proposer des surfaces commerciales premium à Marseille, secteur des services financiers et luxe.",
-      "date": "18/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1622447468024914/specialiste-dans-l-achat-et-la-vente-d-or-godot-fils-a-implante-sa-4e-agence-rue-paradis-a-marseille",
+      "title": "Travaux Cap Canourgues Salon-de-Provence : impact locataires commerciaux",
+      "body": "Les travaux de rénovation du quartier Cap Canourgues à Salon-de-Provence se déroulent de juillet à fin décembre 2026, impactant significativement les commerçants locaux. Cette période transitoire crée des risques d'impayés et des demandes de suspension de loyers.",
+      "impact": "Anticiper les clauses de force majeure et revalorisation post-travaux dans les contrats commerciaux PACA ; valoriser la rénovation comme argument de relocation.",
+      "date": "19/09/2026",
+      "url": "https://www.laprovence.com/article/societe/60273195995175/des-commercants-de-cap-canourgues-en-difficulte-a-cause-des-travaux-de-renovation-du-quartier-a-salon-de-provence",
       "source": "La Provence",
       "tags": [
         {
@@ -34,37 +34,37 @@
           "cls": "tp"
         },
         {
-          "label": "Marché commercial",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Rigueur budgétaire 2027 : impact sur les investissements tertiaires",
-      "body": "Le gouvernement vise un déficit public inférieur à 5,4% du PIB pour 2027, impliquant des économies de 54 milliards d'euros sur retraites, APL et fonctionnaires. Cette consolidation budgétaire réduira les enveloppes d'investissement public en immobilier tertiaire.",
-      "impact": "Anticiper une baisse de la demande de bureaux dans les projets publics/semi-publics en PACA ; privilégier les locataires privés stables.",
+      "title": "Intermarché Caillols Marseille : incertitude sur l'avenir commercial",
+      "body": "L'ancien Casino des Caillols, devenu Intermarché avenue William-Booth (12e), fait face à des enjeux d'avenir avec inquiétude des salariés sur la stratégie du groupe. Situé à proximité du terminus du tramway, ce site génère des questions sur sa pérennité commerciale.",
+      "impact": "Surveiller les opportunités de reprise/relocation dans les centres commerciaux majeurs Marseille ; évaluer la valeur résiduelle post-restructuration.",
       "date": "18/09/2026",
-      "url": "https://www.laprovence.com/article/economie/360752423875314/budget-2027-retraites-apl-fonctionnaires-les-pistes-pour-economiser-54-milliards-d-euros",
+      "url": "https://www.laprovence.com/article/societe/34339764033659/on-veut-savoir-ou-l-on-va-l-avenir-de-l-intermarche-des-caillols-a-marseille-et-de-la-galerie-marchande-inquiete",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Prolongation aides carburant : stabilité pour secteur logistique PACA",
-      "body": "Le ministre Serge Papin annonce le 18 septembre une prolongation des aides aux 'gros rouleurs' au-delà du 30 septembre 2026, avec réunion lundi pour affiner les modalités. Cette mesure soutient la viabilité économique des secteurs logistique/transport en région.",
-      "impact": "Valoriser les locaux d'activité/logistique PACA en mettant en avant la stabilité des aides gouvernementales pour les transporteurs.",
+      "title": "Sécurité sociale : campagne majeure de recrutement PACA",
+      "body": "La Sécurité sociale s'affirme comme l'un des plus importants recruteurs de la région PACA, avec la Semaine de l'emploi organisée du 21 septembre 2026. Cette dynamique confirme l'attractivité des besoins en locaux administratifs et bureaux tertiaires.",
+      "impact": "Demande soutenue en bureaux modernes et conformes RT2012/décret tertiaire pour organismes publics PACA ; négocier contrats longs avec organismes d'État.",
       "date": "18/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3574378689992514/aide-carburant-aux-gros-rouleurs-serge-papin-annonce-une-prolongation-au-dela-du-30-septembre",
+      "url": "https://www.laprovence.com/article/economie/3925485445929214/la-securite-sociale-recrute-en-provence-alpes-cote-dazur",
       "source": "La Provence",
       "tags": [
         {
@@ -72,18 +72,22 @@
           "cls": "tp"
         },
         {
-          "label": "Politique",
-          "cls": "tg"
+          "label": "Bureaux",
+          "cls": "tm"
+        },
+        {
+          "label": "Tertiaire",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Tension financière des ménages : consommation tertiaire fragilisée",
-      "body": "Un Français sur trois découvert chaque mois depuis un an, avec 20% en découvert permanent selon YouGov. Cette détresse financière affecte la dynamique commerciale et locataire du secteur tertiaire PACA.",
-      "impact": "Adapter les stratégies commerciales PACA en renforçant l'accessibilité et réduisant les loyers des zones sensibles ; anticiper une contraction de la demande retail.",
+      "title": "Restrictions eau sécheresse : impact secteur services PACA",
+      "body": "La sécheresse affecte 74 départements en crise (au 9 septembre 2026) avec restrictions d'eau imposées par les préfets. Certains secteurs d'activité comme les stations de lavage sont interdits de fonctionnement, illustrant la fragilité réglementaire.",
+      "impact": "Inclure clauses climatiques et résilience hydrique dans les baux activité PACA ; anticiper impacts sur locaux avec besoins eau importants.",
       "date": "18/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1727706649130214/1-francais-sur-3-a-decouvert-chaque-mois-depuis-un-an-qui-sont-les-plus-touches-et-comment-eviter-le-piege",
+      "url": "https://www.laprovence.com/article/economie/39170568042195/restrictions-deau-les-stations-de-lavage-la-seule-profession-interdite-de-travailler-en-cas-de-secheresse",
       "source": "La Provence",
       "tags": [
         {
@@ -91,7 +95,11 @@
           "cls": "tp"
         },
         {
-          "label": "Conjoncture",
+          "label": "Réglementation",
+          "cls": "tr"
+        },
+        {
+          "label": "Risque",
           "cls": "tg"
         }
       ]
@@ -100,46 +108,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Crise énergétique : carburant au plus haut depuis avril 2026",
-      "body": "Le gazole franchit 2,39 euros/litre en moyenne nationale, dépassant le pic d'avril 2026 et alimentant des appels à manifester. Cette tension énergétique reflète les enjeux géopolitiques et les perturbations logistiques mondiales.",
-      "impact": "Évaluer l'impact sur les coûts de transport et les rendements des actifs logistiques/activité PACA exposés aux charges énergétiques.",
-      "date": "18/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3601243803327214/carburant-le-gazole-atteint-un-nouveau-record-a-plus-de-2-39-euros-en-moyenne",
+      "title": "Tensions énergétiques et coûts tertiaire France",
+      "body": "Les appels à manifestation contre la vie chère et carburant cher se multiplient (réseau social, 17 septembre 2026), reflétant tensions inflationnistes persistantes. Contexte de hausse des coûts énergétiques pesant sur les loyers tertiaires.",
+      "impact": "Valoriser efficacité énergétique et RT2012 dans argumentaires de location bureaux/activité ; intégrer indexation énergétique dans renégociations.",
+      "date": "19/09/2026",
+      "url": "https://www.laprovence.com/article/societe/25971296694486/carburant-vie-chere-les-appels-a-ressortir-les-gilets-jaunes-se-multiplient-quen-disent-les-anciennes-figures",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Géopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Déficit public 2027 : consolidation budgétaire et contraction d'investissement",
-      "body": "La France vise un déficit inférieur à 5,4% du PIB en 2027 après 5,1% en 2025, nécessitant 54 milliards d'économies. Cette rigueur budgétaire pèsera sur l'investissement public et la consommation domestique.",
-      "impact": "Anticiper une moindre dynamique de demande tertiaire publique et une potentielle récession de faible ampleur affectant les valuations immobilières d'entreprise.",
-      "date": "18/09/2026",
-      "url": "https://www.laprovence.com/article/economie/360752423875314/budget-2027-retraites-apl-fonctionnaires-les-pistes-pour-economiser-54-milliards-d-euros",
-      "source": "La Provence",
+      "title": "Marché OAT/taux : contexte de financement immobilier stable",
+      "body": "OAT 10Y maintien à 3.70%, Euribor 3M à 2.15%, BCE politique restrictive confirmée. Marché de financement CRE reste tendu avec coûts d'emprunt élevés pour investisseurs immobiliers.",
+      "impact": "Refinancement acquéreurs bureaux/activité renchéri ; privilégier profils sans effet de levier ou recapitalisation pour transactions PACA.",
+      "date": "19/09/2026",
+      "url": "https://www.laprovence.com/article/economie/3925485445929214/la-securite-sociale-recrute-en-provence-alpes-cote-dazur",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture France",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Données macroéconomiques : taux et inflation stables en septembre 2026",
-      "body": "OAT 10ans à 3,70%, Euribor 3M à 2,15%, taux directeur BCE à 2,15%, inflation à 1,7%. Ces niveaux reflètent une stabilisation progressive de la politique monétaire restrictive.",
-      "impact": "Taux d'intérêt stables favorisent les financements d'acquisition PACA ; attendre une potentielle baisse si inflation poursuit sa décrue.",
+      "title": "Fibre Excellence Tarascon : risques industriels et réglementation",
+      "body": "Usine Fibre Excellence Tarascon : reprise de contrôle par anciens salariés (17 septembre 2026), ministre transition énergétique appelle intervention ADEME. Situation instable avec enjeux environnementaux et sociaux majeurs.",
+      "impact": "Attendre stabilisation avant approche locataires secteur papier/fiber PACA ; anticiper impacts réglementaires ICPE sur immobilier activité proximal.",
       "date": "18/09/2026",
-      "url": "https://www.laprovence.com/article/economie/360752423875314/budget-2027-retraites-apl-fonctionnaires-les-pistes-pour-economiser-54-milliards-d-euros",
+      "url": "https://www.laprovence.com/article/economie/66852233881874/fibre-excellence-tarascon-le-ministre-de-la-transition-energetique-appelle-lademe-a-intervenir-dans-lusine",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     }

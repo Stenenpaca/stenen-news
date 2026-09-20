@@ -1,13 +1,13 @@
 {
-  "generated_at": "19/09/2026",
+  "generated_at": "20/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Alpilles Tech accueille innovation : Kyoui France médaillée d'or",
-      "body": "La société Kyoui France, domiciliée à Alpilles Tech à Fontvieille, a remporté la médaille d'or de la Fédération française des inventeurs au salon de Châlons-en-Champagne (2-7 septembre 2026). Cette distinction valorise les pépinières technologiques PACA comme espaces d'innovation et d'incubation.",
-      "impact": "Dynamique positive pour la demande de locaux d'activité et bureaux dans les technopôles PACA, justifiant des montées en charge et extensions.",
-      "date": "19/09/2026",
-      "url": "https://www.laprovence.com/article/economie/75593232982781/une-entrepreneuse-dalpilles-tech-decroche-une-medaille-dor-de-linnovation-grace-a-sa-brosse-a-dents",
+      "title": "Crise des carburants : gazole à 2,41€/L, impact sur coûts logistique",
+      "body": "Le prix du gazole atteint un nouveau record à 2,4097 euros le litre ce dimanche 20 septembre en France, en pleine perturbation des approvisionnements géopolitiques. Cette flambée des carburants impacte directement les coûts de transport et de logistique des entreprises PACA.",
+      "impact": "Les prestataires logistiques et utilisateurs de flotte répercutent ces surcoûts sur les locataires de locaux d'activité et commerciaux ; anticiper une révision des charges exploitation.",
+      "date": "20/09/2026",
+      "url": "https://www.laprovence.com/article/economie/23538738679801/crise-des-carburants-le-gazole-atteint-2-4097-euros-un-record-pulverise-ce-dimanche",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Travaux Cap Canourgues Salon-de-Provence : impact locataires commerciaux",
-      "body": "Les travaux de rénovation du quartier Cap Canourgues à Salon-de-Provence se déroulent de juillet à fin décembre 2026, impactant significativement les commerçants locaux. Cette période transitoire crée des risques d'impayés et des demandes de suspension de loyers.",
-      "impact": "Anticiper les clauses de force majeure et revalorisation post-travaux dans les contrats commerciaux PACA ; valoriser la rénovation comme argument de relocation.",
-      "date": "19/09/2026",
-      "url": "https://www.laprovence.com/article/societe/60273195995175/des-commercants-de-cap-canourgues-en-difficulte-a-cause-des-travaux-de-renovation-du-quartier-a-salon-de-provence",
+      "title": "Rentrée des entrepreneurs PACA : événement networking 25 sept Sausset",
+      "body": "La traditionnelle Rentrée des entrepreneurs revient vendredi 25 septembre de 19h à 22h à Sausset-les-Pins, mettant en avant talents et savoir-faire locaux. Cet événement convivial rassemble la communauté entrepreneuriale régionale post-estivale.",
+      "impact": "Opportunité de prospection directe auprès de décideurs PME/TPE PACA cherchant locaux bureaux et activité ; événement clé pour développer votre portefeuille clients.",
+      "date": "20/09/2026",
+      "url": "https://www.laprovence.com/article/economie/4518115572405414/la-rentree-des-entrepreneurs-mettra-en-avant-des-talents-et-des-savoir-faire-locaux-a-sausset-les-pins",
       "source": "La Provence",
       "tags": [
         {
@@ -34,60 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Intermarché Caillols Marseille : incertitude sur l'avenir commercial",
-      "body": "L'ancien Casino des Caillols, devenu Intermarché avenue William-Booth (12e), fait face à des enjeux d'avenir avec inquiétude des salariés sur la stratégie du groupe. Situé à proximité du terminus du tramway, ce site génère des questions sur sa pérennité commerciale.",
-      "impact": "Surveiller les opportunités de reprise/relocation dans les centres commerciaux majeurs Marseille ; évaluer la valeur résiduelle post-restructuration.",
-      "date": "18/09/2026",
-      "url": "https://www.laprovence.com/article/societe/34339764033659/on-veut-savoir-ou-l-on-va-l-avenir-de-l-intermarche-des-caillols-a-marseille-et-de-la-galerie-marchande-inquiete",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Sécurité sociale : campagne majeure de recrutement PACA",
-      "body": "La Sécurité sociale s'affirme comme l'un des plus importants recruteurs de la région PACA, avec la Semaine de l'emploi organisée du 21 septembre 2026. Cette dynamique confirme l'attractivité des besoins en locaux administratifs et bureaux tertiaires.",
-      "impact": "Demande soutenue en bureaux modernes et conformes RT2012/décret tertiaire pour organismes publics PACA ; négocier contrats longs avec organismes d'État.",
-      "date": "18/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3925485445929214/la-securite-sociale-recrute-en-provence-alpes-cote-dazur",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Bureaux",
-          "cls": "tm"
-        },
-        {
-          "label": "Tertiaire",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Restrictions eau sécheresse : impact secteur services PACA",
-      "body": "La sécheresse affecte 74 départements en crise (au 9 septembre 2026) avec restrictions d'eau imposées par les préfets. Certains secteurs d'activité comme les stations de lavage sont interdits de fonctionnement, illustrant la fragilité réglementaire.",
-      "impact": "Inclure clauses climatiques et résilience hydrique dans les baux activité PACA ; anticiper impacts sur locaux avec besoins eau importants.",
-      "date": "18/09/2026",
-      "url": "https://www.laprovence.com/article/economie/39170568042195/restrictions-deau-les-stations-de-lavage-la-seule-profession-interdite-de-travailler-en-cas-de-secheresse",
+      "title": "Voitures électriques > 33% des ventes neuves : tendance immobilier activité",
+      "body": "Plus d'un tiers des voitures neuves vendues en France en juillet sont électriques, confirmant une tendance structurelle loin d'être idéologique. Cette électrification du parc automobile modifie les besoins en infrastructures des entreprises et leurs locaux.",
+      "impact": "Locaux d'activité et commerce PACA : anticiper demande croissante de bornes recharge, parkings adaptés ; valoriser les biens offrant infrastructure électromobilité.",
+      "date": "19/09/2026",
+      "url": "https://www.laprovence.com/article/economie/84661912510984/chez-ce-concessionnaire-de-vitrolles-acheter-une-voiture-electrique-nest-plus-un-comportement-ideologique-ecologiste",
       "source": "La Provence",
       "tags": [
         {
@@ -97,10 +55,44 @@
         {
           "label": "Réglementation",
           "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Arkema Château-Arnoux : nouveau directeur, 110 ans, révision triennale",
+      "body": "Forad Nour prend la direction de l'usine Arkema de Château-Arnoux-Saint-Auban (AHSP) après 20 ans dans le groupe, marquant la rentrée de ce site stratégique. Le site fête ses 110 ans et amorce une révision triennale majeure de ses opérations.",
+      "impact": "Usines chimie AHSP génèrent demande stable locaux activité industrelle PACA ; nouveau management peut signaler évolutions besoins immobiliers, à surveiller pour mandats.",
+      "date": "19/09/2026",
+      "url": "https://www.laprovence.com/article/economie/27046791335105/nouveau-directeur-110-ans-du-site-revision-triennale-arkema-fait-sa-rentree-a-chateau-arnoux-saint-auban",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Risque",
-          "cls": "tg"
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Financement immobilier : OAT 3.70%, Euribor 3M 2.15%, BCE 2.15%",
+      "body": "Les taux de financement restent élevés avec OAT à 3.70% et Euribor 3 mois stable à 2.15% en septembre 2026. La BCE maintient ses taux directeurs à 2.15%, limitant les baisses de coûts crédit court terme.",
+      "impact": "Financement crédit locataire pour acquisition bureaux/activité PACA reste coûteux ; positionner offre sur location-financement et baux longs pour améliorer ROI investisseurs.",
+      "date": "20/09/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Marché",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }
@@ -108,58 +100,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Tensions énergétiques et coûts tertiaire France",
-      "body": "Les appels à manifestation contre la vie chère et carburant cher se multiplient (réseau social, 17 septembre 2026), reflétant tensions inflationnistes persistantes. Contexte de hausse des coûts énergétiques pesant sur les loyers tertiaires.",
-      "impact": "Valoriser efficacité énergétique et RT2012 dans argumentaires de location bureaux/activité ; intégrer indexation énergétique dans renégociations.",
-      "date": "19/09/2026",
-      "url": "https://www.laprovence.com/article/societe/25971296694486/carburant-vie-chere-les-appels-a-ressortir-les-gilets-jaunes-se-multiplient-quen-disent-les-anciennes-figures",
+      "title": "Crise géopolitique : gazole à 2,41€/L, record pulvérisé",
+      "body": "Les prix du gazole dépassent 2,41 euros le litre le 20 septembre 2026, pulvérisant les records antérieurs dans un contexte de perturbations géopolitiques des approvisionnements énergétiques. Cette crise énergétique affecte largement l'économie française et européenne.",
+      "impact": "Inflation coûts transport/logistique France répercutée sur immobilier CRE ; clients opérationnels demand stabilité baux long terme, favorise preneurs solides.",
+      "date": "20/09/2026",
+      "url": "https://www.laprovence.com/article/economie/23538738679801/crise-des-carburants-le-gazole-atteint-2-4097-euros-un-record-pulverise-ce-dimanche",
       "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
           "cls": "tg"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Marché OAT/taux : contexte de financement immobilier stable",
-      "body": "OAT 10Y maintien à 3.70%, Euribor 3M à 2.15%, BCE politique restrictive confirmée. Marché de financement CRE reste tendu avec coûts d'emprunt élevés pour investisseurs immobiliers.",
-      "impact": "Refinancement acquéreurs bureaux/activité renchéri ; privilégier profils sans effet de levier ou recapitalisation pour transactions PACA.",
-      "date": "19/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3925485445929214/la-securite-sociale-recrute-en-provence-alpes-cote-dazur",
-      "source": "Données marché",
+      "title": "Budget 2026 France : 54Md€ effort, coupes APL/pensions, dette record",
+      "body": "Le gouvernement français présente un budget 2026 prévoyant 54 milliards d'euros d'efforts pour réduire la dette, incluant gels de pensions et réductions d'APL. Cette austerité budgétaire suit la dégradation de la note souveraine de la France.",
+      "impact": "Réduction du pouvoir d'achat français pèse sur demande locaux commerce/bureaux PACA ; renforcer prospection clients stables, secteurs non-cycliques.",
+      "date": "20/09/2026",
+      "url": "https://www.laprovence.com/article/politique/9652189536714/dette-record-et-coupes-budgetaires-gel-des-pensions-et-apl-menacees-pour-redresser-les-comptes-du-budget",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Fibre Excellence Tarascon : risques industriels et réglementation",
-      "body": "Usine Fibre Excellence Tarascon : reprise de contrôle par anciens salariés (17 septembre 2026), ministre transition énergétique appelle intervention ADEME. Situation instable avec enjeux environnementaux et sociaux majeurs.",
-      "impact": "Attendre stabilisation avant approche locataires secteur papier/fiber PACA ; anticiper impacts réglementaires ICPE sur immobilier activité proximal.",
-      "date": "18/09/2026",
-      "url": "https://www.laprovence.com/article/economie/66852233881874/fibre-excellence-tarascon-le-ministre-de-la-transition-energetique-appelle-lademe-a-intervenir-dans-lusine",
-      "source": "La Provence",
+      "title": "BCE/Inflation : taux 2.15%, inflation 1.7%, OAT 3.70%",
+      "body": "La BCE maintient ses taux à 2.15% avec inflation France à 1.7% en septembre 2026, supportant les OAT à 3.70%. Cet environnement restrictif persistant limite la baisse des coûts de crédit long terme européens.",
+      "impact": "Financement immobilier PACA reste cher pour acquéreurs ; OAT élevés désavantagent preneurs endettés, favorise vendeurs et légers amélioration sur rendements locatifs.",
+      "date": "20/09/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

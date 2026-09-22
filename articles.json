@@ -1,13 +1,13 @@
 {
-  "generated_at": "21/09/2026",
+  "generated_at": "22/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Artificial Intelligence Marseille : événement majeur les 24-25 septembre au CEPAC",
-      "body": "Marseille accueille l'Artificial Intelligence Marseille (AIM) avec des milliers de participants et plus de 100 intervenants. Cet événement positionne la région comme hub stratégique pour l'IA et l'innovation technologique.",
-      "impact": "Dynamique positive pour la demande de bureaux modernes et espaces collaboratifs en région PACA, particulièrement à Marseille et ses alentours.",
-      "date": "21/09/2026",
-      "url": "https://www.laprovence.com/article/societe/6316469007645114/artificial-intelligence-marseille-les-enjeux-du-futur-debattus-les-24-et-25-septembre-au-cepac-velodrome",
+      "title": "Flambée carburants : impact sur les coûts de transport et locaux PACA",
+      "body": "La flambée des prix du pétrole et du gazole impacte directement les coûts d'exploitation des entreprises en Provence-Alpes-Côte d'Azur. Les transports en commun (RTM, Zou!) connaissent une hausse de 17% de fréquentation depuis avril 2026, reflétant une réorientation des mobilités professionnelles.",
+      "impact": "Les preneurs de locaux d'activité et de commerce doivent anticiper une réduction des charges de transport et une demande accrue de bureaux à proximité des transports en commun et pôles multimodaux régionaux.",
+      "date": "22/09/2026",
+      "url": "https://www.laprovence.com/article/economie/12007113793385/flambee-des-prix-des-carburants-rtm-zou-les-transports-en-commun-de-plus-en-plus-utilises",
       "source": "La Provence",
       "tags": [
         {
@@ -22,11 +22,11 @@
     },
     {
       "id": "f2",
-      "title": "Crise des carburants : impact direct sur la mobilité et les coûts d'exploitation",
-      "body": "Les prix des carburants flambent (2,45€/L le gazole) aggravant la pression sur le pouvoir d'achat des actifs. Les automobilistes compensent sur d'autres secteurs, affectant la consommation régionale.",
-      "impact": "Les coûts de transport et d'exploitation des locaux d'activité augmentent significativement ; prioriser les emplacements en centralités pour minimiser les trajets domicile-travail.",
-      "date": "21/09/2026",
-      "url": "https://www.laprovence.com/article/societe/5673625170697514/je-compense-sur-lalimentation-face-aux-prix-des-carburants-la-colere-des-automobilistes-monte-en-provence",
+      "title": "IA et transformation des espaces de travail en Provence",
+      "body": "L'intelligence artificielle s'affirme comme moteur de l'économie en 2026, entraînant une automatisation massive et une recomposition des métiers. Le Vélodrome de Marseille s'inscrit dans cette dynamique technologique régionale.",
+      "impact": "Les transitions vers le flex-office et les espaces collaboratifs s'accélèrent en PACA pour accueillir les nouveaux modèles de travail; demande croissante de locaux adaptés aux entreprises tech et startups IA.",
+      "date": "22/09/2026",
+      "url": "https://www.laprovence.com/article/economie/21700724451746/le-velodrome-a-marseille-au-coeur-du-basculement-technologique-et-societal-de-l-ia",
       "source": "La Provence",
       "tags": [
         {
@@ -41,11 +41,11 @@
     },
     {
       "id": "f3",
-      "title": "Gel des APL 2027 : réduction du pouvoir d'achat des locataires",
-      "body": "Les aides au logement versées par la CAF ne seront pas revalorisées en 2027 dans un contexte d'économies budgétaires gouvernementales. Cette mesure affecte directement le budget disponible des actifs pour les loyers commerciaux.",
-      "impact": "Anticipez une compression des budgets locatifs pour les PME/TPE locataires ; proposer des solutions de courte durée et des aménagements tarifaires pour sécuriser les locations.",
-      "date": "21/09/2026",
-      "url": "https://www.laprovence.com/article/economie/15762856863869/gel-des-apl-en-2027-pourquoi-vos-aides-au-logement-versees-ne-seront-pas-revalorisees-l-annee-prochaine",
+      "title": "Apprentissage en retrait en PACA : impact RH et demande de locaux",
+      "body": "Après des années de croissance portée par la loi de 2018, l'apprentissage marque le pas en Provence-Alpes-Côte d'Azur selon la Dreets. Cette inflexion affecte la stratégie de formation et de recrutement des entreprises régionales.",
+      "impact": "Les entreprises doivent adapter leurs besoins en espaces de formation et centres de compétences; opportunités de conversion de locaux vers des usage flex-work et espaces collaboratifs.",
+      "date": "22/09/2026",
+      "url": "https://www.laprovence.com/article/economie/22122564720755/le-modele-de-l-apprentissage-marque-le-pas-en-provence-alpes-cote-dazur",
       "source": "La Provence",
       "tags": [
         {
@@ -53,18 +53,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Transition écologique : nouveaux métiers et secteurs porteurs en PACA",
-      "body": "Les métiers du secteur vert (industrie verte, bâtiment durable, économie circulaire) se structurent et attirent les jeunes talents en région. Cette dynamique crée une demande d'espaces dédiés aux activités durables.",
-      "impact": "Opportunité de développer des espaces d'activité labellisés RSE/HQE et des locaux pour les entreprises de transition écologique, secteur à forte croissance en PACA.",
-      "date": "20/09/2026",
-      "url": "https://www.laprovence.com/article/economie/4872642194058314/les-metiers-de-la-transition-ecologique-presentes-aux-jeunes-distres-grace-au-programme-vert-demain",
+      "title": "Novadem (Aix) : success-story drones et souveraineté technologique",
+      "body": "La PME Novadem d'Aix-en-Provence, 20 salariés, figure au cœur de l'écosystème de l'innovation en drones depuis 20 ans. Elle illustre l'excellence technologique régionale et les besoins en espaces de R&D et locaux d'activité spécialisés.",
+      "impact": "Demande soutenue de locaux de recherche et de production pour les scale-ups tech en PACA; les zones d'activité près des pôles tech d'Aix et Marseille connaissent une tension croissante.",
+      "date": "22/09/2026",
+      "url": "https://www.laprovence.com/article/economie/87952979145272/drones-20-ans-apres-la-success-story-aixoise-de-novadem-au-service-de-la-souverainete",
       "source": "La Provence",
       "tags": [
         {
@@ -79,11 +79,11 @@
     },
     {
       "id": "f5",
-      "title": "Commerces : revitalisation des centres-villes en périphérie marseillaise",
-      "body": "La Penne-sur-Huveaune voit l'inauguration de nouveaux commerces boulevard Voltaire, redynamisant le cœur du village. Cette tendance reflète une reprise de l'investissement commercial en zone secondaire PACA.",
-      "impact": "Consolider l'offre commerciale dans les petits centres urbains péri-marseillais reste stratégique ; vérifier les potentiels de restructuration et regroupement de petites surfaces.",
-      "date": "20/09/2026",
-      "url": "https://www.laprovence.com/article/region/2024647312264214/quatre-nouveaux-commerces-inaugures-a-deux-pas-du-centre-ville-de-la-penne-sur-huveaune",
+      "title": "Centre Agora Aubagne : enjeux de reprise et locaux événementiels",
+      "body": "Le centre de congrès Agora d'Aubagne envisage une reprise en main par la Ville; les salariés de la Semagora cherchent des solutions pérennes depuis l'été 2026. Cette situation reflète les tensions sur les locaux événementiels et commerciaux post-crise.",
+      "impact": "Opportunités d'acquisition ou de restructuration de locaux événementiels et commerciaux en PACA; à surveiller pour les investisseurs intéressés par les reconversions et les reprises en difficultés.",
+      "date": "22/09/2026",
+      "url": "https://www.laprovence.com/article/economie/2933628272814414/hors-de-question-de-vendre-les-lieux-le-centre-de-congres-agora-bientot-repris-par-la-ville-d-aubagne",
       "source": "La Provence",
       "tags": [
         {
@@ -91,8 +91,8 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }
@@ -100,11 +100,11 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Géopolitique : tensions au Moyen-Orient et risques d'approvisionnement énergétique",
-      "body": "Le conflit au Moyen-Orient et le détroit d'Ormuz créent une volatilité du marché énergétique. Le gouvernement français assure l'absence d'enjeu d'approvisionnement carburant à court terme mais prépare des mesures contingentes.",
-      "impact": "Brent anticyclique (96 USD/bbl) : anticiper une volatilité accrue des coûts d'énergie ; valoriser les locaux basse consommation énergétique auprès des tenants.",
-      "date": "21/09/2026",
-      "url": "https://www.laprovence.com/article/economie/6263263196126314/carburants-pas-d-enjeu-d-approvisionnement-a-ce-stade-en-france-assure-roland-lescure",
+      "title": "Carburants & Pétrole : volatilité géopolitique et mesures d'urgence",
+      "body": "Face à la hausse des prix du pétrole liée aux tensions au Moyen-Orient, l'État autorise la vente de gazole d'été jusqu'au 15 novembre et les dirigeants français négocient avec les USA. Le Brent se maintient à 96 USD.",
+      "impact": "La volatilité énergétique pèse sur les coûts d'exploitation immobiliers et les valorisations de rendement ; anticiper des demandes de flexibilité contractuelle et renégociation de clauses d'indexation énergétique.",
+      "date": "22/09/2026",
+      "url": "https://www.laprovence.com/article/economie/1588997631113/pourquoi-l-etat-a-decide-d-autoriser-la-vente-du-gazole-d-ete-jusqu-au-15-novembre",
       "source": "La Provence",
       "tags": [
         {
@@ -112,18 +112,18 @@
           "cls": "tg"
         },
         {
-          "label": "Énergie",
+          "label": "Energie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : pression inflationniste et dégradation du pouvoir d'achat",
-      "body": "Carburants flambent, assurances augmentent en 2027, APL gélées : la convergence des chocs crée une pression constante sur le pouvoir d'achat des ménages et des PME. Les appels à un blocage des prix témoignent de la tension sociale croissante.",
-      "impact": "Inflation réelle supérieure aux 1.7% officiels pour les actifs locaux ; réviser les hypothèses de croissance économique régionale à la baisse pour les projections de demande CRE.",
-      "date": "21/09/2026",
-      "url": "https://www.laprovence.com/article/economie/61889298627614/carburants-et-inflation-linsoumis-manuel-bompard-appelle-a-un-blocage-des-prix",
+      "title": "Conjoncture France : TVA carburants et restitution budgétaire 2027",
+      "body": "Sébastien Lecornu propose une 'règle d'or' pour inscrire au budget 2027 la neutralisation et restitution aux Français des surplus de TVA générés par la hausse des carburants. Mesure de stabilisation fiscale face aux tensions.",
+      "impact": "Les mesures budgétaires de restitution TVA limitent l'inflation et soutiennent le pouvoir d'achat des entreprises ; stabilité relative attendue pour les négociations commerciales et les loyers en 2027.",
+      "date": "22/09/2026",
+      "url": "https://www.laprovence.com/article/economie/20578630541625/prix-des-carburants-vers-une-regle-d-or-pour-la-restitution-de-la-tva-aux-francais",
       "source": "La Provence",
       "tags": [
         {
@@ -131,27 +131,27 @@
           "cls": "tg"
         },
         {
-          "label": "Inflation",
+          "label": "Taux",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Taux : OAT à 3.70% dans un contexte de maintien de la politique de la BCE",
-      "body": "La BCE maintient ses taux directeurs à 2.15% dans un environnement inflationniste persistant. Les OAT se stabilisent à 3.70%, reflétant les pressions budgétaires gouvernementales et l'absence de perspective de baisse rapide des taux.",
-      "impact": "Coût du financement pour les investisseurs CRE stable à moyen terme (Euribor 3M : 2.15%) ; accélérer les acquisitions avant une remontée éventuelle des spreads.",
-      "date": "21/09/2026",
-      "url": "https://www.laprovence.com/article/economie/15762856863869/gel-des-apl-en-2027-pourquoi-vos-aides-au-logement-versees-ne-seront-pas-revalorisees-l-annee-prochaine",
-      "source": "La Provence",
+      "title": "BCE/Inflation/OAT : contexte de taux à 2.15% et stabilité",
+      "body": "L'inflation France reste modérée à 1.7% en septembre 2026. La BCE maintient ses taux directeurs à 2.15%, les OAT à 3.70% et l'Euribor3M à 2.15%, reflétant une stabilité relative des conditions de financement.",
+      "impact": "Les conditions de financement immobilier restent accessibles ; les taux de rendement locatif brut (autour de 3.70%) demeurent compétitifs pour les investisseurs en PACA malgré la prudence géopolitique.",
+      "date": "22/09/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
           "label": "Taux",
           "cls": "tt"
         },
         {
-          "label": "BCE",
-          "cls": "tt"
+          "label": "Inflation",
+          "cls": "tg"
         }
       ]
     }

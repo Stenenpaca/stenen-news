@@ -1,13 +1,13 @@
 {
-  "generated_at": "22/09/2026",
+  "generated_at": "23/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Flambée carburants : impact sur les coûts de transport et locaux PACA",
-      "body": "La flambée des prix du pétrole et du gazole impacte directement les coûts d'exploitation des entreprises en Provence-Alpes-Côte d'Azur. Les transports en commun (RTM, Zou!) connaissent une hausse de 17% de fréquentation depuis avril 2026, reflétant une réorientation des mobilités professionnelles.",
-      "impact": "Les preneurs de locaux d'activité et de commerce doivent anticiper une réduction des charges de transport et une demande accrue de bureaux à proximité des transports en commun et pôles multimodaux régionaux.",
-      "date": "22/09/2026",
-      "url": "https://www.laprovence.com/article/economie/12007113793385/flambee-des-prix-des-carburants-rtm-zou-les-transports-en-commun-de-plus-en-plus-utilises",
+      "title": "Data centers urbains à Marseille : 120M€ levés pour expansion",
+      "body": "Phocea DC poursuit son développement avec une levée de fonds de 120 millions d'euros pour installer des data centers responsables à Marseille. Dix-huit mois après l'ouverture de son premier site dans le 3e arrondissement, l'opérateur marseillais consolide son positionnement en proximité face aux débats sur les méga-campus de données.",
+      "impact": "Dynamique d'investissement tertiaire forte à Marseille offrant opportunités de conseil en locaux activité spécialisés pour opérateurs digitaux et tech.",
+      "date": "23/09/2026",
+      "url": "https://www.laprovence.com/article/economie/42673175056180/une-levee-de-fonds-de-120-millions-deuros-pour-installer-des-data-centers-urbains-et-responsables-a-marseille",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "IA et transformation des espaces de travail en Provence",
-      "body": "L'intelligence artificielle s'affirme comme moteur de l'économie en 2026, entraînant une automatisation massive et une recomposition des métiers. Le Vélodrome de Marseille s'inscrit dans cette dynamique technologique régionale.",
-      "impact": "Les transitions vers le flex-office et les espaces collaboratifs s'accélèrent en PACA pour accueillir les nouveaux modèles de travail; demande croissante de locaux adaptés aux entreprises tech et startups IA.",
+      "title": "Forum des entrepreneurs 2026 : 3700 participants au Vélodrome",
+      "body": "Le Forum des Entrepreneurs 2026 s'impose comme une tribune majeure avec 3700 participants attendus, 80 intervenants et des loges affichant complet. Cette mobilisation historique reflète la dynamique entrepreneuriale régionale malgré un contexte économique tendu.",
+      "impact": "Carrefour d'affaires confirmant l'activité immobilière tertiaire en région PACA auprès des PME et ETI cherchant espaces de bureaux flexibles.",
       "date": "22/09/2026",
-      "url": "https://www.laprovence.com/article/economie/21700724451746/le-velodrome-a-marseille-au-coeur-du-basculement-technologique-et-societal-de-l-ia",
+      "url": "https://www.laprovence.com/article/economie/54778398204709/plus-de-3700-participants-et-une-mobilisation-historique-attendus-au-velodrome-pour-le-forum-des-entrepreneurs",
       "source": "La Provence",
       "tags": [
         {
@@ -41,11 +41,11 @@
     },
     {
       "id": "f3",
-      "title": "Apprentissage en retrait en PACA : impact RH et demande de locaux",
-      "body": "Après des années de croissance portée par la loi de 2018, l'apprentissage marque le pas en Provence-Alpes-Côte d'Azur selon la Dreets. Cette inflexion affecte la stratégie de formation et de recrutement des entreprises régionales.",
-      "impact": "Les entreprises doivent adapter leurs besoins en espaces de formation et centres de compétences; opportunités de conversion de locaux vers des usage flex-work et espaces collaboratifs.",
-      "date": "22/09/2026",
-      "url": "https://www.laprovence.com/article/economie/22122564720755/le-modele-de-l-apprentissage-marque-le-pas-en-provence-alpes-cote-dazur",
+      "title": "Ursule & Alex : nouveau concept retail rue Joseph-Vernet Avignon",
+      "body": "Trois mois après son ouverture, la boutique Ursule & Alex consolide sa présence rue Joseph-Vernet à Avignon avec 1800 à 2000 références mode, design et art. Le concept immersif par pièces (salon, salle à manger, salle de bain) crée une expérience cliente originale.",
+      "impact": "Tendance commerce PACA vers espaces polyvalents et scénarisés ; demande en locaux commerciaux de qualité architecturale en centres villes historiques.",
+      "date": "23/09/2026",
+      "url": "https://www.laprovence.com/article/region/18768545961485/mode-design-ou-oeuvres-dart-trois-mois-apres-son-ouverture-ursule-alex-sancre-rue-joseph-vernet-a-avignon",
       "source": "La Provence",
       "tags": [
         {
@@ -53,18 +53,18 @@
           "cls": "tp"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Novadem (Aix) : success-story drones et souveraineté technologique",
-      "body": "La PME Novadem d'Aix-en-Provence, 20 salariés, figure au cœur de l'écosystème de l'innovation en drones depuis 20 ans. Elle illustre l'excellence technologique régionale et les besoins en espaces de R&D et locaux d'activité spécialisés.",
-      "impact": "Demande soutenue de locaux de recherche et de production pour les scale-ups tech en PACA; les zones d'activité près des pôles tech d'Aix et Marseille connaissent une tension croissante.",
+      "title": "Programme IA et Performance : soutien aux entreprises DLVA",
+      "body": "L'agglomération Durance Luberon Verdon poursuit son parcours « IA et performance » en rentrée 2026, financée par l'Agglo et destinée aux PME/créateurs. Cette offre de formation vise à optimiser l'usage de l'intelligence artificielle dans les processus d'entreprise.",
+      "impact": "Contexte favorable aux bureaux et locaux d'activité en zones rurales PACA ; demande accrue d'espaces collaboratifs et de formation pour accompagner transition digitale.",
       "date": "22/09/2026",
-      "url": "https://www.laprovence.com/article/economie/87952979145272/drones-20-ans-apres-la-success-story-aixoise-de-novadem-au-service-de-la-souverainete",
+      "url": "https://www.laprovence.com/article/region/9141857844927/programme-ia-et-performance-la-dlva-aux-cotes-des-entreprises-pour-optimiser-lusage-de-lintelligence-artificielle",
       "source": "La Provence",
       "tags": [
         {
@@ -79,11 +79,11 @@
     },
     {
       "id": "f5",
-      "title": "Centre Agora Aubagne : enjeux de reprise et locaux événementiels",
-      "body": "Le centre de congrès Agora d'Aubagne envisage une reprise en main par la Ville; les salariés de la Semagora cherchent des solutions pérennes depuis l'été 2026. Cette situation reflète les tensions sur les locaux événementiels et commerciaux post-crise.",
-      "impact": "Opportunités d'acquisition ou de restructuration de locaux événementiels et commerciaux en PACA; à surveiller pour les investisseurs intéressés par les reconversions et les reprises en difficultés.",
+      "title": "Fermeture Brasserie Régence : consolidation commerces historiques Aubagne",
+      "body": "Après quatre décennies d'activité, la brasserie Régence ferme ses portes à Aubagne, institution historique qui ne résiste pas aux mutations du secteur. Cette fermeture témoigne des défis rencontrés par l'horeca traditionnelle en milieu urbain.",
+      "impact": "Opportunités de reprises commerciales et de reconversion espaces Aubagne ; marché des locaux commerce en mutation nécessitant conseillers en repositionnement.",
       "date": "22/09/2026",
-      "url": "https://www.laprovence.com/article/economie/2933628272814414/hors-de-question-de-vendre-les-lieux-le-centre-de-congres-agora-bientot-repris-par-la-ville-d-aubagne",
+      "url": "https://www.laprovence.com/article/societe/57559804888476/la-brasserie-le-regence-institution-historique-d-aubagne-ferme-ses-portes-apres-quatre-decennies-d-activite",
       "source": "La Provence",
       "tags": [
         {
@@ -91,8 +91,8 @@
           "cls": "tp"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     }
@@ -100,11 +100,11 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Carburants & Pétrole : volatilité géopolitique et mesures d'urgence",
-      "body": "Face à la hausse des prix du pétrole liée aux tensions au Moyen-Orient, l'État autorise la vente de gazole d'été jusqu'au 15 novembre et les dirigeants français négocient avec les USA. Le Brent se maintient à 96 USD.",
-      "impact": "La volatilité énergétique pèse sur les coûts d'exploitation immobiliers et les valorisations de rendement ; anticiper des demandes de flexibilité contractuelle et renégociation de clauses d'indexation énergétique.",
-      "date": "22/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1588997631113/pourquoi-l-etat-a-decide-d-autoriser-la-vente-du-gazole-d-ete-jusqu-au-15-novembre",
+      "title": "Budget 2027 : négociations PS-Gouvernement sur compromis budgétaire",
+      "body": "Le Premier ministre Sébastien Lecornu propose aux députés socialistes de les rencontrer pour bâtir un « compromis » sur le budget 2027. Cette ouverture dialogique intervient dans un contexte politique tendu et révèle les défis de gouvernance financière 2027.",
+      "impact": "Incertitude budgétaire gouvernementale impactant prévisibilité fiscale immobilière tertiaire ; vigilance conseillée sur décrets et aides sectorielles 2027.",
+      "date": "23/09/2026",
+      "url": "https://www.laprovence.com/article/politique/1110290284232514/budget-2027-sebastien-lecornu-propose-de-rencontrer-le-ps-pour-batir-un-nouveau-compromis",
       "source": "La Provence",
       "tags": [
         {
@@ -112,18 +112,37 @@
           "cls": "tg"
         },
         {
-          "label": "Energie",
-          "cls": "tg"
+          "label": "Regulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : TVA carburants et restitution budgétaire 2027",
-      "body": "Sébastien Lecornu propose une 'règle d'or' pour inscrire au budget 2027 la neutralisation et restitution aux Français des surplus de TVA générés par la hausse des carburants. Mesure de stabilisation fiscale face aux tensions.",
-      "impact": "Les mesures budgétaires de restitution TVA limitent l'inflation et soutiennent le pouvoir d'achat des entreprises ; stabilité relative attendue pour les négociations commerciales et les loyers en 2027.",
-      "date": "22/09/2026",
-      "url": "https://www.laprovence.com/article/economie/20578630541625/prix-des-carburants-vers-une-regle-d-or-pour-la-restitution-de-la-tva-aux-francais",
+      "title": "Aide carburant : gouvernement élargit soutien, critiques CGT sur complexité",
+      "body": "Le gouvernement prolonge et élargit l'aide aux grands rouleurs face à la flambée des prix carburant, mais la CGT dénonce une « usine à gaz » ne répondant pas au problème. Plus de 50% des Français éligibles renoncerait à cette aide jugée trop complexe.",
+      "impact": "Inflation énergétique persistante affectant coûts logistiques entreprises PACA ; dispositifs aides fragmentés pénalisant consultants en restructuration CRE.",
+      "date": "23/09/2026",
+      "url": "https://www.laprovence.com/article/economie/1103685582768314/aide-carburant-aux-grands-rouleurs-1-francais-sur-2-eligibles-y-renoncerait-une-usine-a-gaz-comme-denonce-la-cgt",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Conjoncture",
+          "cls": "tg"
+        },
+        {
+          "label": "Énergie",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Conjoncture France : contexte économique tendu malgré aides gouvernementales",
+      "body": "Le contexte conjoncturel français demeure difficile avec flambée énergétique et carburants forçant gouvernement à multiplier dispositifs d'aide peu accessibles. Inflation énergétique persistante à 1,7%, Euribor 3M à 2,15%, OAT 10Y à 3,70%, BCE à 2,15% reflètent tensions monétaires durables.",
+      "impact": "Coûts d'exploitation immobilier tertiaire PACA stables ; taux de financement accessibles mais pression opérationnelle accrue conseille ajustement locatif.",
+      "date": "23/09/2026",
+      "url": "https://www.laprovence.com/article/economie/58085452953357/carburants-aide-aux-grands-rouleurs-prime-carburant-cheque-energie-toutes-les-annonces-du-gouvernement",
       "source": "La Provence",
       "tags": [
         {
@@ -133,25 +152,6 @@
         {
           "label": "Taux",
           "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "m3",
-      "title": "BCE/Inflation/OAT : contexte de taux à 2.15% et stabilité",
-      "body": "L'inflation France reste modérée à 1.7% en septembre 2026. La BCE maintient ses taux directeurs à 2.15%, les OAT à 3.70% et l'Euribor3M à 2.15%, reflétant une stabilité relative des conditions de financement.",
-      "impact": "Les conditions de financement immobilier restent accessibles ; les taux de rendement locatif brut (autour de 3.70%) demeurent compétitifs pour les investisseurs en PACA malgré la prudence géopolitique.",
-      "date": "22/09/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Inflation",
-          "cls": "tg"
         }
       ]
     }

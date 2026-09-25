@@ -1,13 +1,13 @@
 {
-  "generated_at": "24/09/2026",
+  "generated_at": "25/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Eurevia étend ses locaux à La Ciotat dans la zone Athélia",
-      "body": "L'entreprise française spécialisée dans le chauffage et la climatisation a inauguré ses nouveaux locaux étendus le 17 septembre 2026 dans la zone Athélia. Cette extension reflète la dynamique d'investissement des PME industrielles en PACA malgré le contexte économique incertain.",
-      "impact": "Opportunité de transactions de locaux d'activité en zone Athélia pour entreprises en croissance cherchant espaces production/stockage à proximité Marseille.",
+      "title": "Stratégie commerciale : Arles investit dans un manager de centre-ville",
+      "body": "Le conseil municipal d'Arles a approuvé le cofinancement d'un poste de manager de centre-ville, avec un apport de 20 000 euros annuels de la Banque des Territoires. Cette initiative témoigne d'une volonté de revitaliser les centres commerciaux régionaux face aux mutations du retail.",
+      "impact": "Opportunité pour les conseils en transaction de repositionner les locaux commerciaux des centres-villes PACA autour de nouvelles stratégies d'animation et de mixité d'usage.",
       "date": "24/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1411593867930714/cette-entreprise-francaise-fabricante-de-climatisations-et-chauffages-a-la-ciotat-s-etend-dans-la-zone-athelia",
+      "url": "https://www.laprovence.com/article/societe/20953611738304/au-conseil-municipal-d-arles-derriere-le-financement-du-manager-de-centre-ville-la-question-de-la-strategie",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Renouvellement urbain de Barriol à Arles crée dynamique locative",
-      "body": "La charte locale d'insertion du projet de renouvellement urbain du quartier de Barriol a été signée le 23 septembre 2026 par la communauté d'agglomération ACCM. Ce chantier ouvre des perspectives d'emploi et rénovation immobilière dans le secteur tertiaire et commercial arlésien.",
-      "impact": "Potentiel de demande en bureaux et commerces neufs/rénovés à Arles suite aux aménagements urbains; à prospecter auprès collectivités et bailleurs.",
-      "date": "23/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1275879855098314/le-chantier-du-renouvellement-urbain-du-quartier-de-barriol-a-arles-se-concretise-et-ouvre-la-voie-a-l-emploi",
+      "title": "Emergence de nouveaux concepts commerciaux : café grec Kalá à Marseille",
+      "body": "Le coffee shop grec Kalá vient d'inaugurer à Marseille, attirant rapidement une clientèle fidèle de la diaspora hellénique. Ce modèle de niche commerciale démontre l'attractivité continue des emplacements stratégiques marseillais pour les concepts identitaires.",
+      "impact": "Les agences de transaction doivent identifier ces opportunités de reprise/location de petits locaux commerciaux (30-80 m²) en cœur urbain pour concepts de niche à forte valeur ajoutée.",
+      "date": "25/09/2026",
+      "url": "https://www.laprovence.com/article/economie/13805306542075/ce-nouveau-coffe-shop-grec-kala-est-le-nouveau-spot-de-la-diaspora-hellenique-marseillaise",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Ma P'tite Étoile ouvre 2e point de vente au cœur d'Avignon",
-      "body": "L'enseigne pâtisserie a inauguré son deuxième point de vente rue de la Petite-Fusterie à Avignon le 19 septembre 2026, depuis son ouverture le 1er juillet. Cette expansion commerciale illustre la revitalisation du centre-ville avignonnais.",
-      "impact": "Signal positif pour locaux de petite surface en centre-ville Avignon; prospecter commerces avec potentiel franchise/expansion.",
-      "date": "24/09/2026",
-      "url": "https://www.laprovence.com/article/region/1254912831352814/les-gateaux-en-trompe-loeil-de-ma-ptite-etoile-sinstallent-au-coeur-davignon",
+      "title": "Artisanat et commerce local : La Bigourello valorise production locale",
+      "body": "L'atelier de couture de La Bigourello a organisé son second défilé de mode mettant en avant le savoir-faire artisanal martégal. Cette valorisation du commerce local et de l'artisanat reflète une tendance de réappropriation des espaces commerciaux par les producteurs locaux.",
+      "impact": "Identifier dans les centres PACA des espaces d'exposition-vente de 50-200 m² pour artisans locaux, segment en croissance avec forte demande de locaux authentiques.",
+      "date": "25/09/2026",
+      "url": "https://www.laprovence.com/article/economie/59896587707016/un-defile-de-mode-100-martegal-et-artisanal-met-un-coup-de-projecteur-sur-l-atelier-couture-de-la-bigourello",
       "source": "La Provence",
       "tags": [
         {
@@ -60,11 +60,11 @@
     },
     {
       "id": "f4",
-      "title": "Secteur BTP PACA pâtit de la crise malgré dynamique régionale",
-      "body": "Artisans, PME et industriels de PACA font face à un contexte économique difficile avec ralentissement des travaux publics lié aux cycles électoraux et géopolitique incertaine. Les entreprises du BTP subissent plus que d'autres secteurs cette récession relative.",
-      "impact": "Ralentissement attendu des transactions immobilières tertiaires et locaux d'activité; adapter pricing et conditions aux faibles volumes d'investissement BTP.",
-      "date": "23/09/2026",
-      "url": "https://www.laprovence.com/article/economie/31638336111052/une-region-paca-dynamique-mais-les-travaux-publics-subissent-la-crise-plus-que-les-autres",
+      "title": "IA régionale : la PACA accélère son plan d'innovation industrielle",
+      "body": "La Région Provence-Alpes-Côte d'Azur lance l'Acte II de son plan régional IA lors du salon Artificial Intelligence Marseille (AIM). Ce changement d'échelle positionne la région comme hub technologique majeur attractif pour les entreprises innovantes.",
+      "impact": "Forte demande anticipée pour espaces tertiaires (bureaux 200-500 m²) dédiés aux startups et PME tech PACA ; valoriser proximité avec écosystèmes d'innovation marseillais.",
+      "date": "24/09/2026",
+      "url": "https://www.laprovence.com/article/economie/18866414108823/intelligence-artificielle-la-region-sud-monte-en-puissance-avec-l-acte-ii-de-son-plan-regional",
       "source": "La Provence",
       "tags": [
         {
@@ -72,27 +72,27 @@
           "cls": "tp"
         },
         {
-          "label": "Conjoncture",
+          "label": "Bureaux",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "OAT 10Y à 3.70% | Euribor 3M 2.15% | Financement immobilier stable",
-      "body": "Les taux de financement demeurent stables avec OAT 10 ans à 3.70% et Euribor 3 mois à 2.15%, soutenant les conditions de crédit immobilier en PACA. La BCE maintient son taux directeur à 2.15%, stabilisant le contexte de taux.",
-      "impact": "Conditions crédit favorables pour acquisitions CRE en PACA; communiquer sur taux compétitifs aux investisseurs cherchant bureaux/activité.",
+      "title": "Logistique maritime : CMA CGM stimule l'écosystème startup et innovation",
+      "body": "CMA CGM lance sa troisième édition des Startup Awards pour valoriser les jeunes pousses de l'IA et du maritime. Cette dynamique réaffirme l'attractivité de la PACA pour les secteurs logistique-transport, générant une demande de locaux d'activité polyvalents.",
+      "impact": "Opportunité pour structurer l'offre de locaux d'activité modulables (500-2000 m²) destinés aux PME du secteur maritime-logistique en banlieue portuaire marseillaise.",
       "date": "24/09/2026",
-      "url": "https://www.laprovence.com/",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/29573377361305/les-cma-cgm-startup-awards-recompensent-six-pepites-de-lia-et-du-maritime",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Financement",
-          "cls": "tt"
+          "label": "Activité",
+          "cls": "tm"
         }
       ]
     }
@@ -100,57 +100,57 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Secteur maritime PACA mobilise filière emploi et formation",
-      "body": "L'événement 'Parlons Mer 2026' s'est déroulé les 23-24 septembre 2026 à Marseille avec tables rondes, job dating et rendez-vous professionnels chez Grand Central. Initiative reflétant enjeux stratégiques économie maritime régionale et besoins formation secteur.",
-      "impact": "Dynamique emploi maritime PACA peut favoriser demande bureaux/commerces zones portuaires Marseille; opportunités événementiels immobiliers.",
-      "date": "24/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1479996239400114/parlons-mer-une-apres-midi-de-job-dating-aux-locaux-de-la-provence-pour-s-informer-sur-le-secteur-maritime",
+      "title": "Energie : Mesures d'urgence carburant jusqu'au 12 octobre",
+      "body": "Le gouvernement autorise la circulation des camions de livraison carburant le dimanche et sur axes réglementés jusqu'au 12 octobre pour prévenir les perturbations. Cette mesure révèle les tensions persistantes sur les chaînes d'approvisionnement énergétique français.",
+      "impact": "Volatilité énergétique potentielle impactant les coûts d'exploitation des locaux tertiaires/activité PACA ; anticiper révision des clauses d'indexation énergie dans les nouveaux baux.",
+      "date": "25/09/2026",
+      "url": "https://www.laprovence.com/article/economie/63708931753554/carburants-les-camions-qui-livrent-les-stations-service-pourront-circuler-le-dimanche-jusquau-12-octobre",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Energie",
+          "cls": "tg"
         },
         {
-          "label": "Géopolitique",
+          "label": "Geopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Prix EY Entrepreneur 2026: célébration audace économique PACA",
-      "body": "La 34e édition régionale du Prix EY de l'Entrepreneur de l'Année s'est tenue à l'Hôtel de Région PACA le 23 septembre 2026. Cérémonie soulignant dynamique entrepreneuriale et initiative bâtisseurs économie régionale.",
-      "impact": "Entrepreneuriat régional dynamique crée demande bureaux modernes/flex à Marseille et centres régionaux; cibler lauréats pour expansion locative.",
-      "date": "23/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1448164404632114/le-prix-ey-a-marseille-de-l-entrepreneur-de-l-annee-celebre-l-audace-regionale",
+      "title": "Précarité énergétique : Engie aide 720 000 clients avec 75 euros",
+      "body": "Engie versera 75 euros à 720 000 clients bénéficiaires du chèque énergie 2026 (54 millions EUR) pour lutter contre la précarité énergétique. Cette aide massive illustre les difficultés persistantes des ménages français face aux coûts énergétiques.",
+      "impact": "Signal de faiblesse du pouvoir d'achat français affectant la demande locative tertiaire/commerce ; anticiper possible contraction de la base client petit retail PACA.",
+      "date": "25/09/2026",
+      "url": "https://www.laprovence.com/article/economie/2784876128684614/engie-va-verser-75-euros-a-720-000-de-ses-clients-qui-va-en-beneficier",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Inflation",
+          "cls": "tt"
         },
         {
           "label": "Conjoncture",
-          "cls": "tm"
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Brent 96 USD | Inflation France 1.7% | Contexte énergétique stable",
-      "body": "Le Brent se stabilise à 96 USD/baril tandis que l'inflation française se modère à 1.7%, dans contexte géopolitique incertain mais énergie accessible. BCE et BCE maintiennent caps monétaires équilibrés favorisant stabilité macro.",
-      "impact": "Inflation modérée et taux stables soutiennent demande immobilière PACA; coûts énergétiques bureaux/activité maîtrisés pour occupants.",
+      "title": "Contexte macro : stabilité taux et perspective budget 2027",
+      "body": "Macron a réaffirmé les priorités gouvernementales sur le prix carburant et le budget 2027 en contexte de menace géopolitique. OAT 10Y à 3.70%, Euribor 3M à 2.15%, BCE 2.15% ; inflation contrôlée à 1.7%.",
+      "impact": "Taux de financement stables permettant une bonne prévisibilité pour investisseurs SCPI/fonds immobiliers tertiaires ; conditions favables aux acquisitions PACA à moyen terme.",
       "date": "24/09/2026",
-      "url": "https://www.laprovence.com/",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/politique/24531531005770/macron-prix-du-carburant-moyens-militaires-en-arabie-saoudite-menace-russe-ce-quil-faut-retenir",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Inflation",
+          "label": "Geopolitique",
           "cls": "tg"
         }
       ]

@@ -1,70 +1,70 @@
 {
-  "generated_at": "25/09/2026",
+  "generated_at": "27/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Stratégie commerciale : Arles investit dans un manager de centre-ville",
-      "body": "Le conseil municipal d'Arles a approuvé le cofinancement d'un poste de manager de centre-ville, avec un apport de 20 000 euros annuels de la Banque des Territoires. Cette initiative témoigne d'une volonté de revitaliser les centres commerciaux régionaux face aux mutations du retail.",
-      "impact": "Opportunité pour les conseils en transaction de repositionner les locaux commerciaux des centres-villes PACA autour de nouvelles stratégies d'animation et de mixité d'usage.",
-      "date": "24/09/2026",
-      "url": "https://www.laprovence.com/article/societe/20953611738304/au-conseil-municipal-d-arles-derriere-le-financement-du-manager-de-centre-ville-la-question-de-la-strategie",
+      "title": "Bascule Auchan-Intermarché : transformation majeure du commerce PACA",
+      "body": "Le groupe nordiste Auchan entame ce 27 septembre une transformation historique de sa branche supermarchés en Provence-Alpes-Côte d'Azur, validée par l'Autorité de la concurrence. Cette restructuration d'envergure redessine le paysage commercial régional avec des impacts significatifs sur les locaux commerciaux et les zones d'activité.",
+      "impact": "Opportunités de reprises/mutations de locaux commerciaux et de stockage liés aux changements d'enseignes Auchan-Intermarché en PACA ; anticiper la libération de surfaces.",
+      "date": "27/09/2026",
+      "url": "https://www.laprovence.com/article/economie/2493856783654914/bascule-auchan-intermarche-decouvrez-la-date-du-changement-denseigne-dans-votre-commune-en-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce PACA",
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Emergence de nouveaux concepts commerciaux : café grec Kalá à Marseille",
-      "body": "Le coffee shop grec Kalá vient d'inaugurer à Marseille, attirant rapidement une clientèle fidèle de la diaspora hellénique. Ce modèle de niche commerciale démontre l'attractivité continue des emplacements stratégiques marseillais pour les concepts identitaires.",
-      "impact": "Les agences de transaction doivent identifier ces opportunités de reprise/location de petits locaux commerciaux (30-80 m²) en cœur urbain pour concepts de niche à forte valeur ajoutée.",
-      "date": "25/09/2026",
-      "url": "https://www.laprovence.com/article/economie/13805306542075/ce-nouveau-coffe-shop-grec-kala-est-le-nouveau-spot-de-la-diaspora-hellenique-marseillaise",
+      "title": "Prime carburant employeurs : plafond relevé à 1 000 euros",
+      "body": "Le gouvernement relève le plafond de la prime carburant versée par les employeurs à 1 000 euros pour en faire une aide concrète au pouvoir d'achat. Cette mesure actionnable par les entreprises impacte directement les charges d'exploitation et les budgets de mobilité des entreprises PACA.",
+      "impact": "Anticiper l'augmentation des charges de déplacement des collaborateurs locataires de bureaux et locaux d'activité en PACA ; impact sur les structures de coûts.",
+      "date": "27/09/2026",
+      "url": "https://www.laprovence.com/article/economie/2370726204911414/prime-carburant-versee-par-les-employeurs-le-plafond-releve-a-1-000-euros-qui-peut-toucher-cette-aide",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Régulation",
+          "cls": "tr"
         },
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Artisanat et commerce local : La Bigourello valorise production locale",
-      "body": "L'atelier de couture de La Bigourello a organisé son second défilé de mode mettant en avant le savoir-faire artisanal martégal. Cette valorisation du commerce local et de l'artisanat reflète une tendance de réappropriation des espaces commerciaux par les producteurs locaux.",
-      "impact": "Identifier dans les centres PACA des espaces d'exposition-vente de 50-200 m² pour artisans locaux, segment en croissance avec forte demande de locaux authentiques.",
-      "date": "25/09/2026",
-      "url": "https://www.laprovence.com/article/economie/59896587707016/un-defile-de-mode-100-martegal-et-artisanal-met-un-coup-de-projecteur-sur-l-atelier-couture-de-la-bigourello",
+      "title": "Mode du Sud : écosystème créatif face à l'ultra-fast-fashion",
+      "body": "L'écosystème de la mode en PACA doit transformer son énergie créative en structures économiques pérennes face à la concurrence de l'ultra-fast-fashion. Cette problématique de consolidation des PME créatives influence la demande de locaux d'activité et de bureaux en région.",
+      "impact": "Identifier des opportunités d'immobilier d'activité pour les entreprises de mode/textile PACA cherchant à structurer leur croissance ; niches de marché spécialisées.",
+      "date": "26/09/2026",
+      "url": "https://www.laprovence.com/article/economie/1594558714058514/face-a-l-ultra-fast-fashion-mode-du-sud-arme-ses-entrepreneurs",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Marché PACA",
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Secteur",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "IA régionale : la PACA accélère son plan d'innovation industrielle",
-      "body": "La Région Provence-Alpes-Côte d'Azur lance l'Acte II de son plan régional IA lors du salon Artificial Intelligence Marseille (AIM). Ce changement d'échelle positionne la région comme hub technologique majeur attractif pour les entreprises innovantes.",
-      "impact": "Forte demande anticipée pour espaces tertiaires (bureaux 200-500 m²) dédiés aux startups et PME tech PACA ; valoriser proximité avec écosystèmes d'innovation marseillais.",
-      "date": "24/09/2026",
-      "url": "https://www.laprovence.com/article/economie/18866414108823/intelligence-artificielle-la-region-sud-monte-en-puissance-avec-l-acte-ii-de-son-plan-regional",
+      "title": "Résilience des entreprises PACA : thème central de Gardanne Connect",
+      "body": "La deuxième édition de Gardanne Connect place la résilience comme fil rouge : comment les entreprises font-elles face aux changements ? Cette problématique centrale pour les PME/PMI redéfinit les besoins en espaces de travail flexibles et adaptatifs.",
+      "impact": "Promouvoir des solutions flex-office et de coworking adaptées aux besoins de résilience des entreprises PACA ; espaces reconfigurables prioritaires.",
+      "date": "26/09/2026",
+      "url": "https://www.laprovence.com/article/region/2977870906979214/la-resilience-sera-le-theme-du-jour-au-coeur-du-rendez-vous-economique-de-gardanne-connect",
       "source": "La Provence",
       "tags": [
         {
@@ -72,26 +72,26 @@
           "cls": "tp"
         },
         {
-          "label": "Bureaux",
+          "label": "Tendance",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Logistique maritime : CMA CGM stimule l'écosystème startup et innovation",
-      "body": "CMA CGM lance sa troisième édition des Startup Awards pour valoriser les jeunes pousses de l'IA et du maritime. Cette dynamique réaffirme l'attractivité de la PACA pour les secteurs logistique-transport, générant une demande de locaux d'activité polyvalents.",
-      "impact": "Opportunité pour structurer l'offre de locaux d'activité modulables (500-2000 m²) destinés aux PME du secteur maritime-logistique en banlieue portuaire marseillaise.",
-      "date": "24/09/2026",
-      "url": "https://www.laprovence.com/article/economie/29573377361305/les-cma-cgm-startup-awards-recompensent-six-pepites-de-lia-et-du-maritime",
+      "title": "Port Marseille-Fos : 74 Mt de trafic, plateforme mondiale ancrée localement",
+      "body": "Le Grand port maritime de Marseille atteint 74 millions de tonnes de trafic (2025) et dessert 500 ports dans 160 pays, consolidant son rôle de plateforme d'échanges mondiale. Cette dynamique portuaire majeure génère une demande croissante de locaux logistiques et d'activité dans la métropole marseillaise.",
+      "impact": "Développer l'offre de locaux d'activité/logistique à proximité du port Marseille-Fos ; zones franches et chaînes logistiques en expansion.",
+      "date": "26/09/2026",
+      "url": "https://www.laprovence.com/article/region/1618559411874914/parlons-mer-a-marseille-le-port-de-marseille-fos-entre-ambition-mondiale-et-ancrage-local",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Marseille",
           "cls": "tp"
         },
         {
-          "label": "Activité",
+          "label": "Logistique",
           "cls": "tm"
         }
       ]
@@ -100,57 +100,57 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Energie : Mesures d'urgence carburant jusqu'au 12 octobre",
-      "body": "Le gouvernement autorise la circulation des camions de livraison carburant le dimanche et sur axes réglementés jusqu'au 12 octobre pour prévenir les perturbations. Cette mesure révèle les tensions persistantes sur les chaînes d'approvisionnement énergétique français.",
-      "impact": "Volatilité énergétique potentielle impactant les coûts d'exploitation des locaux tertiaires/activité PACA ; anticiper révision des clauses d'indexation énergie dans les nouveaux baux.",
-      "date": "25/09/2026",
-      "url": "https://www.laprovence.com/article/economie/63708931753554/carburants-les-camions-qui-livrent-les-stations-service-pourront-circuler-le-dimanche-jusquau-12-octobre",
+      "title": "Budget 2027 : fiscalité des entreprises sous surveillance",
+      "body": "Le gouvernement prévoit de cibler certaines niches fiscales pour le budget 2027 sans augmenter les impôts pour tous, en prévoyant une hausse des prélèvements obligatoires. Cette orientation fiscale affecte directement la rentabilité des investissements immobiliers et les structures de financement des entreprises.",
+      "impact": "Intégrer la hausse attendue des prélèvements obligatoires dans les modèles d'actualisation des projets de transaction CRE PACA ; impact sur les taux de rendement.",
+      "date": "27/09/2026",
+      "url": "https://www.laprovence.com/article/economie/233596020589314/retraites-arrets-maladie-impots-entreprises-qui-sera-mis-a-contribution-pour-le-budget-2027",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Energie",
+          "label": "Conjoncture",
           "cls": "tg"
         },
         {
-          "label": "Geopolitique",
-          "cls": "tg"
+          "label": "Fiscalité",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Précarité énergétique : Engie aide 720 000 clients avec 75 euros",
-      "body": "Engie versera 75 euros à 720 000 clients bénéficiaires du chèque énergie 2026 (54 millions EUR) pour lutter contre la précarité énergétique. Cette aide massive illustre les difficultés persistantes des ménages français face aux coûts énergétiques.",
-      "impact": "Signal de faiblesse du pouvoir d'achat français affectant la demande locative tertiaire/commerce ; anticiper possible contraction de la base client petit retail PACA.",
-      "date": "25/09/2026",
-      "url": "https://www.laprovence.com/article/economie/2784876128684614/engie-va-verser-75-euros-a-720-000-de-ses-clients-qui-va-en-beneficier",
+      "title": "Innovation maritime : entre audace et contraintes administratives",
+      "body": "Le secteur maritime régional doit s'adapter, prendre des risques et innover malgré les contraintes administratives fortes. L'innovation dans l'économie bleue crée une demande nouvelle en locaux d'activité spécialisés et en espaces de R&D.",
+      "impact": "Identifier les opportunités d'immobilier d'activité pour les start-ups et PME maritimes/bleues ; écosystèmes innovants en émergence côtière PACA.",
+      "date": "26/09/2026",
+      "url": "https://www.laprovence.com/article/region/1519368745404314/parlons-mer-entre-audace-risque-et-contraintes-administratives-le-pari-de-l-innovation",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         },
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "Innovation",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macro : stabilité taux et perspective budget 2027",
-      "body": "Macron a réaffirmé les priorités gouvernementales sur le prix carburant et le budget 2027 en contexte de menace géopolitique. OAT 10Y à 3.70%, Euribor 3M à 2.15%, BCE 2.15% ; inflation contrôlée à 1.7%.",
-      "impact": "Taux de financement stables permettant une bonne prévisibilité pour investisseurs SCPI/fonds immobiliers tertiaires ; conditions favables aux acquisitions PACA à moyen terme.",
-      "date": "24/09/2026",
-      "url": "https://www.laprovence.com/article/politique/24531531005770/macron-prix-du-carburant-moyens-militaires-en-arabie-saoudite-menace-russe-ce-quil-faut-retenir",
-      "source": "La Provence",
+      "title": "Contexte macroéconomique France : taux stables, inflation contenue",
+      "body": "Les marchés obligataires maintenaient les OAT à 3.70%, l'Euribor 3M à 2.15% et la BCE maintient ses taux directeurs à 2.15%, dans un contexte d'inflation modérée à 1.7%. Ces conditions de financement stables soutiennent les projets d'investissement immobilier en PACA.",
+      "impact": "Conditions de financement favorables pour les transactions CRE PACA ; taux crédit stable à 3.5-4.2% selon profil emprunteur ; moment opportun pour les montages à long terme.",
+      "date": "27/09/2026",
+      "url": "https://www.laprovence.com/article/economie/233596020589314/retraites-arrets-maladie-impots-entreprises-qui-sera-mis-a-contribution-pour-le-budget-2027",
+      "source": "Données marché",
       "tags": [
         {
           "label": "Taux",
           "cls": "tt"
         },
         {
-          "label": "Geopolitique",
+          "label": "Inflation",
           "cls": "tg"
         }
       ]

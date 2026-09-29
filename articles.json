@@ -1,36 +1,36 @@
 {
-  "generated_at": "28/09/2026",
+  "generated_at": "29/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Dynamique de recrutement automnale en PACA",
-      "body": "La rentrée 2026 s'annonce particulièrement dynamique sur le marché du travail régional avec des besoins ciblés des administrations et de grands rendez-vous professionnels. Les opportunités d'embauche et de formation se multiplient, soutenant la demande en espaces de bureaux et locaux d'activité.",
-      "impact": "Renforcer l'offre tertiaire et flex-office auprès des PME/PMI en croissance de recrutement, particulièrement en métropoles dynamiques.",
-      "date": "28/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3398684371700614/un-automne-sous-le-signe-du-recrutement-en-provence-alpes-cote-dazur",
+      "title": "Hydrogène Fos-sur-Mer : opportunités immobilières dans les zones d'activité",
+      "body": "Le projet Hy-Fen de transport d'hydrogène entre Fos-sur-Mer et l'Est de la France dessine une nouvelle dynamique énergétique européenne. Cette décarbonation majeure attire investisseurs et entreprises cherchant à s'implanter près des infrastructures vertes.",
+      "impact": "Demande croissante de locaux activité et bureaux modernes autour des pôles énergétiques PACA, particulièrement Fos-sur-Mer et périphérie immédiate.",
+      "date": "29/09/2026",
+      "url": "https://www.laprovence.com/article/economie/91666768543968/le-projet-de-desserte-en-hydrogene-entre-fos-sur-mer-et-lest-de-la-france-dessine-lavenir-energetique-de-leurope",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Marché PACA",
+          "cls": "tm"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Zones activité",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Marseille pivote vers une attractivité productive",
-      "body": "Selon Julien Harounyan, Marseille franchit un tournant stratégique passant d'une phase de rattrapage métropolitain à une véritable transformation productive. L'attractivité doit désormais devenir populaire et génératrice d'activités économiques durables.",
-      "impact": "Anticiper une demande accrue en locaux d'activité et bureaux à Marseille, avec focus sur les projets de rénovation de zones tertiaires obsolètes.",
-      "date": "28/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3391547202836114/julien-harounyan-lattractivite-de-marseille-doit-devenir-productive-et-populaire",
+      "title": "Commerce hybride Aubagne : nouveaux modèles retail en centre-ville",
+      "body": "Un primeur et une association créent un espace unique associant fruits/légumes et services sociaux rue Torte à Aubagne. Ce modèle hybride redynamise le commerce de proximité en centre historique.",
+      "impact": "Tendance forte vers les commerces multiservices en PACA ; valorisation des petites surfaces polyvalentes en cœur urbain pour transactions CRE.",
+      "date": "29/09/2026",
+      "url": "https://www.laprovence.com/article/economie/169314935664314/fruits-legumes-et-soutien-aux-aidants-un-primeur-et-une-association-creent-un-espace-unique-a-aubagne",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce PACA",
           "cls": "tp"
         },
         {
@@ -41,58 +41,58 @@
     },
     {
       "id": "f3",
-      "title": "Fermeture du Cool Kids Café après 2 ans à Saint-Martin",
-      "body": "Le Cool Kids Café, devenu un vrai lieu de vie communautaire, ferme ses portes après seulement 2 ans d'existence à Saint-Martin-de-Crau. Cette défaillance illustre les difficultés structurelles du segment commerce dans les petites localités.",
-      "impact": "Sélectionner les emplacements commerciaux avec prudence accrue en zones périurbaines ; privilégier les galeries structurées et les zones à fort passage.",
-      "date": "28/09/2026",
-      "url": "https://www.laprovence.com/article/economie/2566299028437614/le-cool-kids-cafe-va-fermer-ses-portes-a-saint-martin-de-crau-apres-seulement-2-ans-d-existence",
+      "title": "Artisanat et commerce local : fête des bouchers consolide les petits formats",
+      "body": "La première fête nationale des bouchers en septembre 2026 mobilise les boucheries artisanales PACA avec animations et savoir-faire local. Cet événement renforce la viabilité économique des commerces spécialisés de proximité.",
+      "impact": "Validation de la demande persistante pour petits commerces spécialisés en centre-ville PACA ; opportunités transactions courtes durées pour locaux 30-80m².",
+      "date": "29/09/2026",
+      "url": "https://www.laprovence.com/article/societe/55270340998693/le-savoir-faire-local-au-coeur-de-la-premiere-fete-des-bouchers-a-digne-les-bains",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
           "label": "Commerce",
           "cls": "tm"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "McArthurGlen Miramas : stabilité estivale malgré ralentissements",
-      "body": "Le village de marques affiche un été correct avec juin-juillet positifs versus 2025, mais août a marqué un léger ralentissement saisonnier. La clientèle internationale se maintient et diversifie les flux commerciaux.",
-      "impact": "Confirmer la viabilité du retail premium en zones commerciales structurées ; valoriser les commerces d'outlet en mixed-use.",
-      "date": "28/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3348251536925414/mcarthurglen-a-miramas-un-ete-stable-et-une-clientele-toujours-plus-internationale-au-village-de-marques",
+      "title": "L'Occitane certifiée B Corp : tendance ESG renforce attractivité bureaux",
+      "body": "L'Occitane en Provence obtient sa recertification B Corp fin septembre 2026, confirmant son engagement environnemental et social. Cette certification devient un critère majeur d'implantation pour entreprises responsables.",
+      "impact": "Demande accélérée pour espaces bureaux certifiés/éco-responsables en PACA ; primes locatives justifiées pour immeubles HQE/LEED/RT2012+ auprès sièges multinationales.",
+      "date": "29/09/2026",
+      "url": "https://www.laprovence.com/article/region/4197578387805914/l-occitane-en-provence-franchit-un-nouveau-cap-dans-sa-demarche-responsable",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Investissement ESG",
+          "cls": "ti2"
         },
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "Bureaux PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Concept innovant Leemi Robot à Avignon : automation retail",
-      "body": "Un nouveau établissement de type robot-café ouvre à Avignon proposant commandes écran et préparation entièrement automatisée de cafés, glaces et bubble tea. Ce modèle représente une rupture dans l'offre retail tertiaire urbaine.",
-      "impact": "Identifier les opportunités de petits espaces tertiaires haute-tech (15-50m²) pour concepts innovants en centres-villes dynamiques.",
-      "date": "28/09/2026",
-      "url": "https://www.laprovence.com/article/societe/1450187045183614/des-robots-preparent-vos-cafes-glaces-et-bubble-tea-un-nouvel-etablissement-au-concept-inedit-a-ouvert-a-avignon",
+      "title": "CCI Vaucluse : entrepreneuriat féminin crée nouvelle demande bureaux petite taille",
+      "body": "La CCI Vaucluse lance des afterworks réguliers dédiés à l'entrepreneuriat féminin en 2026, prolongeant la dynamique de l'événement Ose!. Cette mobilisation accélère création de TPE/PME cherchant locaux flexibles.",
+      "impact": "Hausse prévue de la demande pour petits bureaux flexibles (50-150m²) et espaces de coworking en Vaucluse ; segments de courte durée (12-24 mois) à privilégier.",
+      "date": "29/09/2026",
+      "url": "https://www.laprovence.com/article/region/38094089654928/la-cci-de-vaucluse-lance-ses-afterworks-entrepreneuriat-au-feminin",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Flex-office",
+          "cls": "tm"
         },
         {
-          "label": "Innovation",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,58 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Brent grimpe de 3% sur tensions Ormuz",
-      "body": "Les cours du pétrole bondissent en Asie lundi après l'impasse diplomatique au Moyen-Orient. Le refus de Trump d'un plan iranien pour rouvrir le détroit d'Ormuz pousse le Brent au-delà de 99 USD.",
-      "impact": "Surveiller l'impact sur les coûts d'exploitation tertiaire (énergie, transport) ; réviser les hypothèses d'indexation énergétique des baux commerciaux.",
-      "date": "28/09/2026",
-      "url": "https://www.laprovence.com/article/france-monde/44364781497369/impasse-dans-le-detroit-d-ormuz-les-cours-du-petrole-bondissent-le-brent-grimpe-de-plus-de-3",
+      "title": "Dette publique France atteint 119% PIB : financement tertiaire impacté",
+      "body": "La dette publique française a progressé à 3 595,5 Md€ (119% PIB) au Q2 2026, augmentant de 59,6 Md€ depuis fin trimestre précédent. Cette trajectoire baissière des finances publiques pèse sur les conditions de crédit immobilier.",
+      "impact": "Durcissement prévu des conditions de financement CRE PACA Q4 2026 ; taux bancaires bureaux/activité à anticiper +25-50bps avant fin année.",
+      "date": "29/09/2026",
+      "url": "https://www.laprovence.com/article/economie/6255294175282514/la-dette-publique-a-atteint-119-du-pib-en-france-au-deuxieme-trimestre-selon-linsee",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture France",
           "cls": "tg"
         },
         {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Taux/Financement",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Fraude en ligne : PACA 7x plus exposée",
-      "body": "La région PACA enregistre 7 fois plus de risques d'escroqueries en ligne que le reste de la France, avec près de 39 000 victimes (habitants et entreprises) en 2025. Cette vulnérabilité affecte directement les transactions commerciales régionales.",
-      "impact": "Renforcer les garanties cyber et les protocoles de sécurisation des mandats de transaction ; sensibiliser clients et prospects aux risques accrus.",
-      "date": "28/09/2026",
-      "url": "https://www.laprovence.com/article/economie/1386921481807714/arnaques-en-ligne-7-fois-plus-de-risques-descroqueries-en-paca-comment-se-proteger",
-      "source": "La Provence",
+      "title": "OAT 3.70% : stabilité taux longs confirme plateau de financement",
+      "body": "Les obligations d'État français stabilisent à 3.70% fin septembre 2026 avec Euribor3M inchangé à 2.15% et taux BCE maintenu. Ce plateau signale une pause dans la détente des taux, avec risque de révision à la hausse Q4.",
+      "impact": "Fenêtre de refinancement fermée pour investisseurs CRE PACA ; blocages taux recommandés immédiatement pour acquisitions >5M€ planifiées avant décembre 2026.",
+      "date": "29/09/2026",
+      "url": "https://donnees-marche-29-09-2026",
+      "source": "Donnees marche",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "OAT/Euribor",
+          "cls": "tt"
         },
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "BCE",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macro : OAT 3.70%, Euribor 2.15%, inflation 1.7%",
-      "body": "Les taux obligataires français se maintiennent à 3.70% (OAT 10Y) tandis que l'Euribor 3M reste stable à 2.15%, reflétant une BCE accommodante à 2.15%. L'inflation France ressort à 1.7%, bien en deçà des cibles européennes.",
-      "impact": "Environnement favorable au financement tertiaire ; taux de crédit CRE stables autour de 4.5-5.5% ; privilégier refinancement long terme avant normalisation BCE.",
-      "date": "28/09/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Données Marché",
+      "title": "Hydrogène Europe : Brent 96$/bl confirme transition énergétique investissable",
+      "body": "Le prix du Brent stable à 96$/baril en septembre 2026 soutient l'accélération de la transition énergétique en Europe, notamment projets hydrogène comme Hy-Fen. Cette stabilité énergétique rassure investisseurs immobiliers périphériques.",
+      "impact": "Opportunités de transaction durables autour zones décarbonées PACA (Fos, étendards verts) justifient primes de localisation +3-7% vs immobilier standard.",
+      "date": "29/09/2026",
+      "url": "https://donnees-marche-brent-29-09-2026",
+      "source": "Donnees marche",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique énergie",
+          "cls": "tg"
         },
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }

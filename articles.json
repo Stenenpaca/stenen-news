@@ -1,36 +1,17 @@
 {
-  "generated_at": "29/09/2026",
+  "generated_at": "30/09/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Hydrogène Fos-sur-Mer : opportunités immobilières dans les zones d'activité",
-      "body": "Le projet Hy-Fen de transport d'hydrogène entre Fos-sur-Mer et l'Est de la France dessine une nouvelle dynamique énergétique européenne. Cette décarbonation majeure attire investisseurs et entreprises cherchant à s'implanter près des infrastructures vertes.",
-      "impact": "Demande croissante de locaux activité et bureaux modernes autour des pôles énergétiques PACA, particulièrement Fos-sur-Mer et périphérie immédiate.",
-      "date": "29/09/2026",
-      "url": "https://www.laprovence.com/article/economie/91666768543968/le-projet-de-desserte-en-hydrogene-entre-fos-sur-mer-et-lest-de-la-france-dessine-lavenir-energetique-de-leurope",
+      "title": "Forum Aix-Marseille : réindustrialisation autour de l'énergie",
+      "body": "La métropole Aix-Marseille-Provence positionne l'énergie comme vecteur central de transformation territoriale et d'attractivité pour les investisseurs. Un travail collaboratif État-Régions-métropoles structure les nouvelles dynamiques industrielles locales.",
+      "impact": "Demande accrue d'espaces logistiques, industriels et de R&D pour les acteurs de la transition énergétique en région PACA.",
+      "date": "30/09/2026",
+      "url": "https://www.laprovence.com/article/economie/9424958618487/forum-daix-marseille-l-energie-au-coeur-de-la-reindustrialisation-du-territoire",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché PACA",
-          "cls": "tm"
-        },
-        {
-          "label": "Zones activité",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Commerce hybride Aubagne : nouveaux modèles retail en centre-ville",
-      "body": "Un primeur et une association créent un espace unique associant fruits/légumes et services sociaux rue Torte à Aubagne. Ce modèle hybride redynamise le commerce de proximité en centre historique.",
-      "impact": "Tendance forte vers les commerces multiservices en PACA ; valorisation des petites surfaces polyvalentes en cœur urbain pour transactions CRE.",
-      "date": "29/09/2026",
-      "url": "https://www.laprovence.com/article/economie/169314935664314/fruits-legumes-et-soutien-aux-aidants-un-primeur-et-une-association-creent-un-espace-unique-a-aubagne",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Commerce PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
@@ -40,54 +21,73 @@
       ]
     },
     {
-      "id": "f3",
-      "title": "Artisanat et commerce local : fête des bouchers consolide les petits formats",
-      "body": "La première fête nationale des bouchers en septembre 2026 mobilise les boucheries artisanales PACA avec animations et savoir-faire local. Cet événement renforce la viabilité économique des commerces spécialisés de proximité.",
-      "impact": "Validation de la demande persistante pour petits commerces spécialisés en centre-ville PACA ; opportunités transactions courtes durées pour locaux 30-80m².",
-      "date": "29/09/2026",
-      "url": "https://www.laprovence.com/article/societe/55270340998693/le-savoir-faire-local-au-coeur-de-la-premiere-fete-des-bouchers-a-digne-les-bains",
+      "id": "f2",
+      "title": "Modernisation industrielle : digitalisation et flexibilité",
+      "body": "Siemens accompagne les métropoles dans l'adaptation des infrastructures énergétiques face à l'électrification croissante. La modernisation passe par la digitalisation, la flexibilité et la résilience des installations.",
+      "impact": "Opportunité de retrofit et conversion d'espaces tertiaires/industriels pour accueillir solutions smart-building et infrastructure énergétique décentralisée en PACA.",
+      "date": "30/09/2026",
+      "url": "https://www.laprovence.com/article/economie/69783887108116/forum-daix-marseille-moderniser-l-industrie-c-est-la-rendre-plus-digitale-flexible-durable-et-resiliente",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         },
+        {
+          "label": "Régulation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Stabilité géopolitique : critère d'attractivité pour investisseurs",
+      "body": "Les tensions géopolitiques et transitions énergétiques redéfinissent les critères de choix territorial des investisseurs étrangers. La concurrence inter-nations pour attirer les investissements s'intensifie.",
+      "impact": "Valorisation accrue des zones PACA offrant stabilité politique et accès à ressources énergétiques durables pour les relocalisations industrielles.",
+      "date": "30/09/2026",
+      "url": "https://www.laprovence.com/article/economie/722380673487914/forum-daix-marseille-l-instabilite-geopolitique-est-une-menace-mais-egalement-une-opportunite",
+      "source": "La Provence",
+      "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "L'Occitane certifiée B Corp : tendance ESG renforce attractivité bureaux",
-      "body": "L'Occitane en Provence obtient sa recertification B Corp fin septembre 2026, confirmant son engagement environnemental et social. Cette certification devient un critère majeur d'implantation pour entreprises responsables.",
-      "impact": "Demande accélérée pour espaces bureaux certifiés/éco-responsables en PACA ; primes locatives justifiées pour immeubles HQE/LEED/RT2012+ auprès sièges multinationales.",
-      "date": "29/09/2026",
-      "url": "https://www.laprovence.com/article/region/4197578387805914/l-occitane-en-provence-franchit-un-nouveau-cap-dans-sa-demarche-responsable",
+      "title": "Commerce local PACA : valorisation des filières durables",
+      "body": "À Marseille, une initiative «box quartiers Nord» fédère PME artisanales (huile d'olive, savon, fruits secs) en circuit court. La valorisation de ces filières territoriales crée une nouvelle demande d'espaces commerciaux qualifiés.",
+      "impact": "Opportunité de proposer petits locaux commerciaux modulables et surfaces d'entreposage pour producteurs/artisans du sud PACA en reconversion durable.",
+      "date": "30/09/2026",
+      "url": "https://www.laprovence.com/article/economie/23489861564133/savon-huile-d-olive-a-marseille-une-box-quartiers-nord-reunit-les-pepites-de-ce-territoire-mal-aime",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Investissement ESG",
-          "cls": "ti2"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Bureaux PACA",
-          "cls": "tp"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "CCI Vaucluse : entrepreneuriat féminin crée nouvelle demande bureaux petite taille",
-      "body": "La CCI Vaucluse lance des afterworks réguliers dédiés à l'entrepreneuriat féminin en 2026, prolongeant la dynamique de l'événement Ose!. Cette mobilisation accélère création de TPE/PME cherchant locaux flexibles.",
-      "impact": "Hausse prévue de la demande pour petits bureaux flexibles (50-150m²) et espaces de coworking en Vaucluse ; segments de courte durée (12-24 mois) à privilégier.",
-      "date": "29/09/2026",
-      "url": "https://www.laprovence.com/article/region/38094089654928/la-cci-de-vaucluse-lance-ses-afterworks-entrepreneuriat-au-feminin",
+      "title": "Inflation alimentaire +9,9% : impact sur chaînes logistiques",
+      "body": "L'inflation des produits frais atteint 9,9% en septembre (+5,9% en août), alimentée par la hausse énergétique (+21,2%). La tension inflationniste impacte directement les coûts logistiques et d'entreposage.",
+      "impact": "Pression à la hausse sur les loyers d'activité et locaux logistiques agroalimentaires en PACA ; clients cherchent optimisations d'espaces pour compenser hausse des marges.",
+      "date": "30/09/2026",
+      "url": "https://www.laprovence.com/article/economie/56322552675726/inflation-lenergie-et-lalimentation-propulsent-les-prix-en-septembre",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Flex-office",
+          "label": "Marché",
           "cls": "tm"
         },
         {
@@ -100,58 +100,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Dette publique France atteint 119% PIB : financement tertiaire impacté",
-      "body": "La dette publique française a progressé à 3 595,5 Md€ (119% PIB) au Q2 2026, augmentant de 59,6 Md€ depuis fin trimestre précédent. Cette trajectoire baissière des finances publiques pèse sur les conditions de crédit immobilier.",
-      "impact": "Durcissement prévu des conditions de financement CRE PACA Q4 2026 ; taux bancaires bureaux/activité à anticiper +25-50bps avant fin année.",
-      "date": "29/09/2026",
-      "url": "https://www.laprovence.com/article/economie/6255294175282514/la-dette-publique-a-atteint-119-du-pib-en-france-au-deuxieme-trimestre-selon-linsee",
+      "title": "Géopolitique et souveraineté : métropoles en première ligne",
+      "body": "Le Forum Aix-Marseille réunit 200 dirigeants pour débattre du rôle des métropoles face aux chocs géopolitiques. Énergie et défense deviennent enjeux stratégiques territoriaux centraux.",
+      "impact": "Dynamique attractive pour immobilier d'entreprise PACA lié aux secteurs souverainistes (énergie, défense, technologie) ; amélioration perspectives locataires.",
+      "date": "30/09/2026",
+      "url": "https://www.laprovence.com/article/economie/5078864305429214/forum-daix-marseille-energie-et-defense-les-metropoles-au-front-de-la-souverainete",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture France",
+          "label": "Géopolitique",
           "cls": "tg"
-        },
-        {
-          "label": "Taux/Financement",
-          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "OAT 3.70% : stabilité taux longs confirme plateau de financement",
-      "body": "Les obligations d'État français stabilisent à 3.70% fin septembre 2026 avec Euribor3M inchangé à 2.15% et taux BCE maintenu. Ce plateau signale une pause dans la détente des taux, avec risque de révision à la hausse Q4.",
-      "impact": "Fenêtre de refinancement fermée pour investisseurs CRE PACA ; blocages taux recommandés immédiatement pour acquisitions >5M€ planifiées avant décembre 2026.",
-      "date": "29/09/2026",
-      "url": "https://donnees-marche-29-09-2026",
-      "source": "Donnees marche",
+      "title": "Inflation septembre : énergies +21,2%, alimentation +9,9%",
+      "body": "L'inflation accelere en septembre avec énergie (+21,2% vs +16,7%) et produits frais (+9,9% vs +5,9% août) en tête. Pression inflationniste persistante sur la conjoncture française.",
+      "impact": "Hausse des coûts d'exploitation pour locataires PACA ; anticipation de renégociations contractuelles et demande pour optimisation immobilière en 2027.",
+      "date": "30/09/2026",
+      "url": "https://www.laprovence.com/article/economie/56322552675726/inflation-lenergie-et-lalimentation-propulsent-les-prix-en-septembre",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "OAT/Euribor",
+          "label": "Inflation",
           "cls": "tt"
-        },
-        {
-          "label": "BCE",
-          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Hydrogène Europe : Brent 96$/bl confirme transition énergétique investissable",
-      "body": "Le prix du Brent stable à 96$/baril en septembre 2026 soutient l'accélération de la transition énergétique en Europe, notamment projets hydrogène comme Hy-Fen. Cette stabilité énergétique rassure investisseurs immobiliers périphériques.",
-      "impact": "Opportunités de transaction durables autour zones décarbonées PACA (Fos, étendards verts) justifient primes de localisation +3-7% vs immobilier standard.",
-      "date": "29/09/2026",
-      "url": "https://donnees-marche-brent-29-09-2026",
-      "source": "Donnees marche",
+      "title": "Contexte macro-économique : taux et stabilité monétaire",
+      "body": "OAT 3,70%, Euribor 3M 2,15%, BCE 2,15%, inflation 1,7% national. Environnement de taux stabilisé supporte financement immobilier malgré tensions géopolitiques.",
+      "impact": "Conditions de crédit favorables pour acquisitions CRE PACA en Q4 2026 ; fenêtre d'opportunité pour transactions avant potentiel ajustement 2027.",
+      "date": "30/09/2026",
+      "url": "https://www.laprovence.com/article/economie/56322552675726/inflation-lenergie-et-lalimentation-propulsent-les-prix-en-septembre",
+      "source": "Stenen Data",
       "tags": [
         {
-          "label": "Géopolitique énergie",
-          "cls": "tg"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

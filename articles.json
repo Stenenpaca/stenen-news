@@ -1,98 +1,98 @@
 {
-  "generated_at": "30/09/2026",
+  "generated_at": "01/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Forum Aix-Marseille : réindustrialisation autour de l'énergie",
-      "body": "La métropole Aix-Marseille-Provence positionne l'énergie comme vecteur central de transformation territoriale et d'attractivité pour les investisseurs. Un travail collaboratif État-Régions-métropoles structure les nouvelles dynamiques industrielles locales.",
-      "impact": "Demande accrue d'espaces logistiques, industriels et de R&D pour les acteurs de la transition énergétique en région PACA.",
+      "title": "Immobilier Vaucluse : reprise fragile des transactions",
+      "body": "Le marché immobilier en Vaucluse retrouve progressivement de l'activité après deux années difficiles, avec une augmentation des ventes constatée récemment. Cette reprise reste toutefois fragile et nécessite une vigilance accrue sur les fondamentaux du marché régional.",
+      "impact": "Conseiller attente avant relance commerciale agressive ; prioriser secteurs résiliants (logistique, petit tertiaire) sur Vaucluse et zones adjacentes PACA.",
       "date": "30/09/2026",
-      "url": "https://www.laprovence.com/article/economie/9424958618487/forum-daix-marseille-l-energie-au-coeur-de-la-reindustrialisation-du-territoire",
+      "url": "https://www.laprovence.com/article/region/78113286450154/immobilier-en-vaucluse-les-ventes-augmentent-mais-le-marche-reste-fragile",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Marché PACA",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Immobilier",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Modernisation industrielle : digitalisation et flexibilité",
-      "body": "Siemens accompagne les métropoles dans l'adaptation des infrastructures énergétiques face à l'électrification croissante. La modernisation passe par la digitalisation, la flexibilité et la résilience des installations.",
-      "impact": "Opportunité de retrofit et conversion d'espaces tertiaires/industriels pour accueillir solutions smart-building et infrastructure énergétique décentralisée en PACA.",
-      "date": "30/09/2026",
-      "url": "https://www.laprovence.com/article/economie/69783887108116/forum-daix-marseille-moderniser-l-industrie-c-est-la-rendre-plus-digitale-flexible-durable-et-resiliente",
+      "title": "Pizza Hut s'implante au Prado : retail stratégique Marseille",
+      "body": "L'enseigne Pizza Hut vient de s'installer au Prado Shopping (septembre 2026) avec un concept de 50 places et offre 100% halal, positionnée stratégiquement près du Vélodrome. Cette implantation illustre l'attractivité persistante des zones commerciales bien localisées à Marseille.",
+      "impact": "Valoriser les locaux commerciaux proximité Vélodrome/Prado ; confirmer appétit retailers pour concepts spécialisés/halal sur métropole marseillaise.",
+      "date": "01/10/2026",
+      "url": "https://www.laprovence.com/article/economie/62122633678299/emplacement-strategique-offre-100-halal-lenseigne-pizza-hut-vient-de-simplanter-au-prado-a-marseille",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce",
           "cls": "tp"
         },
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Marseille",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Stabilité géopolitique : critère d'attractivité pour investisseurs",
-      "body": "Les tensions géopolitiques et transitions énergétiques redéfinissent les critères de choix territorial des investisseurs étrangers. La concurrence inter-nations pour attirer les investissements s'intensifie.",
-      "impact": "Valorisation accrue des zones PACA offrant stabilité politique et accès à ressources énergétiques durables pour les relocalisations industrielles.",
+      "title": "Inflation 3% : impact sur coûts immobilier tertiaire",
+      "body": "L'inflation française atteint 3% en septembre 2026, son plus haut niveau depuis début 2024, selon l'INSEE. Cette accélération inflationniste affecte directement les coûts de construction, charges et valeurs locatives du secteur tertiaire PACA.",
+      "impact": "Anticiper révision clause d'indexation sur baux en cours ; valoriser immeubles récents aux coûts maîtrisés face à renchérissement matériaux et énergie.",
       "date": "30/09/2026",
-      "url": "https://www.laprovence.com/article/economie/722380673487914/forum-daix-marseille-l-instabilite-geopolitique-est-une-menace-mais-egalement-une-opportunite",
+      "url": "https://www.laprovence.com/article/economie/5371653765428414/l-inflation-grimpe-a-3-en-france-au-plus-haut-depuis-debut-2024",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Inflation",
+          "cls": "tt"
         },
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Tertiaire",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Commerce local PACA : valorisation des filières durables",
-      "body": "À Marseille, une initiative «box quartiers Nord» fédère PME artisanales (huile d'olive, savon, fruits secs) en circuit court. La valorisation de ces filières territoriales crée une nouvelle demande d'espaces commerciaux qualifiés.",
-      "impact": "Opportunité de proposer petits locaux commerciaux modulables et surfaces d'entreposage pour producteurs/artisans du sud PACA en reconversion durable.",
-      "date": "30/09/2026",
-      "url": "https://www.laprovence.com/article/economie/23489861564133/savon-huile-d-olive-a-marseille-une-box-quartiers-nord-reunit-les-pepites-de-ce-territoire-mal-aime",
+      "title": "Grève Corsica Linea : impact logistique ports PACA",
+      "body": "La grève des marins CGT reconduction à Marseille depuis le 29 septembre paralyse les liaisons maritimes avec la Corse, créant des quais déserts et navires à quai. Cette disruption affecte directement les chaînes logistiques et l'attractivité des zones d'activité portuaires.",
+      "impact": "Signaler risque perturbation chaînes logistique aux prospects locaux d'activité ; valoriser alternatives terrestres/aériennes pour entreprises critiques.",
+      "date": "01/10/2026",
+      "url": "https://www.laprovence.com/article/economie/43035025339253/corsica-linea-la-greve-reconduite-des-marins-paralyse-les-liaisons-avec-la-corse-au-depart-et-a-destination-de-marseille",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Logistique",
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Conjoncture",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Inflation alimentaire +9,9% : impact sur chaînes logistiques",
-      "body": "L'inflation des produits frais atteint 9,9% en septembre (+5,9% en août), alimentée par la hausse énergétique (+21,2%). La tension inflationniste impacte directement les coûts logistiques et d'entreposage.",
-      "impact": "Pression à la hausse sur les loyers d'activité et locaux logistiques agroalimentaires en PACA ; clients cherchent optimisations d'espaces pour compenser hausse des marges.",
+      "title": "Martigues : dynamique touristique et patrimoine commercial",
+      "body": "Martigues attire progressivement plus de touristes grâce à son positionnement unique (eau, patrimoine, couleurs) et continue d'évoluer comme destination régionale. Cette dynamique touristique soutient le commerce local et justifie repositionnement des locaux commerciaux.",
+      "impact": "Prioriser offre commerciale/services à Martigues ; valoriser immeubles accès tourisme pour concepts retail/F&B avec potential saisonnier.",
       "date": "30/09/2026",
-      "url": "https://www.laprovence.com/article/economie/56322552675726/inflation-lenergie-et-lalimentation-propulsent-les-prix-en-septembre",
+      "url": "https://www.laprovence.com/article/economie/3431335937387614/ville-d-eau-de-couleurs-et-de-patrimoine-martigues-attire-plus-de-touristes-qu-on-ne-le-croit",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Commerce",
+          "cls": "tp"
         },
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Tourisme",
+          "cls": "tm"
         }
       ]
     }
@@ -100,43 +100,55 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Géopolitique et souveraineté : métropoles en première ligne",
-      "body": "Le Forum Aix-Marseille réunit 200 dirigeants pour débattre du rôle des métropoles face aux chocs géopolitiques. Énergie et défense deviennent enjeux stratégiques territoriaux centraux.",
-      "impact": "Dynamique attractive pour immobilier d'entreprise PACA lié aux secteurs souverainistes (énergie, défense, technologie) ; amélioration perspectives locataires.",
+      "title": "Inflation France 3% : BCE maintient cap monétaire restrictif",
+      "body": "L'inflation française accélère à 3% en septembre 2026, au plus haut depuis début 2024, augmentant la pression sur les taux d'intérêt directeurs. La BCE devrait maintenir une posture restrictive face à cette dynamique inflationniste persistante.",
+      "impact": "Taux OAT 3.70% et Euribor3M 2.15% resteront élevés ; bloquer financements nouveaux jusqu'à clarification BCE novembre.",
       "date": "30/09/2026",
-      "url": "https://www.laprovence.com/article/economie/5078864305429214/forum-daix-marseille-energie-et-defense-les-metropoles-au-front-de-la-souverainete",
+      "url": "https://www.laprovence.com/article/economie/5371653765428414/l-inflation-grimpe-a-3-en-france-au-plus-haut-depuis-debut-2024",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Inflation",
+          "cls": "tt"
+        },
+        {
+          "label": "BCE",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation septembre : énergies +21,2%, alimentation +9,9%",
-      "body": "L'inflation accelere en septembre avec énergie (+21,2% vs +16,7%) et produits frais (+9,9% vs +5,9% août) en tête. Pression inflationniste persistante sur la conjoncture française.",
-      "impact": "Hausse des coûts d'exploitation pour locataires PACA ; anticipation de renégociations contractuelles et demande pour optimisation immobilière en 2027.",
-      "date": "30/09/2026",
-      "url": "https://www.laprovence.com/article/economie/56322552675726/inflation-lenergie-et-lalimentation-propulsent-les-prix-en-septembre",
+      "title": "Grève Corsica Linea : disruption chaînes logistiques européennes",
+      "body": "Les liaisons maritimes Marseille-Corse sont paralysées depuis 29 septembre 2026 suite à la reconduction de la grève CGT des marins, créant une disruption majeure pour les flux transfrontaliers et méditerranéens. Cette situation impacte les coûts logistiques européens et la compétitivité côtière.",
+      "impact": "Anticiper renchérissement fret/logistique PACA ; vérifier impact chaînes approvisionnement prospects secteur distribution/retail.",
+      "date": "01/10/2026",
+      "url": "https://www.laprovence.com/article/economie/43035025339253/corsica-linea-la-greve-reconduite-des-marins-paralyse-les-liaisons-avec-la-corse-au-depart-et-a-destination-de-marseille",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macro-économique : taux et stabilité monétaire",
-      "body": "OAT 3,70%, Euribor 3M 2,15%, BCE 2,15%, inflation 1,7% national. Environnement de taux stabilisé supporte financement immobilier malgré tensions géopolitiques.",
-      "impact": "Conditions de crédit favorables pour acquisitions CRE PACA en Q4 2026 ; fenêtre d'opportunité pour transactions avant potentiel ajustement 2027.",
+      "title": "Conjoncture France : reprise fragile malgré inflation",
+      "body": "Le marché français conjugue reprise progressive de l'immobilier et activité commerciale avec une inflation résurgente à 3%, créant un contexte d'incertitude macroéconomique. Les taux d'intérêt (OAT 3.70%, Euribor3M 2.15%) limitent l'accélération de la demande immobilière.",
+      "impact": "Structurer transactions sur financement sécurisé ; prioriser vendeurs pressés face à remontée taux.",
       "date": "30/09/2026",
-      "url": "https://www.laprovence.com/article/economie/56322552675726/inflation-lenergie-et-lalimentation-propulsent-les-prix-en-septembre",
-      "source": "Stenen Data",
+      "url": "https://www.laprovence.com/article/economie/5371653765428414/l-inflation-grimpe-a-3-en-france-au-plus-haut-depuis-debut-2024",
+      "source": "La Provence",
       "tags": [
+        {
+          "label": "Conjoncture",
+          "cls": "tm"
+        },
         {
           "label": "Taux",
           "cls": "tt"

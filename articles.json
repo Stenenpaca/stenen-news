@@ -1,32 +1,51 @@
 {
-  "generated_at": "01/10/2026",
+  "generated_at": "02/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Immobilier Vaucluse : reprise fragile des transactions",
-      "body": "Le marché immobilier en Vaucluse retrouve progressivement de l'activité après deux années difficiles, avec une augmentation des ventes constatée récemment. Cette reprise reste toutefois fragile et nécessite une vigilance accrue sur les fondamentaux du marché régional.",
-      "impact": "Conseiller attente avant relance commerciale agressive ; prioriser secteurs résiliants (logistique, petit tertiaire) sur Vaucluse et zones adjacentes PACA.",
-      "date": "30/09/2026",
-      "url": "https://www.laprovence.com/article/region/78113286450154/immobilier-en-vaucluse-les-ventes-augmentent-mais-le-marche-reste-fragile",
+      "title": "Budget 2027 : 20 milliards d'euros de prélèvements supplémentaires sur les entreprises",
+      "body": "Le Medef évalue à près de 20 milliards d'euros les prélèvements et taxes touchant les entreprises dans le budget 2027. Cette hausse significative intervient dans un contexte d'effort de redressement des finances publiques annoncé par le gouvernement.",
+      "impact": "Les locataires de locaux d'activité et bureaux PACA doivent anticiper une dégradation de la rentabilité client : demander des clauses d'ajustement loyer et réduire les prix d'appel.",
+      "date": "01/10/2026",
+      "url": "https://www.laprovence.com/article/economie/19845292459466/budget-2027-le-medef-evalue-a-pres-de-20-milliards-d-euros-les-prelevements-et-taxes-touchant-les-entreprises",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché PACA",
-          "cls": "tp"
+          "label": "Macro-PME",
+          "cls": "tt"
         },
         {
-          "label": "Immobilier",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Pizza Hut s'implante au Prado : retail stratégique Marseille",
-      "body": "L'enseigne Pizza Hut vient de s'installer au Prado Shopping (septembre 2026) avec un concept de 50 places et offre 100% halal, positionnée stratégiquement près du Vélodrome. Cette implantation illustre l'attractivité persistante des zones commerciales bien localisées à Marseille.",
-      "impact": "Valoriser les locaux commerciaux proximité Vélodrome/Prado ; confirmer appétit retailers pour concepts spécialisés/halal sur métropole marseillaise.",
+      "title": "L'Afpa Paca se réorganise face à la concurrence et au recul de commandes publiques",
+      "body": "L'Afpa engage un plan de transformation avec réduction de sites et orientation vers l'apprentissage, suite à une fragilisation économique liée au recul de la commande publique. Cette restructuration marque une adaptation du marché de la formation en région PACA.",
+      "impact": "Opportunité de reprendre des locaux tertiaires vacants post-restructuration Afpa : identifier les sites PACA fermés pour proposer à des PME locataires en croissance.",
       "date": "01/10/2026",
-      "url": "https://www.laprovence.com/article/economie/62122633678299/emplacement-strategique-offre-100-halal-lenseigne-pizza-hut-vient-de-simplanter-au-prado-a-marseille",
+      "url": "https://www.laprovence.com/article/economie/27845457146250/moins-de-sites-cap-sur-l-apprentissage-l-afpa-paca-se-reorganise",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Marché PACA",
+          "cls": "tm"
+        },
+        {
+          "label": "Locaux activité",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Nouveau concept de local associatif et commercial inaugure à Aubagne",
+      "body": "Un local hybride regroupant une association et un commerce de primeur a été inauguré rue Torte à Aubagne le 29 septembre. Cette initiative mixte associative-commerciale illustre une tendance à l'hybridation des usages dans les centres-villes PACA.",
+      "impact": "Demande croissante pour des petits locaux multiusages en centre-ville : proposer des surfaces flexibles (50-150m²) acceptant co-usage commerce/associatif à Aubagne et agglomérations.",
+      "date": "02/10/2026",
+      "url": "https://www.laprovence.com/article/economie/24148778571468/entre-primeur-et-local-associatif-un-nouveau-concept-inaugure-dans-le-centre-ville-d-aubagne",
       "source": "La Provence",
       "tags": [
         {
@@ -34,65 +53,46 @@
           "cls": "tp"
         },
         {
-          "label": "Marseille",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Inflation 3% : impact sur coûts immobilier tertiaire",
-      "body": "L'inflation française atteint 3% en septembre 2026, son plus haut niveau depuis début 2024, selon l'INSEE. Cette accélération inflationniste affecte directement les coûts de construction, charges et valeurs locatives du secteur tertiaire PACA.",
-      "impact": "Anticiper révision clause d'indexation sur baux en cours ; valoriser immeubles récents aux coûts maîtrisés face à renchérissement matériaux et énergie.",
-      "date": "30/09/2026",
-      "url": "https://www.laprovence.com/article/economie/5371653765428414/l-inflation-grimpe-a-3-en-france-au-plus-haut-depuis-debut-2024",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Inflation",
-          "cls": "tt"
-        },
-        {
-          "label": "Tertiaire",
+          "label": "Centre-ville",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Grève Corsica Linea : impact logistique ports PACA",
-      "body": "La grève des marins CGT reconduction à Marseille depuis le 29 septembre paralyse les liaisons maritimes avec la Corse, créant des quais déserts et navires à quai. Cette disruption affecte directement les chaînes logistiques et l'attractivité des zones d'activité portuaires.",
-      "impact": "Signaler risque perturbation chaînes logistique aux prospects locaux d'activité ; valoriser alternatives terrestres/aériennes pour entreprises critiques.",
-      "date": "01/10/2026",
-      "url": "https://www.laprovence.com/article/economie/43035025339253/corsica-linea-la-greve-reconduite-des-marins-paralyse-les-liaisons-avec-la-corse-au-depart-et-a-destination-de-marseille",
+      "title": "Forum emploi et intérim à La Ciotat : 70 jeunes et recruteurs en rencontre",
+      "body": "La Mission locale a organisé un forum dédié à l'emploi et l'intérim le 30 septembre avec 70 jeunes et plusieurs agences d'intérim. Cet événement cofinancé par le Fonds social européen reflète des tensions de recrutement sur la côte PACA.",
+      "impact": "Maintien d'une demande de bureaux pour agences d'intérim et RH en zone littorale PACA : sécuriser les baux avec clauses flexibles face à l'incertitude macro.",
+      "date": "02/10/2026",
+      "url": "https://www.laprovence.com/article/economie/70-jeunes-a-la-rencontre-des-recruteurs-au-forum-de-l-emploi-et-de-l-interim-a-la-ciotat",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Logistique",
-          "cls": "tp"
+          "label": "Marché travail",
+          "cls": "tm"
         },
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Côte PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Martigues : dynamique touristique et patrimoine commercial",
-      "body": "Martigues attire progressivement plus de touristes grâce à son positionnement unique (eau, patrimoine, couleurs) et continue d'évoluer comme destination régionale. Cette dynamique touristique soutient le commerce local et justifie repositionnement des locaux commerciaux.",
-      "impact": "Prioriser offre commerciale/services à Martigues ; valoriser immeubles accès tourisme pour concepts retail/F&B avec potential saisonnier.",
-      "date": "30/09/2026",
-      "url": "https://www.laprovence.com/article/economie/3431335937387614/ville-d-eau-de-couleurs-et-de-patrimoine-martigues-attire-plus-de-touristes-qu-on-ne-le-croit",
+      "title": "Stabilité des taux bancaires : Euribor 3M à 2.15%, OAT 10Y à 3.70%",
+      "body": "Les taux d'emprunt long terme restent stables avec les OAT 10 ans à 3.70% et l'Euribor 3 mois à 2.15%, confirmant une pause dans la politique monétaire. Ces niveaux maintiennent un coût de financement modéré pour les investissements immobiliers.",
+      "impact": "Conditions de financement immobilier stables : accélérer les montages d'acquisition de portefeuille tertiaire PACA avant potentiel resserrement BCE fin 2026.",
+      "date": "02/10/2026",
+      "url": "https://www.laprovence.com/article/economie/19213277145466/budget-2027-pensions-impots-ce-qui-pourrait-changer-pour-les-retraites",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce",
-          "cls": "tp"
+          "label": "Taux-Financement",
+          "cls": "tt"
         },
         {
-          "label": "Tourisme",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }
@@ -100,57 +100,57 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Inflation France 3% : BCE maintient cap monétaire restrictif",
-      "body": "L'inflation française accélère à 3% en septembre 2026, au plus haut depuis début 2024, augmentant la pression sur les taux d'intérêt directeurs. La BCE devrait maintenir une posture restrictive face à cette dynamique inflationniste persistante.",
-      "impact": "Taux OAT 3.70% et Euribor3M 2.15% resteront élevés ; bloquer financements nouveaux jusqu'à clarification BCE novembre.",
-      "date": "30/09/2026",
-      "url": "https://www.laprovence.com/article/economie/5371653765428414/l-inflation-grimpe-a-3-en-france-au-plus-haut-depuis-debut-2024",
+      "title": "Budget 2027 : gel des APL et allocations, économies de 43 milliards d'euros",
+      "body": "Le gouvernement a annoncé le 1er octobre un plan de redressement des finances publiques visant 43 milliards d'euros d'économies, incluant gel des APL et allocations familiales. Cette austérité macro affectera le pouvoir d'achat des ménages locataires.",
+      "impact": "Érosion de la demande de petits bureaux partagés et locaux PME : cibler les clients stables et structurés, réduire les prix marché de -3 à -5% pour compenser baisse demande.",
+      "date": "02/10/2026",
+      "url": "https://www.laprovence.com/article/economie/8952785583471914/budget-2027-gel-des-apl-et-des-allocations-familiales-ce-qui-pourrait-changer-pour-vos-aides",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
+          "label": "Conjoncture",
+          "cls": "tg"
         },
         {
-          "label": "BCE",
-          "cls": "tg"
+          "label": "Politique budgétaire",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Grève Corsica Linea : disruption chaînes logistiques européennes",
-      "body": "Les liaisons maritimes Marseille-Corse sont paralysées depuis 29 septembre 2026 suite à la reconduction de la grève CGT des marins, créant une disruption majeure pour les flux transfrontaliers et méditerranéens. Cette situation impacte les coûts logistiques européens et la compétitivité côtière.",
-      "impact": "Anticiper renchérissement fret/logistique PACA ; vérifier impact chaînes approvisionnement prospects secteur distribution/retail.",
-      "date": "01/10/2026",
-      "url": "https://www.laprovence.com/article/economie/43035025339253/corsica-linea-la-greve-reconduite-des-marins-paralyse-les-liaisons-avec-la-corse-au-depart-et-a-destination-de-marseille",
-      "source": "La Provence",
+      "title": "Brent 96 USD/baril : énergie stable dans l'incertitude géopolitique",
+      "body": "Le pétrole Brent se maintient à 96 USD le baril dans un contexte d'équilibre offre-demande mondial. Les tensions géopolitiques persistantes limitent une baisse significative des prix énergétiques.",
+      "impact": "Coûts de chauffage-climatisation tertiaire PACA stables : intégrer 96 USD/baril dans les estimations charges pour baux indexés CPI+énergie.",
+      "date": "02/10/2026",
+      "url": "https://www.laprovence.com/article/economie/19845292459466/budget-2027-le-medef-evalue-a-pres-de-20-milliards-d-euros-les-prelevements-et-taxes-touchant-les-entreprises",
+      "source": "Marché",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Énergie-Géopolitique",
           "cls": "tg"
         },
         {
           "label": "Conjoncture",
-          "cls": "tm"
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Conjoncture France : reprise fragile malgré inflation",
-      "body": "Le marché français conjugue reprise progressive de l'immobilier et activité commerciale avec une inflation résurgente à 3%, créant un contexte d'incertitude macroéconomique. Les taux d'intérêt (OAT 3.70%, Euribor3M 2.15%) limitent l'accélération de la demande immobilière.",
-      "impact": "Structurer transactions sur financement sécurisé ; prioriser vendeurs pressés face à remontée taux.",
-      "date": "30/09/2026",
-      "url": "https://www.laprovence.com/article/economie/5371653765428414/l-inflation-grimpe-a-3-en-france-au-plus-haut-depuis-debut-2024",
+      "title": "BCE à 2.15% : pause monétaire, vigilance inflation 1.7%",
+      "body": "La Banque centrale européenne maintient les taux directeurs à 2.15% tandis que l'inflation zone euro reste modérée à 1.7%. Cette posture laisse ouvert un scénario de baisse progressive des taux avant fin 2026.",
+      "impact": "Fenêtre de financement favorable : débloquer les montages SCPI et fonds immobiliers avant potentiel rebond de l'inflation et resserrement monétaire Q4 2026.",
+      "date": "02/10/2026",
+      "url": "https://www.laprovence.com/article/economie/8952785583471914/budget-2027-gel-des-apl-et-des-allocations-familiales-ce-qui-pourrait-changer-pour-vos-aides",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Monétaire",
+          "cls": "tg"
         },
         {
-          "label": "Taux",
+          "label": "Inflation-OAT",
           "cls": "tt"
         }
       ]

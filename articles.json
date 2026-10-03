@@ -1,98 +1,98 @@
 {
-  "generated_at": "02/10/2026",
+  "generated_at": "03/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Budget 2027 : 20 milliards d'euros de prélèvements supplémentaires sur les entreprises",
-      "body": "Le Medef évalue à près de 20 milliards d'euros les prélèvements et taxes touchant les entreprises dans le budget 2027. Cette hausse significative intervient dans un contexte d'effort de redressement des finances publiques annoncé par le gouvernement.",
-      "impact": "Les locataires de locaux d'activité et bureaux PACA doivent anticiper une dégradation de la rentabilité client : demander des clauses d'ajustement loyer et réduire les prix d'appel.",
-      "date": "01/10/2026",
-      "url": "https://www.laprovence.com/article/economie/19845292459466/budget-2027-le-medef-evalue-a-pres-de-20-milliards-d-euros-les-prelevements-et-taxes-touchant-les-entreprises",
+      "title": "Centre Bourse Marseille : fermeture Nature & Découvertes",
+      "body": "Nature et Découvertes ferme définitivement ses portes au centre Bourse ce samedi 4 octobre 2026, dans le cadre d'une gestion rigoureuse du parc de la chaîne. Cette fermeture intervient alors que la Ville de Marseille poursuit l'acquisition des locaux des Galeries Lafayette du même centre.",
+      "impact": "Conseil : accélérer les visites de locaux commerciaux disponibles au centre Bourse pour anticiper les reprises à court terme.",
+      "date": "02/10/2026",
+      "url": "https://www.laprovence.com/article/economie/35435935748965/apres-le-depart-definitif-de-nature-et-decouvertes-ce-samedi-quel-avenir-pour-le-centre-bourse-a-marseille",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Macro-PME",
-          "cls": "tt"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "L'Afpa Paca se réorganise face à la concurrence et au recul de commandes publiques",
-      "body": "L'Afpa engage un plan de transformation avec réduction de sites et orientation vers l'apprentissage, suite à une fragilisation économique liée au recul de la commande publique. Cette restructuration marque une adaptation du marché de la formation en région PACA.",
-      "impact": "Opportunité de reprendre des locaux tertiaires vacants post-restructuration Afpa : identifier les sites PACA fermés pour proposer à des PME locataires en croissance.",
-      "date": "01/10/2026",
-      "url": "https://www.laprovence.com/article/economie/27845457146250/moins-de-sites-cap-sur-l-apprentissage-l-afpa-paca-se-reorganise",
+      "title": "Galeries Lafayette Centre Bourse : acquisition municipale en cours",
+      "body": "Dix mois après la validation du conseil municipal en décembre 2025, le rachat des locaux des Galeries Lafayette par la Ville de Marseille progresse lentement. Le maire Benoît Payan (DVG) poursuit les négociations pour cette acquisition stratégique du centre-ville.",
+      "impact": "Conseil : suivre étroitement ce dossier majeur pour identifier les opportunités de relocalisations commerciales ou de restructuration dans le secteur.",
+      "date": "03/10/2026",
+      "url": "https://www.laprovence.com/article/economie/112520501312514/rachat-des-locaux-des-galeries-lafayette-par-la-ville-de-marseille-plus-long-que-si-on-devait-racheter-le-real",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché PACA",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Locaux activité",
-          "cls": "tp"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Nouveau concept de local associatif et commercial inaugure à Aubagne",
-      "body": "Un local hybride regroupant une association et un commerce de primeur a été inauguré rue Torte à Aubagne le 29 septembre. Cette initiative mixte associative-commerciale illustre une tendance à l'hybridation des usages dans les centres-villes PACA.",
-      "impact": "Demande croissante pour des petits locaux multiusages en centre-ville : proposer des surfaces flexibles (50-150m²) acceptant co-usage commerce/associatif à Aubagne et agglomérations.",
-      "date": "02/10/2026",
-      "url": "https://www.laprovence.com/article/economie/24148778571468/entre-primeur-et-local-associatif-un-nouveau-concept-inaugure-dans-le-centre-ville-d-aubagne",
+      "title": "Mirion Technologies pose première pierre à Lamanon",
+      "body": "Mirion Technologies a officiellement posé la première pierre de son usine à Lamanon le 2 octobre 2026, marquant une nouvelle étape du projet en présence des représentants de la commune et de la Métropole. Cette implantation crée une opportunité de développement pour les zones d'activité des Bouches-du-Rhône.",
+      "impact": "Conseil : identifier les locaux d'activité disponibles à proximité de Lamanon pour les sous-traitants et prestataires de Mirion Technologies.",
+      "date": "03/10/2026",
+      "url": "https://www.laprovence.com/article/economie/99195041358686/la-premiere-pierre-du-futur-site-de-mirion-technologies-est-posee-a-lamanon",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Centre-ville",
+          "label": "Activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Forum emploi et intérim à La Ciotat : 70 jeunes et recruteurs en rencontre",
-      "body": "La Mission locale a organisé un forum dédié à l'emploi et l'intérim le 30 septembre avec 70 jeunes et plusieurs agences d'intérim. Cet événement cofinancé par le Fonds social européen reflète des tensions de recrutement sur la côte PACA.",
-      "impact": "Maintien d'une demande de bureaux pour agences d'intérim et RH en zone littorale PACA : sécuriser les baux avec clauses flexibles face à l'incertitude macro.",
+      "title": "Trophées des Entrepreneurs Vaucluse : dynamique PME régionale",
+      "body": "Les Entrepreneurs Vaucluse ont décerné sept trophées positifs lors de leur 7e édition le 1er octobre 2026 à Vedène. Cette reconnaissance valorise les entreprises performantes du département et reflète une dynamique entrepreneuriale soutenue en région PACA.",
+      "impact": "Conseil : développer des portefeuilles de locaux d'activité adaptés aux PME/ETI vauclusiennes en croissance.",
       "date": "02/10/2026",
-      "url": "https://www.laprovence.com/article/economie/70-jeunes-a-la-rencontre-des-recruteurs-au-forum-de-l-emploi-et-de-l-interim-a-la-ciotat",
+      "url": "https://www.laprovence.com/article/region/47802497355311/pour-leur-7e-edition-les-entrepreneurs-vaucluse-decernent-sept-trophees-positifs-a-vedene",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché travail",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Côte PACA",
-          "cls": "tp"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Stabilité des taux bancaires : Euribor 3M à 2.15%, OAT 10Y à 3.70%",
-      "body": "Les taux d'emprunt long terme restent stables avec les OAT 10 ans à 3.70% et l'Euribor 3 mois à 2.15%, confirmant une pause dans la politique monétaire. Ces niveaux maintiennent un coût de financement modéré pour les investissements immobiliers.",
-      "impact": "Conditions de financement immobilier stables : accélérer les montages d'acquisition de portefeuille tertiaire PACA avant potentiel resserrement BCE fin 2026.",
-      "date": "02/10/2026",
-      "url": "https://www.laprovence.com/article/economie/19213277145466/budget-2027-pensions-impots-ce-qui-pourrait-changer-pour-les-retraites",
-      "source": "La Provence",
+      "title": "Financement immobilier : contexte OAT stable à 3,70%",
+      "body": "L'environnement de financement reste marqué par des taux obligataires français stables et une Euribor 3M à 2,15%. Ce contexte soutient les transactions immobilières d'entreprise avec des coûts de financement maîtrisés.",
+      "impact": "Conseil : valoriser auprès des acquéreurs les conditions de financement favorables pour accélérer les négociations de transactions bureaux/activité.",
+      "date": "03/10/2026",
+      "url": "https://www.banquefrance.fr",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "Taux-Financement",
+          "label": "Taux",
           "cls": "tt"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Financement",
+          "cls": "tt"
         }
       ]
     }
@@ -100,57 +100,57 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Budget 2027 : gel des APL et allocations, économies de 43 milliards d'euros",
-      "body": "Le gouvernement a annoncé le 1er octobre un plan de redressement des finances publiques visant 43 milliards d'euros d'économies, incluant gel des APL et allocations familiales. Cette austérité macro affectera le pouvoir d'achat des ménages locataires.",
-      "impact": "Érosion de la demande de petits bureaux partagés et locaux PME : cibler les clients stables et structurés, réduire les prix marché de -3 à -5% pour compenser baisse demande.",
+      "title": "G7 libère 100M barils pour stabiliser carburants",
+      "body": "Les pays du G7 ont décidé vendredi de libérer jusqu'à 100 millions de barils de diesel et pétrole brut pour faire baisser les prix des carburants. Emmanuel Macron estime que cette action devrait réduire les coûts énergétiques à court terme.",
+      "impact": "Impact sur les coûts logistiques des transactions et déplacements professionnels en PACA : baisse attendue des frais de transport et d'exploitation.",
       "date": "02/10/2026",
-      "url": "https://www.laprovence.com/article/economie/8952785583471914/budget-2027-gel-des-apl-et-des-allocations-familiales-ce-qui-pourrait-changer-pour-vos-aides",
+      "url": "https://www.laprovence.com/article/economie/103548740860714/carburants-pour-faire-baisser-les-prix-les-pays-du-g7-vont-liberer-jusqua-100-millions-de-barils-annonce-macron",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Geopolitique",
           "cls": "tg"
         },
         {
-          "label": "Politique budgétaire",
-          "cls": "tt"
+          "label": "Énergie",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Brent 96 USD/baril : énergie stable dans l'incertitude géopolitique",
-      "body": "Le pétrole Brent se maintient à 96 USD le baril dans un contexte d'équilibre offre-demande mondial. Les tensions géopolitiques persistantes limitent une baisse significative des prix énergétiques.",
-      "impact": "Coûts de chauffage-climatisation tertiaire PACA stables : intégrer 96 USD/baril dans les estimations charges pour baux indexés CPI+énergie.",
+      "title": "Salaires fonction publique : hausse indice janvier 2027",
+      "body": "Le ministre des Comptes publics David Amiel a proposé une hausse de l'indice minimum des fonctionnaires au 1er janvier 2027, bénéficiant à environ 400 000 agents publics. Cette mesure vise à atténuer les tensions sociales dans le secteur public.",
+      "impact": "Augmentation du pouvoir d'achat des agents publics PACA : reprise possible de la demande locative bureaux et activation de relocalisations administratives.",
       "date": "02/10/2026",
-      "url": "https://www.laprovence.com/article/economie/19845292459466/budget-2027-le-medef-evalue-a-pres-de-20-milliards-d-euros-les-prelevements-et-taxes-touchant-les-entreprises",
-      "source": "Marché",
+      "url": "https://www.laprovence.com/article/economie/97084772443556/salaire-des-agents-publics-le-gouvernement-propose-de-relever-le-minimum-de-lindice-au-1er-janvier-2027",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Énergie-Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
         },
         {
-          "label": "Conjoncture",
-          "cls": "tt"
+          "label": "France",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE à 2.15% : pause monétaire, vigilance inflation 1.7%",
-      "body": "La Banque centrale européenne maintient les taux directeurs à 2.15% tandis que l'inflation zone euro reste modérée à 1.7%. Cette posture laisse ouvert un scénario de baisse progressive des taux avant fin 2026.",
-      "impact": "Fenêtre de financement favorable : débloquer les montages SCPI et fonds immobiliers avant potentiel rebond de l'inflation et resserrement monétaire Q4 2026.",
-      "date": "02/10/2026",
-      "url": "https://www.laprovence.com/article/economie/8952785583471914/budget-2027-gel-des-apl-et-des-allocations-familiales-ce-qui-pourrait-changer-pour-vos-aides",
-      "source": "La Provence",
+      "title": "Contexte monétaire BCE stable à 2,15%",
+      "body": "La Banque Centrale Européenne maintient son taux directeur à 2,15%, confirmant une pause dans le cycle de baisse des taux. L'inflation résiduelle en zone euro demeure à 1,7%, soutenant une approche prudente.",
+      "impact": "Maintien des conditions de financement stables : les transactions CRE ne subissent pas de choc de taux, permettant une planification prévisible.",
+      "date": "03/10/2026",
+      "url": "https://www.ecb.europa.eu",
+      "source": "Données Marché BCE",
       "tags": [
         {
-          "label": "Monétaire",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Inflation-OAT",
+          "label": "Inflation",
           "cls": "tt"
         }
       ]

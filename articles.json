@@ -1,11 +1,11 @@
 {
-  "generated_at": "04/10/2026",
+  "generated_at": "05/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Massilia Business Park : reconversion majeure à Marseille Nord",
-      "body": "L'ancienne sucrière Saint-Louis de Marseille Nord fait peau neuve via Brownfields. Le chantier de réhabilitation en friches industrielles débute, créant une nouvelle zone mixte bureaux-activités.",
-      "impact": "Opportunité de positionnement sur un pôle tertiaire émergent nord-Marseille ; vérifier les phases de commercialisation et les surfaces disponibles en bureaux/activité.",
+      "title": "Massilia Business Park : réhabilitation de friche industrielle à Marseille",
+      "body": "La rénovation de l'ancienne sucrière Saint-Louis au nord de Marseille débute avec Brownfields. Ce projet de reconversion illustre la dynamique de transformation des friches industrielles en espaces tertiaires dans la métropole marseillaise.",
+      "impact": "Opportunité de repositionnement locatif pour les professionnels cherchant des bureaux/activité en localisations restructurées avec forte attractivité urbaine.",
       "date": "04/10/2026",
       "url": "https://www.laprovence.com/article/ecoplanete/2602120554217514/massilia-business-park-le-futur-look-de-l-ancienne-sucriere-saint-louis-au-nord-de-marseille",
       "source": "La Provence",
@@ -15,16 +15,16 @@
           "cls": "tp"
         },
         {
-          "label": "Reconversion",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "L'Îlot d'Aubagne : mixité commerciale et tertiaire inaugurée",
-      "body": "Aubagne accueille un nouveau complexe mixte incluant restaurants, bureaux et ressourcerie. Cette inauguration reflète une dynamique de reconversion urbaine en zone PACA sud.",
-      "impact": "Surveiller les appels à locataires pour les espaces tertiaires/commerciaux à Aubagne ; potentiel de demande pour petites/moyennes surfaces bureaux.",
+      "title": "L'Îlot d'Aubagne inaugure mix-use avec bureaux et commerces",
+      "body": "Le projet emblématique d'Aubagne combine restaurants, bureaux, ressourcerie et services publics en un seul îlot urbain. Cette mixité fonctionnelle répond aux évolutions de demande en espaces tertiaires polyvalents et attractifs.",
+      "impact": "Modèle de développement pertinent pour conseiller clients en recherche de locaux multifonctionnels avec complémentarité commerciale et bureaux dans les centralités aubagnoises.",
       "date": "04/10/2026",
       "url": "https://www.laprovence.com/article/societe/113369492111814/restaurants-bureaux-la-maison-du-don-du-sang-ressourcerie-l-ilot-d-aubagne-a-ete-inaugure",
       "source": "La Provence",
@@ -34,64 +34,60 @@
           "cls": "tp"
         },
         {
-          "label": "Mixité urbaine",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Twin Jet renforce la connectivité aérienne PACA-France",
-      "body": "La compagnie régionale twin Jet ouvre une liaison Marseille-Strasbourg, améliorant l'accessibilité aux hubs professionnels. Cette ligne régionale crée des synergies pour les entreprises PACA.",
-      "impact": "Positif pour l'attractivité tertiaire Marseille/Aix : amélioration de la connectivité favorable aux sièges sociaux et bureaux de représentation.",
-      "date": "03/10/2026",
-      "url": "https://www.laprovence.com/article/region/53183179782012/la-compagnie-aerienne-twin-jet-ouvre-une-ligne-entre-marseille-et-strasbourg",
+      "title": "Accessibilité des territoires PACA : coûts d'études et attractivité",
+      "body": "La hausse des coûts pour étudier à Marseille interroge l'accessibilité territoriale et l'attractivité des centres urbains régionaux. Ces tensions reflètent une pression immobilière croissante impactant les services aux entreprises.",
+      "impact": "Analyser la corrélation entre coûts immobiliers résidentiels et demande de bureaux/commerces dans les centralités marseillaises pour adapter stratégies de prix de location.",
+      "date": "05/10/2026",
+      "url": "https://www.laprovence.com/article/economie/65671317229883/le-soleil-est-gratuit-pas-les-etudes-combien-ca-coute-d-etudier-a-marseille-quand-on-vient-de-loin",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Accessibilité",
+          "label": "PACA Marché",
           "cls": "tp"
         },
         {
-          "label": "Infrastructure",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Rachat Galeries Lafayette Marseille : processus administratif long",
-      "body": "La Ville de Marseille tarde à finaliser l'acquisition des locaux Galeries Lafayette du centre Bourse (10 mois après validation). Les délais administratifs ralentissent la transformation du commerce de centre-ville.",
-      "impact": "Contexte de recomposition commerciale lente à Marseille centre ; vigilance sur la disponibilité de surfaces commerciales premium et repositionnement tertiaire en attente.",
-      "date": "03/10/2026",
-      "url": "https://www.laprovence.com/article/economie/112520501312514/rachat-des-locaux-des-galeries-lafayette-par-la-ville-de-marseille-plus-long-que-si-on-devait-racheter-le-real",
+      "title": "Orange : hausses tarifaires et pouvoir d'achat des TPE/PME PACA",
+      "body": "L'augmentation des tarifs Orange sur forfaits et Livebox impacte directement les budgets opérationnels des petites entreprises régionales. Ces compressions de marge influencent les décisions d'investissement immobilier tertiaire.",
+      "impact": "Facteur à intégrer dans les négociations commerciales : clients fragilisés financièrement cherchent optimisation coûts d'exploitation via renegociation loyers bureaux/activité.",
+      "date": "05/10/2026",
+      "url": "https://www.laprovence.com/article/economie/11276724511299/orange-augmente-ses-prix-est-ce-legal-et-comment-eviter-la-hausse-sur-votre-forfait-mobile-et-votre-livebox",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Commerce",
-          "cls": "tp"
-        },
-        {
-          "label": "Marseille centre",
+          "label": "Conjoncture",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Contexte emploi/entrepreneuriat : dynamique formation PACA",
-      "body": "Aix-en-Provence et Avignon lancent des initiatives emploi (La Bonne Boîte, Les Entrep' Vaucluse) pour rapprocher jeunes et entreprises. Ces mouvements signalent une tension du marché travail tertiaire régional.",
-      "impact": "Indicateur de demande croissante en espaces de co-working/flex-office pour PME/startups ; étudier offre agile bureaux Aix et Avignon.",
-      "date": "03/10/2026",
-      "url": "https://www.laprovence.com/article/economie/13545683105581/la-bonne-boite-mise-sur-le-jeu-pour-rapprocher-les-jeunes-de-lemploi-a-aix-en-provence",
+      "title": "Initiative Pays d'Aix soutient 6 entrepreneurs : dynamique entrepreneuriale régionale",
+      "body": "Le Réseau Initiative Pays d'Aix a remis des chèques à six entrepreneurs de Simiane-Collongue, validant un vivier d'activité croissant. Cette dynamique entrepreneuriale territoriale crée demande structurée en locaux d'activité.",
+      "impact": "Secteur entrepreneur/startup du territoire Aix en croissance : prospecter auprès des bénéficiaires Initiative pour besoins en petits bureaux/locaux flexibles.",
+      "date": "05/10/2026",
+      "url": "https://www.laprovence.com/article/region/18712920931413/six-entrepreneurs-mis-a-l-honneur-avec-initiative-pays-d-aix-a-simiane-collongue",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Emploi",
+          "label": "PACA Activité",
           "cls": "tp"
         },
         {
-          "label": "Flex-Office",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
@@ -100,57 +96,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Taux OAT 10Y stable à 3,70% : financement tertiaire stable",
-      "body": "Les obligations d'État français restent à 3,70%, reflétant une attente de stabilité monétaire en zone euro. Euribor 3M se maintient à 2,15%, soutenant les financements CRE à moyen terme.",
-      "impact": "Conditions de financement demeurent accessibles pour acquisitions/restructurations de bureaux/activité PACA ; verrouiller les taux avant tout infléchissement BCE.",
-      "date": "04/10/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Donnees marche",
+      "title": "Conjoncture : tensions logistiques Corsica Linea impactent flux commerciaux PACA",
+      "body": "Malgré la levée de grève CGT des marins, les navires Corsica Linea restent à quai entre Marseille et la Corse. Cette paralysie logistique crée incertitudes sur chaînes d'approvisionnement régionales.",
+      "impact": "Secteur logistique/commerce marseillais fragilisé : renégociations de flux peuvent générer demande temporaire en stockage/locaux activité d'appoint.",
+      "date": "05/10/2026",
+      "url": "https://www.laprovence.com/article/economie/98615641078697/corsica-linea-malgre-la-levee-de-la-greve-a-marseille-et-en-corse-les-navires-restent-a-quai",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux OAT",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France modérée à 1,7% : contexte deflationniste partiel",
-      "body": "L'inflation reste contenue à 1,7% en septembre 2026, suggérant une demande pondérée en France. La BCE maintient son taux directeur à 2,15% en attente d'évolutions.",
-      "impact": "Marché tertiaire PACA moins volatil ; pressions locatives limitées ; fenêtre favorable pour négociations baux moyen terme avec tenants.",
-      "date": "04/10/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Donnees marche",
+      "title": "Taux OAT 3.70% : environnement de financement des investissements immobiliers tertiaires",
+      "body": "Les taux longs français (OAT) se stabilisent autour de 3.70%, maintenant un coût de financement modéré pour les investisseurs CRE. Euribor 3M à 2.15% reflète une liquidité prudente de la BCE.",
+      "impact": "Fenêtre de financement favorable pour transactions bureaux/activité PACA : taux d'emprunt restent accessibles, soutenir prospection clients investisseurs.",
+      "date": "05/10/2026",
+      "url": "https://data.bmarkets.com/rates",
+      "source": "Marchés Financiers",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tg"
-        },
-        {
-          "label": "BCE",
+          "label": "Taux",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Energie/Brent 96$/baril : contexte geopolitique stable",
-      "body": "Le pétrole Brent se stabilise à 96 USD/baril, reflétant un équilibre offre-demande géopolitique sans tension majeure. L'énergie reste un facteur non perturbateur pour les opérations immobilières.",
-      "impact": "Coûts d'exploitation/chauffage prévisibles pour immeubles tertiaires PACA ; pas de surcharge énergétique à intégrer dans modèles de rendement.",
-      "date": "04/10/2026",
-      "url": "https://www.laprovence.com",
-      "source": "Donnees marche",
+      "title": "Formation aux travaux publics : investissement infrastructure future PACA",
+      "body": "217 jeunes diplômés de l'ÉCIR à Mallemort sanctionnent une année de formation aux chantiers de demain. Cet investissement pédagogique régional prépare capital humain pour cycles d'infrastructure à venir.",
+      "impact": "Demande croissante en espaces tertiaires et locaux d'activité pour entreprises BTP dans le sillage de projets d'infrastructure régionaux futurs.",
+      "date": "05/10/2026",
+      "url": "https://www.laprovence.com/article/economie/12622343685002/a-l-ecir-l-ecole-des-travaux-publics-de-mallemort-les-jeunes-talents-se-forment-aux-chantiers-de-demain",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Energie",
-          "cls": "tg"
-        },
-        {
-          "label": "Geopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]

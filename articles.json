@@ -1,94 +1,78 @@
 {
-  "generated_at": "05/10/2026",
+  "generated_at": "06/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Massilia Business Park : réhabilitation de friche industrielle à Marseille",
-      "body": "La rénovation de l'ancienne sucrière Saint-Louis au nord de Marseille débute avec Brownfields. Ce projet de reconversion illustre la dynamique de transformation des friches industrielles en espaces tertiaires dans la métropole marseillaise.",
-      "impact": "Opportunité de repositionnement locatif pour les professionnels cherchant des bureaux/activité en localisations restructurées avec forte attractivité urbaine.",
-      "date": "04/10/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/2602120554217514/massilia-business-park-le-futur-look-de-l-ancienne-sucriere-saint-louis-au-nord-de-marseille",
+      "title": "Pays d'Aix : afflux de start-up, la métropole reprend les pépinières",
+      "body": "La Métropole Aix-Marseille-Provence renforce son contrôle sur les structures d'accompagnement face à l'afflux croissant de start-up innovantes. Malgré un contexte international incertain, les chiffres d'implantation demeurent robustes sur le territoire.",
+      "impact": "Opportunité pour Stenen de prospecter des espaces d'activité et bureaux auprès des structures d'accueil de start-up en développement accéléré sur l'axe Aix-Marseille.",
+      "date": "06/10/2026",
+      "url": "https://www.laprovence.com/article/economie/19616710095496/pays-d-aix-developpement-alors-que-les-start-up-affluent-la-metropole-reprend-la-main-sur-les-pepinieres",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Bureaux",
+          "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "L'Îlot d'Aubagne inaugure mix-use avec bureaux et commerces",
-      "body": "Le projet emblématique d'Aubagne combine restaurants, bureaux, ressourcerie et services publics en un seul îlot urbain. Cette mixité fonctionnelle répond aux évolutions de demande en espaces tertiaires polyvalents et attractifs.",
-      "impact": "Modèle de développement pertinent pour conseiller clients en recherche de locaux multifonctionnels avec complémentarité commerciale et bureaux dans les centralités aubagnoises.",
-      "date": "04/10/2026",
-      "url": "https://www.laprovence.com/article/societe/113369492111814/restaurants-bureaux-la-maison-du-don-du-sang-ressourcerie-l-ilot-d-aubagne-a-ete-inaugure",
+      "title": "Impulse : l'incubateur provençal relie recherche et économie",
+      "body": "Créé en 2000, Impulse demeure un acteur clé du maillage d'incubateurs et d'accélérateurs couvrant le territoire provençal avec près d'une centaine de structures. Il renforce les liens entre recherche publique et monde économique local.",
+      "impact": "Relayer auprès de la clientèle tech-PACA la demande accrue de locaux modulaires et espaces collaboratifs pour héberger incubés et accélérés.",
+      "date": "06/10/2026",
+      "url": "https://www.laprovence.com/article/economie/17986175159416/impulse-le-moteur-de-la-deeptech-provencale",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Commerce",
+          "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Accessibilité des territoires PACA : coûts d'études et attractivité",
-      "body": "La hausse des coûts pour étudier à Marseille interroge l'accessibilité territoriale et l'attractivité des centres urbains régionaux. Ces tensions reflètent une pression immobilière croissante impactant les services aux entreprises.",
-      "impact": "Analyser la corrélation entre coûts immobiliers résidentiels et demande de bureaux/commerces dans les centralités marseillaises pour adapter stratégies de prix de location.",
-      "date": "05/10/2026",
-      "url": "https://www.laprovence.com/article/economie/65671317229883/le-soleil-est-gratuit-pas-les-etudes-combien-ca-coute-d-etudier-a-marseille-quand-on-vient-de-loin",
+      "title": "Châteauneuf-les-Martigues : concours pour dénicher les pépites",
+      "body": "La Direction du développement économique organise un concours annuel récompensant créateurs et porteurs de projets de moins de trois ans. Les Trophées du créateur visent à soutenir l'entrepreneuriat territorial.",
+      "impact": "Identifier et prospecter les lauréats des concours locaux comme prospects directs pour location bureaux/activité/commerce en phase de croissance.",
+      "date": "06/10/2026",
+      "url": "https://www.laprovence.com/article/economie/53551946106901/chateauneuf-les-martigues-lance-son-concours-pour-denicher-les-pepites-du-territoire",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Marché",
+          "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Orange : hausses tarifaires et pouvoir d'achat des TPE/PME PACA",
-      "body": "L'augmentation des tarifs Orange sur forfaits et Livebox impacte directement les budgets opérationnels des petites entreprises régionales. Ces compressions de marge influencent les décisions d'investissement immobilier tertiaire.",
-      "impact": "Facteur à intégrer dans les négociations commerciales : clients fragilisés financièrement cherchent optimisation coûts d'exploitation via renegociation loyers bureaux/activité.",
-      "date": "05/10/2026",
-      "url": "https://www.laprovence.com/article/economie/11276724511299/orange-augmente-ses-prix-est-ce-legal-et-comment-eviter-la-hausse-sur-votre-forfait-mobile-et-votre-livebox",
+      "title": "Orange : ouverture du Joli Studio, nouvelle adresse commerce",
+      "body": "Élise Roblot a inauguré en 2026 le Joli Studio, salon de beauté ongles cours Aristide Briand à Orange. Cette nouvelle adresse illustre la vitalité des implantations commerciales en PACA.",
+      "impact": "Confirmer la demande pour petits locaux commerciaux de prestige en centre-ville PACA ; adapter offre Stenen à ce type de profil.",
+      "date": "06/10/2026",
+      "url": "https://www.laprovence.com/article/region/354908687068614/a-orange-elise-ouvre-le-joli-studio-dedie-a-la-beaute-des-ongles",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Initiative Pays d'Aix soutient 6 entrepreneurs : dynamique entrepreneuriale régionale",
-      "body": "Le Réseau Initiative Pays d'Aix a remis des chèques à six entrepreneurs de Simiane-Collongue, validant un vivier d'activité croissant. Cette dynamique entrepreneuriale territoriale crée demande structurée en locaux d'activité.",
-      "impact": "Secteur entrepreneur/startup du territoire Aix en croissance : prospecter auprès des bénéficiaires Initiative pour besoins en petits bureaux/locaux flexibles.",
-      "date": "05/10/2026",
-      "url": "https://www.laprovence.com/article/region/18712920931413/six-entrepreneurs-mis-a-l-honneur-avec-initiative-pays-d-aix-a-simiane-collongue",
+      "title": "Financement : levées de fonds et structures d'accompagnement",
+      "body": "Les levées de fonds ralentissent tandis que les aides aux start-up marquent le pas, mettant sous tension les incubateurs et accélérateurs provençaux. Cette contraction du financement affecte les capacités d'expansion des jeunes entreprises.",
+      "impact": "Anticiper baisse de demande bureaux/activité court-terme ; repositionner offre flex-office et sublocation pour réduire risque locataire jeune PME.",
+      "date": "06/10/2026",
+      "url": "https://www.laprovence.com/article/economie/11832092791215/aides-en-berne-levees-au-ralenti-le-grand-virage-de-la-tech-du-sud",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Activité",
+          "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     }
@@ -96,46 +80,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Conjoncture : tensions logistiques Corsica Linea impactent flux commerciaux PACA",
-      "body": "Malgré la levée de grève CGT des marins, les navires Corsica Linea restent à quai entre Marseille et la Corse. Cette paralysie logistique crée incertitudes sur chaînes d'approvisionnement régionales.",
-      "impact": "Secteur logistique/commerce marseillais fragilisé : renégociations de flux peuvent générer demande temporaire en stockage/locaux activité d'appoint.",
-      "date": "05/10/2026",
-      "url": "https://www.laprovence.com/article/economie/98615641078697/corsica-linea-malgre-la-levee-de-la-greve-a-marseille-et-en-corse-les-navires-restent-a-quai",
+      "title": "France-Italie : renforcement des liens économiques à Marseille",
+      "body": "Maxime Tommasini œuvre au renforcement des échanges commerciaux franco-italiens depuis Marseille, symbole du redynamisme logistique et commercial provençal. Les foires dédiées aux produits italiens attestent d'une reprise des flux commerciaux méditerranéens.",
+      "impact": "Observer hausse potentielle demande bureaux/logistique commerce à Marseille port ; repositionner offre vers secteurs import-export et agro-alimentaire.",
+      "date": "06/10/2026",
+      "url": "https://www.laprovence.com/article/economie/28511945067280/portait-de-maxime-tommasini-qui-oeuvre-a-marseille-au-renforcement-des-liens-economiques-entre-france-et-italie",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Taux OAT 3.70% : environnement de financement des investissements immobiliers tertiaires",
-      "body": "Les taux longs français (OAT) se stabilisent autour de 3.70%, maintenant un coût de financement modéré pour les investisseurs CRE. Euribor 3M à 2.15% reflète une liquidité prudente de la BCE.",
-      "impact": "Fenêtre de financement favorable pour transactions bureaux/activité PACA : taux d'emprunt restent accessibles, soutenir prospection clients investisseurs.",
-      "date": "05/10/2026",
-      "url": "https://data.bmarkets.com/rates",
-      "source": "Marchés Financiers",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "m3",
-      "title": "Formation aux travaux publics : investissement infrastructure future PACA",
-      "body": "217 jeunes diplômés de l'ÉCIR à Mallemort sanctionnent une année de formation aux chantiers de demain. Cet investissement pédagogique régional prépare capital humain pour cycles d'infrastructure à venir.",
-      "impact": "Demande croissante en espaces tertiaires et locaux d'activité pour entreprises BTP dans le sillage de projets d'infrastructure régionaux futurs.",
-      "date": "05/10/2026",
-      "url": "https://www.laprovence.com/article/economie/12622343685002/a-l-ecir-l-ecole-des-travaux-publics-de-mallemort-les-jeunes-talents-se-forment-aux-chantiers-de-demain",
+      "title": "Conjoncture 2027 : prélèvement sur fonds délaissés à 17%",
+      "body": "Le Budget 2027 introduit un prélèvement de 17% sur comptes bancaires, assurances-vie et livrets A oubliés, transférés à la CDC. Cette mesure affecte épargne dormante et consommation futures des ménages.",
+      "impact": "Évaluer impact sur trésorerie clients CRE et capacités d'investissement immobilier ; anticiper baisse légère des appétences aux acquisitions.",
+      "date": "06/10/2026",
+      "url": "https://www.laprovence.com/article/economie/32374250126117/budget-2027-comptes-bancaires-assurances-vie-ou-livrets-a-oublies-cest-quoi-ce-nouveau-prelevement-de-17",
       "source": "La Provence",
       "tags": [
         {
           "label": "Conjoncture",
           "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Taux OAT et financement immobilier : stabilité relative",
+      "body": "Les OAT 10Y se maintiennent à 3.70%, l'Euribor 3M à 2.15% et la BCE maintient son taux directeur à 2.15%. Ces niveaux reflètent une stabilité relative malgré les incertitudes macroéconomiques.",
+      "impact": "Conditions de financement immobilier restent acceptables pour clients PACA ; consolider offre crédit-bailleur avant tout durcissement monétaire.",
+      "date": "06/10/2026",
+      "url": "https://www.laprovence.com/article/economie",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }

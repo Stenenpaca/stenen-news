@@ -1,98 +1,78 @@
 {
-  "generated_at": "07/10/2026",
+  "generated_at": "08/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Économie PACA reste solide malgré les incertitudes géopolitiques",
-      "body": "La Banque de France et l'Insee confirment la résilience de l'économie régionale face aux tensions internationales et aux déficits budgétaires. Cette stabilité macroéconomique soutient la demande locative tertiaire en PACA.",
-      "impact": "Environnement favorable pour consolider les portefeuilles bureaux et locaux d'activité en région PACA avec taux de rendement supportés par la conjoncture régionale.",
-      "date": "07/10/2026",
-      "url": "https://www.laprovence.com/article/economie/1085874196144214/la-banque-de-france-et-l-insee-le-confirment-l-economie-de-paca-reste-solide-en-depit-des-incertitudes",
+      "title": "Forum des entrepreneurs : le patronat face aux urgences du territoire",
+      "body": "La 25e édition du Forum des Entrepreneurs de Marseille organisée par l'UPE 13 rassemble près de 4000 patrons et acteurs économiques autour des enjeux territoriaux. Présidée pour la première fois par Jean-Christophe Amarantinis, cette édition met l'accent sur l'avenir des jeunes et la responsabilité du patronat face aux défis régionaux.",
+      "impact": "Opportunité de networking et positionnement auprès des décideurs PACA pour les conseils en transaction bureaux et locaux d'activité.",
+      "date": "08/10/2026",
+      "url": "https://www.laprovence.com/article/economie/33454976551977/forum-des-entrepreneurs-le-patronat-face-aux-urgences-du-territoire-a-marseille",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Café créatif Éklâ à Avignon : succès et expansion après 6 mois",
-      "body": "Le concept hybride café-espace créatif d'Éklâ dépasse les attentes avec un succès commercial supérieur aux prévisions et des projets de recrutement imminents. Cette dynamique reflète une demande croissante pour des espaces multifonctionnels flexibles en centre-ville.",
-      "impact": "Opportunité d'identifier des locaux flexibles ou en colocation créative à Avignon et agglomération pour les entrepreneurs cherchant des espaces évolutifs type flex-office.",
-      "date": "07/10/2026",
-      "url": "https://www.laprovence.com/article/region/19978520694815/six-mois-apres-son-ouverture-le-succes-du-cafe-creatif-ekla-a-avignon-qui-envisage-deja-de-recruter",
+      "title": "Inflation : alerte sur une hausse de 2 à 3% des prix en 2027",
+      "body": "Le patron d'Intermarché anticipe une inflation de 2 à 3% à partir de mars 2027 si les acteurs économiques ne font pas preuve de responsabilité. Cette prévision impacte directement les coûts d'exploitation et les valeurs locatives du secteur commercial et d'activité.",
+      "impact": "Anticiper une réévaluation des loyers commerciaux et locaux d'activité dès 2027 ; conseiller les preneurs sur les clauses de révision d'indice.",
+      "date": "08/10/2026",
+      "url": "https://www.laprovence.com/article/economie/46860553781799/inflation-le-patron-dintermarche-alerte-sur-une-hausse-de-2-a-3-des-prix-en-2027",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Flex-office",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Grand Frais ouvre son 10e magasin en Bouches-du-Rhône",
-      "body": "L'enseigne de distribution poursuit son expansion régionale avec l'ouverture d'un nouveau magasin entre Aubagne et Gémenos sur la route de Gémenos. Cette accélération commerciale confirme l'attractivité du marché de la Grande Provence.",
-      "impact": "Identifier les opportunités de locaux commerciaux et d'activité dans les axes d'expansion retail PACA pour soutenir la croissance des enseignes en franchise.",
-      "date": "06/10/2026",
-      "url": "https://www.laprovence.com/article/economie/53014921271212/un-magasin-grand-frais-va-bientot-ouvrir-entre-aubagne-et-gemenos",
+      "title": "Commercants de Pertuis : escape game grandeur nature pour animer la ville",
+      "body": "L'association Les Vitrines de Pertuis organise un escape game urbain dimanche 11 octobre pour valoriser les commerces et les savoir-faire locaux. Cette initiative illustre la dynamique d'animation et de revitalisation des zones commerciales territoriales.",
+      "impact": "Signal positif pour les investisseurs en immobilier commercial ; identifier les opportunités de locaux commerciaux dans les zones actives et dynamiques.",
+      "date": "08/10/2026",
+      "url": "https://www.laprovence.com/article/region/1144734611038214/pour-faire-decouvrir-leur-ville-les-commercants-de-pertuis-organisent-un-escape-game-grandeur-nature",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Filière nucléaire : 6 000 à 10 000 postes à pourvoir en PACA d'ici 2035",
-      "body": "France Travail estime un besoin massif de recrutements dans le secteur nucléaire en région PACA, soutenu par une stratégie nationale. Cette transition énergétique génère une demande structurelle pour des bureaux et locaux d'activité dédiés.",
-      "impact": "Anticiper les besoins en immobilier tertiaire pour les entreprises de la chaîne nucléaire (engineering, services, R&D) en Provence pour sécuriser les mandats long terme.",
-      "date": "06/10/2026",
-      "url": "https://www.laprovence.com/article/economie/24083456209789/a-marseille-le-nucleaire-veut-aussi-compter-sur-les-femmes",
+      "title": "Forum de la formation à Tarascon : développer les compétences territoriales",
+      "body": "La première édition du Forum de la formation se tient samedi 10 octobre à Tarascon pour aider les professionnels à développer leurs compétences et réorienter leur parcours. Cette initiative témoigne d'une demande croissante de flexibilité et d'adaptation des espaces de travail.",
+      "impact": "Identifier les besoins en locaux d'activité flexibles et espaces de co-working adaptés à la formation professionnelle continue en PACA.",
+      "date": "08/10/2026",
+      "url": "https://www.laprovence.com/article/economie/1131657958836214/un-premier-forum-pour-decouvrir-les-formations-du-territoire-a-tarascon-samedi-10-octobre",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Energie",
-          "cls": "tg"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Marseille Innovation : 30 ans d'entrepreneuriat face aux défis économiques",
-      "body": "L'incubateur historique marseillais maintient son dynamisme entrepreneurial malgré un climat d'investissement atone et un attentisme des financeurs. La stratégie se réoriente vers l'acquisition de clients plutôt que la levée de capitaux.",
-      "impact": "Valoriser les locaux innovants et flex-office auprès des startups marseillaises cherchant des espaces d'activité modulables et accessibles en contexte de financement contraint.",
-      "date": "06/10/2026",
-      "url": "https://www.laprovence.com/article/economie/53487485204651/trouver-des-clients-plutot-que-lever-des-millions-le-cap-des-30-ans-de-marseille-innovation",
-      "source": "La Provence",
+      "title": "OAT et taux de financement : contexte de stabilité monétaire",
+      "body": "Les OAT à 3.70% et l'Euribor 3M à 2.15% maintiennent un environnement de financement stable pour les investissements immobiliers. Cette stabilité favorise les transactions et refinancements des actifs bureaux et activité en région.",
+      "impact": "Profiter de la fenêtre de taux favorable pour conseiller les acquéreurs en transaction ; les conditions de financement restent compétitives pour les projets immobiliers PACA.",
+      "date": "08/10/2026",
+      "url": "https://www.laprovence.com/article/economie/reference-taux",
+      "source": "Donnees Marche",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Innovation",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     }
@@ -100,58 +80,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Stabilité monétaire ECB : taux directeur et OAT soutiennent la valorisation immobilière",
-      "body": "La Banque Centrale Européenne maintient ses taux directeurs à 2,15% tandis que les OAT françaises se stabilisent à 3,70%. Cette configuration favorable réduit les pressions sur les coûts de financement des investissements immobiliers professionnels.",
-      "impact": "Fenêtre d'opportunité pour sécuriser les montages financiers des acquisitions CRE avant tout resserrement monétaire potentiel en 2027.",
-      "date": "07/10/2026",
-      "url": "https://www.laprovence.com/article/economie/1085874196144214/la-banque-de-france-et-l-insee-le-confirment-l-economie-de-paca-reste-solide-en-depit-des-incertitudes",
+      "title": "Grève TotalEnergies : tensions sur l'énergie et coûts d'exploitation",
+      "body": "La grève des salariés de TotalEnergies ce jeudi 8 octobre provoque des pénuries de carburant, des blocages de raffineries et des fermetures de stations. Ces perturbations énergétiques impactent directement les coûts d'exploitation et la rentabilité des immeubles tertiaires et locaux d'activité.",
+      "impact": "Évaluer l'impact des coûts énergétiques sur les charges locatives ; conseiller sur la valeur ajoutée des certifications énergétiques et des solutions d'efficacité thermique.",
+      "date": "08/10/2026",
+      "url": "https://www.laprovence.com/article/economie/47752660543114/greve-chez-totalenergies-penurie-de-carburant-blocus-stations-fermees-quel-impact-a-la-pompe-ce-jeudi",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "BCE",
-          "cls": "tt"
+          "label": "Geopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "France face aux risques géopolitiques et déficits budgétaires structurels en 2026",
-      "body": "Guerre, tensions moyen-orientales et rivalités commerciales créent un contexte économique dégradé pour la France avec déficits budgétaires élevés et perspectives d'investissement atones. L'inflation modérée (1,7%) n'offre qu'une consolation partielle.",
-      "impact": "Renforcer la qualité des actifs CRE en valorisant les emplacements stratégiques et les locataires résilients face aux turbulences macroéconomiques.",
-      "date": "07/10/2026",
-      "url": "https://www.laprovence.com/article/economie/1085874196144214/la-banque-de-france-et-l-insee-le-confirment-l-economie-de-paca-reste-solide-en-depit-des-incertitudes",
-      "source": "La Provence",
+      "title": "Inflation France : stabilité à 1.7% avec vigilance BCE à 2.15%",
+      "body": "L'inflation française se maintient à 1.7% tandis que la BCE conserve ses taux directeurs à 2.15%, reflétant une approche prudente face aux risques macroéconomiques. Cet équilibre entre stabilité monétaire et vigilance inflationniste structure les conditions de financement des investissements immobiliers.",
+      "impact": "Maintenir une stratégie d'investissement en immobilier PACA avec des rendements cibles de 4-5% nets pour compenser le risque inflationniste structurel.",
+      "date": "08/10/2026",
+      "url": "https://www.laprovence.com/article/economie/reference-inflation",
+      "source": "Donnees Marche",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Inflation",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Énergie : Brent à 96 USD, transition nucléaire et diversification énergétique régionale",
-      "body": "Le pétrole brut Brent se maintient à 96 USD/baril tandis que la stratégie française privilégie le nucléaire pour pallier les tensions énergétiques. La PACA devient un pôle stratégique d'investissement dans la transition énergétique.",
-      "impact": "Opportunités immobilières tertiaires pour les équipementiers, services et R&D nucléaires s'installant en région PACA pour soutenir les objectifs nationaux d'indépendance énergétique.",
+      "title": "Gala économique Vélodrome : mobilisation des décideurs PACA",
+      "body": "La soirée de gala économique au stade Vélodrome le 7 octobre rassemble les décideurs et entrepreneurs des Bouches-du-Rhône autour des enjeux du territoire. Cet événement phare traduit une volonté de cohésion économique régionale malgré un contexte macro instable.",
+      "impact": "Consolider le positionnement de Stenen auprès de l'écosystème décideurs PACA ; exploiter ces réseaux pour développer le portefeuille transactionnel.",
       "date": "07/10/2026",
-      "url": "https://www.laprovence.com/article/economie/24083456209789/a-marseille-le-nucleaire-veut-aussi-compter-sur-les-femmes",
+      "url": "https://www.laprovence.com/article/economie/1500718958208114/soiree-de-gala-economique-au-stade-velodrome-cap-sur-lavenir-du-territoire",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Énergie",
-          "cls": "tg"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     }

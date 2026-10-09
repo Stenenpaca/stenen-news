@@ -1,30 +1,57 @@
 {
-  "generated_at": "08/10/2026",
+  "generated_at": "09/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Forum des entrepreneurs : le patronat face aux urgences du territoire",
-      "body": "La 25e édition du Forum des Entrepreneurs de Marseille organisée par l'UPE 13 rassemble près de 4000 patrons et acteurs économiques autour des enjeux territoriaux. Présidée pour la première fois par Jean-Christophe Amarantinis, cette édition met l'accent sur l'avenir des jeunes et la responsabilité du patronat face aux défis régionaux.",
-      "impact": "Opportunité de networking et positionnement auprès des décideurs PACA pour les conseils en transaction bureaux et locaux d'activité.",
+      "title": "Forum des entrepreneurs : l'attractivité régionale PACA en collectif",
+      "body": "Le Forum des entrepreneurs de Marseille met l'accent sur l'attractivité régionale comme enjeu collectif. Une étude EY auprès de 200 dirigeants étrangers souligne les atouts majeurs de la région PACA pour l'implantation d'entreprises.",
+      "impact": "Opportunités d'expansion pour les transactions de bureaux et locaux d'activité auprès d'entreprises étrangères attirées par l'écosystème régional.",
       "date": "08/10/2026",
-      "url": "https://www.laprovence.com/article/economie/33454976551977/forum-des-entrepreneurs-le-patronat-face-aux-urgences-du-territoire-a-marseille",
+      "url": "https://www.laprovence.com/article/economie/4365803356462/au-forum-des-entrepreneurs-a-marseille-l-attractivite-regionale-se-joue-dans-le-collectif",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Attractivité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Inflation : alerte sur une hausse de 2 à 3% des prix en 2027",
-      "body": "Le patron d'Intermarché anticipe une inflation de 2 à 3% à partir de mars 2027 si les acteurs économiques ne font pas preuve de responsabilité. Cette prévision impacte directement les coûts d'exploitation et les valeurs locatives du secteur commercial et d'activité.",
-      "impact": "Anticiper une réévaluation des loyers commerciaux et locaux d'activité dès 2027 ; conseiller les preneurs sur les clauses de révision d'indice.",
-      "date": "08/10/2026",
-      "url": "https://www.laprovence.com/article/economie/46860553781799/inflation-le-patron-dintermarche-alerte-sur-une-hausse-de-2-a-3-des-prix-en-2027",
+      "title": "Salon des maires 04 : opportunités de développement territorial",
+      "body": "Le Salon des maires des Alpes-de-Haute-Provence à Forcalquier (8 octobre) a rassemblé élus et entreprises. Cet événement favorise les rencontres B2B et les partenariats de développement local.",
+      "impact": "Positionnement stratégique pour démarcher les communes et intercommunalités en quête de solutions immobilières pour leurs zones d'activité.",
+      "date": "09/10/2026",
+      "url": "https://www.laprovence.com/article/region/1273150478491214/salon-des-maires-des-alpes-de-haute-provence-a-forcalquier-des-entreprises-cinq-candidatures-et-deux-trophees",
       "source": "La Provence",
       "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Collectivités",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Centre de congrès Agora : fermeture et opportunités immobilières",
+      "body": "Le centre de congrès Agora d'Aubagne ferme ses portes au 31 décembre 2026 après gestion par la Semagora depuis 1990. Cette fermeture libère des surfaces immobilières significatives en zone métropolitaine.",
+      "impact": "Expertise stratégique requise pour repositionner ou valoriser les locaux d'activité/commerce du site Agora auprès de nouveaux exploitants.",
+      "date": "09/10/2026",
+      "url": "https://www.laprovence.com/article/economie/2371325948656914/au-31-decembre-2026-le-centre-de-congres-d-aubagne-baissera-le-rideau-pourquoi-la-fermeture-du-site-devrait-durer",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
         {
           "label": "Marché",
           "cls": "tm"
@@ -32,47 +59,40 @@
       ]
     },
     {
-      "id": "f3",
-      "title": "Commercants de Pertuis : escape game grandeur nature pour animer la ville",
-      "body": "L'association Les Vitrines de Pertuis organise un escape game urbain dimanche 11 octobre pour valoriser les commerces et les savoir-faire locaux. Cette initiative illustre la dynamique d'animation et de revitalisation des zones commerciales territoriales.",
-      "impact": "Signal positif pour les investisseurs en immobilier commercial ; identifier les opportunités de locaux commerciaux dans les zones actives et dynamiques.",
-      "date": "08/10/2026",
-      "url": "https://www.laprovence.com/article/region/1144734611038214/pour-faire-decouvrir-leur-ville-les-commercants-de-pertuis-organisent-un-escape-game-grandeur-nature",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
       "id": "f4",
-      "title": "Forum de la formation à Tarascon : développer les compétences territoriales",
-      "body": "La première édition du Forum de la formation se tient samedi 10 octobre à Tarascon pour aider les professionnels à développer leurs compétences et réorienter leur parcours. Cette initiative témoigne d'une demande croissante de flexibilité et d'adaptation des espaces de travail.",
-      "impact": "Identifier les besoins en locaux d'activité flexibles et espaces de co-working adaptés à la formation professionnelle continue en PACA.",
+      "title": "Créer de la valeur autrement : enjeux énergétiques pour l'immobilier",
+      "body": "Au Café de l'éco, Solène Desmonais (Engie) souligne que la création de valeur repose désormais sur la résilience, l'adaptabilité et le collectif face aux défis des ressources. Les entreprises doivent repenser leur gestion énergétique.",
+      "impact": "Les immeubles de bureaux et locaux PACA doivent intégrer critères de sobriété énergétique pour rester attractifs et conformes aux attentes des preneurs.",
       "date": "08/10/2026",
-      "url": "https://www.laprovence.com/article/economie/1131657958836214/un-premier-forum-pour-decouvrir-les-formations-du-territoire-a-tarascon-samedi-10-octobre",
+      "url": "https://www.laprovence.com/article/economie/2273383432011114/cafe-de-leco-de-la-provence-creer-de-la-valeur-autrement-les-entreprises-face-au-defi-des-ressources",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Régulation",
+          "cls": "tr"
+        },
+        {
+          "label": "Durabilité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "OAT et taux de financement : contexte de stabilité monétaire",
-      "body": "Les OAT à 3.70% et l'Euribor 3M à 2.15% maintiennent un environnement de financement stable pour les investissements immobiliers. Cette stabilité favorise les transactions et refinancements des actifs bureaux et activité en région.",
-      "impact": "Profiter de la fenêtre de taux favorable pour conseiller les acquéreurs en transaction ; les conditions de financement restent compétitives pour les projets immobiliers PACA.",
+      "title": "Management et mixité : gouvernance d'entreprise post-crise",
+      "body": "Au Forum des entrepreneurs, trois dirigeants débattent des nouveaux modèles de gouvernance face aux crises géopolitiques, climatiques et technologiques. L'abandon des certitudes devient clé pour piloter efficacement.",
+      "impact": "Les entreprises en transition recherchent des espaces flexibles et collaboratifs ; opportunité d'offres de bureaux modulables en PACA.",
       "date": "08/10/2026",
-      "url": "https://www.laprovence.com/article/economie/reference-taux",
-      "source": "Donnees Marche",
+      "url": "https://www.laprovence.com/article/economie/22230073669172/management-mixite-l-entreprise-face-au-miroir-de-la-societe",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Flex-office",
+          "cls": "tm"
+        },
+        {
+          "label": "Tendance",
+          "cls": "tp"
         }
       ]
     }
@@ -80,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Grève TotalEnergies : tensions sur l'énergie et coûts d'exploitation",
-      "body": "La grève des salariés de TotalEnergies ce jeudi 8 octobre provoque des pénuries de carburant, des blocages de raffineries et des fermetures de stations. Ces perturbations énergétiques impactent directement les coûts d'exploitation et la rentabilité des immeubles tertiaires et locaux d'activité.",
-      "impact": "Évaluer l'impact des coûts énergétiques sur les charges locatives ; conseiller sur la valeur ajoutée des certifications énergétiques et des solutions d'efficacité thermique.",
+      "title": "Souveraineté énergétique et continuité : stratégie TotalEnergies",
+      "body": "Isabelle Patrier (directrice TotalEnergies France) précise que la souveraineté énergétique ne signifie pas repli sur soi, mais garantie de sécurité et continuité. Enjeu majeur de stabilité pour les investissements industriels en France.",
+      "impact": "Stabilité énergétique requise pour les projets de locaux d'activité/industrie en PACA; assurer la continuité d'approvisionnement devient critère de sélection client.",
       "date": "08/10/2026",
-      "url": "https://www.laprovence.com/article/economie/47752660543114/greve-chez-totalenergies-penurie-de-carburant-blocus-stations-fermees-quel-impact-a-la-pompe-ce-jeudi",
+      "url": "https://www.laprovence.com/article/economie/40598439313721/prix-des-carburants-souverainete-le-decryptage-disabelle-patrier-directrice-de-totalenergies-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Geopolitique",
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France : stabilité à 1.7% avec vigilance BCE à 2.15%",
-      "body": "L'inflation française se maintient à 1.7% tandis que la BCE conserve ses taux directeurs à 2.15%, reflétant une approche prudente face aux risques macroéconomiques. Cet équilibre entre stabilité monétaire et vigilance inflationniste structure les conditions de financement des investissements immobiliers.",
-      "impact": "Maintenir une stratégie d'investissement en immobilier PACA avec des rendements cibles de 4-5% nets pour compenser le risque inflationniste structurel.",
-      "date": "08/10/2026",
-      "url": "https://www.laprovence.com/article/economie/reference-inflation",
-      "source": "Donnees Marche",
+      "title": "OAT 3.70% : contexte de taux stables pour financement CRE",
+      "body": "Les OAT françaises à 10 ans se maintiennent à 3.70%, reflétant une stabilité relative des taux long terme. Environnement favorable pour les financements immobiliers d'entreprise à moyen terme.",
+      "impact": "Conditions de crédit immobilier prévisibles pour les clients PACA ; communiquer sur fenêtres de refinancement optimales aux emprunteurs.",
+      "date": "09/10/2026",
+      "url": "https://www.laprovence.com/article/economie/0",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Inflation",
+          "label": "Taux OAT",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Gala économique Vélodrome : mobilisation des décideurs PACA",
-      "body": "La soirée de gala économique au stade Vélodrome le 7 octobre rassemble les décideurs et entrepreneurs des Bouches-du-Rhône autour des enjeux du territoire. Cet événement phare traduit une volonté de cohésion économique régionale malgré un contexte macro instable.",
-      "impact": "Consolider le positionnement de Stenen auprès de l'écosystème décideurs PACA ; exploiter ces réseaux pour développer le portefeuille transactionnel.",
-      "date": "07/10/2026",
-      "url": "https://www.laprovence.com/article/economie/1500718958208114/soiree-de-gala-economique-au-stade-velodrome-cap-sur-lavenir-du-territoire",
-      "source": "La Provence",
+      "title": "Inflation et politique monétaire : BCE à 2.15% Euribor stable",
+      "body": "L'inflation en France s'établit à 1.7%, bien en deçà du seuil de 2%, tandis que la BCE maintient ses taux directeurs à 2.15% et l'Euribor 3M à 2.15%. Contexte de relative stabilité prix et coûts de financement.",
+      "impact": "Environnement favorable aux négociations de taux indexés Euribor pour emprunteurs PACA ; anticiper stabilité moyen terme.",
+      "date": "09/10/2026",
+      "url": "https://www.laprovence.com/article/economie/0",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Inflation",
+          "cls": "tg"
+        },
+        {
+          "label": "Taux BCE",
+          "cls": "tt"
         }
       ]
     }

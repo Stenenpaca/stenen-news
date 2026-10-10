@@ -1,13 +1,13 @@
 {
-  "generated_at": "09/10/2026",
+  "generated_at": "10/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Forum des entrepreneurs : l'attractivité régionale PACA en collectif",
-      "body": "Le Forum des entrepreneurs de Marseille met l'accent sur l'attractivité régionale comme enjeu collectif. Une étude EY auprès de 200 dirigeants étrangers souligne les atouts majeurs de la région PACA pour l'implantation d'entreprises.",
-      "impact": "Opportunités d'expansion pour les transactions de bureaux et locaux d'activité auprès d'entreprises étrangères attirées par l'écosystème régional.",
-      "date": "08/10/2026",
-      "url": "https://www.laprovence.com/article/economie/4365803356462/au-forum-des-entrepreneurs-a-marseille-l-attractivite-regionale-se-joue-dans-le-collectif",
+      "title": "Fin de la gratuité des transports : impacts sur les coûts d'exploitation PACA",
+      "body": "Nicolas Isnard, président de la Métropole, dévoile les premières mesures suite à l'arrêt de la gratuité des transports en commun. Cette transformation affectera directement les charges d'exploitation des entreprises et les coûts de mobilité des salariés en région PACA.",
+      "impact": "Les locataires de bureaux et locaux d'activité doivent anticiper une hausse des charges de transport et ajuster leurs stratégies de localisation et d'accessibilité pour attirer les talents.",
+      "date": "09/10/2026",
+      "url": "https://www.laprovence.com/article/economie/2073019449341214/fin-de-la-gratuite-des-transports-nicolas-isnard-president-de-la-metropole-devoile-ses-premieres-mesures",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Attractivité",
-          "cls": "tm"
+          "label": "Mobilité",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Salon des maires 04 : opportunités de développement territorial",
-      "body": "Le Salon des maires des Alpes-de-Haute-Provence à Forcalquier (8 octobre) a rassemblé élus et entreprises. Cet événement favorise les rencontres B2B et les partenariats de développement local.",
-      "impact": "Positionnement stratégique pour démarcher les communes et intercommunalités en quête de solutions immobilières pour leurs zones d'activité.",
+      "title": "Flambée du carburant : pression accrue sur les TPE du secteur tertiaire",
+      "body": "Les prix à la pompe atteignent 2,50€/litre de gazole, exaspérant automobilistes et petits entrepreneurs exclus des aides gouvernementales. Les auto-écoles, infirmières libérales et services mobiles doivent augmenter leurs tarifs pour maintenir la rentabilité.",
+      "impact": "Les entreprises de services et les locataires de petits commerces/locaux d'activité en PACA connaîtront une compression de leurs marges, accentuant la demande de locaux à faible coût en zones stratégiques.",
       "date": "09/10/2026",
-      "url": "https://www.laprovence.com/article/region/1273150478491214/salon-des-maires-des-alpes-de-haute-provence-a-forcalquier-des-entreprises-cinq-candidatures-et-deux-trophees",
+      "url": "https://www.laprovence.com/article/economie/2073019449341214/flambee-du-carburant-on-va-devoir-augmenter-nos-tarifs-les-auto-ecoles-s-adaptent-pour-continuer-a-rouler",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Collectivités",
+          "label": "Conjoncture",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Centre de congrès Agora : fermeture et opportunités immobilières",
-      "body": "Le centre de congrès Agora d'Aubagne ferme ses portes au 31 décembre 2026 après gestion par la Semagora depuis 1990. Cette fermeture libère des surfaces immobilières significatives en zone métropolitaine.",
-      "impact": "Expertise stratégique requise pour repositionner ou valoriser les locaux d'activité/commerce du site Agora auprès de nouveaux exploitants.",
-      "date": "09/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2371325948656914/au-31-decembre-2026-le-centre-de-congres-d-aubagne-baissera-le-rideau-pourquoi-la-fermeture-du-site-devrait-durer",
+      "title": "Partenariat Sciences Po Aix-Medef Sud : renforcement de l'écosystème entrepreneurial",
+      "body": "Une convention signée en octobre 2026 entre Sciences Po Aix et le Medef Sud Sud vise à renforcer le dialogue entre mondes économique et académique pour l'insertion des jeunes. Cette dynamique contribue au rayonnement de l'écosystème entrepreneurial régional.",
+      "impact": "Les bailleurs de bureaux et locaux commerciaux en PACA bénéficieront d'une demande accrue de petits espaces pour startups et jeunes entreprises issues des programmes d'insertion.",
+      "date": "10/10/2026",
+      "url": "https://www.laprovence.com/article/economie/34798786558746/sciences-po-aix-et-le-medef-sud-partenaires-pour-l-insertion-des-jeunes-et-pour-etudier-les-enjeux-de-territoire",
       "source": "La Provence",
       "tags": [
         {
@@ -60,39 +60,39 @@
     },
     {
       "id": "f4",
-      "title": "Créer de la valeur autrement : enjeux énergétiques pour l'immobilier",
-      "body": "Au Café de l'éco, Solène Desmonais (Engie) souligne que la création de valeur repose désormais sur la résilience, l'adaptabilité et le collectif face aux défis des ressources. Les entreprises doivent repenser leur gestion énergétique.",
-      "impact": "Les immeubles de bureaux et locaux PACA doivent intégrer critères de sobriété énergétique pour rester attractifs et conformes aux attentes des preneurs.",
-      "date": "08/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2273383432011114/cafe-de-leco-de-la-provence-creer-de-la-valeur-autrement-les-entreprises-face-au-defi-des-ressources",
+      "title": "Confiance entrepreneuriale en hausse vs érosion de confiance envers élus locaux",
+      "body": "73% des habitants de la région PACA considèrent l'entrepreneur comme tiers de confiance, tandis que la confiance envers les élus locaux s'érode. Cette dynamique reflète l'importance croissante du secteur privé dans la gouvernance territoriale.",
+      "impact": "Les cabinets de conseil CRE doivent renforcer leur rôle d'interlocuteur de confiance auprès des entreprises pour accompagner les transitions de mobilité et fiscalité impactant les décisions immobilières.",
+      "date": "10/10/2026",
+      "url": "https://www.laprovence.com/article/economie/3712741030414/mobilite-fiscalite-et-fin-de-la-gratuite-des-transports-le-grand-face-a-face-d-isnard-et-amarantinis",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Durabilité",
+          "label": "Conjoncture",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Management et mixité : gouvernance d'entreprise post-crise",
-      "body": "Au Forum des entrepreneurs, trois dirigeants débattent des nouveaux modèles de gouvernance face aux crises géopolitiques, climatiques et technologiques. L'abandon des certitudes devient clé pour piloter efficacement.",
-      "impact": "Les entreprises en transition recherchent des espaces flexibles et collaboratifs ; opportunité d'offres de bureaux modulables en PACA.",
-      "date": "08/10/2026",
-      "url": "https://www.laprovence.com/article/economie/22230073669172/management-mixite-l-entreprise-face-au-miroir-de-la-societe",
+      "title": "Relance productive : retour de la Chips d'Allauch dans l'industrie légère PACA",
+      "body": "Après 7 mois d'arrêt, la Chips d'Allauch reprend sa production avec retour en rayons à emballage identique. Ce redémarrage symbolise la résilience des PME agroalimentaires et manufacturières de la région.",
+      "impact": "Opportunité de relocation/extension d'ateliers et locaux d'activité pour entreprises agroalimentaires et manufactura locales bénéficiant d'une dynamique de reshoring en PACA.",
+      "date": "09/10/2026",
+      "url": "https://www.laprovence.com/article/societe/3195915932159214/gout-rustique-gras-et-sale-la-chips-d-allauch-est-de-retour-dans-les-rayons",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Flex-office",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Tendance",
-          "cls": "tp"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,11 +100,30 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Souveraineté énergétique et continuité : stratégie TotalEnergies",
-      "body": "Isabelle Patrier (directrice TotalEnergies France) précise que la souveraineté énergétique ne signifie pas repli sur soi, mais garantie de sécurité et continuité. Enjeu majeur de stabilité pour les investissements industriels en France.",
-      "impact": "Stabilité énergétique requise pour les projets de locaux d'activité/industrie en PACA; assurer la continuité d'approvisionnement devient critère de sélection client.",
-      "date": "08/10/2026",
-      "url": "https://www.laprovence.com/article/economie/40598439313721/prix-des-carburants-souverainete-le-decryptage-disabelle-patrier-directrice-de-totalenergies-france",
+      "title": "Budget 2027 : rejet de la partie recettes en commission parlementaire",
+      "body": "Les députés ont rejeté de manière quasiment unanime la partie recettes du projet de budget 2027 en commission vendredi. Le débat à l'hémicycle mardi prochain devrait clarifier l'orientation fiscale pour les entreprises et l'immobilier commercial.",
+      "impact": "L'incertitude budgétaire pèse sur les décisions d'investissement immobilier ; attendez la clarification fiscale avant d'engager de gros projets transaction/conseil en PACA.",
+      "date": "09/10/2026",
+      "url": "https://www.laprovence.com/article/politique/139318803286814/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission-debat-mardi-dans-lhemicycle",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Fiscalité",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Crise énergétique : prix carburant à 2,50€/L, tensions géopolitiques persistantes",
+      "body": "Les prix à la pompe frôlent 2,50€/litre de gazole avec ruptures dans les stations Total, reflétant des tensions géopolitiques durables impactant l'offre énergétique. Brent coté 96$/bbl en contexte de volatilité persistante.",
+      "impact": "La hausse structurelle des coûts énergétiques augmente les charges d'exploitation des immeubles tertiaires ; valorisez les certifications d'efficacité énergétique dans vos transactions PACA.",
+      "date": "09/10/2026",
+      "url": "https://www.laprovence.com/article/economie/2002578648519114/les-pleins-d-essence-c-est-fini-les-prix-a-la-pompe-exasperent-les-automobilistes-a-aubagne",
       "source": "La Provence",
       "tags": [
         {
@@ -118,39 +137,20 @@
       ]
     },
     {
-      "id": "m2",
-      "title": "OAT 3.70% : contexte de taux stables pour financement CRE",
-      "body": "Les OAT françaises à 10 ans se maintiennent à 3.70%, reflétant une stabilité relative des taux long terme. Environnement favorable pour les financements immobiliers d'entreprise à moyen terme.",
-      "impact": "Conditions de crédit immobilier prévisibles pour les clients PACA ; communiquer sur fenêtres de refinancement optimales aux emprunteurs.",
-      "date": "09/10/2026",
-      "url": "https://www.laprovence.com/article/economie/0",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Taux OAT",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
       "id": "m3",
-      "title": "Inflation et politique monétaire : BCE à 2.15% Euribor stable",
-      "body": "L'inflation en France s'établit à 1.7%, bien en deçà du seuil de 2%, tandis que la BCE maintient ses taux directeurs à 2.15% et l'Euribor 3M à 2.15%. Contexte de relative stabilité prix et coûts de financement.",
-      "impact": "Environnement favorable aux négociations de taux indexés Euribor pour emprunteurs PACA ; anticiper stabilité moyen terme.",
+      "title": "Transformation digitale pilotée par Orange : numérique comme droit fondamental",
+      "body": "François-Xavier Rey (Orange Sud-Est) promeut une vision du numérique comme droit et non privilège, pilotant la transformation digitale en région. Contexte d'inflation 1,7% et taux BCE 2,15% soutiennent les investissements infrastructurels.",
+      "impact": "Demande croissante d'espaces « smart office » équipés fibre/5G en PACA ; privilégiez les bâtiments tertiaires dotés d'infrastructures digitales performantes dans vos propositions.",
       "date": "09/10/2026",
-      "url": "https://www.laprovence.com/article/economie/0",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/3200057947589314/francois-xavier-rey-orange-sud-est-se-confie-le-numerique-ne-doit-pas-etre-un-privilege-mais-un-droit",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tg"
+          "label": "Conjoncture",
+          "cls": "tm"
         },
         {
-          "label": "Taux BCE",
+          "label": "Taux",
           "cls": "tt"
         }
       ]

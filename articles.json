@@ -1,13 +1,13 @@
 {
-  "generated_at": "10/10/2026",
+  "generated_at": "11/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Fin de la gratuité des transports : impacts sur les coûts d'exploitation PACA",
-      "body": "Nicolas Isnard, président de la Métropole, dévoile les premières mesures suite à l'arrêt de la gratuité des transports en commun. Cette transformation affectera directement les charges d'exploitation des entreprises et les coûts de mobilité des salariés en région PACA.",
-      "impact": "Les locataires de bureaux et locaux d'activité doivent anticiper une hausse des charges de transport et ajuster leurs stratégies de localisation et d'accessibilité pour attirer les talents.",
-      "date": "09/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2073019449341214/fin-de-la-gratuite-des-transports-nicolas-isnard-president-de-la-metropole-devoile-ses-premieres-mesures",
+      "title": "Pôle IA à Marseille Nord : opportunité immobilière majeure",
+      "body": "Les quartiers Nord de Marseille pourraient accueillir l'un des plus grands pôles d'intelligence artificielle de France, attirant entrepreneurs et investisseurs. Cette dynamique crée une demande nouvelle d'espaces bureaux et locaux d'activité dans le secteur.",
+      "impact": "Anticiper une hausse de la demande locative bureaux/activité à Marseille Nord et repositionner le portefeuille conseil-transaction vers cette zone.",
+      "date": "11/10/2026",
+      "url": "https://www.laprovence.com/article/economie/2794379562811514/et-si-les-quartiers-nord-de-marseille-hebergeaient-lun-des-plus-grands-poles-dintelligence-artificielle-de-france",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Mobilité",
-          "cls": "tr"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Flambée du carburant : pression accrue sur les TPE du secteur tertiaire",
-      "body": "Les prix à la pompe atteignent 2,50€/litre de gazole, exaspérant automobilistes et petits entrepreneurs exclus des aides gouvernementales. Les auto-écoles, infirmières libérales et services mobiles doivent augmenter leurs tarifs pour maintenir la rentabilité.",
-      "impact": "Les entreprises de services et les locataires de petits commerces/locaux d'activité en PACA connaîtront une compression de leurs marges, accentuant la demande de locaux à faible coût en zones stratégiques.",
-      "date": "09/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2073019449341214/flambee-du-carburant-on-va-devoir-augmenter-nos-tarifs-les-auto-ecoles-s-adaptent-pour-continuer-a-rouler",
+      "title": "Arles : 1 500 m² commercialisés en zone Fer à cheval",
+      "body": "L'ACCM va commercialiser un terrain de 1 500 m² dans la zone du Fer à cheval à Arles pour permettre aux acteurs économiques de s'installer. Cette offre foncière rare répond à un besoin identifié des entreprises locales.",
+      "impact": "Promouvoir cette opportunité foncière auprès de prospects recherchant des surfaces locaux activité/commerce en PACA avec accès facilité.",
+      "date": "10/10/2026",
+      "url": "https://www.laprovence.com/article/economie/2056385611709614/la-communaute-d-agglomeration-accm-va-commercialiser-un-terrain-de-1-500-m-dans-la-zone-du-fer-a-cheval",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Conjoncture",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Partenariat Sciences Po Aix-Medef Sud : renforcement de l'écosystème entrepreneurial",
-      "body": "Une convention signée en octobre 2026 entre Sciences Po Aix et le Medef Sud Sud vise à renforcer le dialogue entre mondes économique et académique pour l'insertion des jeunes. Cette dynamique contribue au rayonnement de l'écosystème entrepreneurial régional.",
-      "impact": "Les bailleurs de bureaux et locaux commerciaux en PACA bénéficieront d'une demande accrue de petits espaces pour startups et jeunes entreprises issues des programmes d'insertion.",
-      "date": "10/10/2026",
-      "url": "https://www.laprovence.com/article/economie/34798786558746/sciences-po-aix-et-le-medef-sud-partenaires-pour-l-insertion-des-jeunes-et-pour-etudier-les-enjeux-de-territoire",
+      "title": "Commerce en centre-ville : Eyragues consulte les habitants",
+      "body": "La mairie d'Eyragues lance une consultation citoyenne pour déterminer quel commerce ouvrira rue du Dr-Fouquet, garantissant une viabilité commerciale alignée aux attentes locales. Cette approche participative valorise les études de marché local.",
+      "impact": "Intégrer l'analyse des besoins commerciaux exprimés par les habitants dans les recommandations de positionnement pour locaux commerce PACA.",
+      "date": "11/10/2026",
+      "url": "https://www.laprovence.com/article/economie/3856110492884814/les-habitants-d-eyragues-invites-a-choisir-le-nouveau-commerce-qui-ouvrira-rue-du-dr-fouquet",
       "source": "La Provence",
       "tags": [
         {
@@ -60,11 +60,11 @@
     },
     {
       "id": "f4",
-      "title": "Confiance entrepreneuriale en hausse vs érosion de confiance envers élus locaux",
-      "body": "73% des habitants de la région PACA considèrent l'entrepreneur comme tiers de confiance, tandis que la confiance envers les élus locaux s'érode. Cette dynamique reflète l'importance croissante du secteur privé dans la gouvernance territoriale.",
-      "impact": "Les cabinets de conseil CRE doivent renforcer leur rôle d'interlocuteur de confiance auprès des entreprises pour accompagner les transitions de mobilité et fiscalité impactant les décisions immobilières.",
-      "date": "10/10/2026",
-      "url": "https://www.laprovence.com/article/economie/3712741030414/mobilite-fiscalite-et-fin-de-la-gratuite-des-transports-le-grand-face-a-face-d-isnard-et-amarantinis",
+      "title": "Inflation et pouvoir d'achat : contexte tendu pour commerces",
+      "body": "Les Provençaux réduisent drastiquement leurs dépenses de loisirs et services (coiffeur, bien-être, shopping) face à l'inflation et la flambée des carburants. Ce recul du pouvoir d'achat impacte directement la viabilité des espaces commerciaux.",
+      "impact": "Réévaluer les hypothèses de CA locatifs pour commerce/services et conseiller les bailleurs sur une plus grande flexibilité tarifaire.",
+      "date": "11/10/2026",
+      "url": "https://www.laprovence.com/article/societe/2704515562615914/coiffeur-shopping-bien-etre-les-provencaux-arrivent-ils-encore-a-se-faire-plaisir-malgre-l-inflation",
       "source": "La Provence",
       "tags": [
         {
@@ -72,18 +72,18 @@
           "cls": "tp"
         },
         {
-          "label": "Conjoncture",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Relance productive : retour de la Chips d'Allauch dans l'industrie légère PACA",
-      "body": "Après 7 mois d'arrêt, la Chips d'Allauch reprend sa production avec retour en rayons à emballage identique. Ce redémarrage symbolise la résilience des PME agroalimentaires et manufacturières de la région.",
-      "impact": "Opportunité de relocation/extension d'ateliers et locaux d'activité pour entreprises agroalimentaires et manufactura locales bénéficiant d'une dynamique de reshoring en PACA.",
-      "date": "09/10/2026",
-      "url": "https://www.laprovence.com/article/societe/3195915932159214/gout-rustique-gras-et-sale-la-chips-d-allauch-est-de-retour-dans-les-rayons",
+      "title": "Carburants : patrons cherchent solutions alternatives",
+      "body": "Face à la flambée du carburant, les entreprises régionales s'adaptent alors que l'État libère 10 millions de barils de gazole. Cette tension sur les coûts d'exploitation affecte la compétitivité des zones périphériques.",
+      "impact": "Consolider l'attractivité des locaux activité logistique en zones bien desservies et réduire l'intérêt pour sites éloignés des transports.",
+      "date": "11/10/2026",
+      "url": "https://www.laprovence.com/article/economie/4576016876387414/face-a-la-flambee-du-carburant-ces-patrons-qui-passent-a-l-action",
       "source": "La Provence",
       "tags": [
         {
@@ -100,55 +100,43 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Budget 2027 : rejet de la partie recettes en commission parlementaire",
-      "body": "Les députés ont rejeté de manière quasiment unanime la partie recettes du projet de budget 2027 en commission vendredi. Le débat à l'hémicycle mardi prochain devrait clarifier l'orientation fiscale pour les entreprises et l'immobilier commercial.",
-      "impact": "L'incertitude budgétaire pèse sur les décisions d'investissement immobilier ; attendez la clarification fiscale avant d'engager de gros projets transaction/conseil en PACA.",
-      "date": "09/10/2026",
-      "url": "https://www.laprovence.com/article/politique/139318803286814/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission-debat-mardi-dans-lhemicycle",
+      "title": "Crise énergétique et carburants : impact sur coûts France",
+      "body": "Flambée durable des prix énergétiques et carburants pèse sur la compétitivité des entreprises françaises. Le gouvernement déploie des mesures d'urgence (libération de stocks gazole) face à la tensión.",
+      "impact": "La hausse structurelle des coûts opérationnels renforce la demande pour espaces bureaux économes et locaux logistique bien localisés.",
+      "date": "11/10/2026",
+      "url": "https://www.laprovence.com/article/economie/4576016876387414/face-a-la-flambee-du-carburant-ces-patrons-qui-passent-a-l-action",
       "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
           "cls": "tg"
-        },
-        {
-          "label": "Fiscalité",
-          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Crise énergétique : prix carburant à 2,50€/L, tensions géopolitiques persistantes",
-      "body": "Les prix à la pompe frôlent 2,50€/litre de gazole avec ruptures dans les stations Total, reflétant des tensions géopolitiques durables impactant l'offre énergétique. Brent coté 96$/bbl en contexte de volatilité persistante.",
-      "impact": "La hausse structurelle des coûts énergétiques augmente les charges d'exploitation des immeubles tertiaires ; valorisez les certifications d'efficacité énergétique dans vos transactions PACA.",
-      "date": "09/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2002578648519114/les-pleins-d-essence-c-est-fini-les-prix-a-la-pompe-exasperent-les-automobilistes-a-aubagne",
+      "title": "Conjoncture France : inflation et recul pouvoir d'achat",
+      "body": "À six mois de la présidentielle 2027, crise multifactorielle affecte les consommateurs français : inflation, chômage, fins de mois difficiles. 82% des électeurs priorisent le pouvoir d'achat dans leur vote.",
+      "impact": "Environnement macroéconomique dégradé justifie une prudence accrue sur les valorisations immobilières et une exigence de rendement locatif supérieur.",
+      "date": "11/10/2026",
+      "url": "https://www.laprovence.com/article/societe/37323185715234/prix-de-lenergie-des-produits-frais-des-fins-de-mois-de-plus-en-plus-difficiles",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Transformation digitale pilotée par Orange : numérique comme droit fondamental",
-      "body": "François-Xavier Rey (Orange Sud-Est) promeut une vision du numérique comme droit et non privilège, pilotant la transformation digitale en région. Contexte d'inflation 1,7% et taux BCE 2,15% soutiennent les investissements infrastructurels.",
-      "impact": "Demande croissante d'espaces « smart office » équipés fibre/5G en PACA ; privilégiez les bâtiments tertiaires dotés d'infrastructures digitales performantes dans vos propositions.",
-      "date": "09/10/2026",
-      "url": "https://www.laprovence.com/article/economie/3200057947589314/francois-xavier-rey-orange-sud-est-se-confie-le-numerique-ne-doit-pas-etre-un-privilege-mais-un-droit",
+      "title": "Taux OAT/Euribor : contexte de financement toujours resserré",
+      "body": "OAT à 3.70%, Euribor 3M à 2.15%, BCE maintient taux directeur à 2.15% dans contexte inflationniste persistant. Financement immobilier reste coûteux malgré stabilisation relative.",
+      "impact": "Coûts de crédit élevés durables réduisent les seuils de rentabilité IRR pour acquisitions immobilières ; adapter les stratégies d'investissement CRE.",
+      "date": "11/10/2026",
+      "url": "https://www.laprovence.com/article/economie/2729997681238114/infographie-presidentielle-2027-salaires-retraites-ces-5-revendications-cles-qui-scelleront-le-vote-des-provencaux",
       "source": "La Provence",
       "tags": [
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
-        },
         {
           "label": "Taux",
           "cls": "tt"

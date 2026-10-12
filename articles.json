@@ -1,13 +1,13 @@
 {
-  "generated_at": "11/10/2026",
+  "generated_at": "12/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Pôle IA à Marseille Nord : opportunité immobilière majeure",
-      "body": "Les quartiers Nord de Marseille pourraient accueillir l'un des plus grands pôles d'intelligence artificielle de France, attirant entrepreneurs et investisseurs. Cette dynamique crée une demande nouvelle d'espaces bureaux et locaux d'activité dans le secteur.",
-      "impact": "Anticiper une hausse de la demande locative bureaux/activité à Marseille Nord et repositionner le portefeuille conseil-transaction vers cette zone.",
-      "date": "11/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2794379562811514/et-si-les-quartiers-nord-de-marseille-hebergeaient-lun-des-plus-grands-poles-dintelligence-artificielle-de-france",
+      "title": "Cyberattaque sur la chaîne du froid : risques opérationnels pour les locaux",
+      "body": "Les supermarchés Intermarché et Super U ont été victimes d'une cyberattaque visant leurs systèmes frigorifiques, paralysant temporairement la chaîne du froid. Cette attaque inédite révèle la vulnérabilité croissante des infrastructures critiques des commerces et locaux d'activité régionaux.",
+      "impact": "Conseiller une audit de sécurité informatique pour les candidats locataires du secteur alimentaire et distribution en PACA.",
+      "date": "12/10/2026",
+      "url": "https://www.laprovence.com/article/economie/23395706628068/cyberattaque-inedite-et-inacceptable-intermarche-et-super-u-vises-la-chaine-du-froid-brisee",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Arles : 1 500 m² commercialisés en zone Fer à cheval",
-      "body": "L'ACCM va commercialiser un terrain de 1 500 m² dans la zone du Fer à cheval à Arles pour permettre aux acteurs économiques de s'installer. Cette offre foncière rare répond à un besoin identifié des entreprises locales.",
-      "impact": "Promouvoir cette opportunité foncière auprès de prospects recherchant des surfaces locaux activité/commerce en PACA avec accès facilité.",
-      "date": "10/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2056385611709614/la-communaute-d-agglomeration-accm-va-commercialiser-un-terrain-de-1-500-m-dans-la-zone-du-fer-a-cheval",
+      "title": "Réforme titres-restaurant : impact sur l'attractivité des bureaux",
+      "body": "Les députés examinent lundi une réforme majeure des titres-restaurant incluant un double plafond et l'utilisation le dimanche. Cette évolution pourrait renforcer l'attractivité des espaces de bureaux offrant des services de restauration et coworking.",
+      "impact": "Valoriser les immeubles tertiaires PACA avec services intégrés (restaurants, cafétérias) dans les argumentaires de location.",
+      "date": "12/10/2026",
+      "url": "https://www.laprovence.com/article/economie/5404588830914814/titres-restaurant-double-plafond-utilisation-le-dimanche-les-trois-enjeux-dune-reforme-majeure-pour-les-salaries",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Commerce en centre-ville : Eyragues consulte les habitants",
-      "body": "La mairie d'Eyragues lance une consultation citoyenne pour déterminer quel commerce ouvrira rue du Dr-Fouquet, garantissant une viabilité commerciale alignée aux attentes locales. Cette approche participative valorise les études de marché local.",
-      "impact": "Intégrer l'analyse des besoins commerciaux exprimés par les habitants dans les recommandations de positionnement pour locaux commerce PACA.",
-      "date": "11/10/2026",
-      "url": "https://www.laprovence.com/article/economie/3856110492884814/les-habitants-d-eyragues-invites-a-choisir-le-nouveau-commerce-qui-ouvrira-rue-du-dr-fouquet",
+      "title": "Dynamique économique locale : Peyruis lance un dialogue entreprises",
+      "body": "La municipalité de Peyruis (Alpes-de-Haute-Provence) institue un rendez-vous régulier avec les chefs d'entreprise pour créer une dynamique économique locale. Cette initiative pérenne reflète une volonté de renforcer l'attractivité du territoire auprès des PME.",
+      "impact": "Identifier les collectivités PACA engagées dans le soutien économique pour cibler les appels d'offres de locaux commerciaux et d'activité.",
+      "date": "12/10/2026",
+      "url": "https://www.laprovence.com/article/economie/39655018584619/la-municipalite-de-peyruis-instaure-un-dialogue-avec-les-entreprises-pour-creer-une-dynamique-economique",
       "source": "La Provence",
       "tags": [
         {
@@ -60,39 +60,39 @@
     },
     {
       "id": "f4",
-      "title": "Inflation et pouvoir d'achat : contexte tendu pour commerces",
-      "body": "Les Provençaux réduisent drastiquement leurs dépenses de loisirs et services (coiffeur, bien-être, shopping) face à l'inflation et la flambée des carburants. Ce recul du pouvoir d'achat impacte directement la viabilité des espaces commerciaux.",
-      "impact": "Réévaluer les hypothèses de CA locatifs pour commerce/services et conseiller les bailleurs sur une plus grande flexibilité tarifaire.",
-      "date": "11/10/2026",
-      "url": "https://www.laprovence.com/article/societe/2704515562615914/coiffeur-shopping-bien-etre-les-provencaux-arrivent-ils-encore-a-se-faire-plaisir-malgre-l-inflation",
+      "title": "Hausse du gaz : impacts sur les charges d'exploitation tertiaires",
+      "body": "Le prix de référence du gaz augmentera de 6,6% au 1er novembre en France suite à la hausse des prix de marché en septembre. Cette augmentation impactera directement les charges d'exploitation des immeubles de bureaux et locaux d'activité.",
+      "impact": "Intégrer la hausse gaz (+6,6% nov) dans les simulations de rentabilité et les renégociations de charges pour les transactions CRE PACA.",
+      "date": "12/10/2026",
+      "url": "https://www.laprovence.com/article/economie/24335126705829/le-prix-de-reference-du-gaz-augmentera-de-6-6-au-1er-novembre-en-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Carburants : patrons cherchent solutions alternatives",
-      "body": "Face à la flambée du carburant, les entreprises régionales s'adaptent alors que l'État libère 10 millions de barils de gazole. Cette tension sur les coûts d'exploitation affecte la compétitivité des zones périphériques.",
-      "impact": "Consolider l'attractivité des locaux activité logistique en zones bien desservies et réduire l'intérêt pour sites éloignés des transports.",
-      "date": "11/10/2026",
-      "url": "https://www.laprovence.com/article/economie/4576016876387414/face-a-la-flambee-du-carburant-ces-patrons-qui-passent-a-l-action",
+      "title": "Carburants : baisse tarifaire TotalEnergies, allègement logistique",
+      "body": "TotalEnergies s'engage à réduire les prix à la pompe de 8 à 12 centimes/litre pour le gazole, et 20 centimes pour le GNR suite à un déstockage. Cette baisse allègera les coûts de transport et logistique pour les locaux d'activité et les entreprises de distribution régionales.",
+      "impact": "Utiliser cette baisse carburant dans les argumentaires d'attractivité auprès des locataires logistiques et d'activité du corridor PACA.",
+      "date": "12/10/2026",
+      "url": "https://www.laprovence.com/article/economie/5582275472069314/carburants-totalenergies-sengage-a-baisser-les-prix-dans-ses-stations-de-8-a-12-centimes-par-litre",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
           "label": "Marché",
           "cls": "tm"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Crise énergétique et carburants : impact sur coûts France",
-      "body": "Flambée durable des prix énergétiques et carburants pèse sur la compétitivité des entreprises françaises. Le gouvernement déploie des mesures d'urgence (libération de stocks gazole) face à la tensión.",
-      "impact": "La hausse structurelle des coûts opérationnels renforce la demande pour espaces bureaux économes et locaux logistique bien localisés.",
-      "date": "11/10/2026",
-      "url": "https://www.laprovence.com/article/economie/4576016876387414/face-a-la-flambee-du-carburant-ces-patrons-qui-passent-a-l-action",
+      "title": "Prix du gaz en hausse : impact inflation et stabilité macroéconomique",
+      "body": "La Commission de régulation de l'énergie confirme une augmentation de 6,6% du prix du gaz au 1er novembre, reflétant les tensions persistantes sur les marchés énergétiques mondiaux. Cette hausse pourrait contrebalancer les efforts de modération inflationniste en France (inflation actuelle 1,7%).",
+      "impact": "Anticiper un risque inflationniste sur l'énergie qui pourrait peser sur les décisions de financement et les taux d'emprunt des investisseurs CRE immobiliers.",
+      "date": "12/10/2026",
+      "url": "https://www.laprovence.com/article/economie/24335126705829/le-prix-de-reference-du-gaz-augmentera-de-6-6-au-1er-novembre-en-france",
       "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France : inflation et recul pouvoir d'achat",
-      "body": "À six mois de la présidentielle 2027, crise multifactorielle affecte les consommateurs français : inflation, chômage, fins de mois difficiles. 82% des électeurs priorisent le pouvoir d'achat dans leur vote.",
-      "impact": "Environnement macroéconomique dégradé justifie une prudence accrue sur les valorisations immobilières et une exigence de rendement locatif supérieur.",
-      "date": "11/10/2026",
-      "url": "https://www.laprovence.com/article/societe/37323185715234/prix-de-lenergie-des-produits-frais-des-fins-de-mois-de-plus-en-plus-difficiles",
+      "title": "Nobel d'économie : nouveaux modèles de stabilisation macroéconomique",
+      "body": "Michael Woodford et Robert Hall reçoivent le prix Nobel d'économie pour leurs travaux sur les fondements microéconomiques de la stabilisation macroéconomique. Leurs modèles innovants offrent de nouveaux cadres pour comprendre la dynamique inflation-emploi.",
+      "impact": "Ces travaux pourraient influencer les politiques monétaires de la BCE et impacter les conditions de financement des investissements immobiliers CRE à moyen terme.",
+      "date": "12/10/2026",
+      "url": "https://www.laprovence.com/article/economie/548059429578614/le-nobel-deconomie-decerne-aux-americains-michael-woodford-et-robert-hall",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Taux OAT/Euribor : contexte de financement toujours resserré",
-      "body": "OAT à 3.70%, Euribor 3M à 2.15%, BCE maintient taux directeur à 2.15% dans contexte inflationniste persistant. Financement immobilier reste coûteux malgré stabilisation relative.",
-      "impact": "Coûts de crédit élevés durables réduisent les seuils de rentabilité IRR pour acquisitions immobilières ; adapter les stratégies d'investissement CRE.",
-      "date": "11/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2729997681238114/infographie-presidentielle-2027-salaires-retraites-ces-5-revendications-cles-qui-scelleront-le-vote-des-provencaux",
+      "title": "Contexte énergétique : perspectives Brent et stabilité des coûts",
+      "body": "Dans un contexte de tensions géopolitiques persistantes, le Brent demeure à 96 USD/baril, reflétant un équilibre fragile entre offre et demande énergétiques. Les évolutions tarifaires (gaz +6,6%, carburant -8-12 cts/L) signalent une volatilité accrue sur les marchés commodités.",
+      "impact": "Sécuriser les projections d'exploitation pour les immeubles tertiaires et locaux d'activité en consolidant les courbes énergétiques sur 3-5 ans.",
+      "date": "12/10/2026",
+      "url": "https://www.laprovence.com/article/economie/24335126705829/le-prix-de-reference-du-gaz-augmentera-de-6-6-au-1er-novembre-en-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }

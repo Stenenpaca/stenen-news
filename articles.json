@@ -1,13 +1,13 @@
 {
-  "generated_at": "12/10/2026",
+  "generated_at": "13/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Cyberattaque sur la chaîne du froid : risques opérationnels pour les locaux",
-      "body": "Les supermarchés Intermarché et Super U ont été victimes d'une cyberattaque visant leurs systèmes frigorifiques, paralysant temporairement la chaîne du froid. Cette attaque inédite révèle la vulnérabilité croissante des infrastructures critiques des commerces et locaux d'activité régionaux.",
-      "impact": "Conseiller une audit de sécurité informatique pour les candidats locataires du secteur alimentaire et distribution en PACA.",
-      "date": "12/10/2026",
-      "url": "https://www.laprovence.com/article/economie/23395706628068/cyberattaque-inedite-et-inacceptable-intermarche-et-super-u-vises-la-chaine-du-froid-brisee",
+      "title": "Louga : plateforme de gestion locative née à Aix-en-Provence",
+      "body": "Louga propose aux bailleurs un outil de pilotage de location sans passer par une agence immobilière traditionnelle. Cette solution digitale répond aux besoins croissants de modernisation du secteur immobilier en région PACA.",
+      "impact": "Opportunité pour les propriétaires de bureaux et locaux d'activité PACA de réduire les frais de gestion et d'optimiser la rentabilité locative via des outils digitaux.",
+      "date": "13/10/2026",
+      "url": "https://www.laprovence.com/article/economie/20992998568382/louga-la-plateforme-de-gestion-locative-nee-a-aix-en-provence",
       "source": "La Provence",
       "tags": [
         {
@@ -15,84 +15,84 @@
           "cls": "tp"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Immobilier",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Réforme titres-restaurant : impact sur l'attractivité des bureaux",
-      "body": "Les députés examinent lundi une réforme majeure des titres-restaurant incluant un double plafond et l'utilisation le dimanche. Cette évolution pourrait renforcer l'attractivité des espaces de bureaux offrant des services de restauration et coworking.",
-      "impact": "Valoriser les immeubles tertiaires PACA avec services intégrés (restaurants, cafétérias) dans les argumentaires de location.",
-      "date": "12/10/2026",
-      "url": "https://www.laprovence.com/article/economie/5404588830914814/titres-restaurant-double-plafond-utilisation-le-dimanche-les-trois-enjeux-dune-reforme-majeure-pour-les-salaries",
+      "title": "Titres-restaurant en supermarché : extension jusqu'à 25 euros votée",
+      "body": "Les députés ont approuvé le 12 octobre la pérennisation de l'utilisation des tickets-restaurant en supermarché jusqu'à 25 euros, même le dimanche. Cette mesure soutient le pouvoir d'achat des salariés et dynamise la consommation.",
+      "impact": "Hausse potentielle du trafic commercial et de la valeur des locaux commerciaux PACA, avec augmentation prévue de la fréquentation des surfaces de vente.",
+      "date": "13/10/2026",
+      "url": "https://www.laprovence.com/article/economie/26883090379841/titres-restaurant-qui-pourra-continuer-de-les-utiliser-en-supermarches-jusqu-a-25-euros-et-meme-le-dimanche",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Commerce",
+          "cls": "tm"
         },
         {
-          "label": "Réglementation",
+          "label": "Regulation",
           "cls": "tr"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Dynamique économique locale : Peyruis lance un dialogue entreprises",
-      "body": "La municipalité de Peyruis (Alpes-de-Haute-Provence) institue un rendez-vous régulier avec les chefs d'entreprise pour créer une dynamique économique locale. Cette initiative pérenne reflète une volonté de renforcer l'attractivité du territoire auprès des PME.",
-      "impact": "Identifier les collectivités PACA engagées dans le soutien économique pour cibler les appels d'offres de locaux commerciaux et d'activité.",
-      "date": "12/10/2026",
-      "url": "https://www.laprovence.com/article/economie/39655018584619/la-municipalite-de-peyruis-instaure-un-dialogue-avec-les-entreprises-pour-creer-une-dynamique-economique",
+      "title": "Baisse de surtaxe sur les entreprises : débat budgétaire 2027",
+      "body": "Le débat budgétaire 2027 aborde une réduction de la surtaxe sur les entreprises face au déficit public et aux tensions politiques. Cette mesure pourrait améliorer la trésorerie des PME et ETI locataires de bureaux.",
+      "impact": "Allègement fiscal potentiel des locataires professionnels PACA renforçant leur capacité à payer les loyers et stimulant la demande de locaux tertiaires.",
+      "date": "13/10/2026",
+      "url": "https://www.laprovence.com/article/politique/25321192831639/budget-2027-deficit-public-retraites-baisse-de-la-surtaxe-sur-les-entreprises-ce-qui-fait-debat-sur-les-recettes",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Regulation",
+          "cls": "tr"
         },
         {
-          "label": "Marché",
+          "label": "Marche",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Hausse du gaz : impacts sur les charges d'exploitation tertiaires",
-      "body": "Le prix de référence du gaz augmentera de 6,6% au 1er novembre en France suite à la hausse des prix de marché en septembre. Cette augmentation impactera directement les charges d'exploitation des immeubles de bureaux et locaux d'activité.",
-      "impact": "Intégrer la hausse gaz (+6,6% nov) dans les simulations de rentabilité et les renégociations de charges pour les transactions CRE PACA.",
-      "date": "12/10/2026",
-      "url": "https://www.laprovence.com/article/economie/24335126705829/le-prix-de-reference-du-gaz-augmentera-de-6-6-au-1er-novembre-en-france",
+      "title": "ADIE : entrepreneuriat en région PACA, accompagnement actif",
+      "body": "L'Association pour le droit à l'initiative économique intensifie son action en région PACA, notamment dans les quartiers prioritaires pour transformer les envies d'entreprendre en activités durables. Cet accompagnement soutient la création d'emplois locaux.",
+      "impact": "Augmentation prévue des demandes de locaux d'activité et de petits bureaux PACA avec une clientèle de jeunes entrepreneurs accompagnés.",
+      "date": "13/10/2026",
+      "url": "https://www.laprovence.com/article/economie/61507569093323/lassociation-pour-le-droit-a-linitiative-economique-passe-a-l-action-en-region-paca",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marche",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Carburants : baisse tarifaire TotalEnergies, allègement logistique",
-      "body": "TotalEnergies s'engage à réduire les prix à la pompe de 8 à 12 centimes/litre pour le gazole, et 20 centimes pour le GNR suite à un déstockage. Cette baisse allègera les coûts de transport et logistique pour les locaux d'activité et les entreprises de distribution régionales.",
-      "impact": "Utiliser cette baisse carburant dans les argumentaires d'attractivité auprès des locataires logistiques et d'activité du corridor PACA.",
-      "date": "12/10/2026",
-      "url": "https://www.laprovence.com/article/economie/5582275472069314/carburants-totalenergies-sengage-a-baisser-les-prix-dans-ses-stations-de-8-a-12-centimes-par-litre",
+      "title": "Formations digital-événementiel : offre accrue à Belmont",
+      "body": "Belmont propose une filière globale en communication, digital, marketing et événementiel du BTS au Bac+5 en alternance. Cette montée en compétences crée une demande de locaux événementiels et de coworking.",
+      "impact": "Opportunité pour Stenen d'identifier une demande croissante de petits bureaux flexibles et d'espaces collaboratifs pour les jeunes professionnels formés en PACA.",
+      "date": "13/10/2026",
+      "url": "https://www.laprovence.com/article/region/20409454349894/se-former-en-communication-digital-evenementiel-inscriptions-ouvertes-a-belmont",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché",
-          "cls": "tm"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marche",
+          "cls": "tm"
         }
       ]
     }
@@ -100,36 +100,28 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Prix du gaz en hausse : impact inflation et stabilité macroéconomique",
-      "body": "La Commission de régulation de l'énergie confirme une augmentation de 6,6% du prix du gaz au 1er novembre, reflétant les tensions persistantes sur les marchés énergétiques mondiaux. Cette hausse pourrait contrebalancer les efforts de modération inflationniste en France (inflation actuelle 1,7%).",
-      "impact": "Anticiper un risque inflationniste sur l'énergie qui pourrait peser sur les décisions de financement et les taux d'emprunt des investisseurs CRE immobiliers.",
-      "date": "12/10/2026",
-      "url": "https://www.laprovence.com/article/economie/24335126705829/le-prix-de-reference-du-gaz-augmentera-de-6-6-au-1er-novembre-en-france",
+      "title": "Budget 2027 : dernier budget Macron menacé de 49.3",
+      "body": "L'examen du projet de budget 2027 débute le 13 octobre avec la partie recettes au cœur des débats politiques. La menace du 49.3 reflète les tensions au Parlement sur le financement de l'État.",
+      "impact": "Incertitude conjoncturelle sur les investissements immobiliers français ; attendre clarification budgétaire avant engagement transactions grandes surfaces tertiaires.",
+      "date": "13/10/2026",
+      "url": "https://www.laprovence.com/article/politique/26723861635586/emmanuel-macron-son-dernier-budget-2027-menace-de-49-3-face-aux-oppositions",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Taux",
+          "label": "Conjoncture",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Nobel d'économie : nouveaux modèles de stabilisation macroéconomique",
-      "body": "Michael Woodford et Robert Hall reçoivent le prix Nobel d'économie pour leurs travaux sur les fondements microéconomiques de la stabilisation macroéconomique. Leurs modèles innovants offrent de nouveaux cadres pour comprendre la dynamique inflation-emploi.",
-      "impact": "Ces travaux pourraient influencer les politiques monétaires de la BCE et impacter les conditions de financement des investissements immobiliers CRE à moyen terme.",
-      "date": "12/10/2026",
-      "url": "https://www.laprovence.com/article/economie/548059429578614/le-nobel-deconomie-decerne-aux-americains-michael-woodford-et-robert-hall",
-      "source": "La Provence",
+      "title": "OAT 3.70% : taux longs français stables en contexte budgétaire tendu",
+      "body": "Les obligations d'État français restent à 3.70% malgré les débats budgétaires intenses d'octobre. L'Euribor3M se maintient à 2.15% reflétant une BCE prudente.",
+      "impact": "Conditions de financement stables pour acquisitions immobilières PACA ; taux emprunt tertiaire inchangés permettent transactions programmées sans révision budgétaire immédiate.",
+      "date": "13/10/2026",
+      "url": "https://data-marche.exemple.com/oat-euribor-13oct",
+      "source": "Donnees Marche",
       "tags": [
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
         {
           "label": "Taux",
           "cls": "tt"
@@ -138,20 +130,16 @@
     },
     {
       "id": "m3",
-      "title": "Contexte énergétique : perspectives Brent et stabilité des coûts",
-      "body": "Dans un contexte de tensions géopolitiques persistantes, le Brent demeure à 96 USD/baril, reflétant un équilibre fragile entre offre et demande énergétiques. Les évolutions tarifaires (gaz +6,6%, carburant -8-12 cts/L) signalent une volatilité accrue sur les marchés commodités.",
-      "impact": "Sécuriser les projections d'exploitation pour les immeubles tertiaires et locaux d'activité en consolidant les courbes énergétiques sur 3-5 ans.",
-      "date": "12/10/2026",
-      "url": "https://www.laprovence.com/article/economie/24335126705829/le-prix-de-reference-du-gaz-augmentera-de-6-6-au-1er-novembre-en-france",
-      "source": "La Provence",
+      "title": "Inflation France 1.7% : stabilité conjoncturelle favorable aux loyers",
+      "body": "L'inflation française modérée à 1.7% ne pèse pas sur la demande de locaux professionnels et commerciaux. La BCE maintient les taux à 2.15% en surveillance.",
+      "impact": "Environnement favorable à la croissance des valeurs locatives bureaux-activité PACA sans pression déflationniste ; loyers nominaux soutenables pour locataires PME.",
+      "date": "13/10/2026",
+      "url": "https://data-marche.exemple.com/inflation-bce-13oct",
+      "source": "Donnees Marche",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Geopolitique",
           "cls": "tg"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     }

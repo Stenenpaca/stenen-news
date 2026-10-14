@@ -1,13 +1,13 @@
 {
-  "generated_at": "13/10/2026",
+  "generated_at": "14/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Louga : plateforme de gestion locative née à Aix-en-Provence",
-      "body": "Louga propose aux bailleurs un outil de pilotage de location sans passer par une agence immobilière traditionnelle. Cette solution digitale répond aux besoins croissants de modernisation du secteur immobilier en région PACA.",
-      "impact": "Opportunité pour les propriétaires de bureaux et locaux d'activité PACA de réduire les frais de gestion et d'optimiser la rentabilité locative via des outils digitaux.",
+      "title": "La Mède : ancienne raffinerie transformée en hub de formation",
+      "body": "Le site TotalEnergies de La Mède poursuit sa métamorphose stratégique amorcée en 2016, devenant un centre mondial de formation aux métiers de l'énergie. Cette reconversion démontre la capacité du territoire PACA à adapter ses infrastructures aux nouveaux besoins économiques.",
+      "impact": "Opportunité de reprendre ou louer des surfaces tertiaires et de formation auprès des acteurs du secteur énergétique en mutation dans l'Est Étang de Berre.",
       "date": "13/10/2026",
-      "url": "https://www.laprovence.com/article/economie/20992998568382/louga-la-plateforme-de-gestion-locative-nee-a-aix-en-provence",
+      "url": "https://www.laprovence.com/article/economie/39670617395446/la-metamorphose-de-l-ancienne-raffinerie-petroliere-de-la-mede-en-hub-mondial-de-la-formation",
       "source": "La Provence",
       "tags": [
         {
@@ -15,84 +15,80 @@
           "cls": "tp"
         },
         {
-          "label": "Immobilier",
+          "label": "Immobilier d'activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Titres-restaurant en supermarché : extension jusqu'à 25 euros votée",
-      "body": "Les députés ont approuvé le 12 octobre la pérennisation de l'utilisation des tickets-restaurant en supermarché jusqu'à 25 euros, même le dimanche. Cette mesure soutient le pouvoir d'achat des salariés et dynamise la consommation.",
-      "impact": "Hausse potentielle du trafic commercial et de la valeur des locaux commerciaux PACA, avec augmentation prévue de la fréquentation des surfaces de vente.",
+      "title": "RDV des Entrepreneurs : salon B2B Est Étang de Berre",
+      "body": "Le grand rendez-vous économique du bassin Est Étang de Berre fédère acteurs publics et privés pour promouvoir le tissu entrepreneurial local. Cet événement illustre la dynamique de proximité et les opportunités de coopération dans le territoire.",
+      "impact": "Excellent point de contact pour identifier les besoins en locaux de bureaux et d'activité auprès des PME/ETI du bassin industriel PACA.",
       "date": "13/10/2026",
-      "url": "https://www.laprovence.com/article/economie/26883090379841/titres-restaurant-qui-pourra-continuer-de-les-utiliser-en-supermarches-jusqu-a-25-euros-et-meme-le-dimanche",
+      "url": "https://www.laprovence.com/article/economie/47139729614768/rdv-des-entrepreneurs-le-grand-rendez-vous-economique-du-territoire-economique-est-etang-de-berre",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Regulation",
-          "cls": "tr"
+          "label": "Marché tertiaire",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Baisse de surtaxe sur les entreprises : débat budgétaire 2027",
-      "body": "Le débat budgétaire 2027 aborde une réduction de la surtaxe sur les entreprises face au déficit public et aux tensions politiques. Cette mesure pourrait améliorer la trésorerie des PME et ETI locataires de bureaux.",
-      "impact": "Allègement fiscal potentiel des locataires professionnels PACA renforçant leur capacité à payer les loyers et stimulant la demande de locaux tertiaires.",
+      "title": "Réouverture Porte Saint-Lazare Avignon : dynamique commerciale",
+      "body": "La réouverture de la Porte Saint-Lazare à Avignon satisfait commerçants et riverains, revitalisantce secteur historique. Cette restauration d'accès urbain crée une nouvelle dynamique pour le secteur commercial avignonnais.",
+      "impact": "Signal positif pour les transactions commerciales et les baux de commerce en centre-ville avignonnais ; opportunités de reprises auprès des commerces de proximité.",
       "date": "13/10/2026",
-      "url": "https://www.laprovence.com/article/politique/25321192831639/budget-2027-deficit-public-retraites-baisse-de-la-surtaxe-sur-les-entreprises-ce-qui-fait-debat-sur-les-recettes",
+      "url": "https://www.laprovence.com/article/economie/5729891004977414/reouverture-de-la-porte-saint-lazare-a-avignon-des-commercants-et-riverains-satisfaits",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Regulation",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Marche",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "ADIE : entrepreneuriat en région PACA, accompagnement actif",
-      "body": "L'Association pour le droit à l'initiative économique intensifie son action en région PACA, notamment dans les quartiers prioritaires pour transformer les envies d'entreprendre en activités durables. Cet accompagnement soutient la création d'emplois locaux.",
-      "impact": "Augmentation prévue des demandes de locaux d'activité et de petits bureaux PACA avec une clientèle de jeunes entrepreneurs accompagnés.",
-      "date": "13/10/2026",
-      "url": "https://www.laprovence.com/article/economie/61507569093323/lassociation-pour-le-droit-a-linitiative-economique-passe-a-l-action-en-region-paca",
-      "source": "La Provence",
+      "title": "Euribor 3M stable à 2,15% : contexte de financement inchangé",
+      "body": "L'Euribor 3 mois se maintient à 2,15%, reflétant la stabilité relative du marché monétaire européen. Ce niveau continue d'impacter les conditions de financement immobilier tertiaire.",
+      "impact": "Maintien des taux de financement CRE PACA autour de 3,5-4,2% selon profils ; opportunité de renégocier avant durcissement potentiel.",
+      "date": "14/10/2026",
+      "url": "donnees-marche",
+      "source": "Données de marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marche",
-          "cls": "tm"
+          "label": "Taux & Financement",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Formations digital-événementiel : offre accrue à Belmont",
-      "body": "Belmont propose une filière globale en communication, digital, marketing et événementiel du BTS au Bac+5 en alternance. Cette montée en compétences crée une demande de locaux événementiels et de coworking.",
-      "impact": "Opportunité pour Stenen d'identifier une demande croissante de petits bureaux flexibles et d'espaces collaboratifs pour les jeunes professionnels formés en PACA.",
-      "date": "13/10/2026",
-      "url": "https://www.laprovence.com/article/region/20409454349894/se-former-en-communication-digital-evenementiel-inscriptions-ouvertes-a-belmont",
-      "source": "La Provence",
+      "title": "OAT 10Y à 3,70% : environnement de rendement attractif",
+      "body": "Les Obligations Assimilables du Trésor français affichent un rendement stable à 3,70%, soutenant l'attractivité des investissements immobiliers long terme. Ce niveau reflète les attentes du marché sur la politique monétaire française.",
+      "impact": "Environnement favorable pour les SCPI et investissements immobiliers PACA via des financements structurés à taux maîtrisé.",
+      "date": "14/10/2026",
+      "url": "donnees-marche",
+      "source": "Données de marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Investissement",
+          "cls": "ti2"
         },
         {
-          "label": "Marche",
-          "cls": "tm"
+          "label": "Taux & Financement",
+          "cls": "tt"
         }
       ]
     }
@@ -100,45 +96,49 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Budget 2027 : dernier budget Macron menacé de 49.3",
-      "body": "L'examen du projet de budget 2027 débute le 13 octobre avec la partie recettes au cœur des débats politiques. La menace du 49.3 reflète les tensions au Parlement sur le financement de l'État.",
-      "impact": "Incertitude conjoncturelle sur les investissements immobiliers français ; attendre clarification budgétaire avant engagement transactions grandes surfaces tertiaires.",
-      "date": "13/10/2026",
-      "url": "https://www.laprovence.com/article/politique/26723861635586/emmanuel-macron-son-dernier-budget-2027-menace-de-49-3-face-aux-oppositions",
+      "title": "Budget 2027 : débats à l'Assemblée, mesures d'effort de 43Mds€",
+      "body": "Le ministre de l'Économie Roland Lescure défend un budget 2027 incluant 43 milliards de mesures nouvelles d'effort face aux débats parlementaires. La motion de rejet du PS a été repoussée, ouvrant les discussions sur les recettes.",
+      "impact": "Incertitude réglementaire et budgétaire pouvant affecter les appels d'offres publics tertiaires PACA et les mesures d'aide aux entreprises locataires.",
+      "date": "14/10/2026",
+      "url": "https://www.laprovence.com/article/economie/1004961168156514/budget-2027-debats-a-lassemblee-nationale-motion-de-rejet-du-ps-repoussee-et-maintenant",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tt"
+          "label": "Conjoncture France",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "OAT 3.70% : taux longs français stables en contexte budgétaire tendu",
-      "body": "Les obligations d'État français restent à 3.70% malgré les débats budgétaires intenses d'octobre. L'Euribor3M se maintient à 2.15% reflétant une BCE prudente.",
-      "impact": "Conditions de financement stables pour acquisitions immobilières PACA ; taux emprunt tertiaire inchangés permettent transactions programmées sans révision budgétaire immédiate.",
+      "title": "Lescure : dette publique française, pas d'effet 'boule de neige'",
+      "body": "Le ministre de l'Économie affirme que la France ne connaît pas encore un effet 'boule de neige' sur sa dette malgré la hausse alarmante des taux d'intérêt. Il appelle l'Assemblée à adopter un budget pour maîtriser la situation.",
+      "impact": "Vigilance sur la solvabilité de l'État et ses impacts sur les politiques d'investissement régional PACA ; risque de compression des aides aux secteurs immobilier et BTP.",
       "date": "13/10/2026",
-      "url": "https://data-marche.exemple.com/oat-euribor-13oct",
-      "source": "Donnees Marche",
+      "url": "https://www.laprovence.com/article/politique/18437268217011/nous-ne-sommes-pas-dans-un-effet-boule-de-neige-assure-lescure-a-propos-de-la-dette-publique",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Conjoncture France",
+          "cls": "tg"
+        },
+        {
+          "label": "Taux & Financement",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France 1.7% : stabilité conjoncturelle favorable aux loyers",
-      "body": "L'inflation française modérée à 1.7% ne pèse pas sur la demande de locaux professionnels et commerciaux. La BCE maintient les taux à 2.15% en surveillance.",
-      "impact": "Environnement favorable à la croissance des valeurs locatives bureaux-activité PACA sans pression déflationniste ; loyers nominaux soutenables pour locataires PME.",
-      "date": "13/10/2026",
-      "url": "https://data-marche.exemple.com/inflation-bce-13oct",
-      "source": "Donnees Marche",
+      "title": "Brent stable à 96$/bl : énergie & contexte macroéconomique",
+      "body": "Le baril de Brent se maintient à 96 dollars, reflétant un équilibre géopolitique et d'approvisionnement stable sur les marchés énergétiques mondiaux. Ce prix soutient les investissements dans la transition énergétique régionale.",
+      "impact": "Stabilité des coûts d'exploitation immobilière PACA et maintien de l'attractivité des secteurs d'activité énergétique et logistique en Provence.",
+      "date": "14/10/2026",
+      "url": "donnees-marche",
+      "source": "Données de marché",
       "tags": [
         {
-          "label": "Geopolitique",
+          "label": "Géopolitique & Énergie",
           "cls": "tg"
         }
       ]

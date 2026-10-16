@@ -1,98 +1,86 @@
 {
-  "generated_at": "15/10/2026",
+  "generated_at": "16/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Terrasses du Port : dynamique commerciale record à Marseille",
-      "body": "Le centre commercial Terrasses du Port affiche des records d'activité sous la nouvelle direction de Slim Keller. Cette performance illustre la vitalité du segment retail premium en cœur de ville marseillais.",
-      "impact": "Les espaces commerciaux haut de gamme en hypercentre marseillais conservent une forte attractivité locataire, justifiant des niveaux de loyers élevés pour les transactions.",
+      "title": "Numérique et ingénierie : 100 000 emplois en PACA",
+      "body": "La région PACA concentre 100 000 salariés dans les métiers du numérique et de l'ingénierie, avec 27 000 créations d'emplois en sept ans. Cette filière progresse trois fois plus vite que l'économie régionale mais fait face à des défis de recrutement.",
+      "impact": "Forte demande de locaux tertiaires et espaces flex pour PME tech en PACA : opportunité de transaction bureaux innovants à proximité des pôles d'emploi.",
       "date": "15/10/2026",
-      "url": "https://www.laprovence.com/article/economie/23974886229330/terrasses-du-port-a-marseille-slim-keller-un-directeur-a-lecoute-pour-un-centre-qui-bat-des-records",
+      "url": "https://www.laprovence.com/article/economie/42001874908491/100-000-emplois-en-region-provence-alpes-cote-dazur-le-poids-meconnu-du-numerique-et-de-l-ingenierie",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Commerce",
+          "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Secteur transport-logistique sous tension en Provence",
-      "body": "Le transport routier provençal subit les effets conjugués de la crise énergétique, de la pénurie de chauffeurs et de l'effondrement de la consommation. Ces pressions affectent directement la demande d'espaces logistiques et d'activité.",
-      "impact": "Les locataires logistiques recherchent des espaces optimisés pour compenser l'érosion de leurs marges; négociations locatives attendues à la baisse pour les zones périphériques.",
+      "title": "Industrie PACA : 468 000 emplois et appui collectif",
+      "body": "L'industrie représente 468 000 emplois directs et indirects en PACA, dont 200 000 dans les Bouches-du-Rhône. L'initiative « Provence, fabrique des possibles » offre un soutien collectif au développement industriel régional.",
+      "impact": "Demande soutenue de locaux d'activité et entrepôts logistiques en PACA : priorité aux zones industrielles structurées et accessibles aux réseaux.",
       "date": "15/10/2026",
-      "url": "https://www.laprovence.com/article/economie/49724719200367/entre-crise-economique-et-defi-vert-le-secteur-du-transport-et-de-la-logistique-est-sous-tension-en-provence",
+      "url": "https://www.laprovence.com/article/economie/1454317865825114/une-reunion-a-aix-pour-provence-fabrique-des-possibles-demarche-collective-d-aide-au-developpement-industriel",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Activité",
+          "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Insertion professionnelle et dynamique de l'emploi tertiaire",
-      "body": "France Travail promeut une vision pragmatique d'insertion professionnelle via stages, mentorat et embauches directes, avec une mobilisation active des acteurs économiques. Cette initiative soutient la stabilisation des marchés de l'emploi dans les secteurs tertiaires.",
-      "impact": "L'amélioration du marché du travail tertiaire renforce la demande de surfaces de bureaux modernes et flex pour les PME-PMI en croissance de recrutement.",
-      "date": "15/10/2026",
-      "url": "https://www.laprovence.com/article/economie/1913567602648414/face-aux-lecteurs-stages-mentorat-embauches-comment-france-travail-veut-favoriser-linsertion-professionnelle",
+      "title": "Marseille : doublement de la taxe logements vacants",
+      "body": "Marseille a voté le doublement de la taxe sur les logements vacants depuis plus de deux ans : 30 % la première année et 60 % la seconde (contre 17 % précédemment). Cette mesure vise à réduire les stocks vacants et revitaliser le parc immobilier urbain.",
+      "impact": "Fiscalité renforcée sur les immeubles vacants à Marseille : incite propriétaires à activer baux commerciaux et locaux activité pour réduire l'exposition fiscale.",
+      "date": "16/10/2026",
+      "url": "https://www.laprovence.com/article/politique/2840261616977214/30-la-premiere-annee-60-la-seconde-sur-les-logements-vacants-la-ville-de-marseille-double-la-taxe",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Bureaux",
-          "cls": "tp"
+          "label": "Réglementation",
+          "cls": "tr"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Tourisme moteur économique en Provence : 6,5M excursionnistes",
-      "body": "Les Sorgues-du-Comtat enregistrent 6,5 millions d'excursionnistes et plus d'un million de nuitées annuelles, confirmant le tourisme comme vecteur majeur de développement économique régional. Cette tendance soutient la conversion de surfaces commerciales et bureaux vers l'accueil touristique.",
-      "impact": "Les conversions d'immobilier tertiaire vers usages touristiques (hôtellerie, coworking mixte) représentent une opportunité de redéploiement pour les actifs obsolètes en zones périphériques.",
-      "date": "15/10/2026",
-      "url": "https://www.laprovence.com/article/societe/13252448315314/le-tourisme-s-affirme-en-atout-de-developpement-economique-pour-les-sorgues-du-comtat",
+      "title": "Taxe foncière Marseille : enjeux et financement",
+      "body": "La taxe foncière à Marseille finance services publics, traitement des déchets et prévention des inondations. Ni la part communale ni celle de la Métropole n'ont augmenté cette année, cette dernière a même baissé.",
+      "impact": "Structure fiscale stable pour propriétaires de bureaux et commerces à Marseille : contexte favorable pour projections rentabilité des acquisitions.",
+      "date": "16/10/2026",
+      "url": "https://www.laprovence.com/article/economie/27193806352814/services-publics-traitement-des-dechets-prevention-des-inondations-que-finance-la-taxe-fonciere-a-marseille",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Marché",
-          "cls": "tp"
+          "label": "Réglementation",
+          "cls": "tr"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Inflation 3,1% : impact sur les coûts tertiaires PACA",
-      "body": "L'inflation annuelle atteint 3,1% en septembre 2026, niveau le plus élevé depuis janvier 2024, révisant à la hausse les estimations précédentes. Cette hausse pèse sur les structures de coûts d'exploitation des immeubles tertiaires.",
-      "impact": "Les clauses d'indexation des baux tertiaires doivent intégrer cette pression inflationniste; anticiper des révisions de loyers plus agressives dès 2027 pour maintenir la rentabilité des investissements.",
+      "title": "Industrie automobile : accord France-Allemagne",
+      "body": "La France et l'Allemagne ont trouvé un accord provisoire en marge du sommet européen pour préserver l'avenir de l'industrie automobile. Cette ambition réduite traduit les défis de la transition énergétique et compétitive.",
+      "impact": "Perspectives d'investissement à surveiller dans la supply chain automobile PACA : risque de consolidation des sites de production et opportunités de reprises d'espaces logistiques.",
       "date": "15/10/2026",
-      "url": "https://www.laprovence.com/article/economie/72991632536781/france-linflation-a-3-1-sur-un-an-en-septembre-au-plus-haut-depuis-janvier-2024",
+      "url": "https://www.laprovence.com/article/economie/2357462108538214/la-france-et-l-allemagne-s-entendent-sur-l-avenir-de-l-industrie-automobile",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     }
@@ -100,36 +88,13 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Inflation France à 3,1% : pression sur financement immobilier",
-      "body": "L'inflation française atteint 3,1% en septembre 2026, son plus haut niveau depuis janvier 2024. Cette dynamique inflationniste contraint la BCE à maintenir une politique restrictive impactant les taux de financement immobilier.",
-      "impact": "Anticipez un maintien des taux OAT autour de 3,70% et Euribor 3M à 2,15%; les conditions de financement des acquisitions restent restrictives pour les investisseurs immobiliers.",
+      "title": "Contexte géopolitique : Ligne THT Camargue-Crau",
+      "body": "Le préfet ouvre la voie à l'enquête publique pour la ligne aérienne 400 kV entre Jonquières-Saint-Vincent et Fos-sur-Mer, portée par RTE. Ce projet d'infrastructure énergétique provoque des réactions mitigées chez les opposants.",
+      "impact": "Investissements majeurs en infrastructures énergétiques PACA : impact potentiel sur valorisation des zones logistiques et industrielles en Camargue-Crau.",
       "date": "15/10/2026",
-      "url": "https://www.laprovence.com/article/economie/72991632536781/france-linflation-a-3-1-sur-un-an-en-septembre-au-plus-haut-depuis-janvier-2024",
+      "url": "https://www.laprovence.com/article/ecoplanete/96394538118475/ligne-tht-en-camargue-et-crau-le-prefet-ouvre-la-voie-a-l-enquete-publique-provoquant-la-colere-des-opposants",
       "source": "La Provence",
       "tags": [
-        {
-          "label": "Inflation/Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Crise logistique et transport : contexte macro dégradé",
-      "body": "Le secteur français du transport routier subit une contraction majeure liée à la crise énergétique, la pénurie de chauffeurs et l'effondrement de la consommation. Cette dégradation économique affecte l'ensemble de la chaîne logistique et les flux commerciaux.",
-      "impact": "La conjoncture logistique dégradée réduit les créations nettes d'emplois tertiaires; les entreprises privilégient la consolidation d'espaces existants plutôt que l'expansion, freinant la demande de nouveaux locaux.",
-      "date": "15/10/2026",
-      "url": "https://www.laprovence.com/article/economie/49724719200367/entre-crise-economique-et-defi-vert-le-secteur-du-transport-et-de-la-logistique-est-sous-tension-en-provence",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
-        },
         {
           "label": "Géopolitique",
           "cls": "tg"
@@ -137,21 +102,32 @@
       ]
     },
     {
-      "id": "m3",
-      "title": "Marché de l'emploi tertiaire : stabilisation en cours",
-      "body": "France Travail mobilise l'écosystème économique autour d'une stratégie pragmatique d'insertion professionnelle et de réduction des filtres d'accès à l'emploi. Cette dynamique positive soutient la demande tertiaire en régions.",
-      "impact": "L'amélioration progressive du marché du travail justifie une confiance modérée sur la demande de bureaux et coworking; les rendements immobiliers tertiaires devraient rester stables en 2027.",
-      "date": "15/10/2026",
-      "url": "https://www.laprovence.com/article/economie/1913567602648414/face-aux-lecteurs-stages-mentorat-embauches-comment-france-travail-veut-favoriser-linsertion-professionnelle",
-      "source": "La Provence",
+      "id": "m2",
+      "title": "Taux OAT et financement : contexte stable",
+      "body": "OAT 10 ans à 3.70 %, Euribor 3M à 2.15 %, BCE à 2.15 %. Contexte de taux stables en octobre 2026.",
+      "impact": "Rendements obligataires stables : conditions de financement prévisibles pour acquisitions et refinancerments immobiliers PACA.",
+      "date": "16/10/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Emploi/Conjoncture",
-          "cls": "tm"
-        },
+          "label": "Taux",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Inflation France : 1.7 % en octobre 2026",
+      "body": "L'inflation française se modère à 1.7 % en octobre 2026, confirmant la trajectoire désinflation. Contexte macro favorable pour stabilité des loyers et valeurs immobilières.",
+      "impact": "Désinflation en cours : soutient la prévisibilité des rendements immobiliers tertiaires PACA et réduit volatilité des loyers commerciaux.",
+      "date": "16/10/2026",
+      "url": "https://www.laprovence.com",
+      "source": "Données marché",
+      "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     }

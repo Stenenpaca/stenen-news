@@ -1,11 +1,30 @@
 {
-  "generated_at": "17/10/2026",
+  "generated_at": "18/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Réhabilitation hôtel Artea à Aix : Bricorama maintient sa présence commerciale",
-      "body": "Le groupe Sebban réhabilite l'ancien hôtel Artéa rue de la République à Aix-en-Provence après plusieurs années de fermeture et arrêtés de péril. Bricorama conservera son implantation au pied du bâtiment réaménagé, confirmant la dynamique de reconversion en cœur urbain.",
-      "impact": "Opportunité de repositionnement commercial pour locataires de prestige : transformation d'actifs distressed en mixed-use rentable dans un secteur PACA stratégique.",
+      "title": "Ardagh Metal Packaging célèbre 35 ans à La Ciotat : 8M canettes/jour",
+      "body": "L'usine implantée en 1991 dans la zone Athélia produit 8 millions de canettes en aluminium quotidiennement et représente un pôle industriel majeur en PACA. Ce site de 35 ans témoigne de la stabilité des implantations logistiques et manufacturières en région méditerranéenne.",
+      "impact": "Confirme l'attractivité durable des zones d'activité PACA pour l'industrie lourde ; à surveiller pour opportunités de locaux attenants ou de services aux entreprises.",
+      "date": "17/10/2026",
+      "url": "https://www.laprovence.com/article/societe/10738424407495/8-millions-de-canettes-par-jour-lusine-ardagh-metal-packaging-de-la-ciotat-a-fete-ses-35-ans",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Groupe Sebban réhabilite l'hôtel Artea rue de la République à Aix",
+      "body": "La réhabilitation de l'ancien hôtel Artea fermé depuis 2021 par le groupe Sebban relance l'immobilier commercial aixois avec un modèle mixte hôtellerie-commerce. Bricorama conservera ses locaux au pied du bâtiment, structurant l'activité commerciale.",
+      "impact": "Opportunité de valorisation immobilière tertiaire/commerciale en cœur urbain Aix ; tendance à la réactivation des patrimoine dégradé au centre-ville.",
       "date": "17/10/2026",
       "url": "https://www.laprovence.com/article/economie/2862256963284414/bricorama-restera-au-pied-du-futur-hotel-artea-que-va-rehabiliter-le-groupe-sebban-rue-de-la-republique-a-aix",
       "source": "La Provence",
@@ -21,10 +40,10 @@
       ]
     },
     {
-      "id": "f2",
-      "title": "Fromagerie Bellon d'Aubagne : reconnaissance artisanale et valorisation commerciale",
-      "body": "Le propriétaire de la fromagerie Bellon d'Aubagne obtient le titre de maître artisan, représentant la 4e génération familiale depuis 1900. Cette distinction valorise le positionnement premium des petits commerces de niche en région PACA.",
-      "impact": "Intérêt des investisseurs pour locaux commerciaux artisanaux haute gamme : transmission générationnelle et labels de qualité soutiennent les valeurs locatives dans les centres urbains PACA.",
+      "id": "f3",
+      "title": "Fromagerie Bellon Aubagne : 4ème génération, label Maître Artisan",
+      "body": "Charles-Henri Bellon obtient le titre de Maître Artisan, poursuivant une lignée familiale depuis 1900 dans le secteur artisanal du commerce. Ce type d'entreprise pérenne représente un usage stable et fiable de locaux commerciaux en zones établies.",
+      "impact": "Les commerces artisanaux régionaux demeurent des locataires stables ; à cibler pour offres locaux commerce avec contrats longs à Aubagne et périphérie.",
       "date": "17/10/2026",
       "url": "https://www.laprovence.com/article/economie/16710557880404/le-proprietaire-de-la-fromagerie-bellon-d-aubagne-decroche-le-titre-de-maitre-artisan-ca-me-rend-fier",
       "source": "La Provence",
@@ -40,12 +59,12 @@
       ]
     },
     {
-      "id": "f3",
-      "title": "Usine Ardagh Metal Packaging La Ciotat : stabilité industrielle et immobilier logistique",
-      "body": "L'usine de fabrication de canettes en aluminium d'Ardagh à La Ciotat célèbre ses 35 ans d'exploitation, produisant 8 millions de canettes quotidiennement dans la zone Athélia. Cette infrastructure établie depuis 1991 illustre la pérennité des zones d'activité PACA.",
-      "impact": "Demande soutenue pour locaux d'activité/logistique en zone Athélia : stabilité des locataires industriels garantit rendement locatif régulier sur immobilier tertaire environnant.",
+      "id": "f4",
+      "title": "Sophie Rozen (So Design) : label Or Eco-défis à Saint-André-les-Alpes",
+      "body": "La créatrice Sophie Rozen reçoit le label Or d'Eco-défis pour son entreprise So Design, illustrant l'émergence de PME durables et créatives en Haute-Provence. Cet exemple montre une diversification économique locale vers les secteurs tertiaires créatifs.",
+      "impact": "Développement d'offre pour petits espaces tertiaires créatifs/bureaux partagés en territoires secondaires PACA à forte demande RSE.",
       "date": "17/10/2026",
-      "url": "https://www.laprovence.com/article/societe/8-millions-de-canettes-par-jour-lusine-ardagh-metal-packaging-de-la-ciotat-a-fete-ses-35-ans",
+      "url": "https://www.laprovence.com/article/societe/3145666345921814/sophie-rozen-recoit-le-label-or-d-eco-defis-et-ravive-la-flamme-de-l-ecologie-dans-le-haut-verdon-avec-so-design",
       "source": "La Provence",
       "tags": [
         {
@@ -53,46 +72,27 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
+          "label": "Tertiaire",
           "cls": "tm"
         }
       ]
     },
     {
-      "id": "f4",
-      "title": "Transmission d'entreprise en PACA : préparation stratégique sur 2-3 ans minimum",
-      "body": "Une soirée au Palais des princes à Orange souligne l'importance de la transmission d'entreprise, avec Sofipaca recommandant un délai de 2-3 ans minimum pour préparer une cession. Cette thématique résonne fortement auprès des entrepreneurs PACA vieillissants.",
-      "impact": "Pipeline important de cessions potentielles en PACA : anticiper acquisitions de portefeuilles immobiliers d'entreprises familles en succession pour capture de crédit locatif intergénérationnel.",
-      "date": "16/10/2026",
-      "url": "https://www.laprovence.com/article/economie/3054171739668714/au-palais-des-princes-a-orange-une-soiree-autour-de-la-transmission-d-entreprise-une-affaire-aussi-humaine-qu-economique",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
       "id": "f5",
-      "title": "Financement immobilier PACA : taux OAT 3,70% et Euribor 3M 2,15% favorisent LBO",
-      "body": "Dans un contexte de taux longs stables (OAT 3,70%) et court terme modéré (Euribor 3M 2,15%), le financement de restructurations immobilières PACA reste accessible. Les projets de reconversion tertiaire comme Artéa bénéficient d'une fenêtre de taux favorable pour LBO.",
-      "impact": "Acquéreurs PACA bureaux/activité doivent accélérer montage financier : stabilité attendue des taux jusqu'Q4 2026 offre conditions optimales pour acquisitions debt-financed avant potentiel raidissement BCE.",
+      "title": "Forum BTP École 2ème Chance : 500 participants, préjugés déconstruits",
+      "body": "France Travail a organisé une semaine de sensibilisation aux métiers du BTP clôturée par un forum de 500 participants aux quartiers Nord, adressant la pénurie de main-d'œuvre. Cette initiative démontre une volonté institutionnelle de dynamiser les secteurs de la construction et des services aux bâtiments.",
+      "impact": "Indicateur positif pour demande en locaux activité/bureaux BTP et services ; potentiel de croissance emploi tertiaire dans le secteur construction PACA.",
       "date": "17/10/2026",
-      "url": "https://www.laprovence.com/article/economie/3589058931698314/les-grandes-entreprises-ont-le-sens-de-la-responsabilite-salue-le-ministre-du-travail-et-des-solidarites-a-marseille",
+      "url": "https://www.laprovence.com/article/societe/34320919253161/a-lecole-de-la-2e-chance-le-forum-du-btp-deconstruit-les-prejuges-sur-le-metier-dans-des-quartiers-nord",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,54 +100,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Marché de l'emploi français : relance BTP et responsabilité d'entreprise",
-      "body": "Deux ministres se sont rendus au Chantier naval de La Ciotat pour discuter emploi, tandis qu'un forum BTP à Marseille a mobilisé 500 participants pour promouvoir les métiers de la construction. Ces initiatives illustrent la priorité gouvernementale sur l'emploi structurel France.",
-      "impact": "Demande croissante d'espaces de formation et bureaux tertiaires pour ministères/France Travail : prévoyez hausse des appels d'offres immobilier public-privé sur axes stratégiques (BTP, emploi).",
-      "date": "16/10/2026",
-      "url": "https://www.laprovence.com/article/societe/34320919253161/a-lecole-de-la-2e-chance-le-forum-du-btp-deconstruit-les-prejuges-sur-le-metier-dans-des-quartiers-nord",
-      "source": "La Provence",
+      "title": "OAT 10Y à 3.70% : coûts financement immobilier stabilisés",
+      "body": "Les taux OAT restent ancrés à 3.70%, reflétant une stabilisation des rendements obligataires en France. Avec Euribor 3M à 2.15%, les conditions de crédit pour immobilier d'entreprise demeurent supportables.",
+      "impact": "Fenêtre de financement toujours accessible pour acquisitions/refinancements PACA ; recommander aux clients des montages avant possibles ajustements BCE.",
+      "date": "18/10/2026",
+      "url": "https://www.bourse.fr",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Politique fiscale France : rejet taxe Zucman et stabilité patrimoine ultrariches",
-      "body": "L'Assemblée a rejeté la taxe Zucman visant 2% d'impôts annuels sur patrimoine des ultrariches. Cette stabilité législative rassure investisseurs immobilier premium français quant à l'absence de nouvelle charge fiscale sur actifs immobiliers.",
-      "impact": "Sécurité juridique renforcée pour SCPI et fonds immobiliers PACA : absence de réforme fiscale majeure sur patrimoine bâti stabilise valorisations et rendements attendus sur 2027.",
-      "date": "17/10/2026",
-      "url": "https://www.laprovence.com/article/economie/3588077334116214/budget-2027-l-assemblee-rejette-la-taxe-zucman-sur-les-ultrariches",
-      "source": "La Provence",
+      "title": "Inflation France 1.7% : BCE maintient cap monétaire restrictif",
+      "body": "Avec inflation à 1.7%, la BCE maintient ses taux à 2.15% dans une posture conservative. Cette inflation basse contraste avec les tensions énergétiques amont et suggère un début de normalisation.",
+      "impact": "Contexte macro favorable aux décisions d'investissement tertiaire long terme ; inflation résiduelle limite réévaluations loyers à court terme.",
+      "date": "18/10/2026",
+      "url": "https://www.ecb.europa.eu",
+      "source": "BCE / Conjoncture",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Inflation",
           "cls": "tg"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macro-économique Q4 2026 : inflation 1,7%, Brent 96$/bbl, BCE 2,15%",
-      "body": "Inflation France modérée à 1,7%, Brent stable 96$/bbl, et taux BCE inchangés 2,15% créent environnement macro stable. Cette configuration limite pressions inflationnistes sur coûts de construction/rénovation immobilière PACA.",
-      "impact": "Budgets locatifs d'entreprises PACA stables en 2026-2027 : maintien inflation basse favorise renégociations contracts tertiaires et relocation sans pression hausse substantielle sur yield immobilier commercial.",
-      "date": "17/10/2026",
-      "url": "https://www.laprovence.com/article/economie/3589058931698314/les-grandes-entreprises-ont-le-sens-de-la-responsabilite-salue-le-ministre-du-travail-et-des-solidarites-a-marseille",
-      "source": "La Provence",
+      "title": "Pétrole Brent 96 USD/bl : énergies stables, risques géopolitiques contenus",
+      "body": "Le Brent affiche 96 USD/baril, reflet d'une stabilité relative malgré tensions géopolitiques persistantes. Cette fourchette modérée limite la volatilité des coûts énergétiques pour tertiaire.",
+      "impact": "Charges énergétiques prévisibles pour immobilier d'entreprise PACA ; intégrer 96 USD base dans projections budgétaires clients 2027.",
+      "date": "18/10/2026",
+      "url": "https://www.iea.org",
+      "source": "Données énergie",
       "tags": [
         {
           "label": "Géopolitique",
           "cls": "tg"
-        },
-        {
-          "label": "Taux",
-          "cls": "tt"
         }
       ]
     }

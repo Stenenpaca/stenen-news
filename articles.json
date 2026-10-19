@@ -1,13 +1,32 @@
 {
-  "generated_at": "18/10/2026",
+  "generated_at": "19/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Ardagh Metal Packaging célèbre 35 ans à La Ciotat : 8M canettes/jour",
-      "body": "L'usine implantée en 1991 dans la zone Athélia produit 8 millions de canettes en aluminium quotidiennement et représente un pôle industriel majeur en PACA. Ce site de 35 ans témoigne de la stabilité des implantations logistiques et manufacturières en région méditerranéenne.",
-      "impact": "Confirme l'attractivité durable des zones d'activité PACA pour l'industrie lourde ; à surveiller pour opportunités de locaux attenants ou de services aux entreprises.",
-      "date": "17/10/2026",
-      "url": "https://www.laprovence.com/article/societe/10738424407495/8-millions-de-canettes-par-jour-lusine-ardagh-metal-packaging-de-la-ciotat-a-fete-ses-35-ans",
+      "title": "Marseille : le monde économique mobilisé après les violences du 17 octobre",
+      "body": "Les acteurs économiques marseillais se sont rassemblés pour défendre le centre-ville sinistré suite aux émeutes du 17 octobre. La Région Paca réactive son fonds de solidarité pour soutenir les commerces pillés.",
+      "impact": "Accélération attendue des appels d'offres en immobilier commercial marseillais ; vérifier les dossiers locatifs en centre-ville pour les conditions de reprise.",
+      "date": "18/10/2026",
+      "url": "https://www.laprovence.com/article/economie/4813424255131914/violences-du-17-octobre-le-centre-ville-ne-doit-pas-mourir-implorent-les-acteurs-du-monde-economique-a-marseille",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Manosque : création d'un nouveau réseau d'entrepreneurs",
+      "body": "Un réseau d'entrepreneurs s'est structuré à Manosque autour de Christophe Grangé pour favoriser le développement économique local. Cette initiative renforce l'écosystème entrepreneurial des Alpes-de-Haute-Provence.",
+      "impact": "Opportunité de sourcing immobilier (bureaux, locaux) auprès des PME/TPE de Manosque ; à prospecter via le nouveau réseau pour identifier les besoins de croissance.",
+      "date": "18/10/2026",
+      "url": "https://www.laprovence.com/article/economie/4807794877014714/un-nouveau-reseau-veut-reunir-les-entrepreneurs-de-manosque-pour-leur-permettre-de-se-developper",
       "source": "La Provence",
       "tags": [
         {
@@ -21,50 +40,31 @@
       ]
     },
     {
-      "id": "f2",
-      "title": "Groupe Sebban réhabilite l'hôtel Artea rue de la République à Aix",
-      "body": "La réhabilitation de l'ancien hôtel Artea fermé depuis 2021 par le groupe Sebban relance l'immobilier commercial aixois avec un modèle mixte hôtellerie-commerce. Bricorama conservera ses locaux au pied du bâtiment, structurant l'activité commerciale.",
-      "impact": "Opportunité de valorisation immobilière tertiaire/commerciale en cœur urbain Aix ; tendance à la réactivation des patrimoine dégradé au centre-ville.",
-      "date": "17/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2862256963284414/bricorama-restera-au-pied-du-futur-hotel-artea-que-va-rehabiliter-le-groupe-sebban-rue-de-la-republique-a-aix",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
       "id": "f3",
-      "title": "Fromagerie Bellon Aubagne : 4ème génération, label Maître Artisan",
-      "body": "Charles-Henri Bellon obtient le titre de Maître Artisan, poursuivant une lignée familiale depuis 1900 dans le secteur artisanal du commerce. Ce type d'entreprise pérenne représente un usage stable et fiable de locaux commerciaux en zones établies.",
-      "impact": "Les commerces artisanaux régionaux demeurent des locataires stables ; à cibler pour offres locaux commerce avec contrats longs à Aubagne et périphérie.",
-      "date": "17/10/2026",
-      "url": "https://www.laprovence.com/article/economie/16710557880404/le-proprietaire-de-la-fromagerie-bellon-d-aubagne-decroche-le-titre-de-maitre-artisan-ca-me-rend-fier",
-      "source": "La Provence",
+      "title": "Financement immobilier : Euribor 3M stable à 2.15%, OAT à 3.70%",
+      "body": "Les conditions de financement restent stables avec un Euribor 3 mois inchangé à 2.15% et des obligations français à 3.70%. Ces taux maintiennent une certaine accessibilité au crédit pour les investisseurs CRE.",
+      "impact": "Profiter de la stabilité tarifaire pour négocier des taux de financement compétitifs sur les acquisitions bureaux/activité en PACA ; les spreads bancaires restent le levier principal de négociation.",
+      "date": "19/10/2026",
+      "url": "https://marche-financier.fr/donnees-marche",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Sophie Rozen (So Design) : label Or Eco-défis à Saint-André-les-Alpes",
-      "body": "La créatrice Sophie Rozen reçoit le label Or d'Eco-défis pour son entreprise So Design, illustrant l'émergence de PME durables et créatives en Haute-Provence. Cet exemple montre une diversification économique locale vers les secteurs tertiaires créatifs.",
-      "impact": "Développement d'offre pour petits espaces tertiaires créatifs/bureaux partagés en territoires secondaires PACA à forte demande RSE.",
-      "date": "17/10/2026",
-      "url": "https://www.laprovence.com/article/societe/3145666345921814/sophie-rozen-recoit-le-label-or-d-eco-defis-et-ravive-la-flamme-de-l-ecologie-dans-le-haut-verdon-avec-so-design",
+      "title": "Patrimoine immobilier agricole : valorisation des sites touristiques et locaux",
+      "body": "Les initiatives locales (carrousel touristique à Alleins, moulin XVIIe siècle à Lurs) témoignent d'une valorisation croissante des sites et bâtiments agricoles patrimoniaux. Cette tendance crée des opportunités de reconversion d'espaces en activités tertiaires/touristiques.",
+      "impact": "Examiner les conversions possibles de bâtiments agricoles/touristiques en bureaux ou locaux mixtes en zones rurales PACA ; potentiel de défiscalisation via dispositifs Pinel/monuments.",
+      "date": "18/10/2026",
+      "url": "https://www.laprovence.com/article/societe/3763857917017414/le-moulin-de-la-cascade-de-la-famille-masse-temoin-de-l-histoire-agricole-de-lurs-pres-de-forcalquier-en-haute-provence",
       "source": "La Provence",
       "tags": [
         {
@@ -72,26 +72,22 @@
           "cls": "tp"
         },
         {
-          "label": "Tertiaire",
+          "label": "Patrimoine",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Forum BTP École 2ème Chance : 500 participants, préjugés déconstruits",
-      "body": "France Travail a organisé une semaine de sensibilisation aux métiers du BTP clôturée par un forum de 500 participants aux quartiers Nord, adressant la pénurie de main-d'œuvre. Cette initiative démontre une volonté institutionnelle de dynamiser les secteurs de la construction et des services aux bâtiments.",
-      "impact": "Indicateur positif pour demande en locaux activité/bureaux BTP et services ; potentiel de croissance emploi tertiaire dans le secteur construction PACA.",
-      "date": "17/10/2026",
-      "url": "https://www.laprovence.com/article/societe/34320919253161/a-lecole-de-la-2e-chance-le-forum-du-btp-deconstruit-les-prejuges-sur-le-metier-dans-des-quartiers-nord",
-      "source": "La Provence",
+      "title": "Inflation France maîtrisée : 1.7%, contexte favorable pour CRE",
+      "body": "L'inflation française se maintient à 1.7%, signalant une stabilité macroéconomique. Ce contexte limite les revalorisations de loyers et préserve la prévisibilité des flux de trésorerie immobilière.",
+      "impact": "Exploiter le contexte inflationniste maîtrisé pour négocier des baux longs PACA avec des clauses d'indexation modérées ; argument de stabilité auprès des preneurs.",
+      "date": "19/10/2026",
+      "url": "https://banque-france.fr/inflation",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
+          "label": "Conjoncture",
           "cls": "tm"
         }
       ]
@@ -100,46 +96,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "OAT 10Y à 3.70% : coûts financement immobilier stabilisés",
-      "body": "Les taux OAT restent ancrés à 3.70%, reflétant une stabilisation des rendements obligataires en France. Avec Euribor 3M à 2.15%, les conditions de crédit pour immobilier d'entreprise demeurent supportables.",
-      "impact": "Fenêtre de financement toujours accessible pour acquisitions/refinancements PACA ; recommander aux clients des montages avant possibles ajustements BCE.",
+      "title": "Violences à Marseille : impact économique et mesures de soutien régional",
+      "body": "Les émeutes du 17 octobre ont causé des pillages massifs en centre-ville ; la Région Paca met en place un fonds de solidarité. Le tissu économique marseillais se mobilise pour éviter l'effondrement de l'activité commerciale.",
+      "impact": "Vigilance requise sur les risques de dégradation immobilière et de vacance commerciale à Marseille ; suivre les mesures de relance pour identifier les fenêtres d'opportunité.",
       "date": "18/10/2026",
-      "url": "https://www.bourse.fr",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/politique/31152820139097/violences-du-17-octobre-le-president-de-region-annonce-reactiver-le-fonds-de-solidarite-commerces-pilles",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France 1.7% : BCE maintient cap monétaire restrictif",
-      "body": "Avec inflation à 1.7%, la BCE maintient ses taux à 2.15% dans une posture conservative. Cette inflation basse contraste avec les tensions énergétiques amont et suggère un début de normalisation.",
-      "impact": "Contexte macro favorable aux décisions d'investissement tertiaire long terme ; inflation résiduelle limite réévaluations loyers à court terme.",
-      "date": "18/10/2026",
-      "url": "https://www.ecb.europa.eu",
-      "source": "BCE / Conjoncture",
+      "title": "Brent à 96 USD : stabilité énergétique favorable aux coûts d'exploitation",
+      "body": "Le prix du Brent se maintient à 96 USD/baril, signalant une absence de choc géopolitique majeur. Cette stabilité énergétique soutient les coûts de fonctionnement des immeubles tertiaires.",
+      "impact": "Coûts énergétiques maîtrisés pour les locataires PACA ; opportunité de valoriser les bâtiments éco-certifiés avec faible consommation en négociation.",
+      "date": "19/10/2026",
+      "url": "https://energie-marches.fr/brent",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Inflation",
+          "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Pétrole Brent 96 USD/bl : énergies stables, risques géopolitiques contenus",
-      "body": "Le Brent affiche 96 USD/baril, reflet d'une stabilité relative malgré tensions géopolitiques persistantes. Cette fourchette modérée limite la volatilité des coûts énergétiques pour tertiaire.",
-      "impact": "Charges énergétiques prévisibles pour immobilier d'entreprise PACA ; intégrer 96 USD base dans projections budgétaires clients 2027.",
-      "date": "18/10/2026",
-      "url": "https://www.iea.org",
-      "source": "Données énergie",
+      "title": "BCE à 2.15% : taux directeur stable, politique accommodante",
+      "body": "La Banque centrale européenne maintient son taux directeur à 2.15%, soutenant la liquidité du marché. L'inflation stable (1.7% France) justifie une politique monétaire inchangée.",
+      "impact": "Contexte de taux stables favorable aux arbitrages immobiliers ; anticiper les décisions BCE en décembre pour les acquisitions PACA multi-périodes.",
+      "date": "19/10/2026",
+      "url": "https://ecb.europa.eu/rates",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Macro",
+          "cls": "tm"
         }
       ]
     }

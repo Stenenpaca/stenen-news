@@ -1,13 +1,13 @@
 {
-  "generated_at": "20/10/2026",
+  "generated_at": "21/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Mobilité durable : Crédit Agricole PACA renforce son offre Vélotaf",
-      "body": "Le Crédit Agricole Provence Côte d'Azur augmente sa flotte de vélos à assistance électrique de 260 à 326 unités, répartis sur les Alpes-de-Haute-Provence, Alpes-Maritimes et autres départements. Cette initiative reflète l'engagement croissant des entreprises PACA vers des modes de transport décarbonés.",
-      "impact": "Les entreprises tertiaires PACA doivent intégrer la mobilité durable dans leurs critères d'attractivité immobilière et offres de locaux pour répondre aux attentes des occupants.",
-      "date": "20/10/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/96711022045432/le-credit-agricole-provence-cote-dazur-pedale-vers-une-mobilite-plus-durable",
+      "title": "Commerces PACA : craintes sécuritaires et repli de consommation",
+      "body": "Les pillages de octobre à Marseille et Plan-de-Campagne fragilisent les petits commerces à quelques semaines de Noël. Le tribunal de commerce d'Aix alerte sur des dépôts de bilan en cascade et propose un accompagnement aux boutiques sinistrées.",
+      "impact": "Risque de déstabilisation immobilière tertiaire/commerce en PACA : attendre stabilisation sécuritaire avant nouveaux investissements retail.",
+      "date": "21/10/2026",
+      "url": "https://www.laprovence.com/article/economie/1077929082804314/pillages-un-accompagnement-propose-par-le-tribunal-de-commerce-daix-aux-magasins-voles-de-plan-de-campagne",
       "source": "La Provence",
       "tags": [
         {
@@ -15,56 +15,56 @@
           "cls": "tp"
         },
         {
-          "label": "RSE",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "CCI AMP mobilisée pour l'industrie décarbonée en PACA",
-      "body": "La Chambre de commerce et d'industrie Aix-Marseille Provence organise une matinée le 22 octobre pour partager les enseignements sur l'industrie décarbonée avec les industriels régionaux. Cette initiative marque l'accélération de la transition écologique dans les secteurs d'activité PACA.",
-      "impact": "Les futurs locaux d'activité en PACA doivent répondre aux normes de décarbonation exigées ; anticiper ces critères dans les transactions immobilières devient un argument commercial majeur.",
+      "title": "Redressement judiciaire GiFi : impact chaîne retail France",
+      "body": "Le groupe GiFi, opérateur majeur de bazars avec 6 000 salariés, sollicite son placement en redressement judiciaire face à des difficultés structurelles. Cette procédure aura des répercussions immobilières significatives sur les locations de locaux commerciaux.",
+      "impact": "Surveiller les relocalisations GiFi en PACA et renégociations de baux commerciaux pour capter des opportunités de reprises.",
       "date": "20/10/2026",
-      "url": "https://www.laprovence.com/article/region/80789127831013/la-chambre-de-commerce-et-d-industrie-aix-marseille-provence-mobilise-pour-preparer-l-industrie-decarbonee",
+      "url": "https://www.laprovence.com/article/economie/59803242433596/gifi-va-solliciter-son-placement-en-redressement-judiciaire-a-annonce-le-nouveau-dirigeant-a-ses-salaries",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Retail",
+          "cls": "tm"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Fnac Darty : feu vert de Bruxelles pour l'OPA de Kretinsky",
-      "body": "La Commission européenne autorise l'acquisition de Fnac Darty par le milliardaire tchèque Daniel Kretinsky, marquant la conclusion d'une procédure de concentration. Cette transaction majeure reflète les mouvements du secteur retail français et ses impacts sur la demande de locaux commerciaux.",
-      "impact": "Les transactions commerciales PACA pourraient être affectées par la restructuration du réseau Fnac Darty ; surveiller les cessions ou relocalisations de points de vente pour opportunités CRE.",
+      "title": "Carrefour anticipe ralentissement consommation 2026",
+      "body": "Malgré +3,9% de chiffre d'affaires, le géant de la distribution abaisse ses objectifs 2026 du fait de la dégradation socio-sécuritaire en France. Cette prudence confirme le recul de la demande retail et d'activité commerciale.",
+      "impact": "Réviser à la baisse les prévisions de loyers tertiaire/commerce en PACA ; privilégier les secteurs essentiels et services B2B moins volatiles.",
       "date": "20/10/2026",
-      "url": "https://www.laprovence.com/article/economie/20649037535952/fnac-darty-la-commission-europeenne-autorise-lopa-du-milliardaire-tcheque-daniel-kretinsky",
+      "url": "https://www.laprovence.com/article/economie/6585079293430914/tensions-en-france-inquiet-pour-la-consommation-carrefour-reduit-legerement-ses-objectifs-2026",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché",
+          "label": "Conjoncture",
           "cls": "tm"
         },
         {
-          "label": "Commerce",
+          "label": "PACA",
           "cls": "tp"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Échanges de maisons : +18% en PACA à la Toussaint",
-      "body": "Malgré l'inflation et les budgets contraints, la PACA s'affirme destination privilégiée pour l'arrière-saison avec une hausse de 18% des échanges de maisons. Le secteur touristique régional prolonge sa saison et renforce la demande immobilière résidentielle et commerciale.",
-      "impact": "La forte attractivité touristique PACA soutient la demande de locaux commerciaux et d'activité ; positionner des biens dans les zones touristiques dynamiques reste stratégique.",
-      "date": "20/10/2026",
-      "url": "https://www.laprovence.com/article/economie/74829121072901/echanges-de-maisons-18-en-paca-a-la-toussaint-pourquoi-ce-concept-de-voyage-seduit-tant",
+      "title": "Commerce local La Ciotat : dynamisation et végétalisation",
+      "body": "Les Vitrines de La Ciotat, association de commerçants, mobilise événementiel, stationnement gratuit et projets d'aménagement urbain pour revitaliser le centre-ville. Cette approche terrain illustre la résilience des petits commerces PACA face aux défis macro.",
+      "impact": "Identifier les locaux activité/commerce à La Ciotat bénéficiant de politiques municipales de soutien : opportunités de stabilité locative mid-term.",
+      "date": "21/10/2026",
+      "url": "https://www.laprovence.com/article/economie/23315098173809/lassociation-des-commercants-du-centre-ville-de-la-ciotat-planche-sur-de-nombreux-projets",
       "source": "La Provence",
       "tags": [
         {
@@ -72,18 +72,18 @@
           "cls": "tp"
         },
         {
-          "label": "Tendances",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Enogia : passage au cap industriel et conquête énergétique",
-      "body": "La pépite marseillaise Enogia concrétise son plan 'Turbo 2028' avec l'inauguration de son nouveau site du 15e arrondissement et un contrat majeur avec Naphtachimie. Cette croissance illustre le dynamisme du secteur énergétique PACA et la demande croissante en locaux d'activité innovants.",
-      "impact": "Les entreprises tech/énergie PACA recherchent des espaces flexibles et modernes ; les locaux d'activité adaptés à l'innovation représentent une opportunité de transaction premium.",
-      "date": "20/10/2026",
-      "url": "https://www.laprovence.com/article/economie/17033413633382/enogia-passe-du-cap-industriel-a-la-conquete-des-geants-de-l-energie",
+      "title": "Marseille : ambiguïté municipale sur développement croisières",
+      "body": "Après 30 ans de montée en puissance du secteur croisière à Marseille, l'actuelle municipalité (B. Payan) affiche des discours contradictoires sur son expansion. Les tensions politiques ralentissent les investissements en immobilier portuaire et tertiaire connexe.",
+      "impact": "Reporter les acquisitions immobilières tertiaire/bureaux près du port de Marseille jusqu'à clarification politique et stabilité réglementaire sur croisières.",
+      "date": "21/10/2026",
+      "url": "https://www.laprovence.com/article/region/52720264294491/il-est-urgent-davancer-sur-les-croisieres-a-marseille-la-municipalite-ambivalente",
       "source": "La Provence",
       "tags": [
         {
@@ -91,8 +91,8 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     }
@@ -100,50 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Macron sécurise 200 000 tonnes/mois de diesel supplémentaires",
-      "body": "Le Président obtient des engagements de 100 000 tonnes/mois de diesel avec les Émirats et 100 000 tonnes complémentaires via Bahreïn. Cette sécurisation des approvisionnements énergétiques renforce la stabilité des cours du Brent et la prévisibilité des coûts logistiques.",
-      "impact": "Les coûts énergétiques et de transport des locaux PACA bénéficient d'une meilleure stabilité ; la visibilité s'améliore pour les calculs de rendement immobilier.",
-      "date": "20/10/2026",
-      "url": "https://www.laprovence.com/article/economie/61090318572492/emmanuel-macron-a-securise-des-livraisons-supplementaires-de-200-000-tonnes-de-diesel-par-mois-par-les-emirats-et-bahrein",
+      "title": "Conjoncture France : alerte dépôts de bilan T4 2026",
+      "body": "Le président du tribunal de commerce d'Aix-en-Provence alerte sur une explosion des dépôts de bilan et redressements depuis janvier 2026. L'instabilité politique et le ralentissement économique risquent d'amplifier les défaillances d'entreprises en fin d'année.",
+      "impact": "Durcir critères de solvabilité locataires tertiaire/activité PACA ; renforcer garanties et couvertures de risque crédit avant signature baux 2026-2027.",
+      "date": "21/10/2026",
+      "url": "https://www.laprovence.com/article/economie/76581745671946/je-crains-des-vagues-de-depots-de-bilan-lalerte-du-president-du-tribunal-de-commerce-daix",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Énergie",
+          "label": "Conjoncture FR",
           "cls": "tg"
+        },
+        {
+          "label": "Risque",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Contexte fiscal : deadline taxe foncière 20 octobre minuit",
-      "body": "La Direction générale des Finances publiques fixe l'échéance de paiement de la taxe foncière au 20 octobre minuit pour millions de propriétaires français. Les retards entraînent des pénalités substantielles et intérêts de retard.",
-      "impact": "Pour les investisseurs immobiliers PACA, rappel de respecter strictement les dates d'imposition foncière ; intégrer ces charges récurrentes dans les modèles de rendement CRE.",
-      "date": "20/10/2026",
-      "url": "https://www.laprovence.com/article/economie/76585311006447/taxe-fonciere-plus-que-quelques-heures-pour-vous-acquitter-de-cet-impot-quelles-penalites-en-cas-de-retard",
-      "source": "La Provence",
+      "title": "Volatilité taux OAT/Euribor : financement immobilier tendu",
+      "body": "Dans un contexte de ralentissement macro et instabilité politique française, les taux obligataires (OAT 3.70%) et monétaires (Euribor3M 2.15%, BCE 2.15%) demeurent élevés. L'accès au financement pour transactions immobilières reste coûteux et sélectif.",
+      "impact": "Anticiper hausse des coûts de portage immobilier PACA ; privilégier cash-flow positif immédiat et réduire effet de levier sur montages financement.",
+      "date": "21/10/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-marche-oat-euribor",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Bilan : taux OAT 3,70%, Euribor3M 2,15%, inflation 1,7%",
-      "body": "Les conditions de financement restent stables avec les OAT à 3,70% et Euribor3M à 2,15%, soutenant une inflation modérée à 1,7%. La BCE maintient ses taux directeurs et surveille les équilibres macroéconomiques.",
-      "impact": "Les conditions de financement immobilier PACA demeurent accessibles ; les taux fixes long terme restent attractifs pour structurer les acquisitions immobilières.",
-      "date": "20/10/2026",
-      "url": "https://www.laprovence.com/",
-      "source": "Données de marché",
+      "title": "BCE maintient taux directeur : persistance inflation modérée",
+      "body": "La BCE maintient son taux directeur à 2.15% face à une inflation française résiduelle de 1.7%, reflet d'une économie de la zone euro fragmentée. Les risques de stagflation liés aux tensions géopolitiques et sociales restent présents.",
+      "impact": "Monitoring continu des signaux BCE/inflation : tout pic inflationniste pourrait renchérir financement CRE et réduire appétit investisseurs immobilier PACA.",
+      "date": "21/10/2026",
+      "url": "https://www.laprovence.com/article/economie/donnees-bce-inflation",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "BCE/Inflation",
+          "cls": "tg"
         },
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "Monétaire",
+          "cls": "tt"
         }
       ]
     }

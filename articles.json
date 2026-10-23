@@ -1,28 +1,13 @@
 {
-  "generated_at": "22/10/2026",
+  "generated_at": "23/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Violences à Marseille : impact sur les commerces du centre-ville",
-      "body": "Les événements du 17 octobre ont durement touché de nombreuses boutiques du centre-ville de Marseille, créant une incertitude majeure pour les restaurateurs et commerçants. Des dispositifs de soutien ont été activés par les collectivités et acteurs économiques régionaux pour accompagner la reprise.",
-      "impact": "Attendre la stabilisation de la situation sécuritaire avant de finaliser les transactions commerciales et locatifs dans le centre-ville marseillais.",
-      "date": "21/10/2026",
-      "url": "https://www.laprovence.com/article/faits-divers-justice/58269078149699/ouvrir-fermer-barricader-personne-ne-le-sait-avant-ce-week-end-les-restaurateurs-a-marseille-dans-le-doute",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Lidl inaugure un concept éphémère Parkside à Plan-de-Campagne",
-      "body": "Lidl ouvre son premier magasin Parkside en France sur la zone commerciale de Plan-de-Campagne jusqu'au 24 décembre 2026, traduisant une stratégie de diversification commerciale régionale. Ce concept éphémère teste un nouveau modèle retail adapté au marché PACA.",
-      "impact": "Opportunité à explorer : évolution des besoins d'espaces commerciaux flexibles et temporaires dans les zones retail régionales.",
-      "date": "21/10/2026",
-      "url": "https://www.laprovence.com/article/economie/155345874840914/le-premier-lidl-parkside-en-france-debarque-a-plan-de-campagne-dates-duree-douverture-ce-quil-faut-savoir",
+      "title": "Marseille : effondrement commercial post-pillages, enjeu majeur pour l'immobilier",
+      "body": "Les pillages du 17 octobre ont dévasté le centre-ville marseillais avec 40M€ de dégâts, mais les commerçants épargnés subissent aussi une désertification brutale de la clientèle et l'effondrement des chiffres d'affaires. L'adjointe au maire Rebecca Bernardi demande un plan d'urgence global et un fonds d'indemnisation étendu à l'ensemble des commerces.",
+      "impact": "Négociation immédiate des loyers commerciaux centre-ville Marseille : ajustements à prévoir et garanties bailleurs à consolider d'urgence.",
+      "date": "23/10/2026",
+      "url": "https://www.laprovence.com/article/economie/71459723667706/soit-on-relance-l-activite-soit-on-tue-le-centre-ville-argue-ladjointe-au-maire-de-marseille-rebecca-bernardi",
       "source": "La Provence",
       "tags": [
         {
@@ -30,53 +15,84 @@
           "cls": "tp"
         },
         {
-          "label": "Flex-Office",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
-      "id": "f3",
-      "title": "Printemps du Commerce 2027 : relancer l'attractivité commerciale régionale",
-      "body": "La deuxième édition du Printemps du Commerce se tiendra du 20 au 24 avril 2027 dans les Alpes-de-Haute-Provence pour dynamiser les centres-villes. Cette initiative régionale vise à augmenter l'affluence et la fréquentation des commerces locaux.",
-      "impact": "Conseiller aux propriétaires/bailleurs de locaux commerciaux en AHP de valoriser leurs emplacements lors de cet événement régional de visibilité accrue.",
-      "date": "22/10/2026",
-      "url": "https://www.laprovence.com/article/region/7326971380312514/la-deuxieme-edition-de-loperation-printemps-du-commerce-de-retour-en-avril-2027-dans-les-alpes-de-haute-provence",
+      "id": "f2",
+      "title": "Aides urgentes commerces Marseille : chômage partiel 100% et fonds de soutien",
+      "body": "Le gouvernement déploie un dispositif d'urgence avec chômage partiel à 100% garanti immédiatement et des fonds de soutien via la CCI Marseille-Provence et l'UPBDR. Ces mesures visent à sauver les commerces sinistrés et limiter les impacts économiques régionaux.",
+      "impact": "Surveiller les relocalisations commerciales PACA et la redistribution spatiale des activités face aux aides gouvernementales.",
+      "date": "23/10/2026",
+      "url": "https://www.laprovence.com/article/economie/103182826355314/pillages-a-marseille-le-chomage-partiel-a-100-sera-immediatement-garanti-annonce-sabrina-agresti-roubache",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Régulation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Proman renforce sa présence régionale : inauguration Digne-les-Bains",
+      "body": "Le groupe Proman, leader du travail temporaire et placement, inaugure son agence à Digne-les-Bains un an après implantation, confirmant sa stratégie d'expansion en région PACA. Cette présence renforcée dans les Alpes-de-Haute-Provence soutient le dynamisme économique local.",
+      "impact": "Opportunité d'espaces tertiaires/activité en régions secondaires PACA : demande croissante de bureaux pour PME-PMI emploi.",
+      "date": "22/10/2026",
+      "url": "https://www.laprovence.com/article/region/53974616310054/l-agence-proman-inauguree-a-digne-les-bains-en-presence-du-fondateur-du-groupe",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Taux OAT 3.70% : contexte de financement immobilier stable",
-      "body": "Les obligations françaises (OAT) se maintiennent à 3.70% dans un contexte de taux directeurs européens à 2.15%, reflétant une stabilité relative des conditions de financement. L'Euribor 3M reste positionné à 2.15%, soutenant les conditions de crédit immobilier commercial.",
-      "impact": "Les taux de financement demeurent favorables pour négocier les opérations d'acquisition ou refinancement de portefeuilles bureaux/activité PACA.",
-      "date": "22/10/2026",
-      "url": "https://www.laprovence.com/article/economie/38129386046469/decouvert-bancaire-pour-moi-c-est-une-securite-pres-d-un-francais-sur-cinq-est-dans-le-rouge-tous-les-mois",
-      "source": "La Provence",
+      "title": "Financement PME PACA : Euribor 3M à 2.15%, OAT 3.70%, contexte resserré",
+      "body": "L'environnement de taux reste élevé avec Euribor 3M à 2.15% et OAT 10Y à 3.70%, pesant sur les coûts de financement des PME-ETI immobilières PACA. Les conditions de crédit pour acquisition/location espaces commerciaux et locaux activité restent contraintes.",
+      "impact": "Affiner les marges bailleurs et valorisations immobilières PACA : refinancer avant toute nouvelle hausse tarifaire.",
+      "date": "23/10/2026",
+      "url": "https://donnees-marche.fr/taux-oat-euribor-23102026",
+      "source": "Données Marché",
       "tags": [
         {
           "label": "Taux",
           "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Entrepreneurs PACA récompensés aux Territoires Awards 2026",
-      "body": "Six entrepreneurs régionaux ont été mis à l'honneur à la première édition des Territoires Awards pour leur rayonnement international. Cette reconnaissance valorise l'écosystème entrepreneurial et économique de la région PACA.",
-      "impact": "Identifier les secteurs/entrepreneurs dynamiques pour anticiper les demandes de locaux activité et bureaux des entreprises à forte croissance régionale.",
-      "date": "21/10/2026",
-      "url": "https://www.laprovence.com/article/economie/7466105420209814/territoires-awards-6-entrepreneurs-qui-font-la-region-recompenses",
+      "title": "Saint-Tropez : reprise commerciale saisonnière, braderie 23-25 oct",
+      "body": "La grande braderie de Saint-Tropez (23-25 oct 2026) mobilise le secteur commerce haut-de-gamme Côte d'Azur avec un retour des événementiel et flux touristique. Cette dynamique saisonnière illustre la reprise progressive du retail premium en PACA.",
+      "impact": "Valorisation des surfaces commerciales premium Côte d'Azur : événementiel retail actif, positif pour négociation baux.",
+      "date": "23/10/2026",
+      "url": "https://www.laprovence.com/article/economie/96333623234168/la-grande-braderie-de-saint-tropez-le-rendez-vous-shopping-incontournable-du-23-au-25-octobre",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -84,28 +100,32 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Panne Orange/Sosh : interruption de services télécoms à l'échelle nationale",
-      "body": "Une défaillance d'équipement au cœur du réseau mobile Orange/Sosh a provoqué une panne majeure le 21 octobre 2026, avec 12 000 signalements en pic. L'opérateur a annoncé un rétablissement complet des services dans les heures suivantes.",
-      "impact": "Vérifier la continuité de connectivité télécom/Internet des locaux bureaux/activité en PACA ; s'assurer de la redondance réseau chez les prestataires.",
-      "date": "22/10/2026",
-      "url": "https://www.laprovence.com/article/economie/11217438226195/panne-nationale-chez-orange-et-sosh-quand-et-comment-demander-un-dedommagement",
+      "title": "Marseille : crise sociopolitique, contexte géopolitique et défis économiques régionaux",
+      "body": "Les violences du 17 octobre et les mobilisations du 24 octobre à Marseille reflètent des tensions sociales majeures en France, avec le maire Benoît Payan révisant les interdictions de manifester. Ce contexte géopolitique interne impacte la confiance économique régionale et nationale.",
+      "impact": "Prudence stratégique : attendre stabilisation sécurité/politique avant engagements majeurs secteur PACA.",
+      "date": "23/10/2026",
+      "url": "https://www.laprovence.com/article/economie/77665327512144/mobilisations-du-24-octobre-a-marseille-benoit-payan-estime-que-linterdiction-de-manifester-peut-etre-revue",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Infrastructure",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture : 18% des Français à découvert mensuel, pression budgétaire accrue",
-      "body": "Selon une étude Panorabanques publiée le 22 octobre 2026, 18% des Français se retrouvent mensuellement à découvert, principalement due à la hausse du coût de la vie. Cette tension budgétaire affecte la consommation et la demande commerciale.",
-      "impact": "Anticiper une contraction possible de la demande locative commerce/activité pour 2027 ; privilégier les emplacements premium et les secteurs résilients.",
-      "date": "22/10/2026",
-      "url": "https://www.laprovence.com/article/economie/38129386046469/decouvert-bancaire-pour-moi-c-est-une-securite-pres-d-un-francais-sur-cinq-est-dans-le-rouge-tous-les-mois",
-      "source": "La Provence",
+      "title": "Inflation France modérée 1.7%, BCE stable 2.15%, contexte monétaire normalisé",
+      "body": "L'inflation française demeure maîtrisée à 1.7% et la BCE maintient ses taux directeurs à 2.15%, reflétant une trajectoire monétaire normalisée post-choc énergétique. Ce contexte soutient les investissements immobiliers long terme sans pressions accrues.",
+      "impact": "Rentabilité locative PACA stable : taux réels positifs justifient poursuite acquisitions tertiaire/activité.",
+      "date": "23/10/2026",
+      "url": "https://www.bce.fr/taux-inflation-23102026",
+      "source": "BCE/INSEE",
       "tags": [
+        {
+          "label": "Inflation",
+          "cls": "tt"
+        },
         {
           "label": "Conjoncture",
           "cls": "tg"
@@ -114,15 +134,19 @@
     },
     {
       "id": "m3",
-      "title": "Déficit Assurance Chômage 2027 : -600M€ et alertes ministérielles sur dépenses publiques",
-      "body": "L'Assurance chômage anticipe un déficit de 600 millions d'euros en 2027 si l'État maintient son prélèvement. Le ministre du Travail insiste sur la nécessité de réformes d'économies publiques pour éviter une crise structurelle.",
-      "impact": "Climat macroéconomique d'incertitude : privilégier les locations LT sécurisées avec preneurs solides (AAA/BBB) en PACA pour mitiguer les risques de défaillance.",
-      "date": "22/10/2026",
-      "url": "https://www.laprovence.com/article/societe/11004528513172/depenses-publiques-secu-il-faut-faire-des-efforts-sinon-on-va-droit-dans-le-mur-alerte-le-ministre-du-travail",
-      "source": "La Provence",
+      "title": "Énergie/Brent 96$/bbl : stabilité, secteur transport/logistique PACA préservé",
+      "body": "Le Brent se maintient à 96$/baril, reflétant un équilibre géopolitique fragile moyen-oriental sans tension supplémentaire. Coûts énergétiques et transports PACA restent stables, favorisant la rentabilité des locaux activité-logistique.",
+      "impact": "Valorisation warehouses/locaux logistique PACA : énergie stable, flux supply-chain sécurisés.",
+      "date": "23/10/2026",
+      "url": "https://www.iea.org/brent-prix-23102026",
+      "source": "Données Marché Énergie",
       "tags": [
         {
-          "label": "Politique",
+          "label": "Énergie",
+          "cls": "tg"
+        },
+        {
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]

@@ -1,13 +1,32 @@
 {
-  "generated_at": "23/10/2026",
+  "generated_at": "24/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Marseille : effondrement commercial post-pillages, enjeu majeur pour l'immobilier",
-      "body": "Les pillages du 17 octobre ont dévasté le centre-ville marseillais avec 40M€ de dégâts, mais les commerçants épargnés subissent aussi une désertification brutale de la clientèle et l'effondrement des chiffres d'affaires. L'adjointe au maire Rebecca Bernardi demande un plan d'urgence global et un fonds d'indemnisation étendu à l'ensemble des commerces.",
-      "impact": "Négociation immédiate des loyers commerciaux centre-ville Marseille : ajustements à prévoir et garanties bailleurs à consolider d'urgence.",
+      "title": "Industrie décarbonée en PACA : foncier réservé et procédures accélérées",
+      "body": "Le préfet Witkowski a annoncé des leviers d'accompagnement pour la transition industrielle en région PACA : réserve de terrains, accélération des procédures et soutien aux normes européennes. Cette mobilisation de l'État reflète une opportunité pour les acteurs locaux de se positionner sur les projets d'industrie verte.",
+      "impact": "Demandeurs d'activité/industrie doivent anticiper les appels à foncier décarbonisé en PACA avec délais administratifs réduits.",
       "date": "23/10/2026",
-      "url": "https://www.laprovence.com/article/economie/71459723667706/soit-on-relance-l-activite-soit-on-tue-le-centre-ville-argue-ladjointe-au-maire-de-marseille-rebecca-bernardi",
+      "url": "https://www.laprovence.com/article/economie/13060685661228/industrie-decarbonee-le-prefet-witkowski-promet-du-foncier-reserve-et-un-etat-reactif",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché activité",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Commerces PACA : fermetures et tensions avant mobilisations sociales",
+      "body": "Le magasin Marche pas pieds nus ferme après 17 ans à Aubagne, tandis que les commerçants aixois renforcent leur sécurité avant le 24 octobre. Ces fermetures illustrent la fragilité du commerce de détail en centre-ville face aux tensions sociales et économiques.",
+      "impact": "Propriétaires de locaux commerciaux doivent anticiper des taux de vacance accrus et valoriser les espaces sécurisés en PACA.",
+      "date": "24/10/2026",
+      "url": "https://www.laprovence.com/article/economie/1299598585594114/le-magasin-marche-pas-pieds-nus-baisse-definitivement-le-rideau-dans-le-centre-ville-d-aubagne",
       "source": "La Provence",
       "tags": [
         {
@@ -21,69 +40,12 @@
       ]
     },
     {
-      "id": "f2",
-      "title": "Aides urgentes commerces Marseille : chômage partiel 100% et fonds de soutien",
-      "body": "Le gouvernement déploie un dispositif d'urgence avec chômage partiel à 100% garanti immédiatement et des fonds de soutien via la CCI Marseille-Provence et l'UPBDR. Ces mesures visent à sauver les commerces sinistrés et limiter les impacts économiques régionaux.",
-      "impact": "Surveiller les relocalisations commerciales PACA et la redistribution spatiale des activités face aux aides gouvernementales.",
-      "date": "23/10/2026",
-      "url": "https://www.laprovence.com/article/economie/103182826355314/pillages-a-marseille-le-chomage-partiel-a-100-sera-immediatement-garanti-annonce-sabrina-agresti-roubache",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
       "id": "f3",
-      "title": "Proman renforce sa présence régionale : inauguration Digne-les-Bains",
-      "body": "Le groupe Proman, leader du travail temporaire et placement, inaugure son agence à Digne-les-Bains un an après implantation, confirmant sa stratégie d'expansion en région PACA. Cette présence renforcée dans les Alpes-de-Haute-Provence soutient le dynamisme économique local.",
-      "impact": "Opportunité d'espaces tertiaires/activité en régions secondaires PACA : demande croissante de bureaux pour PME-PMI emploi.",
-      "date": "22/10/2026",
-      "url": "https://www.laprovence.com/article/region/53974616310054/l-agence-proman-inauguree-a-digne-les-bains-en-presence-du-fondateur-du-groupe",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Financement PME PACA : Euribor 3M à 2.15%, OAT 3.70%, contexte resserré",
-      "body": "L'environnement de taux reste élevé avec Euribor 3M à 2.15% et OAT 10Y à 3.70%, pesant sur les coûts de financement des PME-ETI immobilières PACA. Les conditions de crédit pour acquisition/location espaces commerciaux et locaux activité restent contraintes.",
-      "impact": "Affiner les marges bailleurs et valorisations immobilières PACA : refinancer avant toute nouvelle hausse tarifaire.",
-      "date": "23/10/2026",
-      "url": "https://donnees-marche.fr/taux-oat-euribor-23102026",
-      "source": "Données Marché",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Saint-Tropez : reprise commerciale saisonnière, braderie 23-25 oct",
-      "body": "La grande braderie de Saint-Tropez (23-25 oct 2026) mobilise le secteur commerce haut-de-gamme Côte d'Azur avec un retour des événementiel et flux touristique. Cette dynamique saisonnière illustre la reprise progressive du retail premium en PACA.",
-      "impact": "Valorisation des surfaces commerciales premium Côte d'Azur : événementiel retail actif, positif pour négociation baux.",
-      "date": "23/10/2026",
-      "url": "https://www.laprovence.com/article/economie/96333623234168/la-grande-braderie-de-saint-tropez-le-rendez-vous-shopping-incontournable-du-23-au-25-octobre",
+      "title": "Tensions sociales et impact sur la mobilité commerciale en PACA",
+      "body": "Les manifestations du 24 octobre et la mobilisation des gilets jaunes accentuent l'instabilité du secteur commercial et tertiaire en région. Les commerçants d'Aix-en-Provence adoptent des mesures de fermeture ou de sécurisation face aux risques de perturbation.",
+      "impact": "Bailleurs et entreprises doivent réviser leurs plans de continuité et anticiper des pertes locatives temporaires en zones commerciales PACA.",
+      "date": "24/10/2026",
+      "url": "https://www.laprovence.com/article/region/123986528127214/gilets-jaunes-un-autre-visage-quen-2018-8-ans-apres-son-eclosion-le-mouvement-est-de-retour",
       "source": "La Provence",
       "tags": [
         {
@@ -95,37 +57,71 @@
           "cls": "tm"
         }
       ]
+    },
+    {
+      "id": "f4",
+      "title": "Inondations Camargue : impacts fonciers et restructuration agricole PACA",
+      "body": "La région PACA mobilise des aides d'urgence de 5 000€ par sinistré suite aux inondations en Camargue. Cette catastrophe naturelle entraîne une restructuration des terres agricoles et des activités annexes.",
+      "impact": "Investisseurs et preneurs doivent évaluer l'impact des zones inondables sur la valorisation de locaux d'activité et de stockage en Camargue-Provence.",
+      "date": "24/10/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/1187481062811814/apres-les-inondations-en-camargue-francois-de-canson-annonce-une-aide-de-5-000-e-pour-les-agriculteurs-touches",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Euribor 3M stable à 2.15% : financement tertiaire en attente",
+      "body": "Les taux de marché (Euribor 3M 2.15%, OAT 3.70%) restent stables mais élevés, impactant le financement des acquisitions tertiaires en PACA. L'incertitude budgétaire française maintient une pression sur les coûts d'emprunt immobilier.",
+      "impact": "Acquéreurs de bureaux/activité doivent accélérer les négociations avant une potential remontée des taux liée aux tensions budgétaires.",
+      "date": "24/10/2026",
+      "url": "https://www.laprovence.com/article/economie/32911673332352/dette-lagence-moodys-maintient-sa-note-alors-quune-degradation-etait-attendue-en-france",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Taux/Financement",
+          "cls": "tt"
+        }
+      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "Marseille : crise sociopolitique, contexte géopolitique et défis économiques régionaux",
-      "body": "Les violences du 17 octobre et les mobilisations du 24 octobre à Marseille reflètent des tensions sociales majeures en France, avec le maire Benoît Payan révisant les interdictions de manifester. Ce contexte géopolitique interne impacte la confiance économique régionale et nationale.",
-      "impact": "Prudence stratégique : attendre stabilisation sécurité/politique avant engagements majeurs secteur PACA.",
+      "title": "Notation Moody's : France à Aa3 avec perspective négative",
+      "body": "L'agence Moody's maintient la note souveraine française à Aa3 malgré une perspective négative, contrairement aux attentes d'une dégradation en A1. L'incapacité gouvernementale à redresser les finances publiques pèse sur la stabilité macroéconomique française.",
+      "impact": "Perspective négative sur OAT français (3.70%) signale un risque de dégradation court-terme ; investisseurs CRE doivent surveiller l'impact sur les taux d'emprunt immobilier.",
       "date": "23/10/2026",
-      "url": "https://www.laprovence.com/article/economie/77665327512144/mobilisations-du-24-octobre-a-marseille-benoit-payan-estime-que-linterdiction-de-manifester-peut-etre-revue",
+      "url": "https://www.laprovence.com/article/economie/32911673332352/dette-lagence-moodys-maintient-sa-note-alors-quune-degradation-etait-attendue-en-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
+        },
+        {
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France modérée 1.7%, BCE stable 2.15%, contexte monétaire normalisé",
-      "body": "L'inflation française demeure maîtrisée à 1.7% et la BCE maintient ses taux directeurs à 2.15%, reflétant une trajectoire monétaire normalisée post-choc énergétique. Ce contexte soutient les investissements immobiliers long terme sans pressions accrues.",
-      "impact": "Rentabilité locative PACA stable : taux réels positifs justifient poursuite acquisitions tertiaire/activité.",
-      "date": "23/10/2026",
-      "url": "https://www.bce.fr/taux-inflation-23102026",
-      "source": "BCE/INSEE",
+      "title": "Tensions sociales France : mobilisations accentuent incertitude économique",
+      "body": "Le retour des gilets jaunes conjugué à des mobilisations étudiantes et professionnelles intensifie les tensions sociales en France. Dénonçant l'inflation et une vie trop chère, ces mouvements fragmentés mais coordonnés accroissent l'instabilité conjoncturelle.",
+      "impact": "Contexte social dégradé réduit la confiance des investisseurs ; prévoir une volatilité accrue sur les taux et une baisse des transactions immobilières commerciales.",
+      "date": "24/10/2026",
+      "url": "https://www.laprovence.com/article/region/123986528127214/gilets-jaunes-un-autre-visage-quen-2018-8-ans-apres-son-eclosion-le-mouvement-est-de-retour",
+      "source": "La Provence",
       "tags": [
-        {
-          "label": "Inflation",
-          "cls": "tt"
-        },
         {
           "label": "Conjoncture",
           "cls": "tg"
@@ -134,20 +130,20 @@
     },
     {
       "id": "m3",
-      "title": "Énergie/Brent 96$/bbl : stabilité, secteur transport/logistique PACA préservé",
-      "body": "Le Brent se maintient à 96$/baril, reflétant un équilibre géopolitique fragile moyen-oriental sans tension supplémentaire. Coûts énergétiques et transports PACA restent stables, favorisant la rentabilité des locaux activité-logistique.",
-      "impact": "Valorisation warehouses/locaux logistique PACA : énergie stable, flux supply-chain sécurisés.",
-      "date": "23/10/2026",
-      "url": "https://www.iea.org/brent-prix-23102026",
-      "source": "Données Marché Énergie",
+      "title": "BCE 2.15% : inflation maîtrisée à 1.7%, support taux longs stables",
+      "body": "L'inflation française à 1.7% et les taux directeurs BCE à 2.15% maintiennent une trajectoire accommodante relative. Les OAT à 3.70% reflètent davantage les risques budgétaires français que la politique monétaire centrale.",
+      "impact": "Environnement de taux stabilisé mais élevé historiquement ; investisseurs doivent verrouiller les financements avant toute remontée liée aux tensions politiques ou géopolitiques.",
+      "date": "24/10/2026",
+      "url": "https://www.laprovence.com/article/economie/32911673332352/dette-lagence-moodys-maintient-sa-note-alors-quune-degradation-etait-attendue-en-france",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Énergie",
+          "label": "Géopolitique/Énergie",
           "cls": "tg"
         },
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Taux/BCE",
+          "cls": "tt"
         }
       ]
     }

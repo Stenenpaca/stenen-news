@@ -1,13 +1,13 @@
 {
-  "generated_at": "24/10/2026",
+  "generated_at": "25/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Industrie décarbonée en PACA : foncier réservé et procédures accélérées",
-      "body": "Le préfet Witkowski a annoncé des leviers d'accompagnement pour la transition industrielle en région PACA : réserve de terrains, accélération des procédures et soutien aux normes européennes. Cette mobilisation de l'État reflète une opportunité pour les acteurs locaux de se positionner sur les projets d'industrie verte.",
-      "impact": "Demandeurs d'activité/industrie doivent anticiper les appels à foncier décarbonisé en PACA avec délais administratifs réduits.",
+      "title": "Tarascon : fermeture usine BVF, plan social contesté",
+      "body": "L'usine Boulangeries et Viennoiseries de France du parc du Roubian à Tarascon fait face à une fermeture programmée. Les salariés dénoncent l'insuffisance du plan de sauvegarde proposé par la direction.",
+      "impact": "Libération potentielle de 2 500-3 000 m² d'activité en zone industrielle Tarascon à redynamiser via reconversion ou mutation locataire.",
       "date": "23/10/2026",
-      "url": "https://www.laprovence.com/article/economie/13060685661228/industrie-decarbonee-le-prefet-witkowski-promet-du-foncier-reserve-et-un-etat-reactif",
+      "url": "https://www.laprovence.com/article/societe/1096858332760814/un-plan-de-sauvegarde-au-rabais-les-salaries-de-boulangeries-et-viennoiseries-de-france-de-tarascon-en-colere",
       "source": "La Provence",
       "tags": [
         {
@@ -22,9 +22,9 @@
     },
     {
       "id": "f2",
-      "title": "Commerces PACA : fermetures et tensions avant mobilisations sociales",
-      "body": "Le magasin Marche pas pieds nus ferme après 17 ans à Aubagne, tandis que les commerçants aixois renforcent leur sécurité avant le 24 octobre. Ces fermetures illustrent la fragilité du commerce de détail en centre-ville face aux tensions sociales et économiques.",
-      "impact": "Propriétaires de locaux commerciaux doivent anticiper des taux de vacance accrus et valoriser les espaces sécurisés en PACA.",
+      "title": "Aubagne : fermeture commerce centre-ville après 17 ans",
+      "body": "Le magasin de chaussures Marche pas pieds nus ferme définitivement son point de vente du centre-ville d'Aubagne. Cette fermeture illustre les difficultés du commerce de détail traditionnel en hyper-centre.",
+      "impact": "Local commercial disponible en centre-ville Aubagne : opportunité de repositionnement retail ou mixte bureaux-retail pour investisseur acquéreur.",
       "date": "24/10/2026",
       "url": "https://www.laprovence.com/article/economie/1299598585594114/le-magasin-marche-pas-pieds-nus-baisse-definitivement-le-rideau-dans-le-centre-ville-d-aubagne",
       "source": "La Provence",
@@ -41,48 +41,10 @@
     },
     {
       "id": "f3",
-      "title": "Tensions sociales et impact sur la mobilité commerciale en PACA",
-      "body": "Les manifestations du 24 octobre et la mobilisation des gilets jaunes accentuent l'instabilité du secteur commercial et tertiaire en région. Les commerçants d'Aix-en-Provence adoptent des mesures de fermeture ou de sécurisation face aux risques de perturbation.",
-      "impact": "Bailleurs et entreprises doivent réviser leurs plans de continuité et anticiper des pertes locatives temporaires en zones commerciales PACA.",
-      "date": "24/10/2026",
-      "url": "https://www.laprovence.com/article/region/123986528127214/gilets-jaunes-un-autre-visage-quen-2018-8-ans-apres-son-eclosion-le-mouvement-est-de-retour",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Inondations Camargue : impacts fonciers et restructuration agricole PACA",
-      "body": "La région PACA mobilise des aides d'urgence de 5 000€ par sinistré suite aux inondations en Camargue. Cette catastrophe naturelle entraîne une restructuration des terres agricoles et des activités annexes.",
-      "impact": "Investisseurs et preneurs doivent évaluer l'impact des zones inondables sur la valorisation de locaux d'activité et de stockage en Camargue-Provence.",
-      "date": "24/10/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/1187481062811814/apres-les-inondations-en-camargue-francois-de-canson-annonce-une-aide-de-5-000-e-pour-les-agriculteurs-touches",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Euribor 3M stable à 2.15% : financement tertiaire en attente",
-      "body": "Les taux de marché (Euribor 3M 2.15%, OAT 3.70%) restent stables mais élevés, impactant le financement des acquisitions tertiaires en PACA. L'incertitude budgétaire française maintient une pression sur les coûts d'emprunt immobilier.",
-      "impact": "Acquéreurs de bureaux/activité doivent accélérer les négociations avant une potential remontée des taux liée aux tensions budgétaires.",
-      "date": "24/10/2026",
+      "title": "Moody's maintient note Aa3 France, perspective négative",
+      "body": "L'agence Moody's maintient l'échelon Aa3 pour la France malgré l'anticipation d'une dégradation en A1. Cette décision reflète la persistance des risques budgétaires français.",
+      "impact": "Stabilité relative des taux OAT court terme (3.70%) maintient finançabilité pour projets CRE PACA ; surveiller impact si dégradation ultérieure sur coûts emprunt.",
+      "date": "23/10/2026",
       "url": "https://www.laprovence.com/article/economie/32911673332352/dette-lagence-moodys-maintient-sa-note-alors-quune-degradation-etait-attendue-en-france",
       "source": "La Provence",
       "tags": [
@@ -91,33 +53,67 @@
           "cls": "tt"
         }
       ]
+    },
+    {
+      "id": "f4",
+      "title": "Alpes-HauteProvence : investissements importants budget 2027",
+      "body": "Le Conseil départemental des Alpes-de-Haute-Provence vote ses orientations budgétaires 2027 avec un équilibre entre maîtrise des dépenses et investissements structurants. Cette dynamique annonce des appels d'offres tertiaire/logistique dans le département.",
+      "impact": "Anticiper opportunités locaux activité/bureaux auprès collectivités 04 : programme investissements régionaux génère demande locatif 2027.",
+      "date": "24/10/2026",
+      "url": "https://www.laprovence.com/article/region/1171041594056514/un-budget-aux-depenses-maitrisees-et-investissements-importants-pour-le-departement-des-alpes-de-haute-provence",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Cavaillon : restrictions domaine public hypercentre 24-26 oct",
+      "body": "La municipalité de Cavaillon interdit tout mobilier amovible sur domaine public du 24 au 26 octobre à titre préventif suite à mobilisation sociale. Impact temporaire sur attractivité commerciale du centre-ville.",
+      "impact": "Vérifier disponibilité terrasses et flux piétons commerces Cavaillon ; volatilité sociale locale peut affecter valuations retail court terme.",
+      "date": "23/10/2026",
+      "url": "https://www.laprovence.com/article/societe/1307650925286414/a-cavaillon-les-terrasses-de-lhypercentre-doivent-etre-remisees-durant-le-dernier-week-end-doctobre",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        }
+      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "Notation Moody's : France à Aa3 avec perspective négative",
-      "body": "L'agence Moody's maintient la note souveraine française à Aa3 malgré une perspective négative, contrairement aux attentes d'une dégradation en A1. L'incapacité gouvernementale à redresser les finances publiques pèse sur la stabilité macroéconomique française.",
-      "impact": "Perspective négative sur OAT français (3.70%) signale un risque de dégradation court-terme ; investisseurs CRE doivent surveiller l'impact sur les taux d'emprunt immobilier.",
-      "date": "23/10/2026",
-      "url": "https://www.laprovence.com/article/economie/32911673332352/dette-lagence-moodys-maintient-sa-note-alors-quune-degradation-etait-attendue-en-france",
+      "title": "Inondations Camargue : aide régionale 5 000€ agriculteurs",
+      "body": "La région PACA annonce un plan de sauvetage agricole post-inondations avec aide immédiate de 5 000€ par exploitant et accompagnement foin. Cette intervention régionale stabilise le secteur primaire mais impacte indirectement logistique agroalimentaire.",
+      "impact": "Risque climatique accentué en PACA : évaluer couverture assurance bâtiments activité/stockage zones inondables ; opportunité locaux agricoles relocalisés.",
+      "date": "24/10/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/1187481062811814/apres-les-inondations-en-camargue-francois-de-canson-annonce-une-aide-de-5-000-e-pour-les-agriculteurs-touches",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique/Climat",
           "cls": "tg"
-        },
-        {
-          "label": "Taux",
-          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Tensions sociales France : mobilisations accentuent incertitude économique",
-      "body": "Le retour des gilets jaunes conjugué à des mobilisations étudiantes et professionnelles intensifie les tensions sociales en France. Dénonçant l'inflation et une vie trop chère, ces mouvements fragmentés mais coordonnés accroissent l'instabilité conjoncturelle.",
-      "impact": "Contexte social dégradé réduit la confiance des investisseurs ; prévoir une volatilité accrue sur les taux et une baisse des transactions immobilières commerciales.",
+      "title": "Gilets jaunes : retour mouvement social Oct 2026",
+      "body": "Le mouvement gilets jaunes réapparaît en octobre 2026 associé à revendications de pouvoir d'achat et autres mouvements sociaux. Cette résurgence témoigne de tensions socio-économiques persistantes en France et PACA.",
+      "impact": "Instabilité sociale récurrente : prévoir impacts opérationnels (mobilité équipes, sécurité) dans transactions CRE ; valoriser terrains/locaux low-volatility zones stables.",
       "date": "24/10/2026",
       "url": "https://www.laprovence.com/article/region/123986528127214/gilets-jaunes-un-autre-visage-quen-2018-8-ans-apres-son-eclosion-le-mouvement-est-de-retour",
       "source": "La Provence",
@@ -130,17 +126,13 @@
     },
     {
       "id": "m3",
-      "title": "BCE 2.15% : inflation maîtrisée à 1.7%, support taux longs stables",
-      "body": "L'inflation française à 1.7% et les taux directeurs BCE à 2.15% maintiennent une trajectoire accommodante relative. Les OAT à 3.70% reflètent davantage les risques budgétaires français que la politique monétaire centrale.",
-      "impact": "Environnement de taux stabilisé mais élevé historiquement ; investisseurs doivent verrouiller les financements avant toute remontée liée aux tensions politiques ou géopolitiques.",
-      "date": "24/10/2026",
-      "url": "https://www.laprovence.com/article/economie/32911673332352/dette-lagence-moodys-maintient-sa-note-alors-quune-degradation-etait-attendue-en-france",
-      "source": "La Provence",
+      "title": "Euribor3M 2.15% : stabilité financement court terme",
+      "body": "L'Euribor 3 mois reste stable à 2.15% reflétant pause BCE à 2.15% et inflation modérée 1.7%. Contexte de taux historiquement élevé persistant maintient pression coûts emprunt immobilier.",
+      "impact": "Financement CRE reste onéreux (taux moyens 4.2-4.8%) : privilégier fonds propres/SCPI ou différer acquisitions jusqu'à baisse taux anticipated 2027.",
+      "date": "25/10/2026",
+      "url": "https://donnees-marche-25-10-2026",
+      "source": "Données marché",
       "tags": [
-        {
-          "label": "Géopolitique/Énergie",
-          "cls": "tg"
-        },
         {
           "label": "Taux/BCE",
           "cls": "tt"

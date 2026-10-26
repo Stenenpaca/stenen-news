@@ -1,13 +1,13 @@
 {
-  "generated_at": "25/10/2026",
+  "generated_at": "26/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Tarascon : fermeture usine BVF, plan social contesté",
-      "body": "L'usine Boulangeries et Viennoiseries de France du parc du Roubian à Tarascon fait face à une fermeture programmée. Les salariés dénoncent l'insuffisance du plan de sauvegarde proposé par la direction.",
-      "impact": "Libération potentielle de 2 500-3 000 m² d'activité en zone industrielle Tarascon à redynamiser via reconversion ou mutation locataire.",
-      "date": "23/10/2026",
-      "url": "https://www.laprovence.com/article/societe/1096858332760814/un-plan-de-sauvegarde-au-rabais-les-salaries-de-boulangeries-et-viennoiseries-de-france-de-tarascon-en-colere",
+      "title": "Plateforme logistique de 25 000 m² à Marignane : opportunité majeure",
+      "body": "Prologis transforme un ancien site industriel de 67 000 m² route de Martigues à Marignane en plateforme logistique. Entre 4 et 8 entreprises devraient s'y installer d'ici 2028, dynamisantl'offre de locaux d'activité périurbains.",
+      "impact": "Transaction : secteur logistique PACA en forte demande, opportunités de reprises locataires multimodales pour portefeuille actif.",
+      "date": "26/10/2026",
+      "url": "https://www.laprovence.com/article/economie/2910180657778814/un-ancien-site-industriel-va-etre-transforme-en-plateforme-logistique-de-25-000-m-a-marignane",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché activité",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Aubagne : fermeture commerce centre-ville après 17 ans",
-      "body": "Le magasin de chaussures Marche pas pieds nus ferme définitivement son point de vente du centre-ville d'Aubagne. Cette fermeture illustre les difficultés du commerce de détail traditionnel en hyper-centre.",
-      "impact": "Local commercial disponible en centre-ville Aubagne : opportunité de repositionnement retail ou mixte bureaux-retail pour investisseur acquéreur.",
-      "date": "24/10/2026",
-      "url": "https://www.laprovence.com/article/economie/1299598585594114/le-magasin-marche-pas-pieds-nus-baisse-definitivement-le-rideau-dans-le-centre-ville-d-aubagne",
+      "title": "Perturbations commerciales : grève nationale 5 novembre prévue",
+      "body": "De nouveaux appels à manifester sont lancés pour les prochains week-ends, avec une journée nationale de grèves et manifestations confirmée le 5 novembre. Le président de CCI France demande une pause pour laisser les commerçants travailler.",
+      "impact": "Conseil : anticiper impact sur occupants bureaux/commerce PACA, évaluer risques de fermetures temporaires et négocier clause de force majeure.",
+      "date": "26/10/2026",
+      "url": "https://www.laprovence.com/article/politique/64328349177105/le-president-de-cci-france-appelle-a-une-pause-des-manifestations-pour-permettre-aux-commercants-de-travailler",
       "source": "La Provence",
       "tags": [
         {
@@ -34,52 +34,56 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Moody's maintient note Aa3 France, perspective négative",
-      "body": "L'agence Moody's maintient l'échelon Aa3 pour la France malgré l'anticipation d'une dégradation en A1. Cette décision reflète la persistance des risques budgétaires français.",
-      "impact": "Stabilité relative des taux OAT court terme (3.70%) maintient finançabilité pour projets CRE PACA ; surveiller impact si dégradation ultérieure sur coûts emprunt.",
-      "date": "23/10/2026",
-      "url": "https://www.laprovence.com/article/economie/32911673332352/dette-lagence-moodys-maintient-sa-note-alors-quune-degradation-etait-attendue-en-france",
+      "title": "Salle de sport Volx en difficultés : opportunité de reprise",
+      "body": "Giant Fit à Volx risque une liquidation judiciaire devant le tribunal de commerce de Manosque. Un employé et un associé proposent une reprise pour maintenir l'activité commerciale locale.",
+      "impact": "Transaction : secteur loisirs PACA en contraction, surveiller reprises de fonds de commerce pour portefeuille diversifié.",
+      "date": "26/10/2026",
+      "url": "https://www.laprovence.com/article/economie/1471603145962414/la-salle-de-sport-de-volx-pourrait-etre-liquidee-une-offre-de-reprise-sur-la-table-pour-empecher-sa-fermeture",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Alpes-HauteProvence : investissements importants budget 2027",
-      "body": "Le Conseil départemental des Alpes-de-Haute-Provence vote ses orientations budgétaires 2027 avec un équilibre entre maîtrise des dépenses et investissements structurants. Cette dynamique annonce des appels d'offres tertiaire/logistique dans le département.",
-      "impact": "Anticiper opportunités locaux activité/bureaux auprès collectivités 04 : programme investissements régionaux génère demande locatif 2027.",
-      "date": "24/10/2026",
-      "url": "https://www.laprovence.com/article/region/1171041594056514/un-budget-aux-depenses-maitrisees-et-investissements-importants-pour-le-departement-des-alpes-de-haute-provence",
-      "source": "La Provence",
+      "title": "Euribor 3M stable à 2.15% : financement immobilier accessible",
+      "body": "Contexte de taux de financement stable avec Euribor 3 mois à 2.15%, soutenant l'accessibilité aux crédits immobiliers. OAT françaises maintenues à 3.70%, reflétant une confiance modérée sur les marchés.",
+      "impact": "Financement : conditions crédit favorables pour transactions bureaux/activité PACA, opportunité de refinancement avant fin d'année.",
+      "date": "26/10/2026",
+      "url": "https://www.laprovence.com/article/economie/2910180657778814/un-ancien-site-industriel-va-etre-transforme-en-plateforme-logistique-de-25-000-m-a-marignane",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Financement",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Cavaillon : restrictions domaine public hypercentre 24-26 oct",
-      "body": "La municipalité de Cavaillon interdit tout mobilier amovible sur domaine public du 24 au 26 octobre à titre préventif suite à mobilisation sociale. Impact temporaire sur attractivité commerciale du centre-ville.",
-      "impact": "Vérifier disponibilité terrasses et flux piétons commerces Cavaillon ; volatilité sociale locale peut affecter valuations retail court terme.",
-      "date": "23/10/2026",
-      "url": "https://www.laprovence.com/article/societe/1307650925286414/a-cavaillon-les-terrasses-de-lhypercentre-doivent-etre-remisees-durant-le-dernier-week-end-doctobre",
+      "title": "Hôtel Byblos Saint-Tropez : rénovation flex-office 60 ans",
+      "body": "Le Byblos réinvente ses espaces avec suites signées, spa repensé, salle de sport modernisée et potager en permaculture. Cette transformation préserve l'âme du lieu mythique tout en adoptant des standards contemporains.",
+      "impact": "Tendance : flex-office et services alternatifs gagnent les établissements touristiques PACA, modèle applicable aux boutique-hôtels et locaux hybrides.",
+      "date": "25/10/2026",
+      "url": "https://www.laprovence.com/article/economie/19331937702601/le-byblos-lieu-mythique-de-saint-tropez-se-reinvente-pour-ses-60-ans",
       "source": "La Provence",
       "tags": [
         {
@@ -87,7 +91,7 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
@@ -96,46 +100,50 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Inondations Camargue : aide régionale 5 000€ agriculteurs",
-      "body": "La région PACA annonce un plan de sauvetage agricole post-inondations avec aide immédiate de 5 000€ par exploitant et accompagnement foin. Cette intervention régionale stabilise le secteur primaire mais impacte indirectement logistique agroalimentaire.",
-      "impact": "Risque climatique accentué en PACA : évaluer couverture assurance bâtiments activité/stockage zones inondables ; opportunité locaux agricoles relocalisés.",
-      "date": "24/10/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/1187481062811814/apres-les-inondations-en-camargue-francois-de-canson-annonce-une-aide-de-5-000-e-pour-les-agriculteurs-touches",
+      "title": "Arnaque cybercriminalité WhatsApp : risques nouveaux",
+      "body": "Une vague d'arnaques WhatsApp submerge les utilisateurs avec des messages de vote incitant au piratage de comptes. Cybermalveillance signale une augmentation alarmante depuis le week-end, affectant France et Espagne.",
+      "impact": "Conseil : sensibiliser collaborateurs PACA aux risques cyber, renforcer sécurité données clients et transactions immobilières.",
+      "date": "26/10/2026",
+      "url": "https://www.laprovence.com/article/economie/22653311235443/arnaque-whatsapp-sophie-a-besoin-de-ta-voix-dans-un-concours-cest-quoi-cette-escroquerie",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Climat",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Gilets jaunes : retour mouvement social Oct 2026",
-      "body": "Le mouvement gilets jaunes réapparaît en octobre 2026 associé à revendications de pouvoir d'achat et autres mouvements sociaux. Cette résurgence témoigne de tensions socio-économiques persistantes en France et PACA.",
-      "impact": "Instabilité sociale récurrente : prévoir impacts opérationnels (mobilité équipes, sécurité) dans transactions CRE ; valoriser terrains/locaux low-volatility zones stables.",
-      "date": "24/10/2026",
-      "url": "https://www.laprovence.com/article/region/123986528127214/gilets-jaunes-un-autre-visage-quen-2018-8-ans-apres-son-eclosion-le-mouvement-est-de-retour",
+      "title": "Crash for cash : arnaque routière importée depuis printemps 2026",
+      "body": "Depuis le printemps 2026, des réseaux criminels provoquent délibérément des collisions mineures sur axes périurbains pour extorquer argent et documents. Les autorités appellent à rester vigilant face à cette importation frauduleuse.",
+      "impact": "Macro-conjoncture : fraude organisée déstabilise climat affaires France, impact indirect sur confiance commerciale et investissements.",
+      "date": "26/10/2026",
+      "url": "https://www.laprovence.com/article/economie/13416947382841/crash-for-cash-cest-quoi-cette-arnaque-routiere-qui-cible-votre-assurance",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Euribor3M 2.15% : stabilité financement court terme",
-      "body": "L'Euribor 3 mois reste stable à 2.15% reflétant pause BCE à 2.15% et inflation modérée 1.7%. Contexte de taux historiquement élevé persistant maintient pression coûts emprunt immobilier.",
-      "impact": "Financement CRE reste onéreux (taux moyens 4.2-4.8%) : privilégier fonds propres/SCPI ou différer acquisitions jusqu'à baisse taux anticipated 2027.",
-      "date": "25/10/2026",
-      "url": "https://donnees-marche-25-10-2026",
+      "title": "Inflation France 1.7% : modération persistante soutenant marché",
+      "body": "Inflation française stable à 1.7%, bien sous cible BCE 2.15%, favorisant maintien des taux directeurs. BCE maintient politique accommodante, soutenant accès aux financements immobiliers et activité économique.",
+      "impact": "BCE : environnement macro favorable aux transactions immobilières PACA, inflation contrôlée permet vision long terme investisseurs.",
+      "date": "26/10/2026",
+      "url": "https://www.laprovence.com/article/economie/2910180657778814/un-ancien-site-industriel-va-etre-transforme-en-plateforme-logistique-de-25-000-m-a-marignane",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux/BCE",
+          "label": "Inflation",
           "cls": "tt"
+        },
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     }

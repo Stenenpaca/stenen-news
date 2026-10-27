@@ -1,13 +1,13 @@
 {
-  "generated_at": "26/10/2026",
+  "generated_at": "27/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Plateforme logistique de 25 000 m² à Marignane : opportunité majeure",
-      "body": "Prologis transforme un ancien site industriel de 67 000 m² route de Martigues à Marignane en plateforme logistique. Entre 4 et 8 entreprises devraient s'y installer d'ici 2028, dynamisantl'offre de locaux d'activité périurbains.",
-      "impact": "Transaction : secteur logistique PACA en forte demande, opportunités de reprises locataires multimodales pour portefeuille actif.",
-      "date": "26/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2910180657778814/un-ancien-site-industriel-va-etre-transforme-en-plateforme-logistique-de-25-000-m-a-marignane",
+      "title": "Discount s'impose sur le marché du bricolage en PACA",
+      "body": "Lidl et Aldi lancent l'assaut sur le secteur du bricolage avec des magasins éphémères comme le Parkside de 1 500 m² à Plan-de-Campagne. Cette tendance de compression tarifaire face à la crise du pouvoir d'achat redessine la géographie commerciale régionale.",
+      "impact": "Opportunity: petits locaux activité ou rez-de-chaussée commerce en zones de chalandise discount pour prestataires bricolage/services.",
+      "date": "27/10/2026",
+      "url": "https://www.laprovence.com/article/economie/97630570133240/bricoler-a-petits-prix-lidl-parkside-aldi-ferrex-comment-les-supermarches-discount-defient-les-geants-du-secteur",
       "source": "La Provence",
       "tags": [
         {
@@ -15,37 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Perturbations commerciales : grève nationale 5 novembre prévue",
-      "body": "De nouveaux appels à manifester sont lancés pour les prochains week-ends, avec une journée nationale de grèves et manifestations confirmée le 5 novembre. Le président de CCI France demande une pause pour laisser les commerçants travailler.",
-      "impact": "Conseil : anticiper impact sur occupants bureaux/commerce PACA, évaluer risques de fermetures temporaires et négocier clause de force majeure.",
-      "date": "26/10/2026",
-      "url": "https://www.laprovence.com/article/politique/64328349177105/le-president-de-cci-france-appelle-a-une-pause-des-manifestations-pour-permettre-aux-commercants-de-travailler",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Salle de sport Volx en difficultés : opportunité de reprise",
-      "body": "Giant Fit à Volx risque une liquidation judiciaire devant le tribunal de commerce de Manosque. Un employé et un associé proposent une reprise pour maintenir l'activité commerciale locale.",
-      "impact": "Transaction : secteur loisirs PACA en contraction, surveiller reprises de fonds de commerce pour portefeuille diversifié.",
-      "date": "26/10/2026",
-      "url": "https://www.laprovence.com/article/economie/1471603145962414/la-salle-de-sport-de-volx-pourrait-etre-liquidee-une-offre-de-reprise-sur-la-table-pour-empecher-sa-fermeture",
+      "title": "CCI Pays d'Arles : guide recrutement IA pour entreprises",
+      "body": "La CCI du Pays d'Arles lance un guide digital pour optimiser les recrutements via l'intelligence artificielle, présenté officiellement le 3 novembre. Cet outil répond aux besoins des PME arlésiennes en matière de sourcing et sélection de candidats.",
+      "impact": "Demande accrue d'espaces réunion/formation pour PME : opportunité bureaux modulables à Arles.",
+      "date": "27/10/2026",
+      "url": "https://www.laprovence.com/article/region/47739051258173/la-cci-du-pays-darles-actualise-son-guide-du-recrutement-a-lere-de-lia",
       "source": "La Provence",
       "tags": [
         {
@@ -59,31 +40,12 @@
       ]
     },
     {
-      "id": "f4",
-      "title": "Euribor 3M stable à 2.15% : financement immobilier accessible",
-      "body": "Contexte de taux de financement stable avec Euribor 3 mois à 2.15%, soutenant l'accessibilité aux crédits immobiliers. OAT françaises maintenues à 3.70%, reflétant une confiance modérée sur les marchés.",
-      "impact": "Financement : conditions crédit favorables pour transactions bureaux/activité PACA, opportunité de refinancement avant fin d'année.",
-      "date": "26/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2910180657778814/un-ancien-site-industriel-va-etre-transforme-en-plateforme-logistique-de-25-000-m-a-marignane",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Hôtel Byblos Saint-Tropez : rénovation flex-office 60 ans",
-      "body": "Le Byblos réinvente ses espaces avec suites signées, spa repensé, salle de sport modernisée et potager en permaculture. Cette transformation préserve l'âme du lieu mythique tout en adoptant des standards contemporains.",
-      "impact": "Tendance : flex-office et services alternatifs gagnent les établissements touristiques PACA, modèle applicable aux boutique-hôtels et locaux hybrides.",
-      "date": "25/10/2026",
-      "url": "https://www.laprovence.com/article/economie/19331937702601/le-byblos-lieu-mythique-de-saint-tropez-se-reinvente-pour-ses-60-ans",
+      "id": "f3",
+      "title": "Rénovation thermique : 34 k€ d'investissement médian en PACA",
+      "body": "Les diagnostics énergétiques révèlent un coût médian de 34 000€ pour sortir du statut de passoire thermique, supérieur en Bouches-du-Rhône et Vaucluse. Isolation et pompes à chaleur deviennent des critères majeurs de valorisation immobilière régionale.",
+      "impact": "Bureaux/activité : obligation de conformité décret tertiaire renforce demande locaux performants; valorise offre haute performance énergétique.",
+      "date": "27/10/2026",
+      "url": "https://www.laprovence.com/article/economie/25471634592336/pompe-a-chaleur-isolation-quel-est-le-cout-pour-sortir-sa-maison-du-statut-de-passoire-thermique-en-provence",
       "source": "La Provence",
       "tags": [
         {
@@ -91,7 +53,45 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Réglementation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Bruxless (Manosque) lève 4M€ pour déploiement tech",
+      "body": "L'entreprise provençale Bruxless sécurise 4 millions d'euros de ses actionnaires familiaux pour accélérer R&D, recrutement et commercialisation de sa mentonnière connectée. Cette levée illustre la dynamique des deeptech du Pays d'Aix.",
+      "impact": "Demande croissante de bureaux R&D et locaux activité haut débit pour startups tech ; considérer zones innovation Manosque/Aix.",
+      "date": "27/10/2026",
+      "url": "https://www.laprovence.com/article/economie/1012459195767114/lentreprise-de-manosque-bruxless-leve-4-millions-deuros-pour-accelerer-son-deploiement",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Commerce indépendant : Sophie Ferjani incarne renaissance marseillaise",
+      "body": "La décoratrice Sophie Ferjani fonde son modèle sur la lumière et le bien-être, symbole de la renaissance du commerce indépendant marseillais. Son ancrage local illustre une stratégie de différenciation face à la grande distribution.",
+      "impact": "Petits commerces/services haut de gamme dans secteurs centraux Marseille : loyers d'espaces de 50-150m² en demande.",
+      "date": "27/10/2026",
+      "url": "https://www.laprovence.com/article/economie/1049201722449214/sophie-ferjani-le-soleil-de-marseille-dans-votre-interieur",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
@@ -100,50 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Arnaque cybercriminalité WhatsApp : risques nouveaux",
-      "body": "Une vague d'arnaques WhatsApp submerge les utilisateurs avec des messages de vote incitant au piratage de comptes. Cybermalveillance signale une augmentation alarmante depuis le week-end, affectant France et Espagne.",
-      "impact": "Conseil : sensibiliser collaborateurs PACA aux risques cyber, renforcer sécurité données clients et transactions immobilières.",
-      "date": "26/10/2026",
-      "url": "https://www.laprovence.com/article/economie/22653311235443/arnaque-whatsapp-sophie-a-besoin-de-ta-voix-dans-un-concours-cest-quoi-cette-escroquerie",
+      "title": "Effondrement consommation carburant octobre 2026",
+      "body": "Le PDG de Coopérative U qualifie l'effondrement de la consommation de carburant en octobre suite à l'envolée des prix provoquée par la tension géopolitique au Moyen-Orient. Cette contraction affecte directement la logistique et distribution en PACA.",
+      "impact": "Impact négatif sur demande locaux activité/logistique ; renégociation baux urgente pour transporteurs.",
+      "date": "27/10/2026",
+      "url": "https://www.laprovence.com/article/economie/15609095022023/le-patron-de-cooperative-u-evoque-un-veritable-effondrement-de-la-consommation-de-carburant",
       "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
+          "cls": "tg"
+        },
+        {
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Crash for cash : arnaque routière importée depuis printemps 2026",
-      "body": "Depuis le printemps 2026, des réseaux criminels provoquent délibérément des collisions mineures sur axes périurbains pour extorquer argent et documents. Les autorités appellent à rester vigilant face à cette importation frauduleuse.",
-      "impact": "Macro-conjoncture : fraude organisée déstabilise climat affaires France, impact indirect sur confiance commerciale et investissements.",
-      "date": "26/10/2026",
-      "url": "https://www.laprovence.com/article/economie/13416947382841/crash-for-cash-cest-quoi-cette-arnaque-routiere-qui-cible-votre-assurance",
-      "source": "La Provence",
+      "title": "Indicateurs macro : OAT 3.70%, Euribor 2.15%, inflation 1.7%",
+      "body": "Contexte financier stable avec OAT 10Y à 3.70%, Euribor 3M à 2.15% et inflation modérée à 1.7% en France. Les conditions de financement restent accommodantes pour investissement immobilier tertiaire malgré tensions géopolitiques.",
+      "impact": "Environnement favorable refinancement emprunt CRE et acquisition immobilière d'entreprise ; profiter fenêtre taux avant révision BCE.",
+      "date": "27/10/2026",
+      "url": "https://www.laprovence.com/",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Inflation France 1.7% : modération persistante soutenant marché",
-      "body": "Inflation française stable à 1.7%, bien sous cible BCE 2.15%, favorisant maintien des taux directeurs. BCE maintient politique accommodante, soutenant accès aux financements immobiliers et activité économique.",
-      "impact": "BCE : environnement macro favorable aux transactions immobilières PACA, inflation contrôlée permet vision long terme investisseurs.",
-      "date": "26/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2910180657778814/un-ancien-site-industriel-va-etre-transforme-en-plateforme-logistique-de-25-000-m-a-marignane",
-      "source": "Données marché",
+      "title": "Trophées reconversion PACA : dynamique emploi entrepreneurial",
+      "body": "La 4e édition des Trophées de la Reconversion récompense cinq lauréats régionaux dans santé, artisanat, agriculture et formation. Cette initiative de Transitions Pro PACA illustre la dynamique de création/transformation d'activités en région.",
+      "impact": "Opportunité demand locaux bureaux/activité pour entrepreneurs en reconversion ; cible segments premium tertiaire services.",
+      "date": "27/10/2026",
+      "url": "https://www.laprovence.com/article/economie/17591904962986/cinq-nouveaux-departs-recompenses-lors-des-trophees-de-la-reconversion-paca",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }

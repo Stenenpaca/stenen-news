@@ -1,13 +1,13 @@
 {
-  "generated_at": "28/10/2026",
+  "generated_at": "29/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "E-commerce: chute des petits colis, TVA en baisse",
-      "body": "Le gouvernement confirme une chute des envois de petits colis en France (juin-août 2026) suite à la taxe européenne de juillet. Cette contraction impacte directement la logistique urbaine et les zones de stockage associées en PACA.",
-      "impact": "Réduction attendue des demandes de locaux logistiques et de commerce de proximité; opportunité pour reprise de surfaces commerciales vacantes à tarif compétitif.",
-      "date": "28/10/2026",
-      "url": "https://www.laprovence.com/article/economie/1941272667573614/petits-colis-shein-temu-pourquoi-les-envois-en-france-ont-chute-entre-juin-et-aout",
+      "title": "Commerces : ouvertures dimanche autorisées à Noël",
+      "body": "Le ministre du Travail Jean-Pierre Farandou soutient l'ouverture des commerces le dimanche pour compenser les pertes dues aux manifestations du samedi. Cette mesure vise à préserver l'activité commerciale à l'approche des fêtes de fin d'année.",
+      "impact": "Opportunité de négociation pour locataires commerciaux PACA : valoriser la flexibilité d'exploitation dans les clauses de bail pour les périodes festives.",
+      "date": "29/10/2026",
+      "url": "https://www.laprovence.com/article/economie/2753650606220514/noel-les-commerces-pourront-ouvrir-le-dimanche-pour-compenser-les-pertes-lors-des-manifestations-le-samedi",
       "source": "La Provence",
       "tags": [
         {
@@ -15,84 +15,84 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Régulation",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "BHV Marais en redressement judiciaire: enjeux immobiliers",
-      "body": "Le BHV Marais (700 salariés) demande son redressement judiciaire suite à un différend majeur avec son bailleur Brookfield sur les indemnités de restitution. Cette situation illustre les tensions croissantes entre enseignes et bailleurs dans le secteur tertiaire.",
-      "impact": "Vigilance accrue sur les modalités de rescision de baux commerciaux et les indemnités d'éviction; à anticiper dans les portfolios de locaux parisiens et régionaux.",
+      "title": "Marché de Noël réduit à Marseille : tensions politiques",
+      "body": "Le collectif Une Génération pour Marseille critique la réduction du marché de Noël décidée par le maire Benoît Payan. Cette décision impacte directement les activités commerciales et événementielles du centre-ville marseillais.",
+      "impact": "Baisse prévisible de la fréquentation commerciale centre-ville Marseille : anticiper les relocalisations de petits commerces vers zones périphériques ou galeries.",
       "date": "28/10/2026",
-      "url": "https://www.laprovence.com/article/economie/11714855178491/le-grand-magasin-parisien-bhv-marais-demande-son-placement-en-redressement-judiciaire",
+      "url": "https://www.laprovence.com/article/economie/228621418120114/marche-de-noel-reduit-a-marseille-la-droite-sinsurge",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "Marseille",
+          "cls": "tp"
         },
         {
-          "label": "Risque immobilier",
-          "cls": "ti2"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Financement France 2030: besoin élevé mis en évidence",
-      "body": "La Cour des comptes alerte sur le 'besoin de financement élevé à moyen terme' du programme France 2030 (33Mds€ engagés fin 2025) dans un contexte budgétaire dégradé. Cette pression budgétaire affecte les taux d'intérêt et l'accès au financement immobilier.",
-      "impact": "Hausse probable des taux de crédit immobilier et baisse des capacités d'emprunt des entreprises PACA; anticiper refinancement des dettes avant durcissement des conditions.",
-      "date": "27/10/2026",
-      "url": "https://www.laprovence.com/article/economie/1423638996438814/la-cour-des-comptes-s-inquiete-du-besoin-de-financement-eleve-du-programme-france-2030",
+      "title": "Formations métallurgie Istres : attractivité des locaux PRO",
+      "body": "Le pôle formation de l'UIMM Sud à Istres voit l'afflux d'étudiantes en métallurgie-chaudronnerie (119 à 155 en un an). Cette dynamique révèle une demande croissante en locaux de formation et ateliers dans le secteur industriel PACA.",
+      "impact": "Demande accrue de locaux activité polyvalents (formation + production) dans l'agglomération d'Istres : opportunité de transactions court-terme.",
+      "date": "29/10/2026",
+      "url": "https://www.laprovence.com/article/economie/2792109113857514/on-ose-et-on-fonce-a-istres-les-formations-aux-metiers-de-la-metallurgie-attirent-de-plus-en-plus-les-filles",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "Istres",
+          "cls": "tp"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Budget 2027: tensions politiques et ordonnances attendues",
-      "body": "Le gouvernement défend son projet de budget 2027 sans compromis politique visible, avec passage par le 49.3 ou ordonnances annoncé. L'instabilité législative complique les prévisions d'investissement public et privé en immobilier tertiaire.",
-      "impact": "Gels temporaires de décisions immobilières publiques et entreprises; maintenir flexibilité dans négociations de baux long terme et pénalités d'engagement.",
-      "date": "27/10/2026",
-      "url": "https://www.laprovence.com/article/economie/60635284569741/l-assemblee-nationale-reprend-les-debats-sur-le-budget-de-l-etat-sans-compromis-a-l-horizon",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
-          "label": "Marché",
+          "label": "Activité",
           "cls": "tm"
         }
       ]
     },
     {
-      "id": "f5",
-      "title": "Inondations Istres: résilience logistique et logements urgents",
-      "body": "Les inondations du 20 octobre à Istres ont mobilisé Airbnb.org pour reloger les sinistrés en urgence. Cet événement souligne les risques climatiques croissants et l'importance de la résilience des zones logistiques sud-PACA.",
-      "impact": "Évaluer les risques inondation et changement climatique sur les locaux d'activité/logistique d'Istres; demander audit géotechnique et assurances renforcées pour transactions.",
-      "date": "27/10/2026",
-      "url": "https://www.laprovence.com/article/societe/1347406070244714/inondations-a-istres-quand-airbnb-vient-au-secours-des-sinistres-en-proposant-des-logements-gratuits",
+      "id": "f4",
+      "title": "Assurance professionnelle : \"taxe émeutes\" 2027",
+      "body": "Une \"cotisation de solidarité\" est envisagée sur les contrats d'assurance auto, habitation et multirisque professionnelle pour 2027. Ce dispositif augmenterait les primes d'assurance des locaux commerciaux et d'activité en PACA.",
+      "impact": "Intégrer la hausse de 2-4% des cotisations d'assurance multirisque pro dans les bilans locatifs 2027 : impact budgétaire direct pour preneurs PACA.",
+      "date": "28/10/2026",
+      "url": "https://www.laprovence.com/article/economie/84586529252858/taxe-emeutes-quest-ce-que-cette-cotisation-de-solidarite-envisagee-sur-les-contrats-dassurance",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Istres",
+          "label": "Coûts",
+          "cls": "tr"
+        },
+        {
+          "label": "Financement",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Données PACA : économie agri-alimentaire locale dynamique",
+      "body": "Le domaine Jòlibois à Eyguières remporte le Prix agricole Aix-Marseille-Provence pour son huile d'olive bio AOP. Cette reconnaissance illustre la vitalité du secteur agro-industriel régional et ses besoins en locaux de stockage-distribution.",
+      "impact": "Secteur agro-food PACA en croissance : opportunités de location de locaux activité pour stockage, conditionnement et logistique dans l'axe Istres-Étampes-Avignon.",
+      "date": "29/10/2026",
+      "url": "https://www.laprovence.com/article/societe/2823541209885614/le-domaine-jolibois-a-eyguieres-recompense-pour-la-qualite-de-son-huile-dolive",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Agro-industrie PACA",
           "cls": "tp"
         },
         {
-          "label": "Risque",
-          "cls": "tr"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Nouvelles frais douaniers colis: impact flux logistiques",
-      "body": "L'UE instaure dès le 1er novembre 2 euros de frais de traitement par colis importé (+ 3€ de taxe existants). Près de 5,9 milliards de petits colis attendus en 2025, dont 93% de Chine, face à des contrôles débordés.",
-      "impact": "Réorientation attendue vers hubs logistiques régionaux; demande accrue de locaux d'activité/entreposage dans zones franches et aéroports PACA (Nice, Marseille).",
+      "title": "Gaz européen dépasse 100 €/MWh : premier pic depuis 2022",
+      "body": "Le contrat TTF néerlandais a atteint 100,30 €/MWh le 28 octobre 2026, premier franchissement depuis 2022. Cette volatilité énergétique européenne traduit des tensions géopolitiques et des enjeux d'approvisionnement persistants.",
+      "impact": "Hausse des coûts énergétiques pour les locaux tertiaires/activité PACA : anticiper réévaluations contractuelles et révisions de charges locatives dès Q1 2027.",
       "date": "28/10/2026",
-      "url": "https://www.laprovence.com/article/economie/1324034828937814/temu-aliexpress-shein-pourquoi-vos-petits-colis-vont-vous-couter-plus-cher-des-le-1er-novembre",
+      "url": "https://www.laprovence.com/article/economie/2108476759339214/le-gaz-europeen-atteint-les-100-euros-le-megawattheure-une-premiere-depuis-2022",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Commerce",
+          "label": "Énergie",
+          "cls": "tg"
+        },
+        {
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conjoncture France: tensions budgétaires et impasse politique",
-      "body": "Le budget 2027 achoppe sans compromis politique; la Cour des comptes alerte sur les besoins de financement massifs (France 2030). Contexte de crises multiples limitant la capacité budgétaire et d'investissement public.",
-      "impact": "Fragilité de la commande publique immobilière; privilégier les transactions avec opérateurs privés et hold des actifs tertiaires publics en attente de clarification politique.",
-      "date": "27/10/2026",
-      "url": "https://www.laprovence.com/article/economie/60635284569741/l-assemblee-nationale-reprend-les-debats-sur-le-budget-de-l-etat-sans-compromis-a-l-horizon",
+      "title": "BCE : Christine Lagarde quitte la présidence février 2027",
+      "body": "Christine Lagarde cessera ses fonctions de présidente de la BCE le 7 février 2027, avant l'expiration de son mandat. Son successeur sera nommé par le Conseil européen selon les traités européens.",
+      "impact": "Changement de gouvernance BCE impacte politique monétaire 2027 : l'inflation français (1,7%) et taux OAT/Euribor restent clés pour financement acquisitions PACA.",
+      "date": "29/10/2026",
+      "url": "https://www.laprovence.com/article/economie/15678533233675/bce-christine-lagarde-quittera-la-presidence-le-7-fevrier-2027-avant-la-fin-de-son-mandat",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "BCE",
+          "cls": "tt"
+        },
+        {
+          "label": "Politique monétaire",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Taux & Financement: BCE 2.15%, OAT 3.70%, Euribor 2.15%",
-      "body": "Contexte de taux stables (BCE 2.15%, Euribor3M 2.15%) avec OAT à 3.70% reflétant tensions budgétaires française. Pression inflationniste maîtrisée (1.7%) mais financements immobiliers à coûts élevés persistants.",
-      "impact": "Coûts de crédit immobilier non compétitifs pour investisseurs; valoriser les assets à rendement > 4% et privilégier cash ou financement court terme avant potentielle hausse OAT.",
-      "date": "28/10/2026",
-      "url": "https://donnees-marche.bce.eu",
-      "source": "Données marché",
+      "title": "France : contexte de tensions sociales et sécuritaires",
+      "body": "Emmanuel Macron appelle à l'apaisement avant la mobilisation lycéenne du 31 octobre et réunit un conseil de défense sur les enjeux sécuritaires. La volatilité sociale française impacte l'environnement économique et la confiance commerciale.",
+      "impact": "Climat d'incertitude sociale ralentit transactions immobilières tertiaires PACA : privilégier les actifs long-bail avec locataires stables, décaler fermetures de deals sensibles.",
+      "date": "29/10/2026",
+      "url": "https://www.laprovence.com/article/societe/12700310614985/direct-laprovence-direct-mobilisation-lyceenne-emmanuel-macron-appelle-a-lapaisement-dans-les-etablissements-pour-la-rentree",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "Conjoncture",
+          "cls": "tg"
+        },
+        {
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     }

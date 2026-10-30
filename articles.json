@@ -1,36 +1,17 @@
 {
-  "generated_at": "29/10/2026",
+  "generated_at": "30/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Commerces : ouvertures dimanche autorisées à Noël",
-      "body": "Le ministre du Travail Jean-Pierre Farandou soutient l'ouverture des commerces le dimanche pour compenser les pertes dues aux manifestations du samedi. Cette mesure vise à préserver l'activité commerciale à l'approche des fêtes de fin d'année.",
-      "impact": "Opportunité de négociation pour locataires commerciaux PACA : valoriser la flexibilité d'exploitation dans les clauses de bail pour les périodes festives.",
-      "date": "29/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2753650606220514/noel-les-commerces-pourront-ouvrir-le-dimanche-pour-compenser-les-pertes-lors-des-manifestations-le-samedi",
+      "title": "Emplois dynamiques au Village des marques de Miramas",
+      "body": "McArthurGlen Provence organise son 'Circuit des talents' le 5 novembre avec plus de 40 postes en CDI/CDD proposés par une vingtaine de boutiques. Cette mobilisation commerciale témoigne d'une dynamique de recrutement dans le secteur retail PACA avant la période festive.",
+      "impact": "Indicateur positif pour le secteur commerce PACA : la demande locative en espaces de vente pourrait bénéficier de cette activité d'emplois soutenus.",
+      "date": "30/10/2026",
+      "url": "https://www.laprovence.com/article/economie/36666328434681/une-quarantaine-d-emplois-proposes-au-job-dating-du-village-des-marques-de-miramas",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Régulation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Marché de Noël réduit à Marseille : tensions politiques",
-      "body": "Le collectif Une Génération pour Marseille critique la réduction du marché de Noël décidée par le maire Benoît Payan. Cette décision impacte directement les activités commerciales et événementielles du centre-ville marseillais.",
-      "impact": "Baisse prévisible de la fréquentation commerciale centre-ville Marseille : anticiper les relocalisations de petits commerces vers zones périphériques ou galeries.",
-      "date": "28/10/2026",
-      "url": "https://www.laprovence.com/article/economie/228621418120114/marche-de-noel-reduit-a-marseille-la-droite-sinsurge",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Marseille",
+          "label": "PACA",
           "cls": "tp"
         },
         {
@@ -40,54 +21,73 @@
       ]
     },
     {
-      "id": "f3",
-      "title": "Formations métallurgie Istres : attractivité des locaux PRO",
-      "body": "Le pôle formation de l'UIMM Sud à Istres voit l'afflux d'étudiantes en métallurgie-chaudronnerie (119 à 155 en un an). Cette dynamique révèle une demande croissante en locaux de formation et ateliers dans le secteur industriel PACA.",
-      "impact": "Demande accrue de locaux activité polyvalents (formation + production) dans l'agglomération d'Istres : opportunité de transactions court-terme.",
-      "date": "29/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2792109113857514/on-ose-et-on-fonce-a-istres-les-formations-aux-metiers-de-la-metallurgie-attirent-de-plus-en-plus-les-filles",
+      "id": "f2",
+      "title": "Évolution des tarifs électriques EDF en novembre 2026",
+      "body": "11 millions de foyers français verront leurs heures creuses EDF réorganisées dès novembre avec une flexibilité saisonnière adaptée à la production solaire. Cette réforme garantit 8 heures quotidiennes à tarif réduit tout en optimisant la gestion du réseau.",
+      "impact": "Pour les locataires de bureaux/locaux PACA, vérifier les contrats énergie existants et anticiper les renégociations avant novembre pour optimiser les charges d'exploitation.",
+      "date": "30/10/2026",
+      "url": "https://www.laprovence.com/article/economie/54680350258213/edf-les-heures-creuses-evoluent-ce-qui-va-changer-sur-votre-facture-d-electricite-des-novembre-en-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Istres",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Activité",
-          "cls": "tm"
+          "label": "Réglementation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Interdiction des frais coupe-file en téléconsultation",
+      "body": "Les frais 'coupe-file' de 20 euros apparus cet été sur les plateformes de télémédecine ont été interdits par le ministère de la Santé le 1er octobre 2026. Cette régulation renforce le cadre légal pour les services professionnels de santé en Provence.",
+      "impact": "Impact limité pour le secteur CRE : confirme la tendance réglementaire française à encadrer les services, pertinent pour les locaux de santé/télémédecine en portefeuille PACA.",
+      "date": "30/10/2026",
+      "url": "https://www.laprovence.com/article/sante/27791148699826/payer-20-euros-pour-se-faire-soigner-plus-vite-on-rembobine-la-polemique-des-frais-coupe-file-en-teleconsultation",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Réglementation",
+          "cls": "tr"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Assurance professionnelle : \"taxe émeutes\" 2027",
-      "body": "Une \"cotisation de solidarité\" est envisagée sur les contrats d'assurance auto, habitation et multirisque professionnelle pour 2027. Ce dispositif augmenterait les primes d'assurance des locaux commerciaux et d'activité en PACA.",
-      "impact": "Intégrer la hausse de 2-4% des cotisations d'assurance multirisque pro dans les bilans locatifs 2027 : impact budgétaire direct pour preneurs PACA.",
-      "date": "28/10/2026",
-      "url": "https://www.laprovence.com/article/economie/84586529252858/taxe-emeutes-quest-ce-que-cette-cotisation-de-solidarite-envisagee-sur-les-contrats-dassurance",
+      "title": "Relance commerciale à Marseille après les pillages",
+      "body": "Suite aux pillages du 17 octobre, un 'guichet physique' a été mis en place par l'État, la Région, la Ville et la CCI pour indemniser les commerçants et faciliter les démarches administratives. Cette mobilisation rapide montre l'engagement des acteurs locaux pour la revitalisation du centre-ville.",
+      "impact": "Opportunité majeure PACA : anticiper une forte demande locative en espaces commerciaux à Marseille post-sinistre ; les transactions de relocalisation/agrandissement devraient accélérer.",
+      "date": "29/10/2026",
+      "url": "https://www.laprovence.com/article/economie/48158491726688/video-pillages-des-commerces-du-17-octobre-lunion-sacree-pour-relever-le-centre-ville-de-marseille",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Coûts",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Financement",
-          "cls": "tt"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Données PACA : économie agri-alimentaire locale dynamique",
-      "body": "Le domaine Jòlibois à Eyguières remporte le Prix agricole Aix-Marseille-Provence pour son huile d'olive bio AOP. Cette reconnaissance illustre la vitalité du secteur agro-industriel régional et ses besoins en locaux de stockage-distribution.",
-      "impact": "Secteur agro-food PACA en croissance : opportunités de location de locaux activité pour stockage, conditionnement et logistique dans l'axe Istres-Étampes-Avignon.",
-      "date": "29/10/2026",
-      "url": "https://www.laprovence.com/article/societe/2823541209885614/le-domaine-jolibois-a-eyguieres-recompense-pour-la-qualite-de-son-huile-dolive",
+      "title": "Confiance économique et besoin de visibilité pour les TPE PACA",
+      "body": "Stéphane Benhamou, président du Medef Sud, appelle au changement de cap face aux incertitudes économiques : sans confiance, le pays 'ne redémarrera pas'. Les Entrepreneurs Sud lancent une grande consultation nationale avant 2027 pour imposer les solutions du terrain.",
+      "impact": "Climat économique fragile en PACA : les entreprises attendent une stabilité réglementaire/fiscale ; valoriser cette stabilité dans les argumentaires de locations long-terme pour bureaux/activité.",
+      "date": "30/10/2026",
+      "url": "https://www.laprovence.com/article/economie/18767863728077/presidentielle-2027-les-patrons-du-sud-font-remonter-les-solutions-du-terrain",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Agro-industrie PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
@@ -100,54 +100,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Gaz européen dépasse 100 €/MWh : premier pic depuis 2022",
-      "body": "Le contrat TTF néerlandais a atteint 100,30 €/MWh le 28 octobre 2026, premier franchissement depuis 2022. Cette volatilité énergétique européenne traduit des tensions géopolitiques et des enjeux d'approvisionnement persistants.",
-      "impact": "Hausse des coûts énergétiques pour les locaux tertiaires/activité PACA : anticiper réévaluations contractuelles et révisions de charges locatives dès Q1 2027.",
-      "date": "28/10/2026",
-      "url": "https://www.laprovence.com/article/economie/2108476759339214/le-gaz-europeen-atteint-les-100-euros-le-megawattheure-une-premiere-depuis-2022",
+      "title": "PIB France recule de 0,1% au T3 2026",
+      "body": "L'Insee confirme un ralentissement persistant avec un PIB en baisse de 0,1% au troisième trimestre. La consommation ménages résiste mais les investissements d'entreprises chutent et le commerce extérieur pèse négativement.",
+      "impact": "Contexte macro tendu : attendre une révision à la baisse des projets d'expansion locataire en PACA ; renégocier les clauses de sortie sur les accords long-terme.",
+      "date": "30/10/2026",
+      "url": "https://www.laprovence.com/article/economie/93940242494829/economie-le-pib-francais-recule-de-0-1-au-3e-trimestre",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Énergie",
-          "cls": "tg"
-        },
-        {
-          "label": "Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "BCE : Christine Lagarde quitte la présidence février 2027",
-      "body": "Christine Lagarde cessera ses fonctions de présidente de la BCE le 7 février 2027, avant l'expiration de son mandat. Son successeur sera nommé par le Conseil européen selon les traités européens.",
-      "impact": "Changement de gouvernance BCE impacte politique monétaire 2027 : l'inflation français (1,7%) et taux OAT/Euribor restent clés pour financement acquisitions PACA.",
-      "date": "29/10/2026",
-      "url": "https://www.laprovence.com/article/economie/15678533233675/bce-christine-lagarde-quittera-la-presidence-le-7-fevrier-2027-avant-la-fin-de-son-mandat",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "BCE",
-          "cls": "tt"
-        },
-        {
-          "label": "Politique monétaire",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "m3",
-      "title": "France : contexte de tensions sociales et sécuritaires",
-      "body": "Emmanuel Macron appelle à l'apaisement avant la mobilisation lycéenne du 31 octobre et réunit un conseil de défense sur les enjeux sécuritaires. La volatilité sociale française impacte l'environnement économique et la confiance commerciale.",
-      "impact": "Climat d'incertitude sociale ralentit transactions immobilières tertiaires PACA : privilégier les actifs long-bail avec locataires stables, décaler fermetures de deals sensibles.",
-      "date": "29/10/2026",
-      "url": "https://www.laprovence.com/article/societe/12700310614985/direct-laprovence-direct-mobilisation-lyceenne-emmanuel-macron-appelle-a-lapaisement-dans-les-etablissements-pour-la-rentree",
+      "title": "Consommation ménages recule de 0,5% en septembre",
+      "body": "L'Insee révèle un nouveau recul de 0,5% de la consommation des ménages en septembre 2026. Les distributeurs s'inquiètent tandis que le gouvernement cherche des leviers face à l'inflation et aux hausses de prix.",
+      "impact": "Prudence des consommateurs : demande locative en commerce affaiblie à court terme ; privilégier les locaux accessibles avec flexibilité contractuelle accrue.",
+      "date": "30/10/2026",
+      "url": "https://www.laprovence.com/article/economie/3561344171689414/consommation-des-menages-en-france-nouveau-recul-en-septembre-ce-que-disent-les-chiffres",
       "source": "La Provence",
       "tags": [
         {
           "label": "Conjoncture",
           "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Stabilité des taux directeurs BCE et contexte énergétique",
+      "body": "Dans un contexte d'incertitude économique persistante en France (PIB -0,1% T3), les taux de financement restent élevés (OAT 3.70%, Euribor 3M 2.15%, BCE 2.15%). TotalEnergies baisse le gazole à 2.15€/L dès 31 octobre avec déstockage gouvernemental.",
+      "impact": "Coûts d'emprunt immobilier PACA maintenus élevés : privilégier les actifs avec rendements solides (locaux activ.) pour justifier financement ; guetter baisses taux avant année 2027.",
+      "date": "30/10/2026",
+      "url": "https://www.laprovence.com/article/economie/50882718464627/totalenergies-annonce-baisser-le-prix-du-gazole-dans-certaines-stations-des-ce-samedi-31-octobre",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
         },
         {
           "label": "Géopolitique",

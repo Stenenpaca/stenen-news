@@ -1,70 +1,32 @@
 {
-  "generated_at": "30/10/2026",
+  "generated_at": "31/10/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Emplois dynamiques au Village des marques de Miramas",
-      "body": "McArthurGlen Provence organise son 'Circuit des talents' le 5 novembre avec plus de 40 postes en CDI/CDD proposés par une vingtaine de boutiques. Cette mobilisation commerciale témoigne d'une dynamique de recrutement dans le secteur retail PACA avant la période festive.",
-      "impact": "Indicateur positif pour le secteur commerce PACA : la demande locative en espaces de vente pourrait bénéficier de cette activité d'emplois soutenus.",
+      "title": "Commerces PACA: tensions post-manifestations et fermetures",
+      "body": "À Marseille, les commerçants du centre-ville redoutent de nouveaux débordements lors des manifestations du 31 octobre, deux semaines après les vols et dégradations du 17 octobre. Certains établissements restent fermés tandis que d'autres rouvrent avec prudence, fragilisant l'attractivité commerciale du cœur urbain.",
+      "impact": "Les transactions commerciales en hypercentre marseillais doivent anticiper des périodes d'instabilité; recommander des baux avec clauses de force majeure et privilégier les emplacements secondaires.",
       "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/economie/36666328434681/une-quarantaine-d-emplois-proposes-au-job-dating-du-village-des-marques-de-miramas",
+      "url": "https://www.laprovence.com/article/faits-divers-justice/27349457312520/manifestations-du-31-octobre-a-marseille-les-commercants-du-centre-ville-retiennent-leur-souffle-non-sans-angoisse",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Commerce",
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Risque urbain",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Évolution des tarifs électriques EDF en novembre 2026",
-      "body": "11 millions de foyers français verront leurs heures creuses EDF réorganisées dès novembre avec une flexibilité saisonnière adaptée à la production solaire. Cette réforme garantit 8 heures quotidiennes à tarif réduit tout en optimisant la gestion du réseau.",
-      "impact": "Pour les locataires de bureaux/locaux PACA, vérifier les contrats énergie existants et anticiper les renégociations avant novembre pour optimiser les charges d'exploitation.",
+      "title": "Nouveaux commerce PACA: Lidl Mallemort et poissonnerie Manosque",
+      "body": "Lidl ouvre un supermarché de 1000 m² à Mallemort le 26 novembre 2026, renforçant l'offre de grande distribution régionale. Simultanément, une nouvelle poissonnerie Léonie s'implante à Manosque rue Grande, redynamisant l'attractivité du centre-ville après plusieurs mois de fermeture.",
+      "impact": "L'intensification commerciale en PACA crée des opportunités de surfaces annexes (stockage, services) ; évaluer les emplacements en proximité de ces nouveaux pôles d'attraction.",
       "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/economie/54680350258213/edf-les-heures-creuses-evoluent-ce-qui-va-changer-sur-votre-facture-d-electricite-des-novembre-en-provence",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Interdiction des frais coupe-file en téléconsultation",
-      "body": "Les frais 'coupe-file' de 20 euros apparus cet été sur les plateformes de télémédecine ont été interdits par le ministère de la Santé le 1er octobre 2026. Cette régulation renforce le cadre légal pour les services professionnels de santé en Provence.",
-      "impact": "Impact limité pour le secteur CRE : confirme la tendance réglementaire française à encadrer les services, pertinent pour les locaux de santé/télémédecine en portefeuille PACA.",
-      "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/sante/27791148699826/payer-20-euros-pour-se-faire-soigner-plus-vite-on-rembobine-la-polemique-des-frais-coupe-file-en-teleconsultation",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Relance commerciale à Marseille après les pillages",
-      "body": "Suite aux pillages du 17 octobre, un 'guichet physique' a été mis en place par l'État, la Région, la Ville et la CCI pour indemniser les commerçants et faciliter les démarches administratives. Cette mobilisation rapide montre l'engagement des acteurs locaux pour la revitalisation du centre-ville.",
-      "impact": "Opportunité majeure PACA : anticiper une forte demande locative en espaces commerciaux à Marseille post-sinistre ; les transactions de relocalisation/agrandissement devraient accélérer.",
-      "date": "29/10/2026",
-      "url": "https://www.laprovence.com/article/economie/48158491726688/video-pillages-des-commerces-du-17-octobre-lunion-sacree-pour-relever-le-centre-ville-de-marseille",
+      "url": "https://www.laprovence.com/article/economie/3791139912017914/apres-action-le-geant-allemand-du-discount-lidl-s-implante-a-mallemort",
       "source": "La Provence",
       "tags": [
         {
@@ -78,20 +40,58 @@
       ]
     },
     {
-      "id": "f5",
-      "title": "Confiance économique et besoin de visibilité pour les TPE PACA",
-      "body": "Stéphane Benhamou, président du Medef Sud, appelle au changement de cap face aux incertitudes économiques : sans confiance, le pays 'ne redémarrera pas'. Les Entrepreneurs Sud lancent une grande consultation nationale avant 2027 pour imposer les solutions du terrain.",
-      "impact": "Climat économique fragile en PACA : les entreprises attendent une stabilité réglementaire/fiscale ; valoriser cette stabilité dans les argumentaires de locations long-terme pour bureaux/activité.",
+      "id": "f3",
+      "title": "Réformes tarifaires novembre 2026: gaz, impôts et trêve hivernale",
+      "body": "Le 1er novembre 2026 marque l'entrée en vigueur de réformes majeures incluant l'ajustement des prix du gaz, des modifications fiscales et la trêve hivernale. Ces changements réglementaires impactent directement les charges d'exploitation des immeubles tertiaires et collectifs.",
+      "impact": "Intégrer les nouvelles conditions énergétiques et la trêve hivernale dans les rédactions de baux commerciaux et les projections de charges 2026-2027.",
       "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/economie/18767863728077/presidentielle-2027-les-patrons-du-sud-font-remonter-les-solutions-du-terrain",
+      "url": "https://www.laprovence.com/article/economie/85111392927568/prix-du-gaz-impots-decouverts-bancaires-treve-hivernale-tout-ce-qui-change-en-novembre-2026",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Réglementation",
+          "cls": "tr"
+        },
+        {
+          "label": "Charges",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Grève BVF Tarascon: tensions RH secteur agroalimentaire",
+      "body": "Les salariés de Boulangeries et Viennoiseries de France (BVF) dénoncent un plan de sauvegarde de l'emploi \"au rabais\" avec soutien parlementaire sollicité. Cette tension sociale impacte les locaux d'activité du groupe en région PACA, notamment à Tarascon.",
+      "impact": "Surveiller la stabilité des preneurs agroalimentaires ; vérifier les clauses de solidité financière et d'occupation dans les baux portant sur des sites BVF.",
+      "date": "30/10/2026",
+      "url": "https://www.laprovence.com/article/societe/71075670092536/les-salaries-de-boulangeries-et-viennoiseries-de-france-ont-plante-le-piquet-de-greve-a-tarascon",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA Activité",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Risque locataire",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Conjoncture tech et taux: pression sur investissements IA",
+      "body": "La chute de 26% d'Intel et 6% d'Amazon à Wall Street ravive les inquiétudes sur les investissements massifs en IA et la rentabilité des données-centers. Cette volatilité mondiale affecte les décisions d'investissement immobilier dans le tertiaire technologique français.",
+      "impact": "Prudence accrue sur les transactions de locaux dédiés IA/data-centers ; exiger des contrats d'occupation fondés sur des rentabilités démontrées, non spéculatives.",
+      "date": "30/10/2026",
+      "url": "https://www.laprovence.com/article/economie/10772264266170/wall-street-26-pour-intel-6-pour-amazon-la-tech-chute-lourdement-a-louverture-des-bourses-americaines",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Taux & Financement",
+          "cls": "tt"
+        },
+        {
+          "label": "Tech",
           "cls": "tm"
         }
       ]
@@ -100,50 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "PIB France recule de 0,1% au T3 2026",
-      "body": "L'Insee confirme un ralentissement persistant avec un PIB en baisse de 0,1% au troisième trimestre. La consommation ménages résiste mais les investissements d'entreprises chutent et le commerce extérieur pèse négativement.",
-      "impact": "Contexte macro tendu : attendre une révision à la baisse des projets d'expansion locataire en PACA ; renégocier les clauses de sortie sur les accords long-terme.",
+      "title": "Budget 2027: nouvelles taxes grandes entreprises adoptées",
+      "body": "L'Assemblée nationale a voté plusieurs taxes ciblant les grandes entreprises dans le cadre du budget 2027, dans un contexte de débat sur la politique de l'offre macronienne. Ces mesures visent à renforcer les recettes fiscales face aux défis économiques.",
+      "impact": "Les grandes entreprises tertiaires de PACA (services, tech, logistique) subiront une pression fiscale accrue ; intégrer cette hausse de charges dans les modèles d'évaluation immobilière 2027.",
       "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/economie/93940242494829/economie-le-pib-francais-recule-de-0-1-au-3e-trimestre",
+      "url": "https://www.laprovence.com/article/economie/3841884609241914/budget-2027-les-deputes-votent-plusieurs-taxes-sur-les-grandes-entreprises-et-le-pacte-papin",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Conjoncture France",
           "cls": "tg"
+        },
+        {
+          "label": "Fiscalité",
+          "cls": "tr"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Consommation ménages recule de 0,5% en septembre",
-      "body": "L'Insee révèle un nouveau recul de 0,5% de la consommation des ménages en septembre 2026. Les distributeurs s'inquiètent tandis que le gouvernement cherche des leviers face à l'inflation et aux hausses de prix.",
-      "impact": "Prudence des consommateurs : demande locative en commerce affaiblie à court terme ; privilégier les locaux accessibles avec flexibilité contractuelle accrue.",
-      "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/economie/3561344171689414/consommation-des-menages-en-france-nouveau-recul-en-septembre-ce-que-disent-les-chiffres",
-      "source": "La Provence",
+      "title": "Inflation stable, taux BCE inchangés à 2.15%",
+      "body": "L'inflation française reste maîtrisée à 1.7%, tandis que les taux directeurs BCE demeurent à 2.15%. Le marché obligataire affiche les OAT 10 ans à 3.70% et l'Euribor 3M à 2.15%, signalant une relative stabilité monétaire.",
+      "impact": "Environnement de taux favorable aux acquisitions immobilières ; valoriser les rendements locatifs nets entre 4.5% et 5.2% pour les bons actifs tertiaires PACA.",
+      "date": "31/10/2026",
+      "url": "https://www.laprovence.com/article/economie/85111392927568/prix-du-gaz-impots-decouverts-bancaires-treve-hivernale-tout-ce-qui-change-en-novembre-2026",
+      "source": "La Provence / Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Taux & Financement",
+          "cls": "tt"
+        },
+        {
+          "label": "Inflation",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Stabilité des taux directeurs BCE et contexte énergétique",
-      "body": "Dans un contexte d'incertitude économique persistante en France (PIB -0,1% T3), les taux de financement restent élevés (OAT 3.70%, Euribor 3M 2.15%, BCE 2.15%). TotalEnergies baisse le gazole à 2.15€/L dès 31 octobre avec déstockage gouvernemental.",
-      "impact": "Coûts d'emprunt immobilier PACA maintenus élevés : privilégier les actifs avec rendements solides (locaux activ.) pour justifier financement ; guetter baisses taux avant année 2027.",
+      "title": "Marché énergétique: gaz novembre 2026 sous surveillance",
+      "body": "L'entrée en vigueur le 1er novembre des nouvelles tarifications gazières impacte le coût opérationnel des immeubles tertiaires français. Le Brent demeure stable autour de 96 USD/baril, maintenant une certaine prévisibilité énergétique.",
+      "impact": "Réviser les provisions de charges annuelles et les contrats d'énergie signés avant novembre ; négocier des clauses d'ajustement trimestriel pour les nouveaux baux à PACA.",
       "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/economie/50882718464627/totalenergies-annonce-baisser-le-prix-du-gazole-dans-certaines-stations-des-ce-samedi-31-octobre",
+      "url": "https://www.laprovence.com/article/economie/85111392927568/prix-du-gaz-impots-decouverts-bancaires-treve-hivernale-tout-ce-qui-change-en-novembre-2026",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique & Énergie",
+          "cls": "tg"
         },
         {
-          "label": "Géopolitique",
-          "cls": "tg"
+          "label": "Charges",
+          "cls": "tm"
         }
       ]
     }

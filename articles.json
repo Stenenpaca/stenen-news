@@ -1,32 +1,13 @@
 {
-  "generated_at": "31/10/2026",
+  "generated_at": "01/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Commerces PACA: tensions post-manifestations et fermetures",
-      "body": "À Marseille, les commerçants du centre-ville redoutent de nouveaux débordements lors des manifestations du 31 octobre, deux semaines après les vols et dégradations du 17 octobre. Certains établissements restent fermés tandis que d'autres rouvrent avec prudence, fragilisant l'attractivité commerciale du cœur urbain.",
-      "impact": "Les transactions commerciales en hypercentre marseillais doivent anticiper des périodes d'instabilité; recommander des baux avec clauses de force majeure et privilégier les emplacements secondaires.",
-      "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/faits-divers-justice/27349457312520/manifestations-du-31-octobre-a-marseille-les-commercants-du-centre-ville-retiennent-leur-souffle-non-sans-angoisse",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA Commerce",
-          "cls": "tp"
-        },
-        {
-          "label": "Risque urbain",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Nouveaux commerce PACA: Lidl Mallemort et poissonnerie Manosque",
-      "body": "Lidl ouvre un supermarché de 1000 m² à Mallemort le 26 novembre 2026, renforçant l'offre de grande distribution régionale. Simultanément, une nouvelle poissonnerie Léonie s'implante à Manosque rue Grande, redynamisant l'attractivité du centre-ville après plusieurs mois de fermeture.",
-      "impact": "L'intensification commerciale en PACA crée des opportunités de surfaces annexes (stockage, services) ; évaluer les emplacements en proximité de ces nouveaux pôles d'attraction.",
-      "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/economie/3791139912017914/apres-action-le-geant-allemand-du-discount-lidl-s-implante-a-mallemort",
+      "title": "Commerces PACA : tensions à l'approche des fêtes",
+      "body": "La CCI France s'inquiète de l'impact des manifestations sur l'activité commerciale en période de fin d'année, intervenant après des crises successives depuis 2018. Les commerçants du centre-ville de Marseille restiennent particulièrement anxieux suite aux incidents du 17 octobre.",
+      "impact": "À Marseille et agglomération, anticiper les risques de fermeture de commerces et locaux activité pour adapter les stratégies de transaction et de valorisation.",
+      "date": "01/11/2026",
+      "url": "https://www.laprovence.com/article/economie/5425074953273914/manifestations-la-cci-france-sinquiete-de-limpact-sur-lactivite-des-commerces-a-lapproche-des-fetes-de-fin-dannee",
       "source": "La Provence",
       "tags": [
         {
@@ -34,64 +15,83 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
-      "id": "f3",
-      "title": "Réformes tarifaires novembre 2026: gaz, impôts et trêve hivernale",
-      "body": "Le 1er novembre 2026 marque l'entrée en vigueur de réformes majeures incluant l'ajustement des prix du gaz, des modifications fiscales et la trêve hivernale. Ces changements réglementaires impactent directement les charges d'exploitation des immeubles tertiaires et collectifs.",
-      "impact": "Intégrer les nouvelles conditions énergétiques et la trêve hivernale dans les rédactions de baux commerciaux et les projections de charges 2026-2027.",
-      "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/economie/85111392927568/prix-du-gaz-impots-decouverts-bancaires-treve-hivernale-tout-ce-qui-change-en-novembre-2026",
+      "id": "f2",
+      "title": "Commerce PACA : e-commerce chinois nouveau cadre",
+      "body": "L'UE impose depuis le 1er novembre des frais de traitement de 2 euros sur les colis importés chinois pour réduire l'avalanche de produits et renforcer les contrôles. Cette mesure impacte directement la compétitivité du commerce de proximité régional.",
+      "impact": "Opportunité pour les commerces PACA : les frais de traitement sur les imports pourraient favoriser les achats locaux et renforcer la demande pour les locaux commerciaux et logistiques régionaux.",
+      "date": "01/11/2026",
+      "url": "https://www.laprovence.com/article/economie/13422611430856/petits-colis-chinois-apres-la-taxation-l-ue-impose-des-frais-de-traitement",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Charges",
+          "label": "Réglementation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Créches commerciales : bilan anticipation achats",
+      "body": "La course aux cadeaux de Noël pousse les ménages à anticiper leurs achats pour éviter ruptures de stock et hausses saisonnières. Cette tendance d'achat précoce renforce la dynamique des espaces commerciaux dès novembre.",
+      "impact": "En PACA, consolider les commerces de proximité offrant des services de conseil et de réservation pour capter cette vague d'achats anticipés d'ici Noël 2026.",
+      "date": "01/11/2026",
+      "url": "https://www.laprovence.com/article/economie/44374113019586/cadeaux-de-noel-ni-trop-tot-ni-trop-tard-quand-et-comment-faire-ses-achats-au-meilleur-prix",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Grève BVF Tarascon: tensions RH secteur agroalimentaire",
-      "body": "Les salariés de Boulangeries et Viennoiseries de France (BVF) dénoncent un plan de sauvegarde de l'emploi \"au rabais\" avec soutien parlementaire sollicité. Cette tension sociale impacte les locaux d'activité du groupe en région PACA, notamment à Tarascon.",
-      "impact": "Surveiller la stabilité des preneurs agroalimentaires ; vérifier les clauses de solidité financière et d'occupation dans les baux portant sur des sites BVF.",
+      "title": "Manosque : réouverture commerce spécialisé",
+      "body": "Une nouvelle poissonnerie Léonie ouvre courant novembre 2026 à Manosque, reprenant un local fermé depuis plusieurs mois rue Grande au centre-ville. Cette réouverture redynamise l'offre commerciale locale et ramène les clients en hypercentre.",
+      "impact": "Signal positif pour les transactions commerciales PACA : les relocalisations de boutiques spécialisées en centre-ville créent des opportunités de reprise de locaux disponibles.",
       "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/societe/71075670092536/les-salaries-de-boulangeries-et-viennoiseries-de-france-ont-plante-le-piquet-de-greve-a-tarascon",
+      "url": "https://www.laprovence.com/article/economie/3886077377394914/une-nouvelle-poissonnerie-va-ouvrir-courant-novembre-2026-dans-le-centre-ville-de-manosque",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Activité",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Risque locataire",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Conjoncture tech et taux: pression sur investissements IA",
-      "body": "La chute de 26% d'Intel et 6% d'Amazon à Wall Street ravive les inquiétudes sur les investissements massifs en IA et la rentabilité des données-centers. Cette volatilité mondiale affecte les décisions d'investissement immobilier dans le tertiaire technologique français.",
-      "impact": "Prudence accrue sur les transactions de locaux dédiés IA/data-centers ; exiger des contrats d'occupation fondés sur des rentabilités démontrées, non spéculatives.",
-      "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/economie/10772264266170/wall-street-26-pour-intel-6-pour-amazon-la-tech-chute-lourdement-a-louverture-des-bourses-americaines",
+      "title": "Istres : économie créative et location de locaux",
+      "body": "L'école Salsa Vanille à Istres fait vibrer la commune depuis 25 ans avec danse et culture latine, générant une dynamique d'animation urbaine et de fréquentation. Ces structures créatives deviennent des tendances d'aménagement pour valoriser les locaux d'activité en centres-villes.",
+      "impact": "Identifier en PACA les locaux compatibles avec les activités de loisir/créatives : segments haute valeur ajoutée pour transactions avec risque faible et revenus réguliers.",
+      "date": "01/11/2026",
+      "url": "https://www.laprovence.com/article/culture-loisirs/35008061445556/l-ecole-salsa-vanille-25-ans-de-passion-au-rythme-de-la-danse-a-istres",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux & Financement",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Tech",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
@@ -100,58 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Budget 2027: nouvelles taxes grandes entreprises adoptées",
-      "body": "L'Assemblée nationale a voté plusieurs taxes ciblant les grandes entreprises dans le cadre du budget 2027, dans un contexte de débat sur la politique de l'offre macronienne. Ces mesures visent à renforcer les recettes fiscales face aux défis économiques.",
-      "impact": "Les grandes entreprises tertiaires de PACA (services, tech, logistique) subiront une pression fiscale accrue ; intégrer cette hausse de charges dans les modèles d'évaluation immobilière 2027.",
-      "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/economie/3841884609241914/budget-2027-les-deputes-votent-plusieurs-taxes-sur-les-grandes-entreprises-et-le-pacte-papin",
+      "title": "France : instabilité politique et activité commerciale",
+      "body": "Les manifestations du 31 octobre à Marseille révèlent une instabilité sociopolitique durable en France, combinée aux crises successives depuis 2018 (gilets jaunes, Covid, Ukraine). Cette fragmentation affecte directement la confiance des investisseurs et la dynamique économique régionale.",
+      "impact": "Évaluer avec prudence les projets immobiliers long terme en zones à risque de perturbation (centres-villes) et privilégier les actifs défensifs avec revenus locatifs stables.",
+      "date": "01/11/2026",
+      "url": "https://www.laprovence.com/article/economie/5425074953273914/manifestations-la-cci-france-sinquiete-de-limpact-sur-lactivite-des-commerces-a-lapproche-des-fetes-de-fin-dannee",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture France",
+          "label": "Géopolitique",
           "cls": "tg"
         },
         {
-          "label": "Fiscalité",
-          "cls": "tr"
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation stable, taux BCE inchangés à 2.15%",
-      "body": "L'inflation française reste maîtrisée à 1.7%, tandis que les taux directeurs BCE demeurent à 2.15%. Le marché obligataire affiche les OAT 10 ans à 3.70% et l'Euribor 3M à 2.15%, signalant une relative stabilité monétaire.",
-      "impact": "Environnement de taux favorable aux acquisitions immobilières ; valoriser les rendements locatifs nets entre 4.5% et 5.2% pour les bons actifs tertiaires PACA.",
-      "date": "31/10/2026",
-      "url": "https://www.laprovence.com/article/economie/85111392927568/prix-du-gaz-impots-decouverts-bancaires-treve-hivernale-tout-ce-qui-change-en-novembre-2026",
-      "source": "La Provence / Données marché",
+      "title": "OAT 3.70% : contexte de stabilité tarifaire",
+      "body": "Les obligations françaises (OAT) se stabilisent à 3.70%, reflétant une épargne prudente face à l'environnement économique incertain. L'Euribor 3M reste à 2.15%, soutenant des coûts de financement accessibles pour les acteurs immobiliers.",
+      "impact": "Profiter du taux OAT à 3.70% pour refinancer ou structurer des montages de financement immobilier compétitifs jusqu'à fin 2026.",
+      "date": "01/11/2026",
+      "url": "https://www.laprovence.com/article/economie/13422611430856/petits-colis-chinois-apres-la-taxation-l-ue-impose-des-frais-de-traitement",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux & Financement",
+          "label": "Taux",
           "cls": "tt"
         },
         {
-          "label": "Inflation",
-          "cls": "tg"
+          "label": "BCE",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Marché énergétique: gaz novembre 2026 sous surveillance",
-      "body": "L'entrée en vigueur le 1er novembre des nouvelles tarifications gazières impacte le coût opérationnel des immeubles tertiaires français. Le Brent demeure stable autour de 96 USD/baril, maintenant une certaine prévisibilité énergétique.",
-      "impact": "Réviser les provisions de charges annuelles et les contrats d'énergie signés avant novembre ; négocier des clauses d'ajustement trimestriel pour les nouveaux baux à PACA.",
-      "date": "30/10/2026",
-      "url": "https://www.laprovence.com/article/economie/85111392927568/prix-du-gaz-impots-decouverts-bancaires-treve-hivernale-tout-ce-qui-change-en-novembre-2026",
+      "title": "Inflation modérée (1.7%) et pouvoir d'achat sous tension",
+      "body": "L'inflation française reste maîtrisée à 1.7% mais le pouvoir d'achat des ménages demeure en berne, comme l'illustre la CCI France. Cette combinaison pèse sur la demande commerciale et crée un contexte de prudence pour les investissements retail.",
+      "impact": "Réduire l'exposition aux actifs commerciaux généralistes et privilégier les segments essentiels (alimentaire, services) moins volatiles face aux cycles d'inflation.",
+      "date": "01/11/2026",
+      "url": "https://www.laprovence.com/article/economie/44374113019586/cadeaux-de-noel-ni-trop-tot-ni-trop-tard-quand-et-comment-faire-ses-achats-au-meilleur-prix",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique & Énergie",
-          "cls": "tg"
+          "label": "Conjoncture",
+          "cls": "tm"
         },
         {
-          "label": "Charges",
-          "cls": "tm"
+          "label": "BCE",
+          "cls": "tt"
         }
       ]
     }

@@ -1,55 +1,17 @@
 {
-  "generated_at": "02/11/2026",
+  "generated_at": "03/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Commerces PACA : ouvertures dominicales supplémentaires autorisées",
-      "body": "Le ministre du Commerce envisage d'autoriser trois dimanches supplémentaires d'ouverture pour compenser les fermetures du samedi dues aux manifestations. Cette mesure vise à atténuer le manque à gagner des commerçants impactés par les mouvements sociaux récurrents.",
-      "impact": "Opportunité de négociation de baux commerciaux PACA avec clauses de flexibilité horaire et de révision de charges liées aux jours d'ouverture additionnels.",
-      "date": "02/11/2026",
-      "url": "https://www.laprovence.com/article/societe/1079486629204414/manifestations-le-ministre-du-commerce-veut-autoriser-les-magasins-a-ouvrir-trois-dimanches-supplementaires",
+      "title": "Marché PACA : dynamique des cadres et ingénieurs tirée par l'industrie",
+      "body": "Anthony Fumard, délégué régional de l'Apec Paca-Corse, confirme un marché du travail qualifié particulièrement dynamique, porté par l'industrie de pointe et l'attractivité territoriale singulière de la région. Cette vitalité du secteur tertiaire supérieur crée une demande accrue en locaux bureaux et espaces de coworking adaptés aux cadres et ingénieurs.",
+      "impact": "Opportunité pour les cabinets en transaction CRE PACA : cibler les PME/ETI en croissance cherchant des bureaux premium ou flex-office pour attirer les talents cadres.",
+      "date": "03/11/2026",
+      "url": "https://www.laprovence.com/article/economie/24659500945827/la-region-eldorado-des-cadres-et-ingenieurs-le-delegue-regional-de-lapec-paca-corse-evoque-un-marche-dynamique",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Cession commerciale à Digne-les-Bains : Dietetic 100% bio",
-      "body": "Didier Mouranchon, gérant depuis 28 ans du magasin Dietetic à Digne-les-Bains (Alpes-de-Haute-Provence), recherche un repreneur pour sa boutique implantée en cœur de ville. L'établissement spécialisé bio représente une opportunité de reprise clé en main en zone PACA.",
-      "impact": "Forte demande de conseils en transaction commerciale pour reprise de fonds de commerce alimentaire spécialisé en région PACA, avec étude de viabilité financière requise.",
-      "date": "02/11/2026",
-      "url": "https://www.laprovence.com/article/region/1041009457794814/a-la-tete-de-dietetic-depuis-28-ans-didier-mouranchon-s-apprete-a-tourner-la-page-a-digne-les-bains",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Transaction PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Sommap : production locale de matériel plongée à Roquefort-la-Bédoule",
-      "body": "La Société méditerranéenne de matériel de plongée (Sommap) poursuit sa production en Provence depuis 1970 et exposera au salon du Made in France. L'entreprise maintient une activité manufacturière significative dans ses locaux de Roquefort-la-Bédoule (13).",
-      "impact": "Intérêt confirmé pour les locaux d'activité PACA auprès des entreprises de production manufacturière soucieuses de rester en France.",
-      "date": "01/11/2026",
-      "url": "https://www.laprovence.com/article/economie/5654573263467914/cette-entreprise-fabrique-masques-tubas-et-palmes-a-roquefort-la-bedoule-et-va-exposer-au-salon-du-made-in-france",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Activité PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
@@ -59,40 +21,78 @@
       ]
     },
     {
-      "id": "f4",
-      "title": "Black Friday 2026 : calendrier commercial et stratégie retail",
-      "body": "Le Black Friday débutera le 27 novembre 2026 en France avec des enjeux majeurs de différenciation entre vraies et fausses promotions. Cette période critique pour le commerce traditionnel et digital mobilise les retailers PACA.",
-      "impact": "Anticipation nécessaire de pics de fréquentation commerciale PACA : à prévoir dans les négociations de charges et services pour locaux retail.",
-      "date": "02/11/2026",
-      "url": "https://www.laprovence.com/article/economie/6279474778079114/black-friday-2026-le-calendrier-des-dates-cles-et-les-conseils-pour-optimiser-vos-achats",
+      "id": "f2",
+      "title": "Transmission d'entreprise : Business Transfer Forum CCI Aix-Marseille le 27 nov",
+      "body": "La CCI Aix-Marseille Provence organise le Business Transfer Forum le 27 novembre, dédié aux cédants et repreneurs de PME/PMI. Cet événement territorial sera l'occasion pour les acteurs immobiliers de cibler les acquisitions de locaux d'activité suite à des reprises de fonds.",
+      "impact": "Prospecter auprès des repreneurs d'entreprises pour identifier les besoins en locaux d'activité, bureaux ou commerces adaptés à leur projet de transmission.",
+      "date": "03/11/2026",
+      "url": "https://www.laprovence.com/article/region/7123019825950814/le-business-transfer-forum-un-rendez-vous-signe-cci-aix-marseille-provence-pour-cedants-et-repreneurs",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Tendance marché",
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Recherche & entrepreneuriat : Avignon Université ouvre ses labos aux entreprises",
+      "body": "La journée 'Boost innovation' d'Avignon Université et l'Inrae offrent aux entreprises du territoire un accès direct aux laboratoires de recherche pour des partenariats innovants. Cette dynamique d'innovation régionale génère une demande de locaux tertiaires dédiés aux startups et PME high-tech.",
+      "impact": "Identifier les besoins en incubateurs, pépinières ou espaces de coworking pour les jeunes pousses issues de la recherche universitaire en PACA.",
+      "date": "03/11/2026",
+      "url": "https://www.laprovence.com/article/region/13197062740331/avignon-universite-veut-concilier-recherche-et-entrepreneuriat",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Tendance",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Artisanat PACA : célébration des talents territoriaux à Digne-les-Bains",
+      "body": "La Chambre de métiers et de l'artisanat des Alpes-de-Haute-Provence organise le 10 novembre sa soirée d'Excellence pour récompenser artisans et apprentis du territoire. Cette dynamique artisanale reflète une vitalité des TPE/PME locales nécessitant des espaces d'activité adaptés.",
+      "impact": "Étudier la demande de petits locaux d'activité et ateliers partagés pour l'artisanat en PACA, segment souvent délaissé mais résilient.",
+      "date": "03/11/2026",
+      "url": "https://www.laprovence.com/article/region/7141809101349814/la-chambre-de-metiers-et-de-l-artisanat-des-alpes-de-haute-provence-va-celebrer-les-talents-du-territoire",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "IA et offices de tourisme PACA : adaptation numérique sans substitution",
-      "body": "Les offices de tourisme d'Avignon et du Comtat considèrent les outils IA comme des compléments et non des menaces, soulignant l'importance du contact humain. La baisse de fréquentation observée en Vaucluse n'est pas attribuée à l'IA mais à d'autres facteurs structurels.",
-      "impact": "Espaces touristiques et bureaux PACA doivent intégrer infrastructures numériques sans réduire les surfaces de services en présentiel.",
-      "date": "02/11/2026",
-      "url": "https://www.laprovence.com/article/region/5417825680110714/les-offices-de-tourisme-d-avignon-et-du-comtat-ne-voient-pas-l-ia-comme-un-concurrent-mais-comme-un-atout",
+      "title": "Revers commercial : GiFi en redressement judiciaire après crise IT 2023",
+      "body": "GiFi, enseigne historique du discount fondée en 1981, a été placée en redressement judiciaire suite à des difficultés financières majeures causées par un changement informatique raté en 2023 et la concurrence d'Action/Temu. Ce revers commercial impacte potentiellement les baux commerciaux retail en PACA et avertit sur la fragilité du secteur discount.",
+      "impact": "Conseiller les propriétaires de murs commerciaux occupés par des enseignes discount sur les risques de défaillance locative et négocier des garanties renforcées.",
+      "date": "03/11/2026",
+      "url": "https://www.laprovence.com/article/economie/11415407310162/gifi-en-grande-difficulte-financiere-place-en-redressement-judiciaire-par-le-tribunal-de-commerce-de-toulouse",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Bureaux PACA",
-          "cls": "tp"
+          "label": "Marché",
+          "cls": "tm"
         },
         {
-          "label": "Tendance marché",
-          "cls": "tm"
+          "label": "Risque",
+          "cls": "tr"
         }
       ]
     }
@@ -100,57 +100,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Baisse gazole France : -18 centimes/litre dès novembre 2026",
-      "body": "Le gouvernement a déployé les stocks stratégiques de gazole à prix coûtant auprès des groupes pétroliers depuis le 2 novembre 2026. La réduction de 18 centimes par litre représente environ 10 euros d'économie par plein et devrait s'étendre à plus de 50% des stations.",
-      "impact": "Amélioration sensible de la trésorerie des transporteurs et services logistiques PACA ; coûts d'exploitation des immeubles d'activité baissent légèrement.",
-      "date": "02/11/2026",
-      "url": "https://www.laprovence.com/article/economie/60472654991131/gazole-plus-de-la-moitie-des-stations-ont-deja-baisse-leur-prix-des-economies-de-10-euros-sur-un-plein-attendues",
+      "title": "Carburants : baisse progressive des prix liée aux stocks stratégiques",
+      "body": "Le gouvernement met en œuvre une baisse progressive des prix du gazole via la libération de stocks stratégiques, bénéficiant progressivement aux 10 000 stations-service françaises. Cette mesure débutera ses effets dans les jours à venir et vise à soutenir le pouvoir d'achat des entreprises de transport et logistique.",
+      "impact": "La baisse des coûts carburant réduira les charges des prestataires logistiques et transporteurs, renforçant la solvabilité des locataires de bâtiments d'activité et entrepôts PACA.",
+      "date": "03/11/2026",
+      "url": "https://www.laprovence.com/article/economie/7142176403996414/carburants-dans-combien-de-stations-service-les-prix-du-gazole-ont-reellement-baisse",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Énergie",
-          "cls": "tg"
-        },
-        {
           "label": "Conjoncture",
-          "cls": "tm"
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Manifestations : CCI France craint impact fin d'année et pouvoir d'achat",
-      "body": "La Chambre de Commerce et d'Industrie exprime son inquiétude concernant l'impact des manifestations récurrentes sur l'activité commerciale à l'approche des fêtes de fin d'année. Le secteur accumule les crises depuis 2018 (Gilets jaunes, Covid, Ukraine, émeutes, inflation).",
-      "impact": "Volatilité confirmée du marché commercial PACA ; stratégie de valorisation patrimoniale à moyen terme sur actifs résiliants haut de gamme privilégiée.",
-      "date": "01/11/2026",
-      "url": "https://www.laprovence.com/article/economie/5425074953273914/manifestations-la-cci-france-sinquiete-de-limpact-sur-lactivite-des-commerces-a-lapproche-des-fetes-de-fin-dannee",
+      "title": "France : IA et transformation des cadres, recomposition des fonctions tertiaires",
+      "body": "Les cadres français réinventent leurs parcours professionnels face à l'IA, cherchant davantage d'autonomie, de sens et de flexibilité dans leurs emplois plutôt que des carrières toutes tracées. Cette mutation crée de nouveaux besoins en environnements de travail adaptatifs et espaces collaboratifs.",
+      "impact": "Les entreprises françaises accélèrent la demande de bureaux flex et espaces hybrides, poussant la reconversion de locaux tertiaires classiques vers des offres tertiaires innovantes en PACA.",
+      "date": "03/11/2026",
+      "url": "https://www.laprovence.com/article/economie/21528848513743/ia-besoin-dautonomie-des-cadres-entre-quete-de-sens-adaptation-et-responsabilites",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Conjoncture France",
+          "label": "Tendance",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Conditions monétaires novembre 2026 : taux et contexte macro",
-      "body": "L'Euribor 3M se maintient à 2.15% et l'OAT 10 ans affiche 3.70% dans un contexte d'inflation France à 1.7%. La BCE maintient ses taux directeurs à 2.15% face à la stabilisation progressive des pressions inflationnistes européennes.",
-      "impact": "Financement immobilier d'entreprise PACA reste accessible mais coûteux ; opportunités refinancement avant 2027 à anticiper pour les emprunteurs variables.",
-      "date": "02/11/2026",
-      "url": "https://www.laprovence.com/article/economie/donnees-marche-bce-oat-euribor",
-      "source": "Données marché",
+      "title": "Taux OAT et financement : contexte stable à 3.70% - Euribor3M à 2.15%",
+      "body": "Les OAT françaises restent stables à 3.70%, tandis que l'Euribor 3 mois se maintient à 2.15%, reflétant une orientation monétaire prudente de la BCE également à 2.15%. Cet environnement offre une stabilité relative pour le financement immobilier d'entreprise, bien que les taux d'emprunt CRE restent élevés.",
+      "impact": "Conseiller les investisseurs CRE et porteurs de projets que le financement demeure coûteux ; négocier les taux de base bancaires et les marges pour sécuriser la viabilité des acquisitions immobilières PACA.",
+      "date": "03/11/2026",
+      "url": "https://donnees-marche.fr/taux-oat-euribor",
+      "source": "Données Marché",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
-        },
-        {
-          "label": "BCE/Inflation",
+          "label": "Taux",
           "cls": "tt"
         }
       ]

@@ -1,98 +1,78 @@
 {
-  "generated_at": "03/11/2026",
+  "generated_at": "04/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Marché PACA : dynamique des cadres et ingénieurs tirée par l'industrie",
-      "body": "Anthony Fumard, délégué régional de l'Apec Paca-Corse, confirme un marché du travail qualifié particulièrement dynamique, porté par l'industrie de pointe et l'attractivité territoriale singulière de la région. Cette vitalité du secteur tertiaire supérieur crée une demande accrue en locaux bureaux et espaces de coworking adaptés aux cadres et ingénieurs.",
-      "impact": "Opportunité pour les cabinets en transaction CRE PACA : cibler les PME/ETI en croissance cherchant des bureaux premium ou flex-office pour attirer les talents cadres.",
-      "date": "03/11/2026",
-      "url": "https://www.laprovence.com/article/economie/24659500945827/la-region-eldorado-des-cadres-et-ingenieurs-le-delegue-regional-de-lapec-paca-corse-evoque-un-marche-dynamique",
+      "title": "Mobilisation du 5 novembre : impacts sur le commerce marseillais",
+      "body": "Jean-Luc Chauvin, président de la CCI Aix-Marseille-Provence, exprime son inquiétude face à la manifestation du 5 novembre et craint des perturbations dans le centre-ville commerçant. La CCI présente des pistes pour relancer le commerce en centre-ville à l'approche des fêtes de Noël.",
+      "impact": "Les acteurs du commerce PACA doivent anticiper les fermetures et réductions d'accès aux zones commerciales marseillaises; ajuster les stratégies de transaction et occupation pour novembre-décembre.",
+      "date": "04/11/2026",
+      "url": "https://www.laprovence.com/article/economie/7886249573819914/mobilisation-du-5-novembre-le-president-de-la-cci-souhaite-quelle-est-lieu-hors-du-centre-ville-commercant-marseillais",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Commerce",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Transmission d'entreprise : Business Transfer Forum CCI Aix-Marseille le 27 nov",
-      "body": "La CCI Aix-Marseille Provence organise le Business Transfer Forum le 27 novembre, dédié aux cédants et repreneurs de PME/PMI. Cet événement territorial sera l'occasion pour les acteurs immobiliers de cibler les acquisitions de locaux d'activité suite à des reprises de fonds.",
-      "impact": "Prospecter auprès des repreneurs d'entreprises pour identifier les besoins en locaux d'activité, bureaux ou commerces adaptés à leur projet de transmission.",
+      "title": "Redressement judiciaire de Gifi : impact retail PACA",
+      "body": "L'enseigne Gifi a été placée en redressement judiciaire le 3 novembre 2026 par le tribunal de commerce de Toulouse. Avec 38 magasins en Provence-Alpes-Côte d'Azur dont la majorité dans les Bouches-du-Rhône, cette décision laisse présager d'importantes restructurations immobilières.",
+      "impact": "Opportunité de transaction : libération de surfaces commerciales en PACA (BDR principalement); conseil prioritaire sur les reprises d'activité et les relocalisations retail.",
       "date": "03/11/2026",
-      "url": "https://www.laprovence.com/article/region/7123019825950814/le-business-transfer-forum-un-rendez-vous-signe-cci-aix-marseille-provence-pour-cedants-et-repreneurs",
+      "url": "https://www.laprovence.com/article/economie/7432901963873714/apres-le-placement-en-redressement-judiciaire-de-gifi-on-s-attend-evidemment-a-de-la-casse-sociale",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Retail",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Recherche & entrepreneuriat : Avignon Université ouvre ses labos aux entreprises",
-      "body": "La journée 'Boost innovation' d'Avignon Université et l'Inrae offrent aux entreprises du territoire un accès direct aux laboratoires de recherche pour des partenariats innovants. Cette dynamique d'innovation régionale génère une demande de locaux tertiaires dédiés aux startups et PME high-tech.",
-      "impact": "Identifier les besoins en incubateurs, pépinières ou espaces de coworking pour les jeunes pousses issues de la recherche universitaire en PACA.",
-      "date": "03/11/2026",
-      "url": "https://www.laprovence.com/article/region/13197062740331/avignon-universite-veut-concilier-recherche-et-entrepreneuriat",
+      "title": "Vente SFR : tensions sociales et impacts locaux Aix-en-Provence",
+      "body": "L'intersyndicale de SFR s'oppose aux négociations avec les repreneurs (Bouygues, Orange, Free) sur les conditions sociales. Le site aixois enregistre 25% de grévistes le 3 novembre, reflétant une tension persistante post-débrayage.",
+      "impact": "Pour les transactions locaux activité/bureaux PACA : risque de perturbations opérationnelles chez SFR Aix; vérifier la stabilité des locataires télécoms dans les négociations en cours.",
+      "date": "04/11/2026",
+      "url": "https://www.laprovence.com/article/societe/26424111376737/vente-de-sfr-et-negociations-sociale-avec-les-salaries-vu-d-aix-en-provence-on-est-a-la-limite-du-chantage",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Activité",
           "cls": "tp"
-        },
-        {
-          "label": "Tendance",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Artisanat PACA : célébration des talents territoriaux à Digne-les-Bains",
-      "body": "La Chambre de métiers et de l'artisanat des Alpes-de-Haute-Provence organise le 10 novembre sa soirée d'Excellence pour récompenser artisans et apprentis du territoire. Cette dynamique artisanale reflète une vitalité des TPE/PME locales nécessitant des espaces d'activité adaptés.",
-      "impact": "Étudier la demande de petits locaux d'activité et ateliers partagés pour l'artisanat en PACA, segment souvent délaissé mais résilient.",
+      "title": "Démarrage saison touristique : stratégie diversification Var 2027",
+      "body": "Var Tourisme entend consolider l'attractivité départementale en 2027 via la diversification des filières, montée en gamme et désaisonnalisation. L'agence mise sur une meilleure connaissance des clientèles françaises et internationales face aux aléas climatiques.",
+      "impact": "Demande accrue d'espaces hôteliers, bureaux de réception et locaux commerciaux touristiques en Var; intérêt pour les acquisitions en zones littorales et arrière-pays diversifiés.",
       "date": "03/11/2026",
-      "url": "https://www.laprovence.com/article/region/7141809101349814/la-chambre-de-metiers-et-de-l-artisanat-des-alpes-de-haute-provence-va-celebrer-les-talents-du-territoire",
+      "url": "https://www.laprovence.com/article/economie/27875122717248/en-2027-var-tourisme-veut-consolider-son-attractivite-et-met-le-cap-sur-l-international",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
+          "label": "Marché Var",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Revers commercial : GiFi en redressement judiciaire après crise IT 2023",
-      "body": "GiFi, enseigne historique du discount fondée en 1981, a été placée en redressement judiciaire suite à des difficultés financières majeures causées par un changement informatique raté en 2023 et la concurrence d'Action/Temu. Ce revers commercial impacte potentiellement les baux commerciaux retail en PACA et avertit sur la fragilité du secteur discount.",
-      "impact": "Conseiller les propriétaires de murs commerciaux occupés par des enseignes discount sur les risques de défaillance locative et négocier des garanties renforcées.",
+      "title": "Forum emploi Grand Vitrolles : 500 postes et dynamique activité",
+      "body": "Grand Vitrolles a réuni 80 entreprises et organismes de formation proposant 500 emplois à pourvoir (3e édition du forum, 3 novembre). Ce secteur affiche une dynamique de recrutement reflétant la demande en locaux d'activité.",
+      "impact": "Signal positif pour l'absorption d'espaces bureaux et activité Vitrolles-Ouest PACA; conseiller les entreprises en expansion sur les opportunités locales de relocations.",
       "date": "03/11/2026",
-      "url": "https://www.laprovence.com/article/economie/11415407310162/gifi-en-grande-difficulte-financiere-place-en-redressement-judiciaire-par-le-tribunal-de-commerce-de-toulouse",
+      "url": "https://www.laprovence.com/article/economie/735165016974914/80-entreprises-et-organismes-de-formation-ont-propose-500-emplois-a-pourvoir-lors-du-forum-organise-par-grand-vitrolles",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché",
-          "cls": "tm"
-        },
-        {
-          "label": "Risque",
-          "cls": "tr"
+          "label": "PACA Emploi",
+          "cls": "tp"
         }
       ]
     }
@@ -100,45 +80,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Carburants : baisse progressive des prix liée aux stocks stratégiques",
-      "body": "Le gouvernement met en œuvre une baisse progressive des prix du gazole via la libération de stocks stratégiques, bénéficiant progressivement aux 10 000 stations-service françaises. Cette mesure débutera ses effets dans les jours à venir et vise à soutenir le pouvoir d'achat des entreprises de transport et logistique.",
-      "impact": "La baisse des coûts carburant réduira les charges des prestataires logistiques et transporteurs, renforçant la solvabilité des locataires de bâtiments d'activité et entrepôts PACA.",
-      "date": "03/11/2026",
-      "url": "https://www.laprovence.com/article/economie/7142176403996414/carburants-dans-combien-de-stations-service-les-prix-du-gazole-ont-reellement-baisse",
+      "title": "Hausse géopolitique énergétique : prix carburant et impact économique",
+      "body": "Face à la flambée historique des prix du gazole depuis le conflit au Moyen-Orient (frappes US-Israël sur l'Iran), le gouvernement français libère 10 millions de barils stratégiques à prix coûtant (nov-janv). Une baisse de 15 centimes en moyenne est estimée par le ministre.",
+      "impact": "Volatilité énergétique impacte les coûts d'exploitation CRE; anticiper les clauses d'indexation énergétique dans les baux PACA et révisions tarifaires.",
+      "date": "04/11/2026",
+      "url": "https://www.laprovence.com/article/france-monde/16617707170558/prix-du-carburant-la-baisse-des-prix-du-gazole-atteint-15-centimes-en-moyenne-estime-le-ministre-de-leconomie",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "France : IA et transformation des cadres, recomposition des fonctions tertiaires",
-      "body": "Les cadres français réinventent leurs parcours professionnels face à l'IA, cherchant davantage d'autonomie, de sens et de flexibilité dans leurs emplois plutôt que des carrières toutes tracées. Cette mutation crée de nouveaux besoins en environnements de travail adaptatifs et espaces collaboratifs.",
-      "impact": "Les entreprises françaises accélèrent la demande de bureaux flex et espaces hybrides, poussant la reconversion de locaux tertiaires classiques vers des offres tertiaires innovantes en PACA.",
-      "date": "03/11/2026",
-      "url": "https://www.laprovence.com/article/economie/21528848513743/ia-besoin-dautonomie-des-cadres-entre-quete-de-sens-adaptation-et-responsabilites",
+      "title": "Conjoncture France : dynamique emploi et tension sociale",
+      "body": "La conjoncture française affiche des signaux mitigés avec 500 postes à pourvoir en PACA (forum Grand Vitrolles) mais tensions sociales persistantes (grève SFR Aix, redressement Gifi). Contexte économique fragile face aux aléas climatiques et restructurations retail.",
+      "impact": "Contexte d'incertitude économique : préconiser une approche flexible des transactions et une attention aux risques tenant social dans les due diligence PACA.",
+      "date": "04/11/2026",
+      "url": "https://www.laprovence.com/article/economie/735165016974914/80-entreprises-et-organismes-de-formation-ont-propose-500-emplois-a-pourvoir-lors-du-forum-organise-par-grand-vitrolles",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Tendance",
-          "cls": "tm"
+          "label": "Conjoncture",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Taux OAT et financement : contexte stable à 3.70% - Euribor3M à 2.15%",
-      "body": "Les OAT françaises restent stables à 3.70%, tandis que l'Euribor 3 mois se maintient à 2.15%, reflétant une orientation monétaire prudente de la BCE également à 2.15%. Cet environnement offre une stabilité relative pour le financement immobilier d'entreprise, bien que les taux d'emprunt CRE restent élevés.",
-      "impact": "Conseiller les investisseurs CRE et porteurs de projets que le financement demeure coûteux ; négocier les taux de base bancaires et les marges pour sécuriser la viabilité des acquisitions immobilières PACA.",
-      "date": "03/11/2026",
-      "url": "https://donnees-marche.fr/taux-oat-euribor",
+      "title": "Contexte taux et financement : données marchés stables",
+      "body": "Données marchés financiers stables : OAT 3.70%, Euribor 3M 2.15%, taux BCE 2.15%, inflation France 1.7%. Pas d'articles RSS spécifiques sur les taux tertiaires, mais environnement de financement immobilier demeure tendu.",
+      "impact": "Coûts de financement CRE inchangés en PACA ; conseil : valider les conditions prêts avant clôture transactions ; vigilance sur les révisions taux indexés Euribor.",
+      "date": "04/11/2026",
+      "url": "https://www.laprovence.com/article/economie/7886249573819914/mobilisation-du-5-novembre-le-president-de-la-cci-souhaite-quelle-est-lieu-hors-du-centre-ville-commercant-marseillais",
       "source": "Données Marché",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Taux OAT",
           "cls": "tt"
         }
       ]

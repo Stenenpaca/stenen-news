@@ -1,78 +1,98 @@
 {
-  "generated_at": "04/11/2026",
+  "generated_at": "05/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Mobilisation du 5 novembre : impacts sur le commerce marseillais",
-      "body": "Jean-Luc Chauvin, président de la CCI Aix-Marseille-Provence, exprime son inquiétude face à la manifestation du 5 novembre et craint des perturbations dans le centre-ville commerçant. La CCI présente des pistes pour relancer le commerce en centre-ville à l'approche des fêtes de Noël.",
-      "impact": "Les acteurs du commerce PACA doivent anticiper les fermetures et réductions d'accès aux zones commerciales marseillaises; ajuster les stratégies de transaction et occupation pour novembre-décembre.",
-      "date": "04/11/2026",
-      "url": "https://www.laprovence.com/article/economie/7886249573819914/mobilisation-du-5-novembre-le-president-de-la-cci-souhaite-quelle-est-lieu-hors-du-centre-ville-commercant-marseillais",
+      "title": "Centres-villes PACA : -8% CA, impact direct sur locaux commerciaux",
+      "body": "Les dégradations d'octobre ont provoqué une chute de 8% du chiffre d'affaires des magasins en centre-ville selon l'Alliance du commerce. Cette contraction affecte directement la demande locative de petites surfaces commerciales en hyper-centre marseillais et aixois.",
+      "impact": "Renégociation à la baisse des baux commerciaux centre-villes PACA attendue ; privilégier offres périphériques ou en galeries sécurisées.",
+      "date": "05/11/2026",
+      "url": "https://www.laprovence.com/article/economie/170144081092214/moins-8-de-chiffre-d-affaires-les-centres-villes-francais-desertes-apres-les-manifestations-d-octobre",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Commerce",
+          "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Redressement judiciaire de Gifi : impact retail PACA",
-      "body": "L'enseigne Gifi a été placée en redressement judiciaire le 3 novembre 2026 par le tribunal de commerce de Toulouse. Avec 38 magasins en Provence-Alpes-Côte d'Azur dont la majorité dans les Bouches-du-Rhône, cette décision laisse présager d'importantes restructurations immobilières.",
-      "impact": "Opportunité de transaction : libération de surfaces commerciales en PACA (BDR principalement); conseil prioritaire sur les reprises d'activité et les relocalisations retail.",
-      "date": "03/11/2026",
-      "url": "https://www.laprovence.com/article/economie/7432901963873714/apres-le-placement-en-redressement-judiciaire-de-gifi-on-s-attend-evidemment-a-de-la-casse-sociale",
+      "title": "Marseille hub tech africaine : nouvelle demande de bureaux innovants",
+      "body": "Marseille se positionne comme porte d'entrée européenne de la tech africaine avec l'événement Invest & Connect réunissant start-up et investisseurs. Cette dynamique génère une demande croissante de locaux créatifs et espaces collaboratifs pour accueillir ces nouveaux acteurs.",
+      "impact": "Opportunité de placement de petits bureaux flexibles et locaux d'activité en Euroméditerranée ; cibler start-up africaines en phase d'expansion européenne.",
+      "date": "04/11/2026",
+      "url": "https://www.laprovence.com/article/economie/8771176088407214/marseille-porte-dentree-europeenne-de-la-tech-africaine",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Retail",
+          "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Vente SFR : tensions sociales et impacts locaux Aix-en-Provence",
-      "body": "L'intersyndicale de SFR s'oppose aux négociations avec les repreneurs (Bouygues, Orange, Free) sur les conditions sociales. Le site aixois enregistre 25% de grévistes le 3 novembre, reflétant une tension persistante post-débrayage.",
-      "impact": "Pour les transactions locaux activité/bureaux PACA : risque de perturbations opérationnelles chez SFR Aix; vérifier la stabilité des locataires télécoms dans les négociations en cours.",
-      "date": "04/11/2026",
-      "url": "https://www.laprovence.com/article/societe/26424111376737/vente-de-sfr-et-negociations-sociale-avec-les-salaries-vu-d-aix-en-provence-on-est-a-la-limite-du-chantage",
+      "title": "Cadres : baisse pouvoir d'achat pèse sur demande tertiaire PACA",
+      "body": "L'Apec signale une dégradation salariale des cadres avec moins d'augmentations et recul de rémunération médiane. Cette compression du pouvoir d'achat réduit la demande de relocalisations et de restructurations de postes tertiaires en région.",
+      "impact": "Volumes de transactions bureaux PACA attendus en retrait ; valorisations en pression à la renégociation pour locataires existants.",
+      "date": "05/11/2026",
+      "url": "https://www.laprovence.com/article/economie/8771176088407214/salaires-les-cadres-soumis-a-une-baisse-acceleree-du-pouvoir-dachat",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Activité",
+          "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Démarrage saison touristique : stratégie diversification Var 2027",
-      "body": "Var Tourisme entend consolider l'attractivité départementale en 2027 via la diversification des filières, montée en gamme et désaisonnalisation. L'agence mise sur une meilleure connaissance des clientèles françaises et internationales face aux aléas climatiques.",
-      "impact": "Demande accrue d'espaces hôteliers, bureaux de réception et locaux commerciaux touristiques en Var; intérêt pour les acquisitions en zones littorales et arrière-pays diversifiés.",
-      "date": "03/11/2026",
-      "url": "https://www.laprovence.com/article/economie/27875122717248/en-2027-var-tourisme-veut-consolider-son-attractivite-et-met-le-cap-sur-l-international",
+      "title": "Mailinblack : succession stratégique cybersécurité marseillaise",
+      "body": "Thomas Kerjean transmet la présidence de Mailinblack (leader cybersécurité PME) à Cassie Leroux après 7 ans. Cette transition stratégique inclut développement vente indirecte, intégration IA et ambitions européennes renforçant l'écosystème tech marseillais.",
+      "impact": "Potentiel d'expansion locaux activité Marseille pour Mailinblack ; cibler proximité clusters innovation Euroméditerranée.",
+      "date": "05/11/2026",
+      "url": "https://www.laprovence.com/article/economie/16262177089853/mailinblack-thomas-kerjean-passe-le-relais-a-cassie-leroux",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché Var",
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Forum emploi Grand Vitrolles : 500 postes et dynamique activité",
-      "body": "Grand Vitrolles a réuni 80 entreprises et organismes de formation proposant 500 emplois à pourvoir (3e édition du forum, 3 novembre). Ce secteur affiche une dynamique de recrutement reflétant la demande en locaux d'activité.",
-      "impact": "Signal positif pour l'absorption d'espaces bureaux et activité Vitrolles-Ouest PACA; conseiller les entreprises en expansion sur les opportunités locales de relocations.",
-      "date": "03/11/2026",
-      "url": "https://www.laprovence.com/article/economie/735165016974914/80-entreprises-et-organismes-de-formation-ont-propose-500-emplois-a-pourvoir-lors-du-forum-organise-par-grand-vitrolles",
-      "source": "La Provence",
+      "title": "Euribor 3M : 2.15% | OAT 10y : 3.70% | Financement crédit tertiaire stable",
+      "body": "Contexte de taux stables (Euribor 3M à 2.15%, OAT 3.70%) maintient attractivité financement crédit immobilier tertiaire PACA. Environnement prévisible favorise investisseurs en quête de rendement net.",
+      "impact": "Profiter fenêtre financement pour investisseurs SCPI/fonds tertiaires ; taux encore accessibles pour acquisitions multi-locaux PACA.",
+      "date": "05/11/2026",
+      "url": "https://www.laprovence.com/article/economie/",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "PACA Emploi",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }
@@ -80,11 +100,26 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Hausse géopolitique énergétique : prix carburant et impact économique",
-      "body": "Face à la flambée historique des prix du gazole depuis le conflit au Moyen-Orient (frappes US-Israël sur l'Iran), le gouvernement français libère 10 millions de barils stratégiques à prix coûtant (nov-janv). Une baisse de 15 centimes en moyenne est estimée par le ministre.",
-      "impact": "Volatilité énergétique impacte les coûts d'exploitation CRE; anticiper les clauses d'indexation énergétique dans les baux PACA et révisions tarifaires.",
+      "title": "France : contexte de fragilité économique généralisée affecte demande CRE",
+      "body": "Un Français sur deux peine à vivre dignement selon le nouveau Baromètre du pouvoir de vivre (Pacte/Fondation Jean-Jaurès). Cumul des fragilités (pouvoir d'achat, santé, logement, emploi, lien social) compresse la dynamique économique et la demande immobilière tertiaire.",
+      "impact": "Conjoncture 2026 difficile justifie stratégie acquéreurs défensive ; privilégier actifs résilients multi-locataires diversifiés.",
       "date": "04/11/2026",
-      "url": "https://www.laprovence.com/article/france-monde/16617707170558/prix-du-carburant-la-baisse-des-prix-du-gazole-atteint-15-centimes-en-moyenne-estime-le-ministre-de-leconomie",
+      "url": "https://www.laprovence.com/article/ecoplanete/12699075145246/un-francais-sur-deux-peine-a-vivre-dignement-ce-que-revele-le-premier-barometre-du-pouvoir-de-vivre",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Conjoncture",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Cyberattaque bancaire : 100M€ Crédit Mutuel Arkéa, risques systémiques",
+      "body": "Le parquet de Paris a ouvert enquête suite cyberattaque Crédit Mutuel Arkéa avec préjudice estimé 100 millions d'euros. Cet incident majeur souligne fragilités infrastructure financière et risques contagion pour secteur bancaire/crédit.",
+      "impact": "Vigilance sur stabilité financement crédit tertiaire ; diversifier auprès plusieurs établissements pour sécuriser montages acquisition PACA.",
+      "date": "05/11/2026",
+      "url": "https://www.laprovence.com/article/economie/55074404479586/cyberattaque-100-millions-deuros-derobes-au-credit-mutuel-arkea-par-des-hackers",
       "source": "La Provence",
       "tags": [
         {
@@ -94,31 +129,16 @@
       ]
     },
     {
-      "id": "m2",
-      "title": "Conjoncture France : dynamique emploi et tension sociale",
-      "body": "La conjoncture française affiche des signaux mitigés avec 500 postes à pourvoir en PACA (forum Grand Vitrolles) mais tensions sociales persistantes (grève SFR Aix, redressement Gifi). Contexte économique fragile face aux aléas climatiques et restructurations retail.",
-      "impact": "Contexte d'incertitude économique : préconiser une approche flexible des transactions et une attention aux risques tenant social dans les due diligence PACA.",
-      "date": "04/11/2026",
-      "url": "https://www.laprovence.com/article/economie/735165016974914/80-entreprises-et-organismes-de-formation-ont-propose-500-emplois-a-pourvoir-lors-du-forum-organise-par-grand-vitrolles",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Conjoncture",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
       "id": "m3",
-      "title": "Contexte taux et financement : données marchés stables",
-      "body": "Données marchés financiers stables : OAT 3.70%, Euribor 3M 2.15%, taux BCE 2.15%, inflation France 1.7%. Pas d'articles RSS spécifiques sur les taux tertiaires, mais environnement de financement immobilier demeure tendu.",
-      "impact": "Coûts de financement CRE inchangés en PACA ; conseil : valider les conditions prêts avant clôture transactions ; vigilance sur les révisions taux indexés Euribor.",
-      "date": "04/11/2026",
-      "url": "https://www.laprovence.com/article/economie/7886249573819914/mobilisation-du-5-novembre-le-president-de-la-cci-souhaite-quelle-est-lieu-hors-du-centre-ville-commercant-marseillais",
-      "source": "Données Marché",
+      "title": "BCE 2.15% | Inflation 1.7% | Politique monétaire accommodante maintenue",
+      "body": "Taux directeur BCE stable 2.15% avec inflation France à 1.7% offre soutien monétaire continu. OAT 10y à 3.70% reflète attentes BCE de trajectoire accommodante préservant accessibilité financement immobilier.",
+      "impact": "Environnement monétaire favorable pour investisseurs CRE PACA ; refinancement crédit avantageux ; perspective taux maintenus 2027.",
+      "date": "05/11/2026",
+      "url": "https://www.laprovence.com/article/economie/",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Taux OAT",
+          "label": "Taux",
           "cls": "tt"
         }
       ]

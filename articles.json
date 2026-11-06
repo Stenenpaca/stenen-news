@@ -1,98 +1,78 @@
 {
-  "generated_at": "05/11/2026",
+  "generated_at": "06/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Centres-villes PACA : -8% CA, impact direct sur locaux commerciaux",
-      "body": "Les dégradations d'octobre ont provoqué une chute de 8% du chiffre d'affaires des magasins en centre-ville selon l'Alliance du commerce. Cette contraction affecte directement la demande locative de petites surfaces commerciales en hyper-centre marseillais et aixois.",
-      "impact": "Renégociation à la baisse des baux commerciaux centre-villes PACA attendue ; privilégier offres périphériques ou en galeries sécurisées.",
-      "date": "05/11/2026",
-      "url": "https://www.laprovence.com/article/economie/170144081092214/moins-8-de-chiffre-d-affaires-les-centres-villes-francais-desertes-apres-les-manifestations-d-octobre",
+      "title": "Marseille accélère son positionnement tech avec Emerging Valley",
+      "body": "Marseille s'affirme comme porte d'entrée européenne de la tech africaine via le rendez-vous Invest & Connect. Cette dynamique attire investisseurs et start-up, structurant une offre immobilière tertiaire innovante en région.",
+      "impact": "Opportunités de locations bureaux/coworking premium et flex-spaces à Marseille auprès de structures tech et fonds d'investissement africains.",
+      "date": "04/11/2026",
+      "url": "https://www.laprovence.com/article/economie/8382117682575114/marseille-porte-dentree-europeenne-de-la-tech-africaine",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Marseille hub tech africaine : nouvelle demande de bureaux innovants",
-      "body": "Marseille se positionne comme porte d'entrée européenne de la tech africaine avec l'événement Invest & Connect réunissant start-up et investisseurs. Cette dynamique génère une demande croissante de locaux créatifs et espaces collaboratifs pour accueillir ces nouveaux acteurs.",
-      "impact": "Opportunité de placement de petits bureaux flexibles et locaux d'activité en Euroméditerranée ; cibler start-up africaines en phase d'expansion européenne.",
-      "date": "04/11/2026",
-      "url": "https://www.laprovence.com/article/economie/8771176088407214/marseille-porte-dentree-europeenne-de-la-tech-africaine",
+      "title": "Le Var déploie une stratégie immobilière événementielle en Île-de-France",
+      "body": "Var Tourisme investit 125 m² au cœur du Marais parisien du 19 au 29 novembre pour promouvoir savoir-faire locaux et productions régionales. Cette opération cible le premier bassin de clientèle française du département.",
+      "impact": "Renforcement des connexions commerciales PACA-IDF; opportunités de partenariats immobiliers et retail pour acteurs locaux en expansion nord.",
+      "date": "06/11/2026",
+      "url": "https://www.laprovence.com/article/economie/58609938266452/savoir-faire-productions-locales-le-var-installe-une-vitrine-de-son-art-de-vivre-au-coeur-du-marais-parisien",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Cadres : baisse pouvoir d'achat pèse sur demande tertiaire PACA",
-      "body": "L'Apec signale une dégradation salariale des cadres avec moins d'augmentations et recul de rémunération médiane. Cette compression du pouvoir d'achat réduit la demande de relocalisations et de restructurations de postes tertiaires en région.",
-      "impact": "Volumes de transactions bureaux PACA attendus en retrait ; valorisations en pression à la renégociation pour locataires existants.",
-      "date": "05/11/2026",
-      "url": "https://www.laprovence.com/article/economie/8771176088407214/salaires-les-cadres-soumis-a-une-baisse-acceleree-du-pouvoir-dachat",
+      "title": "Miramas: le village des marques recrute, signalant activité retail dynamique",
+      "body": "McArthurGlen Provence à Miramas a organisé un job dating avec 40 postes à pourvoir (CDD/CDI) et plus de 20 enseignes participantes. Ce taux d'activité commerciale reflète une stabilité locataire en région.",
+      "impact": "Signal positif pour les espaces commerciaux Miramas; stabilité de la demande tertiaire et flux clients confirmés par expansion RH retail.",
+      "date": "06/11/2026",
+      "url": "https://www.laprovence.com/article/economie/21787181028373/le-village-des-marques-a-miramas-fait-le-plein-de-candidats-pour-son-job-dating",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Mailinblack : succession stratégique cybersécurité marseillaise",
-      "body": "Thomas Kerjean transmet la présidence de Mailinblack (leader cybersécurité PME) à Cassie Leroux après 7 ans. Cette transition stratégique inclut développement vente indirecte, intégration IA et ambitions européennes renforçant l'écosystème tech marseillais.",
-      "impact": "Potentiel d'expansion locaux activité Marseille pour Mailinblack ; cibler proximité clusters innovation Euroméditerranée.",
-      "date": "05/11/2026",
-      "url": "https://www.laprovence.com/article/economie/16262177089853/mailinblack-thomas-kerjean-passe-le-relais-a-cassie-leroux",
+      "title": "La Ciotat: le Paci inaugure nouvelle agence d'aide aux entrepreneurs",
+      "body": "Le Réseau initiative Pays d'Aubagne La Ciotat a ouvert un bureau en zone Athélia IV pour renforcer soutien et visibilité auprès des entrepreneurs locaux. Cette implantation consolide l'offre d'accompagnement tertiaire ciotaden.",
+      "impact": "Validation de la zone Athélia IV comme pôle tertiaire/activité stratégique; opportunités de locations bureaux équipés pour structures accompagnées Paci.",
+      "date": "06/11/2026",
+      "url": "https://www.laprovence.com/article/economie/19480625605332/le-paci-reseau-local-de-soutien-aux-entrepreneurs-inaugure-une-nouvelle-agence-a-la-ciotat",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Euribor 3M : 2.15% | OAT 10y : 3.70% | Financement crédit tertiaire stable",
-      "body": "Contexte de taux stables (Euribor 3M à 2.15%, OAT 3.70%) maintient attractivité financement crédit immobilier tertiaire PACA. Environnement prévisible favorise investisseurs en quête de rendement net.",
-      "impact": "Profiter fenêtre financement pour investisseurs SCPI/fonds tertiaires ; taux encore accessibles pour acquisitions multi-locaux PACA.",
+      "title": "Centres-villes France: -8% CA retail post-manifestations octobre",
+      "body": "L'Alliance du commerce constate une chute de 8% du chiffre d'affaires des magasins centre-ville suite aux dégradations d'octobre. Cette baisse reflète une fragilité du commerce urbain post-crise sécuritaire.",
+      "impact": "Vigilance requise sur demande locative commerces centres-villes PACA; valorisation privilégiée des zones reshoppingées/sécurisées vs hypercentres fragiles.",
       "date": "05/11/2026",
-      "url": "https://www.laprovence.com/article/economie/",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/170144081092214/moins-8-de-chiffre-d-affaires-les-centres-villes-francais-desertes-apres-les-manifestations-d-octobre",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,26 +80,11 @@
   "macro": [
     {
       "id": "m1",
-      "title": "France : contexte de fragilité économique généralisée affecte demande CRE",
-      "body": "Un Français sur deux peine à vivre dignement selon le nouveau Baromètre du pouvoir de vivre (Pacte/Fondation Jean-Jaurès). Cumul des fragilités (pouvoir d'achat, santé, logement, emploi, lien social) compresse la dynamique économique et la demande immobilière tertiaire.",
-      "impact": "Conjoncture 2026 difficile justifie stratégie acquéreurs défensive ; privilégier actifs résilients multi-locataires diversifiés.",
-      "date": "04/11/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/12699075145246/un-francais-sur-deux-peine-a-vivre-dignement-ce-que-revele-le-premier-barometre-du-pouvoir-de-vivre",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Conjoncture",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Cyberattaque bancaire : 100M€ Crédit Mutuel Arkéa, risques systémiques",
-      "body": "Le parquet de Paris a ouvert enquête suite cyberattaque Crédit Mutuel Arkéa avec préjudice estimé 100 millions d'euros. Cet incident majeur souligne fragilités infrastructure financière et risques contagion pour secteur bancaire/crédit.",
-      "impact": "Vigilance sur stabilité financement crédit tertiaire ; diversifier auprès plusieurs établissements pour sécuriser montages acquisition PACA.",
-      "date": "05/11/2026",
-      "url": "https://www.laprovence.com/article/economie/55074404479586/cyberattaque-100-millions-deuros-derobes-au-credit-mutuel-arkea-par-des-hackers",
+      "title": "Grève remorqueurs: Marseille-Fos paralysé, impact logistique immédiat",
+      "body": "Tous les remorqueurs français sont en grève le 6 novembre 2026, immobilisant 8 bateaux au port Marseille-Fos. Cette action dénonce une offensive européenne contre la souveraineté portuaire et la sécurité navale.",
+      "impact": "Interruption des flux logistiques PACA-export; impacts sur coûts tertiaires/activité (chaînes d'approvisionnement) et immobilier d'entreprise dépendant du port.",
+      "date": "06/11/2026",
+      "url": "https://www.laprovence.com/article/economie/83766230799979/greve-des-remorqueurs-huit-bateaux-du-port-marseille-fos-immobilises",
       "source": "La Provence",
       "tags": [
         {
@@ -129,13 +94,28 @@
       ]
     },
     {
-      "id": "m3",
-      "title": "BCE 2.15% | Inflation 1.7% | Politique monétaire accommodante maintenue",
-      "body": "Taux directeur BCE stable 2.15% avec inflation France à 1.7% offre soutien monétaire continu. OAT 10y à 3.70% reflète attentes BCE de trajectoire accommodante préservant accessibilité financement immobilier.",
-      "impact": "Environnement monétaire favorable pour investisseurs CRE PACA ; refinancement crédit avantageux ; perspective taux maintenus 2027.",
+      "id": "m2",
+      "title": "Conférence sociale Matignon: enjeux salaires/pouvoir d'achat cadres",
+      "body": "S. Lecornu réunit lundi à Matignon syndicats et patronat suite à journée de grèves/manifestations sur pouvoir d'achat. Simultanément, l'Apec rapporte dégradation salariale cadres et baisse accélérée du pouvoir d'achat.",
+      "impact": "Tensions salariales attendues; impact sur coûts d'exploitation bureaux/activité PACA et négociations baux tertiaires en contexte inflationniste.",
       "date": "05/11/2026",
-      "url": "https://www.laprovence.com/article/economie/",
-      "source": "Données marché",
+      "url": "https://www.laprovence.com/article/economie/55074404479586/cyberattaque-100-millions-deuros-derobes-au-credit-mutuel-arkea-par-des-hackers",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Conjoncture",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Cyberattaque Crédit Mutuel Arkéa: 100M€ dérobés, tensions financières",
+      "body": "Le parquet de Paris enquête sur cyberattaque Crédit Mutuel Arkéa (100M€ de préjudice estimé). Cette incident majeur signale fragilité du système financier français face aux risques cyber.",
+      "impact": "Prudence accrue sur financement dossiers immobiliers; renforcement exigences bancaires PACA pour crédits tertiaire/activité auprès acteurs régionaux.",
+      "date": "05/11/2026",
+      "url": "https://www.laprovence.com/article/economie/55074404479586/cyberattaque-100-millions-deuros-derobes-au-credit-mutuel-arkea-par-des-hackers",
+      "source": "La Provence",
       "tags": [
         {
           "label": "Taux",

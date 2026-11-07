@@ -1,78 +1,98 @@
 {
-  "generated_at": "06/11/2026",
+  "generated_at": "07/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Marseille accélère son positionnement tech avec Emerging Valley",
-      "body": "Marseille s'affirme comme porte d'entrée européenne de la tech africaine via le rendez-vous Invest & Connect. Cette dynamique attire investisseurs et start-up, structurant une offre immobilière tertiaire innovante en région.",
-      "impact": "Opportunités de locations bureaux/coworking premium et flex-spaces à Marseille auprès de structures tech et fonds d'investissement africains.",
-      "date": "04/11/2026",
-      "url": "https://www.laprovence.com/article/economie/8382117682575114/marseille-porte-dentree-europeenne-de-la-tech-africaine",
+      "title": "Commerces Aix-en-Provence : saturation samedi, craintes jusqu'à la présidentielle",
+      "body": "Les commerçants et restaurateurs d'Aix connaissent des samedis \"morts\" depuis un mois en raison des manifestations, avec vitrines barricadées et baisse de fréquentation. La psychose gagne les groupes WhatsApp professionnels, les acteurs redoutant une prolongation de la crise sociale jusqu'à la présidentielle.",
+      "impact": "Valorisation locataire en baisse sur le commerce urbain aixois ; opportunité renégociation baux si impactabilité démontrée.",
+      "date": "06/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1038767556267714/depuis-un-mois-chaque-samedi-est-un-samedi-mort-le-blues-des-commercants-aixois-affectes-par-les-manifestations",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Le Var déploie une stratégie immobilière événementielle en Île-de-France",
-      "body": "Var Tourisme investit 125 m² au cœur du Marais parisien du 19 au 29 novembre pour promouvoir savoir-faire locaux et productions régionales. Cette opération cible le premier bassin de clientèle française du département.",
-      "impact": "Renforcement des connexions commerciales PACA-IDF; opportunités de partenariats immobiliers et retail pour acteurs locaux en expansion nord.",
-      "date": "06/11/2026",
-      "url": "https://www.laprovence.com/article/economie/58609938266452/savoir-faire-productions-locales-le-var-installe-une-vitrine-de-son-art-de-vivre-au-coeur-du-marais-parisien",
+      "title": "Pouvoir d'achat locataires : +70% inflation entre 2019-2026 à Aubagne",
+      "body": "Comparaison de tickets de caisse entre 2019 et 2026 dans les supermarchés d'Aubagne révèle une érosion majeure du pouvoir d'achat des résidents PACA. Cette dégradation affecte directement la solvabilité des entreprises occupant locaux commerciaux et d'activité.",
+      "impact": "Contraction risque de défaut locataire PME/TPE en zone commerciale ; exiger renforcement garanties et critères d'accès aux espaces activité.",
+      "date": "07/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1108646526178114/pouvoir-d-achat-on-a-compare-nos-tickets-de-caisse-de-2019-a-2026-dans-les-supermarches-d-aubagne",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Miramas: le village des marques recrute, signalant activité retail dynamique",
-      "body": "McArthurGlen Provence à Miramas a organisé un job dating avec 40 postes à pourvoir (CDD/CDI) et plus de 20 enseignes participantes. Ce taux d'activité commerciale reflète une stabilité locataire en région.",
-      "impact": "Signal positif pour les espaces commerciaux Miramas; stabilité de la demande tertiaire et flux clients confirmés par expansion RH retail.",
-      "date": "06/11/2026",
-      "url": "https://www.laprovence.com/article/economie/21787181028373/le-village-des-marques-a-miramas-fait-le-plein-de-candidats-pour-son-job-dating",
+      "title": "Relance industrielle PACA : logement salariés et production comme priorité",
+      "body": "Édouard Philippe détaille son plan pour relancer l'appareil productif en région, sécuriser l'énergie et surtout loger les salariés comme enjeu stratégique. La production retrouve légitimité politique, créant potentiel de demande immobilière tertiaire et locaux d'activité.",
+      "impact": "Anticipation hausse demande bureaux et locaux activité liée aux relocalisations ; positionner offre immobilière entreprise dès 2027.",
+      "date": "07/11/2026",
+      "url": "https://www.laprovence.com/article/economie/7811141855042/on-n-arrive-pas-a-remplir-les-magasins-la-banque-alimentaire-de-vaucluse-a-la-recherche-de-benevoles",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "La Ciotat: le Paci inaugure nouvelle agence d'aide aux entrepreneurs",
-      "body": "Le Réseau initiative Pays d'Aubagne La Ciotat a ouvert un bureau en zone Athélia IV pour renforcer soutien et visibilité auprès des entrepreneurs locaux. Cette implantation consolide l'offre d'accompagnement tertiaire ciotaden.",
-      "impact": "Validation de la zone Athélia IV comme pôle tertiaire/activité stratégique; opportunités de locations bureaux équipés pour structures accompagnées Paci.",
-      "date": "06/11/2026",
-      "url": "https://www.laprovence.com/article/economie/19480625605332/le-paci-reseau-local-de-soutien-aux-entrepreneurs-inaugure-une-nouvelle-agence-a-la-ciotat",
+      "title": "Montre horlogère marseillaise : success case PME PACA export militaire USA",
+      "body": "Jacques Bianchi Marseille produit 500 exemplaires de sa montre JB300 Professional dont 200 pour le programme militaire américain. Illustration du potentiel de l'industrie PACA en innovation et export haut de gamme.",
+      "impact": "Signale dynamique PME innovante marseillaise ; potentiel valorisation immobilier locaux activité artisanale/manufacture haut de gamme.",
+      "date": "07/11/2026",
+      "url": "https://www.laprovence.com/article/region/51569616772091/jb300-professional-une-montre-marseillaise-aux-poignets-de-militaires-americains",
       "source": "La Provence",
       "tags": [
         {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Industrie",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Centres-villes France: -8% CA retail post-manifestations octobre",
-      "body": "L'Alliance du commerce constate une chute de 8% du chiffre d'affaires des magasins centre-ville suite aux dégradations d'octobre. Cette baisse reflète une fragilité du commerce urbain post-crise sécuritaire.",
-      "impact": "Vigilance requise sur demande locative commerces centres-villes PACA; valorisation privilégiée des zones reshoppingées/sécurisées vs hypercentres fragiles.",
-      "date": "05/11/2026",
-      "url": "https://www.laprovence.com/article/economie/170144081092214/moins-8-de-chiffre-d-affaires-les-centres-villes-francais-desertes-apres-les-manifestations-d-octobre",
-      "source": "La Provence",
+      "title": "Financement immobilier : Euribor 3M à 2.15%, OAT 3.70%, taux BCE stable",
+      "body": "Contexte de taux d'intérêt stable avec Euribor 3M à 2.15% et OAT 10 ans à 3.70%, soutenant hypothèses de financement projet immobilier tertiaire PACA. Conditions de crédit demeurent restrictives mais prévisibles pour investisseurs CRE.",
+      "impact": "Valider ROI transactions bureaux/activité sur base taux crédit long terme 3.8-4.2% ; arbitrage achat vs location dépend rendement immobilier >5%.",
+      "date": "07/11/2026",
+      "url": "https://www.laprovence.com/article/economie/51686426093972/succession-de-christine-lagarde-a-la-bce-l-espagnol-pablo-hernandez-de-cos-et-le-neerlandais-klaas-knot-candidats",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Taux/Financement",
+          "cls": "tt"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }
@@ -80,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Grève remorqueurs: Marseille-Fos paralysé, impact logistique immédiat",
-      "body": "Tous les remorqueurs français sont en grève le 6 novembre 2026, immobilisant 8 bateaux au port Marseille-Fos. Cette action dénonce une offensive européenne contre la souveraineté portuaire et la sécurité navale.",
-      "impact": "Interruption des flux logistiques PACA-export; impacts sur coûts tertiaires/activité (chaînes d'approvisionnement) et immobilier d'entreprise dépendant du port.",
+      "title": "Succession BCE : inflation 1.7%, stabilité monétaire zone euro maintenue",
+      "body": "Désignation des candidats à la succession de Christine Lagarde (Hernandez de Cos/Klaas Knot) intervient sur fond d'inflation mesurée à 1.7% en France. Continuité de la politique monétaire BCEfavorise stabilité des conditions de financement long terme.",
+      "impact": "Confirmé : taux BCEmaintenu à 2.15% ; scénario haussier OAT peu probable avant T1 2027 ; fenêtre financement SCPI/fonds tertiaire favorable.",
       "date": "06/11/2026",
-      "url": "https://www.laprovence.com/article/economie/83766230799979/greve-des-remorqueurs-huit-bateaux-du-port-marseille-fos-immobilises",
+      "url": "https://www.laprovence.com/article/economie/51686426093972/succession-de-christine-lagarde-a-la-bce-l-espagnol-pablo-hernandez-de-cos-et-le-neerlandais-klaas-knot-candidats",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Géopolitique/Monnaie",
           "cls": "tg"
+        },
+        {
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Conférence sociale Matignon: enjeux salaires/pouvoir d'achat cadres",
-      "body": "S. Lecornu réunit lundi à Matignon syndicats et patronat suite à journée de grèves/manifestations sur pouvoir d'achat. Simultanément, l'Apec rapporte dégradation salariale cadres et baisse accélérée du pouvoir d'achat.",
-      "impact": "Tensions salariales attendues; impact sur coûts d'exploitation bureaux/activité PACA et négociations baux tertiaires en contexte inflationniste.",
-      "date": "05/11/2026",
-      "url": "https://www.laprovence.com/article/economie/55074404479586/cyberattaque-100-millions-deuros-derobes-au-credit-mutuel-arkea-par-des-hackers",
+      "title": "Conjoncture France : précarité croissante, retraite-dépendance structural",
+      "body": "Édouard Philippe lie réforme retraites à financement dépendance, face au mur démographique et précarisation croissante des ménages mesurée par baisse pouvoir d'achat continue. Rigueur budgétaire anticyclique attendue jusqu'à présidentielle.",
+      "impact": "Environnement macroéconomique dégradé : contraction consommation prévisible 2027 ; impact locatif commerce confirmé ; bureaux relocalisations reste levier offset.",
+      "date": "06/11/2026",
+      "url": "https://www.laprovence.com/article/economie/84243890731074/aucune-hypothese-ou-on-finance-la-dependance-sans-regler-les-retraites-edouard-philippe-face-aux-lecteurs-de-la-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Conjoncture France",
           "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Cyberattaque Crédit Mutuel Arkéa: 100M€ dérobés, tensions financières",
-      "body": "Le parquet de Paris enquête sur cyberattaque Crédit Mutuel Arkéa (100M€ de préjudice estimé). Cette incident majeur signale fragilité du système financier français face aux risques cyber.",
-      "impact": "Prudence accrue sur financement dossiers immobiliers; renforcement exigences bancaires PACA pour crédits tertiaire/activité auprès acteurs régionaux.",
-      "date": "05/11/2026",
-      "url": "https://www.laprovence.com/article/economie/55074404479586/cyberattaque-100-millions-deuros-derobes-au-credit-mutuel-arkea-par-des-hackers",
-      "source": "La Provence",
+      "title": "Énergie/Brent : 96 USD/baril, impact marginal inflation PACA court terme",
+      "body": "Brent coté 96 USD/baril stable ; préoccupations géopolitiques moyen-orient contenues. Secteur immobilier tertiaire PACA peu sensible direct (électricité 40% parc tertiaire), mais coûts exploitation activité affectés.",
+      "impact": "Brent stable favorable ; décret tertiaire (RE2020 énergétique) demeure driver renovation obligatoire bureaux/locaux activité ; opportunité retrofit énergétique till 2030.",
+      "date": "07/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1047242416587114/a-la-sortie-des-supermarches-d-aubagne-la-baisse-du-pouvoir-d-achat-pese-lourd-sur-le-moral",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Géopolitique/Énergie",
+          "cls": "tg"
+        },
+        {
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     }

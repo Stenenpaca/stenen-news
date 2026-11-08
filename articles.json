@@ -1,13 +1,85 @@
 {
-  "generated_at": "07/11/2026",
+  "generated_at": "08/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Commerces Aix-en-Provence : saturation samedi, craintes jusqu'à la présidentielle",
-      "body": "Les commerçants et restaurateurs d'Aix connaissent des samedis \"morts\" depuis un mois en raison des manifestations, avec vitrines barricadées et baisse de fréquentation. La psychose gagne les groupes WhatsApp professionnels, les acteurs redoutant une prolongation de la crise sociale jusqu'à la présidentielle.",
-      "impact": "Valorisation locataire en baisse sur le commerce urbain aixois ; opportunité renégociation baux si impactabilité démontrée.",
-      "date": "06/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1038767556267714/depuis-un-mois-chaque-samedi-est-un-samedi-mort-le-blues-des-commercants-aixois-affectes-par-les-manifestations",
+      "title": "Électricité stable jusqu'au 1er février 2027 pour les entreprises",
+      "body": "EDF confirme la stabilité des tarifs réglementés d'électricité au moins jusqu'au 1er février 2027, après la baisse de 15% de février 2025. Cette accalmie tarifaire intervient après deux années de hausses successives en 2023-2024.",
+      "impact": "Sécurisation des charges d'exploitation pour les locataires de bureaux et locaux d'activité en PACA jusqu'à début 2027 ; opportunité de négociation sur les baux avec révision énergétique au 1er février.",
+      "date": "07/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1773651173785214/electricite-des-prix-stables-jusquau-1er-fevrier-au-moins-pour-les-particuliers-annonce-edf",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Charges",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Marseille hub méditerranéen de l'IA : attractivité immobilière",
+      "body": "La 3e édition du Forum méditerranéen de l'IA s'est tenue au Palais du Pharo, rassemblant chercheurs, entrepreneurs et décideurs autour d'une ambition commune : bâtir une IA adaptée aux réalités méditerranéennes. Cette dynamique positionne Marseille comme pôle d'innovation stratégique.",
+      "impact": "Hausse attendue de la demande immobilière tertiaire/R&D à Marseille pour accueillir les entreprises tech et startups IA ; opportunité de positionnement premium sur les quartiers innovants.",
+      "date": "07/11/2026",
+      "url": "https://www.laprovence.com/article/economie/37731660283826/a-marseille-les-deux-rives-de-la-mediterranee-veulent-tracer-leur-propre-voie-dans-l-intelligence-artificielle",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché tertiaire",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Éco-Campus Provence : formation et attractivité locale",
+      "body": "L'Éco-Campus Provence de Sainte-Tulle accueille le 17 novembre 2026 la 3e édition de la Nuit de l'orientation (9h30-19h), événement gratuit organisé par la CCI pour faire découvrir métiers et formations. Cette initiative soutient l'employabilité et l'attractivité des territoires des Alpes-de-Haute-Provence.",
+      "impact": "Renforcement de l'offre de main-d'œuvre qualifiée en PACA ; pertinent pour les loueurs de locaux d'activité et formation en zones secondaires.",
+      "date": "08/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1714093377222414/la-nuit-de-lorientation-ouvre-le-champ-des-possibles-a-leco-campus-provence-de-sainte-tulle",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Marseille : manufacture horlogère JB300 crée de l'emploi qualifié",
+      "body": "La marque horlogère marseillaise Jacques Bianchi lance la JB300 Professional en 500 exemplaires, dont 200 pour le Unit Watch Program américain. Ce succès export consolide l'activité de manufacture et l'emploi dans le secteur artisanal-industriel marseillais.",
+      "impact": "Dynamique positive pour les locaux d'activité artisanale/manufacture à Marseille ; potentiel de croissance pour les PME exportatrices cherchant espaces de production.",
+      "date": "07/11/2026",
+      "url": "https://www.laprovence.com/article/region/51569616772091/jb300-professional-une-montre-marseillaise-aux-poignets-de-militaires-americains",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Pouvoir d'achat en baisse : impact sur la consommation PACA",
+      "body": "Comparaison des tickets de caisse 2019-2026 dans les supermarchés d'Aubagne révèle une inflation significative sur 7 ans, affectant le pouvoir d'achat des ménages. Cette érosion impacte directement la vitalité commerciale et la demande locative de petite surface.",
+      "impact": "Pression à la baisse sur les loyers de commerce et petits locaux en PACA ; renégociation attendue des baux commerciaux 2027 à la faveur des locataires.",
+      "date": "07/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1108646526178114/pouvoir-dachat-on-a-compare-nos-tickets-de-caisse-de-2019-a-2026-dans-les-supermarches-d-aubagne",
       "source": "La Provence",
       "tags": [
         {
@@ -19,71 +91,46 @@
           "cls": "tm"
         }
       ]
-    },
+    }
+  ],
+  "macro": [
     {
-      "id": "f2",
-      "title": "Pouvoir d'achat locataires : +70% inflation entre 2019-2026 à Aubagne",
-      "body": "Comparaison de tickets de caisse entre 2019 et 2026 dans les supermarchés d'Aubagne révèle une érosion majeure du pouvoir d'achat des résidents PACA. Cette dégradation affecte directement la solvabilité des entreprises occupant locaux commerciaux et d'activité.",
-      "impact": "Contraction risque de défaut locataire PME/TPE en zone commerciale ; exiger renforcement garanties et critères d'accès aux espaces activité.",
+      "id": "m1",
+      "title": "Relance industrielle : plan Philippe croise défis énergétiques",
+      "body": "Édouard Philippe détaille son programme de relance de l'appareil productif français, articulé autour de la production, la sécurité énergétique et le logement des salariés. Cette vision structurelle répond à l'urgence de rindustrialisation face à la désindustrialisation décennale.",
+      "impact": "Orientation macro favorable à l'immobilier d'activité et bureaux en PACA si relance décidée ; attendre clarifications budgétaires et calendrier de mise en œuvre.",
       "date": "07/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1108646526178114/pouvoir-d-achat-on-a-compare-nos-tickets-de-caisse-de-2019-a-2026-dans-les-supermarches-d-aubagne",
+      "url": "https://www.laprovence.com/article/economie/1517730681164214/ce-n-est-pas-un-gros-mot-de-produire-le-plan-du-candidat-philippe-pour-relancer-l-industrie",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     },
     {
-      "id": "f3",
-      "title": "Relance industrielle PACA : logement salariés et production comme priorité",
-      "body": "Édouard Philippe détaille son plan pour relancer l'appareil productif en région, sécuriser l'énergie et surtout loger les salariés comme enjeu stratégique. La production retrouve légitimité politique, créant potentiel de demande immobilière tertiaire et locaux d'activité.",
-      "impact": "Anticipation hausse demande bureaux et locaux activité liée aux relocalisations ; positionner offre immobilière entreprise dès 2027.",
-      "date": "07/11/2026",
-      "url": "https://www.laprovence.com/article/economie/7811141855042/on-n-arrive-pas-a-remplir-les-magasins-la-banque-alimentaire-de-vaucluse-a-la-recherche-de-benevoles",
+      "id": "m2",
+      "title": "Dépendance et retraites : arbitrage macro-budgétaire structurel",
+      "body": "Édouard Philippe lie indissociablement le financement de la dépendance (grand âge) à la rigueur retraitaire, refusant l'interventionnisme étatique sur le Smic. Cet arbitrage reflète la tension entre soutenabilité budgétaire et risque de contraction du pouvoir d'achat des actifs.",
+      "impact": "Risque de contraction de la demande de bureaux/activité si mesures déflationnistes appliquées ; surveiller annonces budgétaires 2027 pour ajuster projection immobilière.",
+      "date": "06/11/2026",
+      "url": "https://www.laprovence.com/article/economie/84243890731074/aucune-hypothese-ou-on-finance-la-dependance-sans-regler-les-retraites-edouard-philippe-face-aux-lecteurs-de-la-provence",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Géopolitique/Macro",
+          "cls": "tg"
         }
       ]
     },
     {
-      "id": "f4",
-      "title": "Montre horlogère marseillaise : success case PME PACA export militaire USA",
-      "body": "Jacques Bianchi Marseille produit 500 exemplaires de sa montre JB300 Professional dont 200 pour le programme militaire américain. Illustration du potentiel de l'industrie PACA en innovation et export haut de gamme.",
-      "impact": "Signale dynamique PME innovante marseillaise ; potentiel valorisation immobilier locaux activité artisanale/manufacture haut de gamme.",
-      "date": "07/11/2026",
-      "url": "https://www.laprovence.com/article/region/51569616772091/jb300-professional-une-montre-marseillaise-aux-poignets-de-militaires-americains",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Industrie",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Financement immobilier : Euribor 3M à 2.15%, OAT 3.70%, taux BCE stable",
-      "body": "Contexte de taux d'intérêt stable avec Euribor 3M à 2.15% et OAT 10 ans à 3.70%, soutenant hypothèses de financement projet immobilier tertiaire PACA. Conditions de crédit demeurent restrictives mais prévisibles pour investisseurs CRE.",
-      "impact": "Valider ROI transactions bureaux/activité sur base taux crédit long terme 3.8-4.2% ; arbitrage achat vs location dépend rendement immobilier >5%.",
-      "date": "07/11/2026",
-      "url": "https://www.laprovence.com/article/economie/51686426093972/succession-de-christine-lagarde-a-la-bce-l-espagnol-pablo-hernandez-de-cos-et-le-neerlandais-klaas-knot-candidats",
+      "id": "m3",
+      "title": "Brent 96 $/bl, OAT 3.70%, Euribor 2.15% : conditions de financement stables",
+      "body": "Le marché énergétique demeure stable autour de 96 $/bl Brent, tandis que les obligations françaises se maintiennent à 3.70% et l'Euribor 3M à 2.15%. Ces niveaux reflètent une normalisation post-crise avec BCE à 2.15% et inflation française modérée à 1.7%.",
+      "impact": "Conditions de financement immobilier CRE stable et favorable en PACA ; maintien des taux d'emprunt autour de 3.8-4.2% pour crédits bureaux/activité 2027.",
+      "date": "08/11/2026",
+      "url": "https://www.laprovence.com/article/economie/marche-financier",
       "source": "Données marché",
       "tags": [
         {
@@ -91,67 +138,8 @@
           "cls": "tt"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "id": "m1",
-      "title": "Succession BCE : inflation 1.7%, stabilité monétaire zone euro maintenue",
-      "body": "Désignation des candidats à la succession de Christine Lagarde (Hernandez de Cos/Klaas Knot) intervient sur fond d'inflation mesurée à 1.7% en France. Continuité de la politique monétaire BCEfavorise stabilité des conditions de financement long terme.",
-      "impact": "Confirmé : taux BCEmaintenu à 2.15% ; scénario haussier OAT peu probable avant T1 2027 ; fenêtre financement SCPI/fonds tertiaire favorable.",
-      "date": "06/11/2026",
-      "url": "https://www.laprovence.com/article/economie/51686426093972/succession-de-christine-lagarde-a-la-bce-l-espagnol-pablo-hernandez-de-cos-et-le-neerlandais-klaas-knot-candidats",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Géopolitique/Monnaie",
+          "label": "Énergie",
           "cls": "tg"
-        },
-        {
-          "label": "Taux",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Conjoncture France : précarité croissante, retraite-dépendance structural",
-      "body": "Édouard Philippe lie réforme retraites à financement dépendance, face au mur démographique et précarisation croissante des ménages mesurée par baisse pouvoir d'achat continue. Rigueur budgétaire anticyclique attendue jusqu'à présidentielle.",
-      "impact": "Environnement macroéconomique dégradé : contraction consommation prévisible 2027 ; impact locatif commerce confirmé ; bureaux relocalisations reste levier offset.",
-      "date": "06/11/2026",
-      "url": "https://www.laprovence.com/article/economie/84243890731074/aucune-hypothese-ou-on-finance-la-dependance-sans-regler-les-retraites-edouard-philippe-face-aux-lecteurs-de-la-provence",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Conjoncture France",
-          "cls": "tg"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "m3",
-      "title": "Énergie/Brent : 96 USD/baril, impact marginal inflation PACA court terme",
-      "body": "Brent coté 96 USD/baril stable ; préoccupations géopolitiques moyen-orient contenues. Secteur immobilier tertiaire PACA peu sensible direct (électricité 40% parc tertiaire), mais coûts exploitation activité affectés.",
-      "impact": "Brent stable favorable ; décret tertiaire (RE2020 énergétique) demeure driver renovation obligatoire bureaux/locaux activité ; opportunité retrofit énergétique till 2030.",
-      "date": "07/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1047242416587114/a-la-sortie-des-supermarches-d-aubagne-la-baisse-du-pouvoir-d-achat-pese-lourd-sur-le-moral",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Géopolitique/Énergie",
-          "cls": "tg"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
         }
       ]
     }

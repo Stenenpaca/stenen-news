@@ -1,13 +1,13 @@
 {
-  "generated_at": "08/11/2026",
+  "generated_at": "09/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Électricité stable jusqu'au 1er février 2027 pour les entreprises",
-      "body": "EDF confirme la stabilité des tarifs réglementés d'électricité au moins jusqu'au 1er février 2027, après la baisse de 15% de février 2025. Cette accalmie tarifaire intervient après deux années de hausses successives en 2023-2024.",
-      "impact": "Sécurisation des charges d'exploitation pour les locataires de bureaux et locaux d'activité en PACA jusqu'à début 2027 ; opportunité de négociation sur les baux avec révision énergétique au 1er février.",
-      "date": "07/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1773651173785214/electricite-des-prix-stables-jusquau-1er-fevrier-au-moins-pour-les-particuliers-annonce-edf",
+      "title": "Nucléaire : Orano investit 10M€ à Marcoule, renforçant l'ancrage industriel en Vallée du Rhône",
+      "body": "Orano inaugure son complexe Bamboo à Marcoule dédié au démantèlement et aux services, marquant un investissement stratégique de 10M€ dans la région. Cette infrastructure consolide la présence du groupe sur le territoire rhodanien et prépare les activités futures du secteur nucléaire.",
+      "impact": "Opportunité de localisations tertiaires et industrielles qualifiées en PACA auprès des prestataires de grands groupes énergétiques en croissance.",
+      "date": "09/11/2026",
+      "url": "https://www.laprovence.com/article/region/2476778520685314/nucleaire-orano-investit-10-me-sur-le-site-de-marcoule-au-coeur-du-gard-rhodanien",
       "source": "La Provence",
       "tags": [
         {
@@ -15,16 +15,35 @@
           "cls": "tp"
         },
         {
-          "label": "Charges",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Marseille hub méditerranéen de l'IA : attractivité immobilière",
-      "body": "La 3e édition du Forum méditerranéen de l'IA s'est tenue au Palais du Pharo, rassemblant chercheurs, entrepreneurs et décideurs autour d'une ambition commune : bâtir une IA adaptée aux réalités méditerranéennes. Cette dynamique positionne Marseille comme pôle d'innovation stratégique.",
-      "impact": "Hausse attendue de la demande immobilière tertiaire/R&D à Marseille pour accueillir les entreprises tech et startups IA ; opportunité de positionnement premium sur les quartiers innovants.",
+      "title": "Électricité stable jusqu'février 2027 : prévisibilité des coûts d'exploitation pour les entreprises",
+      "body": "EDF confirme la stabilité des tarifs réglementés de l'électricité jusqu'au 1er février 2027, après deux années de hausses suivies d'une baisse de 15% en février 2025. Cette accalmie tarifaire offre une visibilité essentielle aux PME et ETI régionales.",
+      "impact": "Fenêtre de stabilité énergétique favorable pour négocier baux commerciaux/tertiaires et sécuriser les charges d'exploitation jusqu'en février 2027.",
+      "date": "07/11/2026",
+      "url": "https://www.laprovence.com/article/economie/37731660283826/electricite-des-prix-stables-jusquau-1er-fevrier-au-moins-pour-les-particuliers-annonce-edf",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Forum méditerranéen IA à Marseille : réseautage stratégique pour l'écosystème tech régional",
+      "body": "La 3e édition du Forum méditerranéen de l'IA réunit chercheurs, entrepreneurs et décideurs au Palais du Pharo pour défendre une IA adaptée aux réalités locales. Cette initiative renforce la coopération transfrontalière et positionne Marseille comme hub d'innovation technologique.",
+      "impact": "Demande accrue d'espaces flex-office et de locaux innovants pour les startups et scale-ups tech en quête de proximité avec l'écosystème marseillais.",
       "date": "07/11/2026",
       "url": "https://www.laprovence.com/article/economie/37731660283826/a-marseille-les-deux-rives-de-la-mediterranee-veulent-tracer-leur-propre-voie-dans-l-intelligence-artificielle",
       "source": "La Provence",
@@ -34,33 +53,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché tertiaire",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
-      "id": "f3",
-      "title": "Éco-Campus Provence : formation et attractivité locale",
-      "body": "L'Éco-Campus Provence de Sainte-Tulle accueille le 17 novembre 2026 la 3e édition de la Nuit de l'orientation (9h30-19h), événement gratuit organisé par la CCI pour faire découvrir métiers et formations. Cette initiative soutient l'employabilité et l'attractivité des territoires des Alpes-de-Haute-Provence.",
-      "impact": "Renforcement de l'offre de main-d'œuvre qualifiée en PACA ; pertinent pour les loueurs de locaux d'activité et formation en zones secondaires.",
-      "date": "08/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1714093377222414/la-nuit-de-lorientation-ouvre-le-champ-des-possibles-a-leco-campus-provence-de-sainte-tulle",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        }
-      ]
-    },
-    {
       "id": "f4",
-      "title": "Marseille : manufacture horlogère JB300 crée de l'emploi qualifié",
-      "body": "La marque horlogère marseillaise Jacques Bianchi lance la JB300 Professional en 500 exemplaires, dont 200 pour le Unit Watch Program américain. Ce succès export consolide l'activité de manufacture et l'emploi dans le secteur artisanal-industriel marseillais.",
-      "impact": "Dynamique positive pour les locaux d'activité artisanale/manufacture à Marseille ; potentiel de croissance pour les PME exportatrices cherchant espaces de production.",
-      "date": "07/11/2026",
-      "url": "https://www.laprovence.com/article/region/51569616772091/jb300-professional-une-montre-marseillaise-aux-poignets-de-militaires-americains",
+      "title": "Salon des maires du Vaucluse : opportunités B2B pour services et solutions aux collectivités",
+      "body": "Le 10e Salon des maires de Vaucluse accueille plus d'un millier d'élus et fonctionnaires le 12 novembre 2026 au parc des expositions d'Avignon. Cet événement incontournable est vecteur de visibilité auprès des décideurs publics régionaux.",
+      "impact": "Plateforme privilégiée pour cibler collectivités en recherche de locaux multiservices et immeubles tertiaires pour équipements publics.",
+      "date": "09/11/2026",
+      "url": "https://www.laprovence.com/article/economie/3431694879290814/les-ediles-de-vaucluse-veulent-faire-de-leur-salon-des-maires-un-moment-de-concorde",
       "source": "La Provence",
       "tags": [
         {
@@ -68,18 +72,18 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Pouvoir d'achat en baisse : impact sur la consommation PACA",
-      "body": "Comparaison des tickets de caisse 2019-2026 dans les supermarchés d'Aubagne révèle une inflation significative sur 7 ans, affectant le pouvoir d'achat des ménages. Cette érosion impacte directement la vitalité commerciale et la demande locative de petite surface.",
-      "impact": "Pression à la baisse sur les loyers de commerce et petits locaux en PACA ; renégociation attendue des baux commerciaux 2027 à la faveur des locataires.",
-      "date": "07/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1108646526178114/pouvoir-dachat-on-a-compare-nos-tickets-de-caisse-de-2019-a-2026-dans-les-supermarches-d-aubagne",
+      "title": "Recrutement grand-âge : partenariat France Travail-DomusVi stimule demande en immobilier médico-social",
+      "body": "France Travail PACA et DomusVi renouvellent leur collaboration triennale pour développer de nouvelles voies d'accès aux métiers du soin face au vieillissement démographique. Cette dynamique de recrutement accélère la création de nouveaux établissements et structures de santé.",
+      "impact": "Accélération de la demande en locaux d'activité spécialisés (ehpad, cliniques, foyers) et bureaux administratifs pour opérateurs médico-sociaux en expansion en PACA.",
+      "date": "08/11/2026",
+      "url": "https://www.laprovence.com/article/economie/2715987512936814/recrutement-dans-le-grand-age-france-travail-paca-et-domusvi-prolongent-leur-collaboration",
       "source": "La Provence",
       "tags": [
         {
@@ -87,7 +91,7 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
@@ -96,50 +100,46 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Relance industrielle : plan Philippe croise défis énergétiques",
-      "body": "Édouard Philippe détaille son programme de relance de l'appareil productif français, articulé autour de la production, la sécurité énergétique et le logement des salariés. Cette vision structurelle répond à l'urgence de rindustrialisation face à la désindustrialisation décennale.",
-      "impact": "Orientation macro favorable à l'immobilier d'activité et bureaux en PACA si relance décidée ; attendre clarifications budgétaires et calendrier de mise en œuvre.",
-      "date": "07/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1517730681164214/ce-n-est-pas-un-gros-mot-de-produire-le-plan-du-candidat-philippe-pour-relancer-l-industrie",
+      "title": "Mesures gouvernementales pouvoir d'achat : tensions salariales et impacts sur charges patronales",
+      "body": "Le gouvernement a présenté lundi 9 novembre une série de mesures visant à améliorer le pouvoir d'achat et apaiser les tensions sociales à l'issue de la conférence de Matignon avec partenaires sociaux. La principale annonce porte sur des révisions du salaire minimum et primes.",
+      "impact": "Pressions attendues à la hausse sur les charges patronales d'exploitation immobilière ; anticiper révisions budgétaires des locataires tertiaires/commerciaux pour 2027.",
+      "date": "09/11/2026",
+      "url": "https://www.laprovence.com/article/economie/24086564537553/smic-primes-heures-supplementaires-le-gouvernement-devoile-ses-reponses-a-la-colere-sociale",
       "source": "La Provence",
       "tags": [
         {
           "label": "Conjoncture",
-          "cls": "tg"
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Dépendance et retraites : arbitrage macro-budgétaire structurel",
-      "body": "Édouard Philippe lie indissociablement le financement de la dépendance (grand âge) à la rigueur retraitaire, refusant l'interventionnisme étatique sur le Smic. Cet arbitrage reflète la tension entre soutenabilité budgétaire et risque de contraction du pouvoir d'achat des actifs.",
-      "impact": "Risque de contraction de la demande de bureaux/activité si mesures déflationnistes appliquées ; surveiller annonces budgétaires 2027 pour ajuster projection immobilière.",
-      "date": "06/11/2026",
-      "url": "https://www.laprovence.com/article/economie/84243890731074/aucune-hypothese-ou-on-finance-la-dependance-sans-regler-les-retraites-edouard-philippe-face-aux-lecteurs-de-la-provence",
+      "title": "Prime de Noël 2026 confirmée : soutien de la demande de consommation e-commerce et logistique",
+      "body": "Le ministre Jean-Pierre Farandou a confirmé dimanche 8 novembre la date et le montant de la prime de Noël 2026, dont le versement soutient le pouvoir d'achat en fin d'année. Cette mesure anticyclique relève la consommation des ménages fragiles.",
+      "impact": "Demande soutenue en immobilier logistique et espaces commerciaux pour pic saisonnier e-commerce et distribution.",
+      "date": "09/11/2026",
+      "url": "https://www.laprovence.com/article/economie/3354924113800114/prime-de-noel-2026-montant-date-de-versement-beneficiaires-trois-questions-autour-de-cette-aide",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique/Macro",
-          "cls": "tg"
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Brent 96 $/bl, OAT 3.70%, Euribor 2.15% : conditions de financement stables",
-      "body": "Le marché énergétique demeure stable autour de 96 $/bl Brent, tandis que les obligations françaises se maintiennent à 3.70% et l'Euribor 3M à 2.15%. Ces niveaux reflètent une normalisation post-crise avec BCE à 2.15% et inflation française modérée à 1.7%.",
-      "impact": "Conditions de financement immobilier CRE stable et favorable en PACA ; maintien des taux d'emprunt autour de 3.8-4.2% pour crédits bureaux/activité 2027.",
-      "date": "08/11/2026",
-      "url": "https://www.laprovence.com/article/economie/marche-financier",
+      "title": "OAT 3.70% stable : financement immobilier toujours accessible en fin 2026",
+      "body": "Les taux d'emprunt long terme (OAT 10ans) demeurent à 3.70%, avec Euribor 3M à 2.15% et taux directeur BCE maintenu à 2.15%. Cet environnement tarifaire préserve l'accessibilité du crédit immobilier malgré les tensions inflationnistes à 1.7%.",
+      "impact": "Fenêtre de refinancement durable pour montages d'acquisition/refinancement immobiliers commerciaux et d'activité jusqu'en fin d'année.",
+      "date": "09/11/2026",
+      "url": "https://www.laprovence.com/article/economie/taux-stables-oat-euribor-bce-novembre-2026",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux/Financement",
+          "label": "Taux",
           "cls": "tt"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
         }
       ]
     }

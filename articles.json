@@ -1,98 +1,98 @@
 {
-  "generated_at": "09/11/2026",
+  "generated_at": "10/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Nucléaire : Orano investit 10M€ à Marcoule, renforçant l'ancrage industriel en Vallée du Rhône",
-      "body": "Orano inaugure son complexe Bamboo à Marcoule dédié au démantèlement et aux services, marquant un investissement stratégique de 10M€ dans la région. Cette infrastructure consolide la présence du groupe sur le territoire rhodanien et prépare les activités futures du secteur nucléaire.",
-      "impact": "Opportunité de localisations tertiaires et industrielles qualifiées en PACA auprès des prestataires de grands groupes énergétiques en croissance.",
-      "date": "09/11/2026",
-      "url": "https://www.laprovence.com/article/region/2476778520685314/nucleaire-orano-investit-10-me-sur-le-site-de-marcoule-au-coeur-du-gard-rhodanien",
+      "title": "Croissance France 2026 : révision à 0,3% pèse sur l'immobilier tertiaire",
+      "body": "Emmanuel Moulin, gouverneur de la Banque de France, révise à la baisse les prévisions de croissance pour 2026 à 0,3% contre 0,4% anticipé. Cette contraction économique réduit la demande de nouveaux espaces de bureaux et d'activité en région PACA.",
+      "impact": "Anticiper une baisse de l'absorption tertiaire en PACA et réduire les valorisations sur les actifs bureaux/activité dans les 12 prochains mois.",
+      "date": "10/11/2026",
+      "url": "https://www.laprovence.com/article/economie/4167897819224414/france-la-croissance-du-pib-en-2026-attendue-autour-de-0-3-plutot-que-0-4-dit-emmanuel-moulin",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Conjoncture",
+          "cls": "tm"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Électricité stable jusqu'février 2027 : prévisibilité des coûts d'exploitation pour les entreprises",
-      "body": "EDF confirme la stabilité des tarifs réglementés de l'électricité jusqu'au 1er février 2027, après deux années de hausses suivies d'une baisse de 15% en février 2025. Cette accalmie tarifaire offre une visibilité essentielle aux PME et ETI régionales.",
-      "impact": "Fenêtre de stabilité énergétique favorable pour négocier baux commerciaux/tertiaires et sécuriser les charges d'exploitation jusqu'en février 2027.",
-      "date": "07/11/2026",
-      "url": "https://www.laprovence.com/article/economie/37731660283826/electricite-des-prix-stables-jusquau-1er-fevrier-au-moins-pour-les-particuliers-annonce-edf",
+      "title": "Chômage en hausse annuelle : tension accrue sur le marché tertiaire PACA",
+      "body": "L'INSEE signale 2,6 millions de chômeurs avec une augmentation annuelle de 0,4 point malgré une légère baisse trimestrielle. Cette dégradation du marché du travail diminue la capacité des entreprises à recruter et renouveler leurs espaces.",
+      "impact": "Réajuster les stratégies de déploiement bureaux/activité en PACA face au ralentissement de la croissance des effectifs et de la demande d'espace tertiaire.",
+      "date": "10/11/2026",
+      "url": "https://www.laprovence.com/article/economie/4122196920196814/2-6-millions-de-chomeurs-linsee-alerte-sur-une-degradation-annuelle-malgre-une-legere-baisse-trimestrielle",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Marché travail",
+          "cls": "tm"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Forum méditerranéen IA à Marseille : réseautage stratégique pour l'écosystème tech régional",
-      "body": "La 3e édition du Forum méditerranéen de l'IA réunit chercheurs, entrepreneurs et décideurs au Palais du Pharo pour défendre une IA adaptée aux réalités locales. Cette initiative renforce la coopération transfrontalière et positionne Marseille comme hub d'innovation technologique.",
-      "impact": "Demande accrue d'espaces flex-office et de locaux innovants pour les startups et scale-ups tech en quête de proximité avec l'écosystème marseillais.",
-      "date": "07/11/2026",
-      "url": "https://www.laprovence.com/article/economie/37731660283826/a-marseille-les-deux-rives-de-la-mediterranee-veulent-tracer-leur-propre-voie-dans-l-intelligence-artificielle",
+      "title": "Décret SMIC : impact sur les charges locataires branches en PACA",
+      "body": "Un décret publié le 10 novembre réduit les allègements de cotisations patronales en les calculant sur les minima conventionnels au lieu du SMIC pour les branches déficitaires. Cette hausse de charges affecte les locataires d'activité et commerce des secteurs concernés en région PACA.",
+      "impact": "Valoriser cette hausse de charges dans les négociations de loyers activité/commerce PACA et proposer des baux flexibles aux locataires des branches impactées.",
+      "date": "10/11/2026",
+      "url": "https://www.laprovence.com/article/politique/68321026977172/minima-sous-le-smic-un-decret-pour-sanctionner-les-branches-la-cgt-denonce-des-sanctions-tres-lentes",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Réglementation",
+          "cls": "tr"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Salon des maires du Vaucluse : opportunités B2B pour services et solutions aux collectivités",
-      "body": "Le 10e Salon des maires de Vaucluse accueille plus d'un millier d'élus et fonctionnaires le 12 novembre 2026 au parc des expositions d'Avignon. Cet événement incontournable est vecteur de visibilité auprès des décideurs publics régionaux.",
-      "impact": "Plateforme privilégiée pour cibler collectivités en recherche de locaux multiservices et immeubles tertiaires pour équipements publics.",
-      "date": "09/11/2026",
-      "url": "https://www.laprovence.com/article/economie/3431694879290814/les-ediles-de-vaucluse-veulent-faire-de-leur-salon-des-maires-un-moment-de-concorde",
+      "title": "Carburants : volatilité énergétique impacte coûts logistiques immobilier",
+      "body": "Le gouvernement débloque des stocks stratégiques de carburant face à la hausse des prix liée au conflit au Moyen-Orient. Cette instabilité énergétique augmente les coûts de logistique et d'exploitation pour les locataires d'activité et logistique en PACA.",
+      "impact": "Intégrer la volatilité énergétique dans les analyses de viabilité des projets activité/logistique PACA et proposer des clauses d'indexation aux clients sensibles.",
+      "date": "10/11/2026",
+      "url": "https://www.laprovence.com/article/economie/93489737868678/carburants-le-gouvernement-debloque-de-nouveaux-stocks-strategiques-face-a-la-hausse-des-prix",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Énergie",
+          "cls": "tg"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Recrutement grand-âge : partenariat France Travail-DomusVi stimule demande en immobilier médico-social",
-      "body": "France Travail PACA et DomusVi renouvellent leur collaboration triennale pour développer de nouvelles voies d'accès aux métiers du soin face au vieillissement démographique. Cette dynamique de recrutement accélère la création de nouveaux établissements et structures de santé.",
-      "impact": "Accélération de la demande en locaux d'activité spécialisés (ehpad, cliniques, foyers) et bureaux administratifs pour opérateurs médico-sociaux en expansion en PACA.",
-      "date": "08/11/2026",
-      "url": "https://www.laprovence.com/article/economie/2715987512936814/recrutement-dans-le-grand-age-france-travail-paca-et-domusvi-prolongent-leur-collaboration",
+      "title": "Innovation RH Thot App : flex-work collaboratif redéfinit les espaces bureaux",
+      "body": "Éric Lahaye lance Thot App, plateforme d'échange de compétences et savoirs labellisée start-up à impact, qui privilégie l'humain face aux algorithmes. Ce modèle collaboratif remet en question la conception traditionnelle des espaces bureaux et espaces de coworking en PACA.",
+      "impact": "Anticiper une évolution vers des bureaux modulaires à faible densité et des tiers-lieux collaboratifs en PACA pour capturer cette nouvelle demande d'espaces flex-work.",
+      "date": "10/11/2026",
+      "url": "https://www.laprovence.com/article/economie/4151052068344814/lappli-thot-app-du-martegal-eric-lahaye-remet-de-lhumain-dans-lechange-des-savoirs",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Flex-office",
           "cls": "tp"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     }
@@ -100,11 +100,11 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Mesures gouvernementales pouvoir d'achat : tensions salariales et impacts sur charges patronales",
-      "body": "Le gouvernement a présenté lundi 9 novembre une série de mesures visant à améliorer le pouvoir d'achat et apaiser les tensions sociales à l'issue de la conférence de Matignon avec partenaires sociaux. La principale annonce porte sur des révisions du salaire minimum et primes.",
-      "impact": "Pressions attendues à la hausse sur les charges patronales d'exploitation immobilière ; anticiper révisions budgétaires des locataires tertiaires/commerciaux pour 2027.",
-      "date": "09/11/2026",
-      "url": "https://www.laprovence.com/article/economie/24086564537553/smic-primes-heures-supplementaires-le-gouvernement-devoile-ses-reponses-a-la-colere-sociale",
+      "title": "Croissance France 2026 révisée à 0,3% : récession douce confirmée",
+      "body": "Le gouverneur de la Banque de France Emmanuel Moulin révise à la baisse la croissance 2026 à 0,3% contre 0,4%. Cette faible dynamique économique reflète un environnement français structurellement affaibli par les tensions géopolitiques et l'énergie.",
+      "impact": "La récession économique française justifie une baisse généralisée des valorisations immobilières tertiaires et une vigilance accrue sur les retards de paiement locataires.",
+      "date": "10/11/2026",
+      "url": "https://www.laprovence.com/article/economie/4167897819224414/france-la-croissance-du-pib-en-2026-attendue-autour-de-0-3-plutot-que-0-4-dit-emmanuel-moulin",
       "source": "La Provence",
       "tags": [
         {
@@ -115,31 +115,31 @@
     },
     {
       "id": "m2",
-      "title": "Prime de Noël 2026 confirmée : soutien de la demande de consommation e-commerce et logistique",
-      "body": "Le ministre Jean-Pierre Farandou a confirmé dimanche 8 novembre la date et le montant de la prime de Noël 2026, dont le versement soutient le pouvoir d'achat en fin d'année. Cette mesure anticyclique relève la consommation des ménages fragiles.",
-      "impact": "Demande soutenue en immobilier logistique et espaces commerciaux pour pic saisonnier e-commerce et distribution.",
-      "date": "09/11/2026",
-      "url": "https://www.laprovence.com/article/economie/3354924113800114/prime-de-noel-2026-montant-date-de-versement-beneficiaires-trois-questions-autour-de-cette-aide",
+      "title": "Tensions énergétiques Moyen-Orient : carburants et Brent à la hausse",
+      "body": "Le gouvernement français débloque stocks stratégiques carburant face à l'instabilité énergétique du Moyen-Orient. Le Brent se maintient autour de 96 USD/baril, alimentant l'inflation des coûts logistiques et énergétiques européens.",
+      "impact": "L'inflation énergétique persistante comprime les marges d'exploitation des locataires et ralentit les investissements en immobilier d'activité/logistique.",
+      "date": "10/11/2026",
+      "url": "https://www.laprovence.com/article/economie/93489737868678/carburants-le-gouvernement-debloque-de-nouveaux-stocks-strategiques-face-a-la-hausse-des-prix",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "OAT 3.70% stable : financement immobilier toujours accessible en fin 2026",
-      "body": "Les taux d'emprunt long terme (OAT 10ans) demeurent à 3.70%, avec Euribor 3M à 2.15% et taux directeur BCE maintenu à 2.15%. Cet environnement tarifaire préserve l'accessibilité du crédit immobilier malgré les tensions inflationnistes à 1.7%.",
-      "impact": "Fenêtre de refinancement durable pour montages d'acquisition/refinancement immobiliers commerciaux et d'activité jusqu'en fin d'année.",
-      "date": "09/11/2026",
-      "url": "https://www.laprovence.com/article/economie/taux-stables-oat-euribor-bce-novembre-2026",
-      "source": "Données marché",
+      "title": "Chômage +0,4pt annuel : marché travail français se dégrade",
+      "body": "L'INSEE alerte sur 2,6 millions de chômeurs avec une dégradation annuelle de 0,4 point malgré baisse trimestrielle. Cette tendance baissière du marché du travail affaiblira la demande immobilière tertiaire en 2027.",
+      "impact": "La destruction d'emplois réduit l'absorption tertiaire et justifie une révision à la baisse des locations bureaux/activité dans les 18 prochains mois.",
+      "date": "10/11/2026",
+      "url": "https://www.laprovence.com/article/economie/4122196920196814/2-6-millions-de-chomeurs-linsee-alerte-sur-une-degradation-annuelle-malgre-une-legere-baisse-trimestrielle",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     }

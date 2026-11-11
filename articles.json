@@ -1,98 +1,98 @@
 {
-  "generated_at": "10/11/2026",
+  "generated_at": "11/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Croissance France 2026 : révision à 0,3% pèse sur l'immobilier tertiaire",
-      "body": "Emmanuel Moulin, gouverneur de la Banque de France, révise à la baisse les prévisions de croissance pour 2026 à 0,3% contre 0,4% anticipé. Cette contraction économique réduit la demande de nouveaux espaces de bureaux et d'activité en région PACA.",
-      "impact": "Anticiper une baisse de l'absorption tertiaire en PACA et réduire les valorisations sur les actifs bureaux/activité dans les 12 prochains mois.",
-      "date": "10/11/2026",
-      "url": "https://www.laprovence.com/article/economie/4167897819224414/france-la-croissance-du-pib-en-2026-attendue-autour-de-0-3-plutot-que-0-4-dit-emmanuel-moulin",
+      "title": "E-commerce en pic: novembre devient le plus gros mois pour la vente en ligne",
+      "body": "Le Black Friday transforme novembre en période record pour l'e-commerce français, selon la Fevad. Cette concentration de consommation impacte directement les besoins en surface commerciale et logistique en région PACA.",
+      "impact": "Accélération des demandes de locaux commerciaux et activité (fulfillment centers, dernière mille) dans l'agglomération marseillaise et l'axe Aix-Provence avant fin d'année.",
+      "date": "11/11/2026",
+      "url": "https://www.laprovence.com/article/economie/26129133768098/le-plus-gros-mois-de-lannee-comment-le-black-friday-a-transforme-novembre-en-pic-de-consommation",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Marché PACA",
+          "cls": "tp"
         },
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Chômage en hausse annuelle : tension accrue sur le marché tertiaire PACA",
-      "body": "L'INSEE signale 2,6 millions de chômeurs avec une augmentation annuelle de 0,4 point malgré une légère baisse trimestrielle. Cette dégradation du marché du travail diminue la capacité des entreprises à recruter et renouveler leurs espaces.",
-      "impact": "Réajuster les stratégies de déploiement bureaux/activité en PACA face au ralentissement de la croissance des effectifs et de la demande d'espace tertiaire.",
-      "date": "10/11/2026",
-      "url": "https://www.laprovence.com/article/economie/4122196920196814/2-6-millions-de-chomeurs-linsee-alerte-sur-une-degradation-annuelle-malgre-une-legere-baisse-trimestrielle",
+      "title": "Développement d'une startup santé animale: émergence d'économie de services à Marseille",
+      "body": "Une application de prise de rendez-vous vétérinaire (type Doctolib) développée par un entrepreneur marseillais remporte le prix régional Talents des Cités. Ce modèle de plateforme services illustre la diversification économique hors secteurs traditionnels.",
+      "impact": "Opportunités de locaux activité flex pour jeunes pousses tech/services en zones d'innovation PACA, particulièrement autour de Marseille et Aix.",
+      "date": "11/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1099533379097114/un-marseillais-developpe-son-application-le-doctolib-des-animaux",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché travail",
-          "cls": "tm"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Activité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Décret SMIC : impact sur les charges locataires branches en PACA",
-      "body": "Un décret publié le 10 novembre réduit les allègements de cotisations patronales en les calculant sur les minima conventionnels au lieu du SMIC pour les branches déficitaires. Cette hausse de charges affecte les locataires d'activité et commerce des secteurs concernés en région PACA.",
-      "impact": "Valoriser cette hausse de charges dans les négociations de loyers activité/commerce PACA et proposer des baux flexibles aux locataires des branches impactées.",
-      "date": "10/11/2026",
-      "url": "https://www.laprovence.com/article/politique/68321026977172/minima-sous-le-smic-un-decret-pour-sanctionner-les-branches-la-cgt-denonce-des-sanctions-tres-lentes",
+      "title": "Crise du pouvoir d'achat: mobilité et emploi, frein structurel en PACA",
+      "body": "L'inflation énergétique et la flambée des carburants rendent la recherche d'emploi critiquement coûteuse, 70% des trajets domicile-travail s'effectuant en voiture. Cette tension menace la cohésion sociale et la mobilité professionnelle régionale.",
+      "impact": "Demande croissante pour bureaux/activité à proximité des bassins résidentiels PACA; considérer l'accessibilité transport dans les valorisations pour limiter les couts de mobilité des locataires.",
+      "date": "11/11/2026",
+      "url": "https://www.laprovence.com/article/economie/15983242568757/chomage-en-paca-demarcher-est-devenu-un-luxe-comment-la-crise-du-pouvoir-dachat-piege-les-sans-emploi",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Carburants : volatilité énergétique impacte coûts logistiques immobilier",
-      "body": "Le gouvernement débloque des stocks stratégiques de carburant face à la hausse des prix liée au conflit au Moyen-Orient. Cette instabilité énergétique augmente les coûts de logistique et d'exploitation pour les locataires d'activité et logistique en PACA.",
-      "impact": "Intégrer la volatilité énergétique dans les analyses de viabilité des projets activité/logistique PACA et proposer des clauses d'indexation aux clients sensibles.",
-      "date": "10/11/2026",
-      "url": "https://www.laprovence.com/article/economie/93489737868678/carburants-le-gouvernement-debloque-de-nouveaux-stocks-strategiques-face-a-la-hausse-des-prix",
+      "title": "Tourisme régional en hausse budgétaire: inversion cyclique pour immobilier loisir",
+      "body": "Le Comité régional de tourisme PACA annonce une opération d'intérêt régional en 2027 sans réduction budgétaire. Cette dynamique soutient les investissements en immobilier touristique et hospitality.",
+      "impact": "Signals positifs pour les actifs commerciaux/services liés au tourisme (hôtellerie, restauration, retail) sur la côte azuréenne et périmètre aixois; stabilité locative attendue.",
+      "date": "11/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1120571299064214/le-tourisme-regional-veut-changer-d-echelle-et-lancera-une-operation-d-interet-regional-en-2027",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Énergie",
-          "cls": "tg"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Innovation RH Thot App : flex-work collaboratif redéfinit les espaces bureaux",
-      "body": "Éric Lahaye lance Thot App, plateforme d'échange de compétences et savoirs labellisée start-up à impact, qui privilégie l'humain face aux algorithmes. Ce modèle collaboratif remet en question la conception traditionnelle des espaces bureaux et espaces de coworking en PACA.",
-      "impact": "Anticiper une évolution vers des bureaux modulaires à faible densité et des tiers-lieux collaboratifs en PACA pour capturer cette nouvelle demande d'espaces flex-work.",
-      "date": "10/11/2026",
-      "url": "https://www.laprovence.com/article/economie/4151052068344814/lappli-thot-app-du-martegal-eric-lahaye-remet-de-lhumain-dans-lechange-des-savoirs",
+      "title": "Mutation retail: convergence mode masculine et e-commerce saturé féminin",
+      "body": "Les marques de mode (American Vintage, Octobre Éditions) ciblent désormais le segment masculin face à l'érosion du marché féminin. Ce repositionnement reflète une segmentation des surfaces commerciales et des formats de boutiques.",
+      "impact": "Reconsidérer la taille et le mix-tenant des locaux commerciaux PACA: espaces mixtes flexibles plutôt que monothématiques, adaptation pop-up pour marques en transition.",
+      "date": "11/11/2026",
+      "url": "https://www.laprovence.com/article/societe/1056447462623414/american-vintage-octobre-editions-les-hommes-nouvelle-cible-des-marques-de-mode-face-a-un-marche-feminin-sature",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Flex-office",
-          "cls": "tp"
+          "label": "Commerce",
+          "cls": "tm"
         },
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,46 +100,54 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Croissance France 2026 révisée à 0,3% : récession douce confirmée",
-      "body": "Le gouverneur de la Banque de France Emmanuel Moulin révise à la baisse la croissance 2026 à 0,3% contre 0,4%. Cette faible dynamique économique reflète un environnement français structurellement affaibli par les tensions géopolitiques et l'énergie.",
-      "impact": "La récession économique française justifie une baisse généralisée des valorisations immobilières tertiaires et une vigilance accrue sur les retards de paiement locataires.",
+      "title": "Carburants: prix gazole volatiles, répercussions logistique et CRE",
+      "body": "Malgré une baisse de 20cts/l depuis novembre suite au déblocage stratégique, les tarifs gazole restent 20% au-dessus du niveau pré-conflit moyen-oriental. La géopolitique maintient une prime durable sur l'énergie.",
+      "impact": "Pression persistante sur les coûts d'exploitation des locaux activité/logistique PACA; indexation énergétique des baux à renégocier; flex-office attractif pour rationner consommation.",
       "date": "10/11/2026",
-      "url": "https://www.laprovence.com/article/economie/4167897819224414/france-la-croissance-du-pib-en-2026-attendue-autour-de-0-3-plutot-que-0-4-dit-emmanuel-moulin",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Tensions énergétiques Moyen-Orient : carburants et Brent à la hausse",
-      "body": "Le gouvernement français débloque stocks stratégiques carburant face à l'instabilité énergétique du Moyen-Orient. Le Brent se maintient autour de 96 USD/baril, alimentant l'inflation des coûts logistiques et énergétiques européens.",
-      "impact": "L'inflation énergétique persistante comprime les marges d'exploitation des locataires et ralentit les investissements en immobilier d'activité/logistique.",
-      "date": "10/11/2026",
-      "url": "https://www.laprovence.com/article/economie/93489737868678/carburants-le-gouvernement-debloque-de-nouveaux-stocks-strategiques-face-a-la-hausse-des-prix",
+      "url": "https://www.laprovence.com/article/economie/4380429964755814/carburants-le-gazole-a-baisse-mais-la-guerre-au-moyen-orient-maintient-les-tarifs-bien-au-dessus-de-ceux-davant-le-conflit",
       "source": "La Provence",
       "tags": [
         {
           "label": "Géopolitique",
           "cls": "tg"
+        },
+        {
+          "label": "Énergie",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Conjoncture France: inflation énergétique et chômage structurel élevé",
+      "body": "La crise du pouvoir d'achat français (inflation persistante, prix énergie/carburants) alourdit le chômage régional PACA à 70% trajets automobiles. Contexte macroéconomique fragile sans relance fiscale annoncée.",
+      "impact": "Prudence pricing bureaux/activité: demande locataire sous pression; négociations d'indexation à tempérer; stratégie de stabilisation de base loyers avant réévaluation.",
+      "date": "11/11/2026",
+      "url": "https://www.laprovence.com/article/economie/15983242568757/chomage-en-paca-demarcher-est-devenu-un-luxe-comment-la-crise-du-pouvoir-dachat-piege-les-sans-emploi",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Conjoncture",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Chômage +0,4pt annuel : marché travail français se dégrade",
-      "body": "L'INSEE alerte sur 2,6 millions de chômeurs avec une dégradation annuelle de 0,4 point malgré baisse trimestrielle. Cette tendance baissière du marché du travail affaiblira la demande immobilière tertiaire en 2027.",
-      "impact": "La destruction d'emplois réduit l'absorption tertiaire et justifie une révision à la baisse des locations bureaux/activité dans les 18 prochains mois.",
-      "date": "10/11/2026",
-      "url": "https://www.laprovence.com/article/economie/4122196920196814/2-6-millions-de-chomeurs-linsee-alerte-sur-une-degradation-annuelle-malgre-une-legere-baisse-trimestrielle",
-      "source": "La Provence",
+      "title": "Contexte BCE/OAT stable: taux long-terme et financement immobilier",
+      "body": "En l'absence d'annonce BCE récente, les conditions de taux restent ancrées (OAT 3.70%, Euribor 3M 2.15%, taux directeur BCE 2.15%). Financement immobilier commercial stabilisé mais coûteux.",
+      "impact": "Structurer transactions PACA avec amortissements longs et taux fixes; SCPI commerciales attractives pour investisseurs quête rendement en environnement taux élevés; négocier caps inflation.",
+      "date": "11/11/2026",
+      "url": "https://www.bpifrance.fr",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }

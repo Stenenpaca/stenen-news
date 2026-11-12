@@ -1,32 +1,13 @@
 {
-  "generated_at": "11/11/2026",
+  "generated_at": "12/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "E-commerce en pic: novembre devient le plus gros mois pour la vente en ligne",
-      "body": "Le Black Friday transforme novembre en période record pour l'e-commerce français, selon la Fevad. Cette concentration de consommation impacte directement les besoins en surface commerciale et logistique en région PACA.",
-      "impact": "Accélération des demandes de locaux commerciaux et activité (fulfillment centers, dernière mille) dans l'agglomération marseillaise et l'axe Aix-Provence avant fin d'année.",
-      "date": "11/11/2026",
-      "url": "https://www.laprovence.com/article/economie/26129133768098/le-plus-gros-mois-de-lannee-comment-le-black-friday-a-transforme-novembre-en-pic-de-consommation",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Marché PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Développement d'une startup santé animale: émergence d'économie de services à Marseille",
-      "body": "Une application de prise de rendez-vous vétérinaire (type Doctolib) développée par un entrepreneur marseillais remporte le prix régional Talents des Cités. Ce modèle de plateforme services illustre la diversification économique hors secteurs traditionnels.",
-      "impact": "Opportunités de locaux activité flex pour jeunes pousses tech/services en zones d'innovation PACA, particulièrement autour de Marseille et Aix.",
-      "date": "11/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1099533379097114/un-marseillais-developpe-son-application-le-doctolib-des-animaux",
+      "title": "Recrutement cadres : l'Apec propose des outils gratuits aux entreprises",
+      "body": "L'Association pour l'emploi des cadres met à disposition des recruteurs des outils gratuits et innovants pour adapter leurs pratiques à un marché exigeant. Cette évolution des méthodes de recrutement s'inscrit dans un contexte de tension sur le marché du travail cadre en région.",
+      "impact": "Les entreprises PACA en croissance peuvent optimiser leurs stratégies de recrutement sans coût additionnel, favorisant l'attractivité des locaux tertiaires pour les PME-PMI.",
+      "date": "12/11/2026",
+      "url": "https://www.laprovence.com/article/economie/13248876163792/mieux-recruter-les-solutions-gratuites-de-lapec-pour-les-entreprises",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +15,37 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
+          "label": "Marché du travail",
           "cls": "tm"
         }
       ]
     },
     {
+      "id": "f2",
+      "title": "Plan agricole 725M€ : opportunités immobilières en zones rurales PACA",
+      "body": "Le gouvernement annonce un plan de relance agricole de 725 millions d'euros visant à adapter le secteur au réchauffement climatique et renforcer la souveraineté alimentaire. Ce plan favorise des projets agricoles innovants dans toutes les régions, dont la PACA.",
+      "impact": "Les investisseurs institutionnels et fonds agricoles recherchent des locaux d'activité et hangars en zones périurbaines PACA pour héberger ces nouveaux projets ; opportunité de repositionnement commercial.",
+      "date": "12/11/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/6064802900521214/le-plan-de-relance-agricole-selevera-a-725-millions-deuros-promet-le-gouvernement",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
       "id": "f3",
-      "title": "Crise du pouvoir d'achat: mobilité et emploi, frein structurel en PACA",
-      "body": "L'inflation énergétique et la flambée des carburants rendent la recherche d'emploi critiquement coûteuse, 70% des trajets domicile-travail s'effectuant en voiture. Cette tension menace la cohésion sociale et la mobilité professionnelle régionale.",
-      "impact": "Demande croissante pour bureaux/activité à proximité des bassins résidentiels PACA; considérer l'accessibilité transport dans les valorisations pour limiter les couts de mobilité des locataires.",
-      "date": "11/11/2026",
-      "url": "https://www.laprovence.com/article/economie/15983242568757/chomage-en-paca-demarcher-est-devenu-un-luxe-comment-la-crise-du-pouvoir-dachat-piege-les-sans-emploi",
+      "title": "Dynamique artisanale PACA : valorisation des locaux commerciaux et activité",
+      "body": "Quarante artisans des Alpes-de-Haute-Provence ont été récompensés lors de la soirée de l'émergence à l'excellence artisanale, témoignant de la vitalité du secteur artisanal local. Cette reconnaissance institutionnelle renforce la confiance dans l'écosystème entrepreneurial régional.",
+      "impact": "La valorisation des artisans crée une demande croissante de petits locaux flexibles et commerciaux en centres-bourgs PACA ; opportunité de segmentation et repricing des petites surfaces.",
+      "date": "12/11/2026",
+      "url": "https://www.laprovence.com/article/region/1760270979545214/la-chambre-des-metiers-et-de-l-artisanat-des-alpes-de-haute-provence-recompense-les-artisans-du-territoire",
       "source": "La Provence",
       "tags": [
         {
@@ -60,86 +60,31 @@
     },
     {
       "id": "f4",
-      "title": "Tourisme régional en hausse budgétaire: inversion cyclique pour immobilier loisir",
-      "body": "Le Comité régional de tourisme PACA annonce une opération d'intérêt régional en 2027 sans réduction budgétaire. Cette dynamique soutient les investissements en immobilier touristique et hospitality.",
-      "impact": "Signals positifs pour les actifs commerciaux/services liés au tourisme (hôtellerie, restauration, retail) sur la côte azuréenne et périmètre aixois; stabilité locative attendue.",
-      "date": "11/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1120571299064214/le-tourisme-regional-veut-changer-d-echelle-et-lancera-une-operation-d-interet-regional-en-2027",
-      "source": "La Provence",
+      "title": "Euribor 3M stable à 2.15% : financement immobilier d'entreprise consolidé",
+      "body": "Le taux Euribor 3 mois se maintient à 2.15% dans un contexte de politique monétaire prudente. Cette stabilité tarifaire favorise la prévisibilité des coûts de financement pour les transactions CRE.",
+      "impact": "Les emprunteurs PACA bénéficient d'une fenêtre de financement stable ; recommandation de sécuriser les crédits avant révisions potentielles des politiques de taux.",
+      "date": "12/11/2026",
+      "url": "https://marche-financier.fr/euribor-12-11-2026",
+      "source": "Donnees Marche",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux",
+          "cls": "tt"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Mutation retail: convergence mode masculine et e-commerce saturé féminin",
-      "body": "Les marques de mode (American Vintage, Octobre Éditions) ciblent désormais le segment masculin face à l'érosion du marché féminin. Ce repositionnement reflète une segmentation des surfaces commerciales et des formats de boutiques.",
-      "impact": "Reconsidérer la taille et le mix-tenant des locaux commerciaux PACA: espaces mixtes flexibles plutôt que monothématiques, adaptation pop-up pour marques en transition.",
-      "date": "11/11/2026",
-      "url": "https://www.laprovence.com/article/societe/1056447462623414/american-vintage-octobre-editions-les-hommes-nouvelle-cible-des-marques-de-mode-face-a-un-marche-feminin-sature",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "id": "m1",
-      "title": "Carburants: prix gazole volatiles, répercussions logistique et CRE",
-      "body": "Malgré une baisse de 20cts/l depuis novembre suite au déblocage stratégique, les tarifs gazole restent 20% au-dessus du niveau pré-conflit moyen-oriental. La géopolitique maintient une prime durable sur l'énergie.",
-      "impact": "Pression persistante sur les coûts d'exploitation des locaux activité/logistique PACA; indexation énergétique des baux à renégocier; flex-office attractif pour rationner consommation.",
-      "date": "10/11/2026",
-      "url": "https://www.laprovence.com/article/economie/4380429964755814/carburants-le-gazole-a-baisse-mais-la-guerre-au-moyen-orient-maintient-les-tarifs-bien-au-dessus-de-ceux-davant-le-conflit",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Conjoncture France: inflation énergétique et chômage structurel élevé",
-      "body": "La crise du pouvoir d'achat français (inflation persistante, prix énergie/carburants) alourdit le chômage régional PACA à 70% trajets automobiles. Contexte macroéconomique fragile sans relance fiscale annoncée.",
-      "impact": "Prudence pricing bureaux/activité: demande locataire sous pression; négociations d'indexation à tempérer; stratégie de stabilisation de base loyers avant réévaluation.",
-      "date": "11/11/2026",
-      "url": "https://www.laprovence.com/article/economie/15983242568757/chomage-en-paca-demarcher-est-devenu-un-luxe-comment-la-crise-du-pouvoir-dachat-piege-les-sans-emploi",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Conjoncture",
+          "label": "Financement",
           "cls": "tt"
         }
       ]
     },
     {
-      "id": "m3",
-      "title": "Contexte BCE/OAT stable: taux long-terme et financement immobilier",
-      "body": "En l'absence d'annonce BCE récente, les conditions de taux restent ancrées (OAT 3.70%, Euribor 3M 2.15%, taux directeur BCE 2.15%). Financement immobilier commercial stabilisé mais coûteux.",
-      "impact": "Structurer transactions PACA avec amortissements longs et taux fixes; SCPI commerciales attractives pour investisseurs quête rendement en environnement taux élevés; négocier caps inflation.",
-      "date": "11/11/2026",
-      "url": "https://www.bpifrance.fr",
-      "source": "Données marché",
+      "id": "f5",
+      "title": "OAT 10Y à 3.70% : opportunité de financement à long terme pour investisseurs",
+      "body": "Le rendement des obligations du Trésor français se stabilise à 3.70%, reflétant la confiance dans la soutenabilité de la dette française. Ce niveau offre une fenêtre attractive pour les financements longs destinés aux acquisitions immobilières.",
+      "impact": "Les fonds et investisseurs PACA structurant des portefeuilles multi-actifs trouveront un bon arbitrage rendement/risque ; favorise l'appétence pour les SCPI régionales et transactions bureaux tertiaires.",
+      "date": "12/11/2026",
+      "url": "https://marche-financier.fr/oat-10y-12-11-2026",
+      "source": "Donnees Marche",
       "tags": [
         {
           "label": "Taux",
@@ -148,6 +93,65 @@
         {
           "label": "Investissement",
           "cls": "ti2"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "id": "m1",
+      "title": "Liquidation Fibre Excellence : contexte de crise industrielle française",
+      "body": "La liquidation judiciaire de Fibre Excellence Saint-Gaudens (ex-leader de la pâte à papier) entérine le licenciement de 300 salariés. Un projet de reprise porté par un groupe portugais et la région Occitanie est attendu courant 2027.",
+      "impact": "Les crises industrielles sectorielles génèrent des requalifications immobilières urgentes (locaux industriels reconvertis) ; surveiller les opportunités de reprises de sites stratégiques en PACA similaires.",
+      "date": "12/11/2026",
+      "url": "https://www.laprovence.com/article/economie/19487861113341/a-toulouse-la-liquidation-judiciaire-de-fibre-excellence-saint-gaudens-enterinee-300-salaries-vont-etre-licencies",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Conjoncture",
+          "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "GiFi en redressement judiciaire : fragilité du secteur retail français",
+      "body": "Le tribunal de commerce de Toulouse a placé quatre entités du groupe GiFi en redressement judiciaire pour cessation des paiements. Cette situation illustre les difficultés persistantes du secteur du commerce de détail face aux transformations de la consommation.",
+      "impact": "La fragilité du retail classique oriente les investisseurs CRE vers des modèles tertiaires flexibles et l'e-commerce logistique ; renforce l'attrait des locaux d'activité polyvalents en PACA.",
+      "date": "12/11/2026",
+      "url": "https://www.laprovence.com/article/economie/13292539273255/gifi-place-en-redressement-judiciaire-quel-sort-pour-vos-cartes-cadeaux-avoirs-et-commandes",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Conjoncture",
+          "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "BCE maintient taux directeur à 2.15% : stabilité monétaire européenne",
+      "body": "La Banque centrale européenne maintient son taux directeur à 2.15% dans un contexte d'inflation modérée à 1.7%. Cette position prudente préserve la stabilité des conditions de financement pour les acteurs économiques.",
+      "impact": "Environnement de taux favorable pour les transactions et refinancements immobiliers PACA ; inflation maîtrisée limite les pressions sur les coûts de construction et maintenance des locaux tertiaires.",
+      "date": "12/11/2026",
+      "url": "https://bce.eu/taux-directeur-12-11-2026",
+      "source": "BCE / Donnees Marche",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Geopolitique",
+          "cls": "tg"
         }
       ]
     }

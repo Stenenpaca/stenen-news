@@ -1,13 +1,13 @@
 {
-  "generated_at": "12/11/2026",
+  "generated_at": "13/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Recrutement cadres : l'Apec propose des outils gratuits aux entreprises",
-      "body": "L'Association pour l'emploi des cadres met à disposition des recruteurs des outils gratuits et innovants pour adapter leurs pratiques à un marché exigeant. Cette évolution des méthodes de recrutement s'inscrit dans un contexte de tension sur le marché du travail cadre en région.",
-      "impact": "Les entreprises PACA en croissance peuvent optimiser leurs stratégies de recrutement sans coût additionnel, favorisant l'attractivité des locaux tertiaires pour les PME-PMI.",
+      "title": "Commerce de proximité : Dkot lance une app pour dynamiser Aix-en-Provence",
+      "body": "Une nouvelle application créée par Jacky Lamraoui entend rapprocher consommateurs et commerçants face à la baisse d'activité des centres-villes. Le lancement à Aix-en-Provence le 14 novembre précède un déploiement régional en 2027.",
+      "impact": "Opportunité pour les conseils en transaction de valoriser les locaux commerciaux de centre-ville bénéficiant de solutions digitales innovantes.",
       "date": "12/11/2026",
-      "url": "https://www.laprovence.com/article/economie/13248876163792/mieux-recruter-les-solutions-gratuites-de-lapec-pour-les-entreprises",
+      "url": "https://www.laprovence.com/article/economie/16652340623970/aix-en-provence-dkot-veut-ramener-les-consommateurs-dans-les-commerces-de-proximite",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Marché du travail",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Plan agricole 725M€ : opportunités immobilières en zones rurales PACA",
-      "body": "Le gouvernement annonce un plan de relance agricole de 725 millions d'euros visant à adapter le secteur au réchauffement climatique et renforcer la souveraineté alimentaire. Ce plan favorise des projets agricoles innovants dans toutes les régions, dont la PACA.",
-      "impact": "Les investisseurs institutionnels et fonds agricoles recherchent des locaux d'activité et hangars en zones périurbaines PACA pour héberger ces nouveaux projets ; opportunité de repositionnement commercial.",
+      "title": "Startup PACA : HSTI révolutionne l'irrigation en réduisant la consommation d'eau",
+      "body": "La pépite aixoise HSTI-France déploie des sondes connectées pour réduire la consommation d'eau de 25% face aux enjeux climatiques. Cette technologie made in France a été mise en lumière au congrès mondial ICID à Marseille en octobre.",
+      "impact": "Les locaux d'activité et espaces tertiaires PACA intégrant des technologies durables gagnent en attractivité pour les entreprises éco-responsables.",
       "date": "12/11/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/6064802900521214/le-plan-de-relance-agricole-selevera-a-725-millions-deuros-promet-le-gouvernement",
+      "url": "https://www.laprovence.com/article/economie/37571797463503/secheresse-comment-la-pepite-aixoise-hsti-reinvente-l-irrigation",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Innovation",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Dynamique artisanale PACA : valorisation des locaux commerciaux et activité",
-      "body": "Quarante artisans des Alpes-de-Haute-Provence ont été récompensés lors de la soirée de l'émergence à l'excellence artisanale, témoignant de la vitalité du secteur artisanal local. Cette reconnaissance institutionnelle renforce la confiance dans l'écosystème entrepreneurial régional.",
-      "impact": "La valorisation des artisans crée une demande croissante de petits locaux flexibles et commerciaux en centres-bourgs PACA ; opportunité de segmentation et repricing des petites surfaces.",
-      "date": "12/11/2026",
-      "url": "https://www.laprovence.com/article/region/1760270979545214/la-chambre-des-metiers-et-de-l-artisanat-des-alpes-de-haute-provence-recompense-les-artisans-du-territoire",
+      "title": "Nouvelles entreprises : Saint-Cyr accueille S.One, marque de streetwear responsable",
+      "body": "Anne Montagna lance S.One, une marque de streetwear familiale et responsable actuellement distribuée en ligne. La créatrice envisage d'étendre sa présence dans les boutiques locales PACA.",
+      "impact": "Potentiel de demande en petit commerce et pop-up stores dans les zones touristiques et urbaines du secteur.",
+      "date": "13/11/2026",
+      "url": "https://www.laprovence.com/article/economie/90156526323481/avec-s-one-anne-montagna-lance-une-marque-de-streetwear-responsable-et-familiale-a-saint-cyr",
       "source": "La Provence",
       "tags": [
         {
@@ -53,19 +53,38 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Retail",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Euribor 3M stable à 2.15% : financement immobilier d'entreprise consolidé",
-      "body": "Le taux Euribor 3 mois se maintient à 2.15% dans un contexte de politique monétaire prudente. Cette stabilité tarifaire favorise la prévisibilité des coûts de financement pour les transactions CRE.",
-      "impact": "Les emprunteurs PACA bénéficient d'une fenêtre de financement stable ; recommandation de sécuriser les crédits avant révisions potentielles des politiques de taux.",
-      "date": "12/11/2026",
-      "url": "https://marche-financier.fr/euribor-12-11-2026",
-      "source": "Donnees Marche",
+      "title": "Service innovant : Boziclean installe des machines de nettoyage pour casques",
+      "body": "Une jeune entreprise du Pays d'Aubagne commercialise Boziclean, dispositif automatique de nettoyage et stérilisation de casques, depuis août 2026. Cette niche de service pourrait essaimer dans les zones touristiques et commerciales PACA.",
+      "impact": "Identifier des locaux d'activité ou petits commerces pour services spécialisés innovants offrant une valeur ajoutée territoriale.",
+      "date": "13/11/2026",
+      "url": "https://www.laprovence.com/article/economie/42391006995755/ils-commercialisent-et-installent-dans-le-pays-d-aubagne-des-machines-pour-nettoyer-les-casques-des-motards",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Services",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Financement OAT : taux à 3.70% stable, Euribor3M en retrait à 2.15%",
+      "body": "Les obligations du Trésor français restent orientées à 3.70% tandis que l'Euribor3M s'établit à 2.15%. Ces conditions reflètent une certaine stabilité monétaire dans l'environnement de financement des entreprises PACA.",
+      "impact": "Les conditions de financement restent favorables pour refinancer des acquisitions de locaux ou investissements en immobilier d'entreprise PACA.",
+      "date": "13/11/2026",
+      "url": "https://www.laprovence.com/article/economie/6778544039024214/inflation-en-france-elle-a-bien-atteint-3-4-sur-un-an-en-octobre-au-plus-haut-depuis-janvier-2024",
+      "source": "La Provence",
       "tags": [
         {
           "label": "Taux",
@@ -76,81 +95,62 @@
           "cls": "tt"
         }
       ]
-    },
-    {
-      "id": "f5",
-      "title": "OAT 10Y à 3.70% : opportunité de financement à long terme pour investisseurs",
-      "body": "Le rendement des obligations du Trésor français se stabilise à 3.70%, reflétant la confiance dans la soutenabilité de la dette française. Ce niveau offre une fenêtre attractive pour les financements longs destinés aux acquisitions immobilières.",
-      "impact": "Les fonds et investisseurs PACA structurant des portefeuilles multi-actifs trouveront un bon arbitrage rendement/risque ; favorise l'appétence pour les SCPI régionales et transactions bureaux tertiaires.",
-      "date": "12/11/2026",
-      "url": "https://marche-financier.fr/oat-10y-12-11-2026",
-      "source": "Donnees Marche",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
-        }
-      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "Liquidation Fibre Excellence : contexte de crise industrielle française",
-      "body": "La liquidation judiciaire de Fibre Excellence Saint-Gaudens (ex-leader de la pâte à papier) entérine le licenciement de 300 salariés. Un projet de reprise porté par un groupe portugais et la région Occitanie est attendu courant 2027.",
-      "impact": "Les crises industrielles sectorielles génèrent des requalifications immobilières urgentes (locaux industriels reconvertis) ; surveiller les opportunités de reprises de sites stratégiques en PACA similaires.",
-      "date": "12/11/2026",
-      "url": "https://www.laprovence.com/article/economie/19487861113341/a-toulouse-la-liquidation-judiciaire-de-fibre-excellence-saint-gaudens-enterinee-300-salaries-vont-etre-licencies",
+      "title": "Inflation en France : 3.4% en octobre, pic depuis janvier 2024",
+      "body": "L'inflation française a atteint 3.4% sur un an en octobre, portée notamment par les prix de l'énergie en hausse de 24.1% suite à la poussée des prix du gaz et des produits pétroliers. Cette dynamique inflationniste persiste malgré les attentes de modération.",
+      "impact": "L'inflation élevée impacte les coûts d'exploitation des locaux PACA (énergie, services) et justifie des révisions de loyer agressives pour valoriser le patrimoine.",
+      "date": "13/11/2026",
+      "url": "https://www.laprovence.com/article/economie/6778544039024214/inflation-en-france-elle-a-bien-atteint-3-4-sur-un-an-en-octobre-au-plus-haut-depuis-janvier-2024",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Inflation",
           "cls": "tg"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "GiFi en redressement judiciaire : fragilité du secteur retail français",
-      "body": "Le tribunal de commerce de Toulouse a placé quatre entités du groupe GiFi en redressement judiciaire pour cessation des paiements. Cette situation illustre les difficultés persistantes du secteur du commerce de détail face aux transformations de la consommation.",
-      "impact": "La fragilité du retail classique oriente les investisseurs CRE vers des modèles tertiaires flexibles et l'e-commerce logistique ; renforce l'attrait des locaux d'activité polyvalents en PACA.",
-      "date": "12/11/2026",
-      "url": "https://www.laprovence.com/article/economie/13292539273255/gifi-place-en-redressement-judiciaire-quel-sort-pour-vos-cartes-cadeaux-avoirs-et-commandes",
+      "title": "Énergie : prix du gaz et pétrole en hausse, risques géopolitiques confirmés",
+      "body": "La poussée des prix de l'énergie atteint 24.1% en octobre 2026, amplifiée par les volatilités du gaz naturel et des produits pétroliers. Le Brent oscille autour de 96 USD/baril, reflétant des tensions géopolitiques persistantes.",
+      "impact": "Les entreprises PACA cherchent des locaux éco-efficaces et flex pour adapter leurs coûts énergétiques variables ; valoriser ces critères en transaction.",
+      "date": "13/11/2026",
+      "url": "https://www.laprovence.com/article/economie/6778544039024214/inflation-en-france-elle-a-bien-atteint-3-4-sur-un-an-en-octobre-au-plus-haut-depuis-janvier-2024",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
+          "label": "Géopolitique",
           "cls": "tg"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Énergie",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE maintient taux directeur à 2.15% : stabilité monétaire européenne",
-      "body": "La Banque centrale européenne maintient son taux directeur à 2.15% dans un contexte d'inflation modérée à 1.7%. Cette position prudente préserve la stabilité des conditions de financement pour les acteurs économiques.",
-      "impact": "Environnement de taux favorable pour les transactions et refinancements immobiliers PACA ; inflation maîtrisée limite les pressions sur les coûts de construction et maintenance des locaux tertiaires.",
-      "date": "12/11/2026",
-      "url": "https://bce.eu/taux-directeur-12-11-2026",
-      "source": "BCE / Donnees Marche",
+      "title": "Gouvernement refuse hausse prix médicaments : régulation sur coûts production",
+      "body": "Les laboratoires UPSA et Opella demandaient une hausse des prix du paracétamol pour compenser les coûts de production français, requête refusée par le gouvernement. Cette régulation stricte encadre la marge des secteurs industriels et pharmaceutiques en France.",
+      "impact": "Illustre la rigueur réglementaire française ; pertinent pour évaluer les risques de locaux tertiaires accueillant secteurs réglementés ou industriels.",
+      "date": "13/11/2026",
+      "url": "https://www.laprovence.com/article/sante/6883377317292214/doliprane-dafalgan-les-laboratoires-demandent-une-hausse-du-prix-du-paracetamol-le-gouvernement-refuse",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Régulation",
+          "cls": "tr"
         },
         {
-          "label": "Geopolitique",
+          "label": "Industrie",
           "cls": "tg"
         }
       ]

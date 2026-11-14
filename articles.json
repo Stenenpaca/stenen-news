@@ -1,13 +1,13 @@
 {
-  "generated_at": "13/11/2026",
+  "generated_at": "14/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Commerce de proximité : Dkot lance une app pour dynamiser Aix-en-Provence",
-      "body": "Une nouvelle application créée par Jacky Lamraoui entend rapprocher consommateurs et commerçants face à la baisse d'activité des centres-villes. Le lancement à Aix-en-Provence le 14 novembre précède un déploiement régional en 2027.",
-      "impact": "Opportunité pour les conseils en transaction de valoriser les locaux commerciaux de centre-ville bénéficiant de solutions digitales innovantes.",
-      "date": "12/11/2026",
-      "url": "https://www.laprovence.com/article/economie/16652340623970/aix-en-provence-dkot-veut-ramener-les-consommateurs-dans-les-commerces-de-proximite",
+      "title": "Macif lance son centre d'appels à Arles : 4000 m² de bureaux",
+      "body": "La première pierre du futur centre d'appels de la Macif a été posée vendredi 13 novembre à Arles sur la route de Gimeaux. Ce projet représente un nouveau chapitre de la présence historique de la société d'assurance dans la région.",
+      "impact": "Opportunité de sourcing de locaux tertiaires connexes (restauration, services) auprès des 300+ salariés attendus du centre Macif.",
+      "date": "13/11/2026",
+      "url": "https://www.laprovence.com/article/economie/6957934192213214/4000-m2-de-bureaux-a-arles-le-chantier-de-la-macif-est-lance-sur-la-route-de-gimeaux",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché bureaux",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Startup PACA : HSTI révolutionne l'irrigation en réduisant la consommation d'eau",
-      "body": "La pépite aixoise HSTI-France déploie des sondes connectées pour réduire la consommation d'eau de 25% face aux enjeux climatiques. Cette technologie made in France a été mise en lumière au congrès mondial ICID à Marseille en octobre.",
-      "impact": "Les locaux d'activité et espaces tertiaires PACA intégrant des technologies durables gagnent en attractivité pour les entreprises éco-responsables.",
-      "date": "12/11/2026",
-      "url": "https://www.laprovence.com/article/economie/37571797463503/secheresse-comment-la-pepite-aixoise-hsti-reinvente-l-irrigation",
+      "title": "Projet logistique Gemfi annulé entre Berre et Rognac",
+      "body": "Le projet de plateforme logistique du groupe Gicram entre Berre et Rognac tombe à l'eau après cinq ans de polémique. Le maire de Rognac, Christophe Gonzalez, salue cette décision comme une victoire pour les habitants.",
+      "impact": "Ralentissement attendu de la demande en locaux d'activité/logistique sur l'axe Berre-Rognac ; à surveiller pour opportunités de reprise de projets concurrents.",
+      "date": "14/11/2026",
+      "url": "https://www.laprovence.com/article/economie/7146036765263914/le-projet-logistique-gemfi-c-est-fini-promet-christophe-gonzalez-maire-de-rognac",
       "source": "La Provence",
       "tags": [
         {
@@ -34,18 +34,18 @@
           "cls": "tp"
         },
         {
-          "label": "Innovation",
+          "label": "Marché activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Nouvelles entreprises : Saint-Cyr accueille S.One, marque de streetwear responsable",
-      "body": "Anne Montagna lance S.One, une marque de streetwear familiale et responsable actuellement distribuée en ligne. La créatrice envisage d'étendre sa présence dans les boutiques locales PACA.",
-      "impact": "Potentiel de demande en petit commerce et pop-up stores dans les zones touristiques et urbaines du secteur.",
+      "title": "CMA CGM affiche résultats solides au T3 2026",
+      "body": "Le groupe CMA CGM a présenté des résultats financiers du Q3 2026 marqués par une forte croissance des volumes maritimes transportés, supérieure à celle du marché. Cette performance consolide la position du leader logistique régional.",
+      "impact": "Demande accrue attendue en locaux connexes (bureaux administratifs, espaces logistiques) auprès de CMA CGM et ses prestataires PACA.",
       "date": "13/11/2026",
-      "url": "https://www.laprovence.com/article/economie/90156526323481/avec-s-one-anne-montagna-lance-une-marque-de-streetwear-responsable-et-familiale-a-saint-cyr",
+      "url": "https://www.laprovence.com/article/economie/11133848054383/cma-cgm-presente-des-resultats-financiers-solides-au-3e-trimestre-2026",
       "source": "La Provence",
       "tags": [
         {
@@ -53,18 +53,18 @@
           "cls": "tp"
         },
         {
-          "label": "Retail",
+          "label": "Conjoncture",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Service innovant : Boziclean installe des machines de nettoyage pour casques",
-      "body": "Une jeune entreprise du Pays d'Aubagne commercialise Boziclean, dispositif automatique de nettoyage et stérilisation de casques, depuis août 2026. Cette niche de service pourrait essaimer dans les zones touristiques et commerciales PACA.",
-      "impact": "Identifier des locaux d'activité ou petits commerces pour services spécialisés innovants offrant une valeur ajoutée territoriale.",
-      "date": "13/11/2026",
-      "url": "https://www.laprovence.com/article/economie/42391006995755/ils-commercialisent-et-installent-dans-le-pays-d-aubagne-des-machines-pour-nettoyer-les-casques-des-motards",
+      "title": "12 entreprises PACA lauréates du réseau Initiative",
+      "body": "Le réseau Initiative Alpes Provence a honoré douze entrepreneurs accompagnés dans les secteurs restauration, bien-être et automobile, le 10 novembre à Gréoux-les-Bains. Cette dynamique confirme l'émergence de PME dans les services à la personne.",
+      "impact": "Cibles commerciales identifiées pour sourcing de petites surfaces de commerce/services (100-300 m²) en croissance dans le bassin Durance-Luberon.",
+      "date": "14/11/2026",
+      "url": "https://www.laprovence.com/article/economie/6958742382289414/restauration-bien-etre-automobile-12-entreprises-soutenues-par-le-reseau-initiative-saluees-a-greoux-les-bains",
       "source": "La Provence",
       "tags": [
         {
@@ -72,27 +72,27 @@
           "cls": "tp"
         },
         {
-          "label": "Services",
+          "label": "Marché commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Financement OAT : taux à 3.70% stable, Euribor3M en retrait à 2.15%",
-      "body": "Les obligations du Trésor français restent orientées à 3.70% tandis que l'Euribor3M s'établit à 2.15%. Ces conditions reflètent une certaine stabilité monétaire dans l'environnement de financement des entreprises PACA.",
-      "impact": "Les conditions de financement restent favorables pour refinancer des acquisitions de locaux ou investissements en immobilier d'entreprise PACA.",
+      "title": "Contexte taux : OAT 3.70%, Euribor3M 2.15%",
+      "body": "Le contexte de taux d'intérêt reste élevé en fin 2026 avec les OAT à 3.70% et l'Euribor 3 mois à 2.15%. Les investisseurs surveillent étroitement la trajectoire monétaire avant les dernières décisions de l'année.",
+      "impact": "Maintenance des niveaux de financement pour acquéreurs/développeurs ; maintien des loyers en euros courants pour transactions immobilières d'entreprise PACA.",
       "date": "13/11/2026",
-      "url": "https://www.laprovence.com/article/economie/6778544039024214/inflation-en-france-elle-a-bien-atteint-3-4-sur-un-an-en-octobre-au-plus-haut-depuis-janvier-2024",
+      "url": "https://www.laprovence.com/article/economie/89212753668127/cours-de-lor-pourquoi-les-investisseurs-le-surveillent-de-pres-fin-2026",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Taux & financement",
           "cls": "tt"
         },
         {
-          "label": "Financement",
-          "cls": "tt"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }
@@ -100,17 +100,13 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Inflation en France : 3.4% en octobre, pic depuis janvier 2024",
-      "body": "L'inflation française a atteint 3.4% sur un an en octobre, portée notamment par les prix de l'énergie en hausse de 24.1% suite à la poussée des prix du gaz et des produits pétroliers. Cette dynamique inflationniste persiste malgré les attentes de modération.",
-      "impact": "L'inflation élevée impacte les coûts d'exploitation des locaux PACA (énergie, services) et justifie des révisions de loyer agressives pour valoriser le patrimoine.",
-      "date": "13/11/2026",
-      "url": "https://www.laprovence.com/article/economie/6778544039024214/inflation-en-france-elle-a-bien-atteint-3-4-sur-un-an-en-octobre-au-plus-haut-depuis-janvier-2024",
+      "title": "Conjoncture France : dynamique PME/TPE régionale confirmée",
+      "body": "La vitalité entrepreneuriale se manifeste à l'échelon territorial PACA avec l'émergence de 12 nouvelles PME/TPE accompagnées par Initiative et la croissance soutenue de CMA CGM (leader logistique). Ces signaux positifs contrastent avec les annulations de grands projets logistiques.",
+      "impact": "Opportunité de segmentation clientèle : grandes structures CRE vs TPE/PME en croissance ; adapter l'offre de conseil selon les besoins de financement et de localisation.",
+      "date": "14/11/2026",
+      "url": "https://www.laprovence.com/article/economie/6958742382289414/restauration-bien-etre-automobile-12-entreprises-soutenues-par-le-reseau-initiative-saluees-a-greoux-les-bains",
       "source": "La Provence",
       "tags": [
-        {
-          "label": "Inflation",
-          "cls": "tg"
-        },
         {
           "label": "Conjoncture",
           "cls": "tg"
@@ -119,39 +115,39 @@
     },
     {
       "id": "m2",
-      "title": "Énergie : prix du gaz et pétrole en hausse, risques géopolitiques confirmés",
-      "body": "La poussée des prix de l'énergie atteint 24.1% en octobre 2026, amplifiée par les volatilités du gaz naturel et des produits pétroliers. Le Brent oscille autour de 96 USD/baril, reflétant des tensions géopolitiques persistantes.",
-      "impact": "Les entreprises PACA cherchent des locaux éco-efficaces et flex pour adapter leurs coûts énergétiques variables ; valoriser ces critères en transaction.",
+      "title": "Marché du travail : revalorisation des bas salaires publics en discussion",
+      "body": "Le gouvernement a lancé le 13 novembre un mois de discussions sur la revalorisation des bas salaires des fonctionnaires, signal de pressions inflationnistes dans les coûts salariaux du secteur public. Cette mesure pourrait affecter la demande tertiaire administrative en région.",
+      "impact": "Veille sur les relocalisations/extensions potentielles de services administratifs publics PACA ; impact sur les coûts d'exploitation des futurs locataires tertiaires.",
       "date": "13/11/2026",
-      "url": "https://www.laprovence.com/article/economie/6778544039024214/inflation-en-france-elle-a-bien-atteint-3-4-sur-un-an-en-octobre-au-plus-haut-depuis-janvier-2024",
+      "url": "https://www.laprovence.com/article/economie/10132259866420/revalorisation-des-bas-salaires-des-fonctionnaires-sebastien-lecornu-ouvre-un-mois-de-discussions",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
         },
         {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Inflation",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Gouvernement refuse hausse prix médicaments : régulation sur coûts production",
-      "body": "Les laboratoires UPSA et Opella demandaient une hausse des prix du paracétamol pour compenser les coûts de production français, requête refusée par le gouvernement. Cette régulation stricte encadre la marge des secteurs industriels et pharmaceutiques en France.",
-      "impact": "Illustre la rigueur réglementaire française ; pertinent pour évaluer les risques de locaux tertiaires accueillant secteurs réglementés ou industriels.",
+      "title": "Inflation contenue : données stabilisées à 1.7% en novembre 2026",
+      "body": "L'inflation française reste modérée à 1.7% malgré les débats monétaires de la BCE. Les marchés de l'or reflètent cette volatilité court terme, mais le contexte de stabilité de prix profite aux investisseurs immobiliers.",
+      "impact": "Environnement favorable aux indexations loyers CRE PACA sur faibles révisions annuelles ; sécurité des rendements pour investisseurs institutionnels et SCPI.",
       "date": "13/11/2026",
-      "url": "https://www.laprovence.com/article/sante/6883377317292214/doliprane-dafalgan-les-laboratoires-demandent-une-hausse-du-prix-du-paracetamol-le-gouvernement-refuse",
+      "url": "https://www.laprovence.com/article/economie/89212753668127/cours-de-lor-pourquoi-les-investisseurs-le-surveillent-de-pres-fin-2026",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Inflation",
+          "cls": "tt"
         },
         {
-          "label": "Industrie",
-          "cls": "tg"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }

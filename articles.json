@@ -1,32 +1,32 @@
 {
-  "generated_at": "15/11/2026",
+  "generated_at": "16/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "CMA CGM affiche des résultats solides au T3 2026",
-      "body": "Le groupe CMA CGM a enregistré une forte croissance des volumes maritimes transportés, supérieure à celle du marché au troisième trimestre 2026. Cette dynamique portuaire et logistique bénéficie directement aux espaces d'activité et locaux de stockage de la région PACA.",
-      "impact": "Demande soutenue pour les locaux d'activité et espaces logistiques à Marseille, Port-de-Bouc et zones portuaires PACA.",
-      "date": "13/11/2026",
-      "url": "https://www.laprovence.com/article/economie/11133848054383/cma-cgm-presente-des-resultats-financiers-solides-au-3e-trimestre-2026",
+      "title": "STid innove en sécurité depuis Gréasque avec Architect II",
+      "body": "Le lecteur de badge haute sécurité Architect II, développé à Gréasque, révolutionne l'accès aux locaux avec une évolution logicielle sans changement de boîtier. Cette solution écologique et inclusive, déjà récompensée internationalement, intéresse directement les gestionnaires de parcs immobiliers tertiaires.",
+      "impact": "Pour les propriétaires/gestionnaires de bureaux et locaux d'activité PACA, cette technologie représente une valeur ajoutée pour moderniser l'accès sécurisé sans travaux lourds de restructuration.",
+      "date": "15/11/2026",
+      "url": "https://www.laprovence.com/article/economie/50047151738687/comment-stid-reinvente-le-lecteur-de-badge-haute-securite-depuis-greasque",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Logistique",
+          "label": "Immobilier tertiaire",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Arrêt du projet logistique Gemfi entre Berre et Rognac",
-      "body": "Le projet de plateforme logistique entre Berre et Rognac avec le groupe Gicram est abandonné après cinq ans de polémique, a annoncé le maire Christophe Gonzalez. Cette décision libère potentiellement des terrains et réduit la concurrence pour les autres projets d'activité dans l'étang de Berre.",
-      "impact": "Opportunité de redirection des besoins en espaces logistiques vers d'autres zones de l'étang de Berre et secteurs PACA disponibles.",
-      "date": "14/11/2026",
-      "url": "https://www.laprovence.com/article/economie/7146036765263914/le-projet-logistique-gemfi-c-est-fini-promet-christophe-gonzalez-maire-de-rognac",
+      "title": "BTP PACA : crise persistante en Alpes-de-Haute-Provence",
+      "body": "Le président de la Fédération du BTP des Alpes-de-Haute-Provence alerte sur une crise économique durable sans visibilité de sortie. Cette situation impacte directement l'investissement en rénovation et construction de locaux d'activité dans la région.",
+      "impact": "Les propriétaires CRE doivent anticiper une baisse des demandes de restructuration/rénovation et adapter leurs stratégies de valorisation de patrimoine.",
+      "date": "15/11/2026",
+      "url": "https://www.laprovence.com/article/region/60688671892446/une-crise-dont-on-ne-voit-pas-encore-la-sortie-l-alerte-du-president-du-btp-des-alpes-de-haute-provence",
       "source": "La Provence",
       "tags": [
         {
@@ -34,65 +34,65 @@
           "cls": "tp"
         },
         {
-          "label": "Activité",
-          "cls": "tm"
+          "label": "Conjoncture",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Revalorisation des bas salaires : +1 Mrd€ de dépenses publiques",
-      "body": "Le gouvernement annonce la revalorisation du Smic et des bas salaires des fonctionnaires, pour un coût de plus d'un milliard d'euros aux finances publiques selon le ministre David Amiel. Cette mesure améliore le pouvoir d'achat des employés du secteur public, potentiellement locataires de bureaux et espaces de travail.",
-      "impact": "Hausse des dépenses publiques peut influer sur les investissements immobiliers tertiaires et freiner les appels d'offres en locaux publics PACA.",
+      "title": "Gouvernement annonce revalorisation salariale pour fonctionnaires",
+      "body": "La revalorisation des bas salaires des fonctionnaires et du Smic coûtera plus d'un milliard d'euros aux finances publiques. Cette mesure augmente le pouvoir d'achat locatif dans le secteur public, principal occupant de bureaux PACA.",
+      "impact": "Les demandes de bureaux pour administrations et services publics PACA pourraient bénéficier d'une légère amélioration de la capacité de paiement des loyers.",
       "date": "15/11/2026",
       "url": "https://www.laprovence.com/article/economie/1290038561658514/revalorisation-des-bas-salaires-des-fonctionnaires-une-facture-de-plus-dun-milliard-deuros-pour-les-finances-publiques",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
+          "label": "Emploi/Salaires",
+          "cls": "tm"
         },
         {
-          "label": "Finances publiques",
-          "cls": "tr"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Château-Arnoux : manque d'hébergements malgré succès événementiel",
-      "body": "Le national féminin de pétanque (7-8 novembre) a mis en lumière l'insuffisance d'hébergements à Château-Arnoux-Saint-Auban malgré le succès de l'événement. La commune cherche à capitaliser sur cette opportunité économique pour développer offre touristique et commerciale.",
-      "impact": "Identification de besoins en commerces, services et locaux touristiques en zones événementielles PACA pour valorisation immobilière.",
-      "date": "15/11/2026",
-      "url": "https://www.laprovence.com/article/region/17643526798551/resoudre-le-manque-dhebergements-a-chateau-arnoux-saint-auban-devant-la-popularite-du-national-feminin-de-petanque",
+      "title": "Hynaero et son futur bombardier d'eau : enjeux industriels à Istres",
+      "body": "Le projet d'Hynaero pour un bombardier d'eau franco-européen pourrait connaître des évolutions selon l'origine des financements publics. La stabilité des emplois industriels à Istres dépend du soutien gouvernemental et de la localisation de la production.",
+      "impact": "Les demandes locales de locaux d'activité/industriels à proximité d'Istres pourraient être affectées par les décisions de financement européen et français pour ce programme stratégique.",
+      "date": "16/11/2026",
+      "url": "https://www.laprovence.com/article/ecoplanete/8791291547815114/bombardiers-deau-franco-europeens-le-projet-dhynaero-possible-futur-canadair-franco-europeen-pourrait-il-quitter-istres",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Industrie PACA",
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Emploi",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Calissons du Roy René : 100% amandes provençales en 2026",
-      "body": "Le calissonnier aixois atteint 100% d'approvisionnement en amandes provençales, renforçant Aix-en-Provence comme capitale française de l'amande. Cette dynamique de filière locale booste les activités commerciales et artisanales du centre-ville aixois.",
-      "impact": "Dynamique commerciale positive à Aix-en-Provence pour locaux retail et espaces artisanaux liés aux productions d'excellence régionales.",
-      "date": "13/11/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/7020390563953214/en-2026-les-calissons-du-roy-rene-d-aix-en-provence-atteignent-100-d-amandes-provencales",
-      "source": "La Provence",
+      "title": "Contexte de taux et financement immobilier stable",
+      "body": "L'Euribor 3M reste à 2.15% et les OAT à 3.70%, dans un contexte d'inflation mesurée à 1.7%. Ces niveaux de taux maintiennent un coût de financement modéré pour les acquisitions immobilières tertiaires.",
+      "impact": "Les investisseurs CRE PACA bénéficient toujours de conditions de financement favorables pour acquisitions et refinancement de portefeuilles bureaux/activité.",
+      "date": "16/11/2026",
+      "url": "https://www.laprovence.com/article/economie/3577441232583214/pourquoi-lor-monte",
+      "source": "La Provence - Données marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux/Financement",
+          "cls": "tt"
         },
         {
-          "label": "Commerce",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }
@@ -100,50 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "États-Unis : 16 000 vols annulés pour panne de communication",
-      "body": "Plus de 16 000 vols sont annulés vendredi et samedi aux États-Unis suite à une suspension rare des décollages pendant plusieurs heures, causée par une panne de communication. La FAA a supervisé l'incident majeur affectant le transport aérien américain.",
-      "impact": "Perturbation des chaînes logistiques internationales impactant potentiellement les délais et coûts de transactions immobilières d'entreprises export-importatrices PACA.",
-      "date": "14/11/2026",
-      "url": "https://www.laprovence.com/article/economie/37048504223341/etats-unis-plus-de-16-000-vols-annules-a-cause-dune-panne-de-communication-les-voyageurs-cloues-a-terre",
+      "title": "Perturbations aériennes USA impactent logistique européenne",
+      "body": "Plus de 18 000 vols annulés entre vendredi et samedi aux USA, avec retards persistants dimanche. Cette congestion affecte les chaînes logistiques et les délais d'acheminement pour les entreprises PACA.",
+      "impact": "Les demandes de locaux logistiques/distribution PACA peuvent bénéficier de relocalisations suite aux problèmes de transit aérien américain.",
+      "date": "15/11/2026",
+      "url": "https://www.laprovence.com/article/economie/8752671712230514/etats-unis-le-trafic-aerien-revient-progressivement-a-la-normale-apres-une-panne",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Géopolitique/Logistique",
           "cls": "tg"
+        },
+        {
+          "label": "Conjoncture",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France à 1.7% : contexte monétaire accommodant",
-      "body": "L'inflation française se stabilise à 1.7% en novembre 2026, soutenue par une politique monétaire accommodante de la BCE à 2.15%. Les taux OAT restent à 3.70%, offrant un environnement de financement favorable aux investissements immobiliers.",
-      "impact": "Coûts d'emprunt stables et compétitifs pour financer acquisitions et développements immobiliers entreprise PACA.",
-      "date": "15/11/2026",
-      "url": "https://donnees-bce.fr/inflation-france-2026",
-      "source": "Données Marché",
+      "title": "Marché de l'or : refuge face aux incertitudes économiques",
+      "body": "Le cours de l'or progresse grâce à la recherche de sécurité, les achats des banques centrales et l'évolution des taux d'intérêt. Cette dynamique reflète les inquiétudes des investisseurs face aux incertitudes macroéconomiques globales.",
+      "impact": "Les investisseurs immobiliers PACA doivent surveiller la volatilité des taux et réorienter leurs portefeuilles vers des actifs réels moins sensibles aux mouvements de devise.",
+      "date": "16/11/2026",
+      "url": "https://www.laprovence.com/article/economie/3577441232583214/pourquoi-lor-monte",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         },
         {
-          "label": "Taux",
+          "label": "Taux/Financement",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Euribor 3M à 2.15% : financement entreprise stable",
-      "body": "L'Euribor 3 mois s'établit à 2.15% en novembre 2026, aligné avec les taux directeurs de la BCE, offrant une stabilité des coûts de financement court terme. Les OAT à 3.70% reflètent une confiance modérée dans les obligations d'État.",
-      "impact": "Financement de transactions CRE et investissements immobiliers maintenu à coûts prévisibles pour les clients institutionnels et PME PACA.",
-      "date": "15/11/2026",
-      "url": "https://donnees-marche-taux.fr/euribor-oat-novembre-2026",
-      "source": "Données Marché",
+      "title": "BCE et contexte de taux : stabilité confirmée",
+      "body": "La BCE maintient son taux directeur à 2.15% dans un environnement d'inflation modérée à 1.7%. Les OAT françaises se stabilisent à 3.70%, confirmant une trajectoire prévisible pour l'année 2026.",
+      "impact": "Les acteurs CRE PACA peuvent compter sur une stabilité des conditions de financement pour planifier leurs acquisitions et refinancements à moyen terme.",
+      "date": "16/11/2026",
+      "url": "https://www.laprovence.com/article/economie/3577441232583214/pourquoi-lor-monte",
+      "source": "La Provence - Données marché BCE",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Taux/BCE",
           "cls": "tt"
+        },
+        {
+          "label": "Inflation",
+          "cls": "tm"
         }
       ]
     }

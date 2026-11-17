@@ -1,13 +1,13 @@
 {
-  "generated_at": "16/11/2026",
+  "generated_at": "17/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "STid innove en sécurité depuis Gréasque avec Architect II",
-      "body": "Le lecteur de badge haute sécurité Architect II, développé à Gréasque, révolutionne l'accès aux locaux avec une évolution logicielle sans changement de boîtier. Cette solution écologique et inclusive, déjà récompensée internationalement, intéresse directement les gestionnaires de parcs immobiliers tertiaires.",
-      "impact": "Pour les propriétaires/gestionnaires de bureaux et locaux d'activité PACA, cette technologie représente une valeur ajoutée pour moderniser l'accès sécurisé sans travaux lourds de restructuration.",
-      "date": "15/11/2026",
-      "url": "https://www.laprovence.com/article/economie/50047151738687/comment-stid-reinvente-le-lecteur-de-badge-haute-securite-depuis-greasque",
+      "title": "Transition énergétique et réindustrialisation en Provence",
+      "body": "Décideurs économiques et acteurs portuaires démontrent que réindustrialisation et décarbonation sont les deux faces d'une même souveraineté en région PACA. Cette convergence crée des opportunités pour les acteurs immobiliers d'activité alignés sur les enjeux de transition énergétique.",
+      "impact": "Les projets de locaux d'activité et bureaux en PACA doivent intégrer les critères de décarbonation pour capter les investisseurs stratégiques du secteur industriel et énergétique.",
+      "date": "16/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1023810119897315/reindustralisation-et-decarbonation-en-provence-le-grand-ecart-entre-vision-globale-et-ancrage-local",
       "source": "La Provence",
       "tags": [
         {
@@ -15,18 +15,18 @@
           "cls": "tp"
         },
         {
-          "label": "Immobilier tertiaire",
+          "label": "Marché",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "BTP PACA : crise persistante en Alpes-de-Haute-Provence",
-      "body": "Le président de la Fédération du BTP des Alpes-de-Haute-Provence alerte sur une crise économique durable sans visibilité de sortie. Cette situation impacte directement l'investissement en rénovation et construction de locaux d'activité dans la région.",
-      "impact": "Les propriétaires CRE doivent anticiper une baisse des demandes de restructuration/rénovation et adapter leurs stratégies de valorisation de patrimoine.",
-      "date": "15/11/2026",
-      "url": "https://www.laprovence.com/article/region/60688671892446/une-crise-dont-on-ne-voit-pas-encore-la-sortie-l-alerte-du-president-du-btp-des-alpes-de-haute-provence",
+      "title": "Engie accélère son empreinte solaire en PACA",
+      "body": "Un projet solaire sur deux dans la région est opéré par Engie, confirmant l'ancrage majeur du groupe énergétique en PACA. L'extension de projets d'hydrogène vert et du réseau Thassalia renforce la tertiarisation énergétique du territoire.",
+      "impact": "Les demandes de locaux tertiaires et d'activité doivent anticiper les besoins énergétiques des nouveaux projets solaires et hydrogène pour capter cette demande croissante.",
+      "date": "16/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1019528384840615/catherine-macgregor-directrice-generale-d-engie-un-projet-solaire-sur-deux-dans-la-region-est-opere-par-engie",
       "source": "La Provence",
       "tags": [
         {
@@ -34,65 +34,65 @@
           "cls": "tp"
         },
         {
-          "label": "Conjoncture",
+          "label": "Énergie",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "Gouvernement annonce revalorisation salariale pour fonctionnaires",
-      "body": "La revalorisation des bas salaires des fonctionnaires et du Smic coûtera plus d'un milliard d'euros aux finances publiques. Cette mesure augmente le pouvoir d'achat locatif dans le secteur public, principal occupant de bureaux PACA.",
-      "impact": "Les demandes de bureaux pour administrations et services publics PACA pourraient bénéficier d'une légère amélioration de la capacité de paiement des loyers.",
-      "date": "15/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1290038561658514/revalorisation-des-bas-salaires-des-fonctionnaires-une-facture-de-plus-dun-milliard-deuros-pour-les-finances-publiques",
+      "title": "Hausse des tarifs énergétiques : impact sur les charges locatives",
+      "body": "Le gaz s'apprête à flamber de près de 13% en deux mois, avec une nouvelle hausse prévue en décembre 2026. Cette augmentation affecte directement les charges d'exploitation des immeubles tertiaires et les budgets de transition des locataires.",
+      "impact": "Les transactions de bureaux et locaux d'activité en PACA doivent intégrer cette hausse énergétique dans les projections de rendement et proposer des solutions d'efficacité énergétique aux preneurs.",
+      "date": "17/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1028323308112415/on-resiste-le-defi-zero-chauffage-lance-sur-les-reseaux-sociaux-permet-il-vraiment-de-faire-des-economies",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Emploi/Salaires",
-          "cls": "tm"
-        },
-        {
           "label": "PACA",
           "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Hynaero et son futur bombardier d'eau : enjeux industriels à Istres",
-      "body": "Le projet d'Hynaero pour un bombardier d'eau franco-européen pourrait connaître des évolutions selon l'origine des financements publics. La stabilité des emplois industriels à Istres dépend du soutien gouvernemental et de la localisation de la production.",
-      "impact": "Les demandes locales de locaux d'activité/industriels à proximité d'Istres pourraient être affectées par les décisions de financement européen et français pour ce programme stratégique.",
-      "date": "16/11/2026",
-      "url": "https://www.laprovence.com/article/ecoplanete/8791291547815114/bombardiers-deau-franco-europeens-le-projet-dhynaero-possible-futur-canadair-franco-europeen-pourrait-il-quitter-istres",
+      "title": "Événementiel et attractivité commerciale en Provence",
+      "body": "La Chambre de commerce d'Arles organise Provence Prestige du 19 au 22 novembre 2026, marché de Noël aux couleurs des traditions locales. Cet événement renforce l'attractivité commerciale du centre-ville arlésien et démontre la vitalité du secteur retail régional.",
+      "impact": "Les petits commerces et espaces de vente en PACA doivent capitaliser sur ce calendrier événementiel pour optimiser leur positionnement et leurs négociations commerciales avant la fin d'année.",
+      "date": "17/11/2026",
+      "url": "https://www.laprovence.com/article/region/1022488039240815/provence-prestige-ouvre-la-saison-des-festivites-de-noel-a-arles",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Industrie PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Emploi",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Contexte de taux et financement immobilier stable",
-      "body": "L'Euribor 3M reste à 2.15% et les OAT à 3.70%, dans un contexte d'inflation mesurée à 1.7%. Ces niveaux de taux maintiennent un coût de financement modéré pour les acquisitions immobilières tertiaires.",
-      "impact": "Les investisseurs CRE PACA bénéficient toujours de conditions de financement favorables pour acquisitions et refinancement de portefeuilles bureaux/activité.",
-      "date": "16/11/2026",
-      "url": "https://www.laprovence.com/article/economie/3577441232583214/pourquoi-lor-monte",
-      "source": "La Provence - Données marché",
+      "title": "IA et tourisme : restructuration des besoins immobiliers",
+      "body": "Le plan d'actions 2027 du Comité régional de tourisme intègre l'IA, le changement climatique et les Jeux olympiques 2030 comme axes stratégiques. Cette mutation profonde du secteur touristique génère de nouveaux besoins en locaux pour services technologiques et hébergements décarbonés.",
+      "impact": "Les projets immobiliers touristiques et bureaux adossés au secteur doivent anticiper les mutations technologiques et les normes environnementales des JO 2030 pour capturer la demande de rénovation.",
+      "date": "17/11/2026",
+      "url": "https://www.laprovence.com/article/economie/11406539253358/ia-climat-et-jeux-olympiques-2030-au-menu-du-plan-dactions-touristique-regional",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux/Financement",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }
@@ -100,30 +100,11 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Perturbations aériennes USA impactent logistique européenne",
-      "body": "Plus de 18 000 vols annulés entre vendredi et samedi aux USA, avec retards persistants dimanche. Cette congestion affecte les chaînes logistiques et les délais d'acheminement pour les entreprises PACA.",
-      "impact": "Les demandes de locaux logistiques/distribution PACA peuvent bénéficier de relocalisations suite aux problèmes de transit aérien américain.",
-      "date": "15/11/2026",
-      "url": "https://www.laprovence.com/article/economie/8752671712230514/etats-unis-le-trafic-aerien-revient-progressivement-a-la-normale-apres-une-panne",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Géopolitique/Logistique",
-          "cls": "tg"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Marché de l'or : refuge face aux incertitudes économiques",
-      "body": "Le cours de l'or progresse grâce à la recherche de sécurité, les achats des banques centrales et l'évolution des taux d'intérêt. Cette dynamique reflète les inquiétudes des investisseurs face aux incertitudes macroéconomiques globales.",
-      "impact": "Les investisseurs immobiliers PACA doivent surveiller la volatilité des taux et réorienter leurs portefeuilles vers des actifs réels moins sensibles aux mouvements de devise.",
+      "title": "Transition énergétique et souveraineté économique française",
+      "body": "Économie et transition énergétique font front commun en Provence, avec réindustrialisation et décarbonation comme enjeux de souveraineté nationale. Cette convergence structurelle oriente l'allocation des investissements publics et privés vers les secteurs verts.",
+      "impact": "Les anticipations de taux d'intérêt et financements immobiliers doivent intégrer ce pivot stratégique français vers les actifs décarbonés pour maintenir une compétitivité d'emprunt.",
       "date": "16/11/2026",
-      "url": "https://www.laprovence.com/article/economie/3577441232583214/pourquoi-lor-monte",
+      "url": "https://www.laprovence.com/article/economie/93588357263858/on-na-plus-le-choix-en-provence-economie-et-transition-energetique-font-front-commun",
       "source": "La Provence",
       "tags": [
         {
@@ -131,27 +112,46 @@
           "cls": "tg"
         },
         {
-          "label": "Taux/Financement",
+          "label": "Énergie",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Stratégie énergétique Engie : ancrage régional et mix énergétique",
+      "body": "Engie renforce son positionnement en PACA avec un projet solaire sur deux opéré localement et développement de l'hydrogène vert. La patronne du groupe rassure sur les stocks de gaz hivernaux malgré la hausse tarifaire de 13% programmée.",
+      "impact": "Le contexte énergétique français reste stable malgré les hausses tarifaires, limitant le risque de choc inflationniste majeur sur les taux de financement immobilier avant fin 2026.",
+      "date": "16/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1019528384840615/catherine-macgregor-directrice-generale-d-engie-un-projet-solaire-sur-deux-dans-la-region-est-opere-par-engie",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Énergie",
+          "cls": "tg"
+        },
+        {
+          "label": "Inflation",
           "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE et contexte de taux : stabilité confirmée",
-      "body": "La BCE maintient son taux directeur à 2.15% dans un environnement d'inflation modérée à 1.7%. Les OAT françaises se stabilisent à 3.70%, confirmant une trajectoire prévisible pour l'année 2026.",
-      "impact": "Les acteurs CRE PACA peuvent compter sur une stabilité des conditions de financement pour planifier leurs acquisitions et refinancements à moyen terme.",
-      "date": "16/11/2026",
-      "url": "https://www.laprovence.com/article/economie/3577441232583214/pourquoi-lor-monte",
-      "source": "La Provence - Données marché BCE",
+      "title": "Innovation IA française : OVHcloud indépendant et rentable",
+      "body": "OVHcloud dévoile son modèle d'IA « Olala » sans levée de fonds supplémentaires, entraîné sur supercalculateurs européens avec capacités agentiques. Cette autonomie technologique française renforce la souveraineté numérique et réduit la dépendance aux modèles américains.",
+      "impact": "La montée en puissance de l'IA européenne stabilise les perspectives d'inflation technologique en France et crédibilise les investissements immobiliers en datacenters régionaux.",
+      "date": "17/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1018437637247615/lentreprise-francaise-ovhcloud-devoile-son-premier-modele-dia-baptise-olala",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux/BCE",
-          "cls": "tt"
+          "label": "Technologie",
+          "cls": "tg"
         },
         {
-          "label": "Inflation",
-          "cls": "tm"
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "17/11/2026",
+  "generated_at": "18/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Transition énergétique et réindustrialisation en Provence",
-      "body": "Décideurs économiques et acteurs portuaires démontrent que réindustrialisation et décarbonation sont les deux faces d'une même souveraineté en région PACA. Cette convergence crée des opportunités pour les acteurs immobiliers d'activité alignés sur les enjeux de transition énergétique.",
-      "impact": "Les projets de locaux d'activité et bureaux en PACA doivent intégrer les critères de décarbonation pour capter les investisseurs stratégiques du secteur industriel et énergétique.",
-      "date": "16/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1023810119897315/reindustralisation-et-decarbonation-en-provence-le-grand-ecart-entre-vision-globale-et-ancrage-local",
+      "title": "Industrie PACA en tension : recrutement et féminisation",
+      "body": "Face aux difficultés de recrutement, les industriels varois cherchent à attirer de nouveaux profils en promouvant les métiers techniques. Cette dynamique reflète une reprise d'activité dans le secteur manufacturier régional.",
+      "impact": "Opportunités de locaux d'activité pour les PME industrielles en expansion, secteur dynamique à Toulon et alentours.",
+      "date": "18/11/2026",
+      "url": "https://www.laprovence.com/article/societe/1102910935074715/metiers-en-tension-attractivite-mixite-comment-l-industrie-tente-de-seduire-les-jeunes-et-de-feminiser-ses-effectifs",
       "source": "La Provence",
       "tags": [
         {
@@ -22,30 +22,11 @@
     },
     {
       "id": "f2",
-      "title": "Engie accélère son empreinte solaire en PACA",
-      "body": "Un projet solaire sur deux dans la région est opéré par Engie, confirmant l'ancrage majeur du groupe énergétique en PACA. L'extension de projets d'hydrogène vert et du réseau Thassalia renforce la tertiarisation énergétique du territoire.",
-      "impact": "Les demandes de locaux tertiaires et d'activité doivent anticiper les besoins énergétiques des nouveaux projets solaires et hydrogène pour capter cette demande croissante.",
-      "date": "16/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1019528384840615/catherine-macgregor-directrice-generale-d-engie-un-projet-solaire-sur-deux-dans-la-region-est-opere-par-engie",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Énergie",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Hausse des tarifs énergétiques : impact sur les charges locatives",
-      "body": "Le gaz s'apprête à flamber de près de 13% en deux mois, avec une nouvelle hausse prévue en décembre 2026. Cette augmentation affecte directement les charges d'exploitation des immeubles tertiaires et les budgets de transition des locataires.",
-      "impact": "Les transactions de bureaux et locaux d'activité en PACA doivent intégrer cette hausse énergétique dans les projections de rendement et proposer des solutions d'efficacité énergétique aux preneurs.",
+      "title": "Marseille hub IA et souveraineté : nouvelle dynamique tertiaire",
+      "body": "Marseille s'affirme comme capitale de l'intelligence artificielle avec des débats structurants sur la souveraineté technologique et énergétique. Cette orientation stratégique crée une attractivité nouvelle pour les sièges et centres de décision.",
+      "impact": "Demande croissante d'espaces bureaux haut-de-gamme et centres innovants à Marseille pour attirer les acteurs de l'IA et tech.",
       "date": "17/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1028323308112415/on-resiste-le-defi-zero-chauffage-lance-sur-les-reseaux-sociaux-permet-il-vraiment-de-faire-des-economies",
+      "url": "https://www.laprovence.com/article/economie/1063268084152315/debat-consacree-a-la-souverainete-marseille-capitale-de-l-intelligence-artificielle",
       "source": "La Provence",
       "tags": [
         {
@@ -59,12 +40,12 @@
       ]
     },
     {
-      "id": "f4",
-      "title": "Événementiel et attractivité commerciale en Provence",
-      "body": "La Chambre de commerce d'Arles organise Provence Prestige du 19 au 22 novembre 2026, marché de Noël aux couleurs des traditions locales. Cet événement renforce l'attractivité commerciale du centre-ville arlésien et démontre la vitalité du secteur retail régional.",
-      "impact": "Les petits commerces et espaces de vente en PACA doivent capitaliser sur ce calendrier événementiel pour optimiser leur positionnement et leurs négociations commerciales avant la fin d'année.",
-      "date": "17/11/2026",
-      "url": "https://www.laprovence.com/article/region/1022488039240815/provence-prestige-ouvre-la-saison-des-festivites-de-noel-a-arles",
+      "id": "f3",
+      "title": "Saint-Chamas : PME de logistique alimentaire en expansion",
+      "body": "L'entreprise Marius de Saint-Chamas élargit son réseau de distribution avec une présence dans le TGV nouvelle génération dès le 6 novembre 2026. Cette croissance signale une dynamique positive du secteur de la logistique et commerce alimentaire en PACA.",
+      "impact": "Demande potentielle de locaux d'entreposage et commerce répartis entre zones portuaires et nœuds de transport TGV.",
+      "date": "18/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1121290727993815/les-boquotidiens-de-marius-l-epicerie-inspiree-de-saint-chamas-a-bord-du-tgv-nouvelle-generation",
       "source": "La Provence",
       "tags": [
         {
@@ -78,12 +59,31 @@
       ]
     },
     {
+      "id": "f4",
+      "title": "Transport aérien en crise : hausse des coûts et fiscalité",
+      "body": "Le transport aérien français subit une conjoncture difficile avec une augmentation de 13,6% des prix des billets en octobre 2026, générée par des surcoûts de retard (650M€) et une fiscalité accrue de 2-3Md€ en cinq ans. Cette dégradation impacte la connectivité aérienne régionale et la compétitivité des zones.",
+      "impact": "Risque de ralentissement du tourisme d'affaires en PACA ; réévaluer les stratégies de localisation pour secteurs sensibles à la mobilité.",
+      "date": "18/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1120423115868615/prix-des-billets-davion-kerosene-fiscalite-13-6-en-octobre-vos-futurs-voyages-sont-ils-compromis",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
       "id": "f5",
-      "title": "IA et tourisme : restructuration des besoins immobiliers",
-      "body": "Le plan d'actions 2027 du Comité régional de tourisme intègre l'IA, le changement climatique et les Jeux olympiques 2030 comme axes stratégiques. Cette mutation profonde du secteur touristique génère de nouveaux besoins en locaux pour services technologiques et hébergements décarbonés.",
-      "impact": "Les projets immobiliers touristiques et bureaux adossés au secteur doivent anticiper les mutations technologiques et les normes environnementales des JO 2030 pour capturer la demande de rénovation.",
-      "date": "17/11/2026",
-      "url": "https://www.laprovence.com/article/economie/11406539253358/ia-climat-et-jeux-olympiques-2030-au-menu-du-plan-dactions-touristique-regional",
+      "title": "Finances municipales PACA : stabilité mais vigilance macro",
+      "body": "Le bilan financier 2026 de Manosque montre des finances au vert avec prudence sur l'avenir économique. Cette posture reflète une tendance régionale : stabilité locale mais inquiétude face aux tensions externes.",
+      "impact": "Maintien d'une demande stable en locaux d'activité/commerces pour collectivités en équilibre budgétaire ; valoriser la stabilité locale.",
+      "date": "18/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1119452109874515/finances-au-vert-inquietudes-sur-l-avenir-le-maire-fait-le-bilan-lors-du-pre-conseil-municipal-a-manosque",
       "source": "La Provence",
       "tags": [
         {
@@ -100,11 +100,11 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Transition énergétique et souveraineté économique française",
-      "body": "Économie et transition énergétique font front commun en Provence, avec réindustrialisation et décarbonation comme enjeux de souveraineté nationale. Cette convergence structurelle oriente l'allocation des investissements publics et privés vers les secteurs verts.",
-      "impact": "Les anticipations de taux d'intérêt et financements immobiliers doivent intégrer ce pivot stratégique français vers les actifs décarbonés pour maintenir une compétitivité d'emprunt.",
-      "date": "16/11/2026",
-      "url": "https://www.laprovence.com/article/economie/93588357263858/on-na-plus-le-choix-en-provence-economie-et-transition-energetique-font-front-commun",
+      "title": "Souveraineté énergétique : nouvelle stratégie de préférence européenne",
+      "body": "Le débat du 17 novembre 2026 à Marseille confirme que la préférence européenne n'est plus un tabou pour résister aux dépendances internationales. Les entrepreneurs et décideurs intègrent cette dimension dans leurs stratégies d'approvisionnement et localisation.",
+      "impact": "Anticipation de relocalisations possibles et renforcement des chaînes courtes ; opportunités pour le commerce et services en PACA.",
+      "date": "17/11/2026",
+      "url": "https://www.laprovence.com/article/economie/22658253170560/debat-sur-la-souverainete-a-marseille-la-preference-europeenne-n-est-plus-un-gros-mot",
       "source": "La Provence",
       "tags": [
         {
@@ -119,11 +119,11 @@
     },
     {
       "id": "m2",
-      "title": "Stratégie énergétique Engie : ancrage régional et mix énergétique",
-      "body": "Engie renforce son positionnement en PACA avec un projet solaire sur deux opéré localement et développement de l'hydrogène vert. La patronne du groupe rassure sur les stocks de gaz hivernaux malgré la hausse tarifaire de 13% programmée.",
-      "impact": "Le contexte énergétique français reste stable malgré les hausses tarifaires, limitant le risque de choc inflationniste majeur sur les taux de financement immobilier avant fin 2026.",
-      "date": "16/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1019528384840615/catherine-macgregor-directrice-generale-d-engie-un-projet-solaire-sur-deux-dans-la-region-est-opere-par-engie",
+      "title": "Approvisionnement électrique France : stabilité hivernale confirmée",
+      "body": "Le gestionnaire RTE rassure sur l'absence de vigilance particulière requise pour l'hiver 2026-2027 malgré les prix élevés du gaz et tensions géopolitiques. La stabilité de l'approvisionnement électrique français est maintenue.",
+      "impact": "Coûts énergétiques élevés mais sécurisés pour les entreprises PACA ; anticiper hausse des charges sans rupture d'approvisionnement.",
+      "date": "18/11/2026",
+      "url": "https://www.laprovence.com/article/economie/97141530441752/approvisionnement-electrique-en-france-pas-de-vigilance-particuliere-pour-cet-hiver-rassure-le-gestionnaire",
       "source": "La Provence",
       "tags": [
         {
@@ -138,20 +138,20 @@
     },
     {
       "id": "m3",
-      "title": "Innovation IA française : OVHcloud indépendant et rentable",
-      "body": "OVHcloud dévoile son modèle d'IA « Olala » sans levée de fonds supplémentaires, entraîné sur supercalculateurs européens avec capacités agentiques. Cette autonomie technologique française renforce la souveraineté numérique et réduit la dépendance aux modèles américains.",
-      "impact": "La montée en puissance de l'IA européenne stabilise les perspectives d'inflation technologique en France et crédibilise les investissements immobiliers en datacenters régionaux.",
-      "date": "17/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1018437637247615/lentreprise-francaise-ovhcloud-devoile-son-premier-modele-dia-baptise-olala",
+      "title": "Conjoncture France : tensions inflationnistes modérées, vigilance budgétaire",
+      "body": "La Gen Z adopte le 'loud budgeting' pour gérer des contraintes financières accrues face à la 'friendflation'. Cette tendance reflète une compression des revenus disponibles et une prudence accrue du pouvoir d'achat français.",
+      "impact": "Demande résiliente mais prudente en espaces compacts et flex pour PME/start-ups ; valoriser la flexibilité tarifaire et durée.",
+      "date": "18/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1334334391278914/ce-nest-pas-dans-mon-budget-ce-mois-ci-avec-le-loud-budgeting-la-gen-z-brise-le-tabou-de-ne-pas-avoir-les-moyens",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Technologie",
-          "cls": "tg"
+          "label": "Inflation",
+          "cls": "tt"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     }

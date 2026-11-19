@@ -1,32 +1,32 @@
 {
-  "generated_at": "18/11/2026",
+  "generated_at": "19/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Industrie PACA en tension : recrutement et féminisation",
-      "body": "Face aux difficultés de recrutement, les industriels varois cherchent à attirer de nouveaux profils en promouvant les métiers techniques. Cette dynamique reflète une reprise d'activité dans le secteur manufacturier régional.",
-      "impact": "Opportunités de locaux d'activité pour les PME industrielles en expansion, secteur dynamique à Toulon et alentours.",
-      "date": "18/11/2026",
-      "url": "https://www.laprovence.com/article/societe/1102910935074715/metiers-en-tension-attractivite-mixite-comment-l-industrie-tente-de-seduire-les-jeunes-et-de-feminiser-ses-effectifs",
+      "title": "Revitalisation commerciale : Auriol redynamise son centre-ancien",
+      "body": "Le centre-ancien d'Auriol retrouve de l'attractivité avec l'ouverture de deux nouveaux commerces (modiste et artisanat) rue Paroisse, après des années de déprise marquées par des arrêtés de péril. Cette revitalisation du tissu commercial local illustre le potentiel de revalorisation des centres historiques provençaux.",
+      "impact": "Opportunité de transaction commerciale et artisanale en PACA : identifier les immeubles en mutation dans les centres anciens pour proposer des surfaces rénovées aux commerçants et créateurs.",
+      "date": "19/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1204907433781515/deux-nouveaux-commerces-ouvrent-dans-le-centre-ancien-d-auriol",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce PACA",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Marché local",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Marseille hub IA et souveraineté : nouvelle dynamique tertiaire",
-      "body": "Marseille s'affirme comme capitale de l'intelligence artificielle avec des débats structurants sur la souveraineté technologique et énergétique. Cette orientation stratégique crée une attractivité nouvelle pour les sièges et centres de décision.",
-      "impact": "Demande croissante d'espaces bureaux haut-de-gamme et centres innovants à Marseille pour attirer les acteurs de l'IA et tech.",
-      "date": "17/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1063268084152315/debat-consacree-a-la-souverainete-marseille-capitale-de-l-intelligence-artificielle",
+      "title": "Var : stratégie d'élargissement économique au-delà du tourisme balnéaire",
+      "body": "Var Tourisme, sous la présidence de Guillaume Decard, développe une stratégie de diversification territoriale axée sur le télétravail, la pleine nature et l'agritourisme pour désaisonnaliser l'économie varoise. Cette initiative vise à mieux répartir les retombées économiques sur l'ensemble du département.",
+      "impact": "Accélération attendue de la demande de bureaux et locaux d'activité en zones périurbaines et rurales du Var ; renforcer l'offre flex-office et co-working dans les petites villes.",
+      "date": "19/11/2026",
+      "url": "https://www.laprovence.com/article/economie/56679432921624/guillaume-decard-president-de-var-tourisme-le-var-des-terres-recele-encore-un-charme-meconnu",
       "source": "La Provence",
       "tags": [
         {
@@ -41,11 +41,11 @@
     },
     {
       "id": "f3",
-      "title": "Saint-Chamas : PME de logistique alimentaire en expansion",
-      "body": "L'entreprise Marius de Saint-Chamas élargit son réseau de distribution avec une présence dans le TGV nouvelle génération dès le 6 novembre 2026. Cette croissance signale une dynamique positive du secteur de la logistique et commerce alimentaire en PACA.",
-      "impact": "Demande potentielle de locaux d'entreposage et commerce répartis entre zones portuaires et nœuds de transport TGV.",
+      "title": "Var Tourisme consolide l'attractivité auprès du marché francilien",
+      "body": "Une boutique éphémère de 125 m² ouvre au Marais (Paris) du 19 au 29 novembre 2026, servant de vitrine commerciale aux producteurs, artisans et créateurs varois tout en renforçant la visibilité auprès des décideurs parisiens. Cette stratégie d'influence vise à transformer les liens capitaux-Var en leviers de développement économique.",
+      "impact": "Opportunité d'export-tertiaire pour les prestataires PACA : proposer des espaces événementiels et showroom éphémères aux professionnels régionaux pour accéder aux marchés franciliens.",
       "date": "18/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1121290727993815/les-boquotidiens-de-marius-l-epicerie-inspiree-de-saint-chamas-a-bord-du-tgv-nouvelle-generation",
+      "url": "https://www.laprovence.com/article/economie/19929084718355/le-departement-du-var-s-offre-une-vitrine-commerciale-au-coeur-du-marais-a-paris",
       "source": "La Provence",
       "tags": [
         {
@@ -60,11 +60,11 @@
     },
     {
       "id": "f4",
-      "title": "Transport aérien en crise : hausse des coûts et fiscalité",
-      "body": "Le transport aérien français subit une conjoncture difficile avec une augmentation de 13,6% des prix des billets en octobre 2026, générée par des surcoûts de retard (650M€) et une fiscalité accrue de 2-3Md€ en cinq ans. Cette dégradation impacte la connectivité aérienne régionale et la compétitivité des zones.",
-      "impact": "Risque de ralentissement du tourisme d'affaires en PACA ; réévaluer les stratégies de localisation pour secteurs sensibles à la mobilité.",
-      "date": "18/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1120423115868615/prix-des-billets-davion-kerosene-fiscalite-13-6-en-octobre-vos-futurs-voyages-sont-ils-compromis",
+      "title": "Hausse du coût automobile à Marseille : impact sur la mobilité professionnelle",
+      "body": "Le coût de possession d'une voiture à Marseille atteint des niveaux très élevés en raison des frais de carburant, assurance, stationnement et réparations, réduisant le pouvoir d'achat des actifs régionaux. Cette pression budgétaire incite à repenser les modes d'accès aux espaces professionnels et les solutions de mobilité alternative.",
+      "impact": "Valoriser la localisation des bureaux et activités en zones bien desservies en transports collectifs ; développer des offres de parking sécurisé et services de mobilité pour justifier les loyers à Marseille.",
+      "date": "19/11/2026",
+      "url": "https://www.laprovence.com/article/economie/5681874366313614/podcast-video-pourquoi-avoir-une-voiture-a-marseille-coute-aussi-cher-decouvrez-le-2e-episode-de-ca-roule-quentin",
       "source": "La Provence",
       "tags": [
         {
@@ -79,20 +79,20 @@
     },
     {
       "id": "f5",
-      "title": "Finances municipales PACA : stabilité mais vigilance macro",
-      "body": "Le bilan financier 2026 de Manosque montre des finances au vert avec prudence sur l'avenir économique. Cette posture reflète une tendance régionale : stabilité locale mais inquiétude face aux tensions externes.",
-      "impact": "Maintien d'une demande stable en locaux d'activité/commerces pour collectivités en équilibre budgétaire ; valoriser la stabilité locale.",
-      "date": "18/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1119452109874515/finances-au-vert-inquietudes-sur-l-avenir-le-maire-fait-le-bilan-lors-du-pre-conseil-municipal-a-manosque",
-      "source": "La Provence",
+      "title": "Euribor 3M stable à 2,15% : financement des acquisitions CRE inchangé",
+      "body": "L'Euribor 3 mois maintenu à 2,15% confirme la stabilité des conditions de financement court terme pour les transactions immobilières d'entreprise en PACA. Cette stabilité de taux favorise la planification des acquisitions de bureaux et locaux d'activité.",
+      "impact": "Profiter de la stabilité Euribor 2,15% pour sécuriser des offres de financement auprès des investisseurs PACA ; accélérer les montages de transaction avant d'éventuels mouvements de taux.",
+      "date": "19/11/2026",
+      "url": "https://www.laprovence.com/article/economie/marche-taux",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Taux Euribor",
+          "cls": "tt"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Financement",
+          "cls": "ti2"
         }
       ]
     }
@@ -100,11 +100,30 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Souveraineté énergétique : nouvelle stratégie de préférence européenne",
-      "body": "Le débat du 17 novembre 2026 à Marseille confirme que la préférence européenne n'est plus un tabou pour résister aux dépendances internationales. Les entrepreneurs et décideurs intègrent cette dimension dans leurs stratégies d'approvisionnement et localisation.",
-      "impact": "Anticipation de relocalisations possibles et renforcement des chaînes courtes ; opportunités pour le commerce et services en PACA.",
-      "date": "17/11/2026",
-      "url": "https://www.laprovence.com/article/economie/22658253170560/debat-sur-la-souverainete-a-marseille-la-preference-europeenne-n-est-plus-un-gros-mot",
+      "title": "Inégalités salariales : perte de pouvoir d'achat massale en fin d'année",
+      "body": "À partir du 19 novembre 2026 à 10h51, les femmes en France cessent symboliquement d'être payées jusqu'à fin d'année selon le calcul annuel des Glorieuses, basé sur les statistiques INSEE et Eurostat. Cette mesure illustre les écarts salariaux persistants impactant le pouvoir d'achat et la consommation de services tertiaires.",
+      "impact": "Contraction attendue de la demande locale de bureaux et locaux pour PME/TPE dirigées par des femmes ; adapter l'offre CRE aux contraintes de cash-flow des petites structures en fin d'exercice.",
+      "date": "19/11/2026",
+      "url": "https://www.laprovence.com/article/economie/61552218231602/inegalites-salariales-a-partir-de-ce-jeudi-19-novembre-a-10h51-les-femmes-travaillent-gratuitement",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Conjoncture",
+          "cls": "tg"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Crises géopolitiques : Armateurs de France alertent sur la compétitivité",
+      "body": "L'organisation professionnelle Armateurs de France lance un cri d'alarme aux candidats à la présidentielle concernant les impacts des crises géopolitiques sur la souveraineté et la compétitivité de la flotte française. Cette volatilité affecte les chaînes d'approvisionnement et les stratégies logistiques régionales.",
+      "impact": "Anticipation de hausses de coûts logistiques et transport : renégocier les clauses d'indexation dans les baux PACA et proposer des espaces logistiques alternatifs moins exposés aux ruptures géopolitiques.",
+      "date": "18/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1147667627800315/face-aux-crises-geopolitiques-armateurs-de-france-interpelle-les-candidats-a-la-presidentielle",
       "source": "La Provence",
       "tags": [
         {
@@ -118,40 +137,21 @@
       ]
     },
     {
-      "id": "m2",
-      "title": "Approvisionnement électrique France : stabilité hivernale confirmée",
-      "body": "Le gestionnaire RTE rassure sur l'absence de vigilance particulière requise pour l'hiver 2026-2027 malgré les prix élevés du gaz et tensions géopolitiques. La stabilité de l'approvisionnement électrique français est maintenue.",
-      "impact": "Coûts énergétiques élevés mais sécurisés pour les entreprises PACA ; anticiper hausse des charges sans rupture d'approvisionnement.",
-      "date": "18/11/2026",
-      "url": "https://www.laprovence.com/article/economie/97141530441752/approvisionnement-electrique-en-france-pas-de-vigilance-particuliere-pour-cet-hiver-rassure-le-gestionnaire",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Énergie",
-          "cls": "tg"
-        },
-        {
-          "label": "Inflation",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
       "id": "m3",
-      "title": "Conjoncture France : tensions inflationnistes modérées, vigilance budgétaire",
-      "body": "La Gen Z adopte le 'loud budgeting' pour gérer des contraintes financières accrues face à la 'friendflation'. Cette tendance reflète une compression des revenus disponibles et une prudence accrue du pouvoir d'achat français.",
-      "impact": "Demande résiliente mais prudente en espaces compacts et flex pour PME/start-ups ; valoriser la flexibilité tarifaire et durée.",
-      "date": "18/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1334334391278914/ce-nest-pas-dans-mon-budget-ce-mois-ci-avec-le-loud-budgeting-la-gen-z-brise-le-tabou-de-ne-pas-avoir-les-moyens",
-      "source": "La Provence",
+      "title": "BCE 2,15% et OAT 3,70% : contexte d'inflation modérée (1,7%)",
+      "body": "La Banque centrale européenne maintient ses taux directeurs à 2,15%, tandis que l'inflation France se stabilise à 1,7% et les OAT à 3,70%. Cette configuration monétaire restrictive mais stable soutient les rendements immobiliers d'entreprise en PACA face à une inflation contenue.",
+      "impact": "Renforcer la compétitivité des placements CRE PACA face aux obligations : mettre en avant les rendements nets (3,70% OAT vs. rendements immobiliers 4,5-5,5%) et la couverture inflation via l'immobilier.",
+      "date": "19/11/2026",
+      "url": "https://www.laprovence.com/article/economie/marche-taux-oat",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Inflation",
+          "label": "Taux OAT",
           "cls": "tt"
         },
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "Inflation",
+          "cls": "tg"
         }
       ]
     }

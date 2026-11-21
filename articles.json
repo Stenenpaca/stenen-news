@@ -1,17 +1,36 @@
 {
-  "generated_at": "20/11/2026",
+  "generated_at": "21/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Violences urbaines octobre : 207M€ de dégâts commerciaux en PACA",
-      "body": "Les pillages des 17-18 octobre ont généré 207 millions d'euros de dégâts selon France Assureurs, impactant directement le secteur du commerce. Les collectivités PACA mobilisent des aides jusqu'à 20 000€ par commerce pour soutenir les centres-villes.",
-      "impact": "Les propriétaires-bailleurs de locaux commerciaux PACA doivent anticiper les clauses de sécurité renforcées et dégâts civils dans les nouveaux baux post-octobre 2026.",
-      "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/economie/3120081887113514/violences-urbaines-du-17-octobre-combien-ont-coute-les-pillages-et-la-casse",
+      "title": "Arles : reconquête du centre-ville et dynamique commerciale locale",
+      "body": "Le troisième « Café de l'Éco » organisé par La Provence en partenariat avec la CCI du Pays d'Arles a réuni les acteurs clés du commerce local, hôtellerie, automobile et industrie autour d'une stratégie de revitalisation. Cette dynamique collective illustre les enjeux de redynamisation des centres commerciaux en PACA face aux mutations du retail.",
+      "impact": "Opportunité de valorisation de locaux commerciaux et bureaux en centre-ville d'Arles via les dispositifs de soutien au commerce local et les partenariats CCI.",
+      "date": "21/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1316110530307915/cafe-de-l-eco-la-provence-a-arles-reconquerir-les-habitants-en-centre-ville-pour-favoriser-l-economie-locale",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Commerce PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché local",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Marseille : événements gastronomiques et occupation immobilière",
+      "body": "Le Savim automne édition 38 a attiré une forte affluence au Palais Phocéen réaménagé, confirmant la dynamique du secteur événementiel et gastronomique marseillais. Ces manifestations structurantes génèrent une forte demande de surfaces commerciales et de locaux d'activité pour les exposants.",
+      "impact": "Demande accrue de locaux commerciaux temporaires et permanents à Marseille pour les acteurs du secteur gastronomique et événementiel.",
+      "date": "20/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1319211019120915/marseille-caverne-dali-baba-gourmande-et-festive-le-savim-fait-le-plein-de-saveurs-avant-les-fetes",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Marseille",
           "cls": "tp"
         },
         {
@@ -21,12 +40,12 @@
       ]
     },
     {
-      "id": "f2",
-      "title": "Airbnb durcit règles : impact sur modèle location courte durée PACA",
-      "body": "Airbnb impose à partir du 20 novembre 2026 de nouvelles règles interdisant certaines tâches ménagères aux locataires, rapprochant l'activité de l'hôtellerie traditionnelle. Cette régulation affecte la stratégie des propriétaires-investisseurs PACA en immobilier de loisirs.",
-      "impact": "Évaluer la distinction locaux d'activité loisirs vs locatifs classiques pour les transactions : les nouvelles règles Airbnb renforcent la fiscalité assimilée à l'hôtellerie.",
+      "id": "f3",
+      "title": "Handicap et emploi : inclusion en entreprise, impact immobilier RH",
+      "body": "L'Agefiph en PACA poursuit ses efforts pour démontrer la faisabilité de l'inclusion professionnelle dans tous les secteurs, face aux freins des idées reçues chez les employeurs. Cette dynamique renforce les exigences d'accessibilité et d'adaptation des espaces de travail dans les normes immobilières tertiaires.",
+      "impact": "Renforcement des critères d'accessibilité PMR et aménagement inclusif requis dans la transaction de bureaux en PACA, impactant valeur locative et compliance réglementaire.",
       "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/economie/15805645739022/airbnb-faire-la-vaisselle-sortir-les-poubelles-les-regles-qui-changent-a-partir-du-vendredi-20-novembre",
+      "url": "https://www.laprovence.com/article/economie/131674879930515/handicap-et-emploi-en-paca-les-entreprises-encore-freinees-par-les-idees-recues",
       "source": "La Provence",
       "tags": [
         {
@@ -40,16 +59,16 @@
       ]
     },
     {
-      "id": "f3",
-      "title": "Vitrolles : 400 entrepreneurs mobilisés pour dynamique PME-TPE locale",
-      "body": "Le 10e rendez-vous des entrepreneurs de Vitrolles a rassemblé plus de 400 visiteurs le 19 novembre, organisé par Vitropole Entreprendre en partenariat avec CCI et CMA. Cet événement reflète la vitalité du tissu entrepreneurial PACA.",
-      "impact": "Suivre la demande en locaux d'activité/bureaux PACA : forte mobilisation des PME-TPE indique une reprise potentielle des besoins en espaces flexibles et tertiaires.",
+      "id": "f4",
+      "title": "Istres : consolidation budgétaire 2027, visibilité réduite locataires",
+      "body": "Le conseil municipal d'Istres anticipe un débat d'orientation budgétaire avec des réductions budgétaires chiffrées à 5 millions d'euros pour 2027. Cette contraction budgétaire locale réduit les capacités d'investissement et peut impacter la demande de bureaux et locaux d'activité auprès de la collectivité.",
+      "impact": "Prudence recommandée sur les transactions publiques et para-publiques à Istres ; concentration sur secteur privé pour 2027.",
       "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/economie/66469899543706/le-10e-rendez-vous-des-entrepreneurs-de-vitrolles-a-attire-plus-de-400-visiteurs",
+      "url": "https://www.laprovence.com/article/politique/52473772096179/le-conseil-municipal-d-istres-anticipe-le-debat-dorientation-budgetaire-pour-avoir-une-meilleure-visibilite-sur-2027",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "Istres",
           "cls": "tp"
         },
         {
@@ -59,40 +78,21 @@
       ]
     },
     {
-      "id": "f4",
-      "title": "Cumul emploi-retraite 2027 : durcissement des règles d'âge strict",
-      "body": "À compter du 1er janvier 2027, l'État remplace le critère du taux plein par un barème d'âge strict pour encadrer les départs anticipés et maîtriser les dépenses publiques. Cette réforme impacte la consommation des actifs seniors et donc la demande tertiaire.",
-      "impact": "Anticiper une baisse des demandes de bureaux flex pour salariés seniors en fin de carrière : le durcissement du cumul emploi-retraite réduira les postes temps partiel.",
-      "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/economie/65092043170464/cumul-emploi-retraite-2027-nouvelles-regles-et-plafonds-de-la-reforme-ce-qui-change-a-compter-du-1er-janvier-2027",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Réglementation",
-          "cls": "tr"
-        },
-        {
-          "label": "Conjoncture",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
       "id": "f5",
-      "title": "Acomptes salaire explosent : crise du pouvoir d'achat en PACA",
-      "body": "Les demandes d'acomptes sur salaire explosent en France et en Provence en 2026, révélant une contraction nette du pouvoir d'achat face aux coûts bancaires élevés. Cette tendance de fond depuis 4 ans s'accélère et traduit une fragilité économique des salariés.",
-      "impact": "La détérioration du pouvoir d'achat des occupants PACA réduit les capacités de paiement tertiaire : anticiper des négociations plus tendues sur les loyers bureaux/activité 2027.",
+      "title": "Thalasso et services : diversification offre commerciale en PACA",
+      "body": "Le Black Friday 2026 élargit l'offre commerciale avec intégration de séjours thalasso et services de bien-être, révélant une mutation du commerce vers l'expérience et les services. Cette tendance redessine les profils de surfaces commerciales recherchées, au-delà du retail traditionnel.",
+      "impact": "Opportunité de valorisation de locaux commerciaux mixtes associant retail et services wellness en zones touristiques PACA.",
       "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/economie/66133003119832/acomptes-sur-salaire-du-jamais-vu-pourquoi-les-demandes-explosent-en-france-pour-boucler-les-fins-de-mois",
+      "url": "https://www.laprovence.com/article/partenaires/1310355579170915/thalasso-et-black-friday-les-tendances-qui-se-dessinent-en-2026",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Commerce",
+          "cls": "tm"
         },
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "Tendance marché",
+          "cls": "tp"
         }
       ]
     }
@@ -100,58 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "France : détérioration pouvoir d'achat et endettement salariés",
-      "body": "Les demandes d'acomptes salaire explosent depuis début 2026, révélant une crise du pouvoir d'achat structurelle et des coûts bancaires insoutenables. Cette fragilisation du revenu disponible impacte la consommation tertiaire et les décisions d'investissement immobilier.",
-      "impact": "Conjoncture France fragilisée : réduire les valuations tertiaires PACA de 3-5% et renforcer due diligence occupants sur stabilité financière.",
+      "title": "BCE : nomination Boone-Brunnermeier, orientation monétaire confirmée",
+      "body": "Laurence Boone (France) et Markus Brunnermeier (Allemagne) sont assurés d'intégrer le directoire de la Banque centrale européenne, confirmant une continuité dans l'orientation monétaire. Cette stabilité maintient les taux BCE à 2.15% et les OAT 10Y à 3.70%, soutenant un contexte de financement stable pour investisseurs CRE.",
+      "impact": "Maintien de la stabilité des taux de financement OAT-Euribor ; contexte favorable pour refinancement dette immobilière tertiaire PACA.",
       "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/economie/66133003119832/acomptes-sur-salaire-du-jamais-vu-pourquoi-les-demandes-explosent-en-france-pour-boucler-les-fins-de-mois",
+      "url": "https://www.laprovence.com/article/economie/1315763336950715/la-francaise-laurence-boone-et-l-allemand-markus-brunnermeier-assures-d-integrer-le-directoire-de-la-banque-centrale-europeenne",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tm"
+          "label": "BCE/Monétaire",
+          "cls": "tt"
         },
         {
-          "label": "France",
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Réformes sociales 2027 : impact emploi et demande tertiaire",
-      "body": "Cumul emploi-retraite durci (barème âge strict) et taxe lapin (amendement Sénat PLFSS) réduisent flexibilité marché du travail et consommation. Ces deux réformes simultanées contractent l'offre de travail et renforcent la fragilité économique des ménages.",
-      "impact": "Prévoir baisse -2 à -3% de la demande tertiaire flex en PACA 2027 : réformes réduisent mobilité emploi et capacité d'investissement tertiaire des PME.",
+      "title": "Vaucluse : continuité d'investissement public 2027, croissance régionale",
+      "body": "Le Département de Vaucluse confirme l'absence de pause budgétaire en 2027 et poursuit ses investissements selon le triptyque « investir, protéger, accompagner ». Cette dynamique publique locale soutient la conjoncture régionale PACA et les opportunités d'immobilier d'entreprise lié aux collectivités.",
+      "impact": "Opportunités maintenues de transactions publiques tertiaires et locaux d'activité en Vaucluse ; demande d'immobilier stable côté collectivités.",
       "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/sante/3330297810316514/taxe-lapin-c-est-quoi-cette-amende-en-cas-d-absence-a-un-rendez-vous-medicale-reintroduite-par-le-senat",
+      "url": "https://www.laprovence.com/article/region/3449046303088214/debat-dorientation-budgetaire-en-2027-le-departement-de-vaucluse-ne-connaitra-pas-de-pause",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Conjoncture régionale",
+          "cls": "tg"
         },
         {
-          "label": "France",
-          "cls": "tg"
+          "label": "PACA",
+          "cls": "tp"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Taux et financement : contexte stable OAT 3.70%, Euribor 2.15%",
-      "body": "Le contexte de taux reste stable (OAT 3.70%, Euribor3M 2.15%, BCE 2.15%) avec inflation modérée 1.7%, soutenant les conditions de financement tertiaire en PACA. L'absence de choc monétaire maintient la prévisibilité des coûts d'emprunt pour investisseurs CRE.",
-      "impact": "Profiter de stabilité taux pour verrouiller financements 2027 : configuration OAT/Euribor favorable aux acquisitions tertiaires PACA avant potentiel resserrement Q1 2027.",
-      "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/economie",
+      "title": "Contexte macroéconomique stable : inflation 1.7%, Euribor 2.15%, Brent 96USD",
+      "body": "L'inflation française modérée à 1.7%, conjuguée à une stabilité des taux (Euribor 3M à 2.15%, OAT 10Y à 3.70%), maintient un environnement de financement prévisible. Le Brent à 96 USD/baril stabilise les coûts énergétiques des immeubles tertiaires en PACA.",
+      "impact": "Environnement macroéconomique favorable aux investisseurs CRE PACA : taux stables, inflation maîtrisée, coûts énergétiques stabilisés.",
+      "date": "21/11/2026",
+      "url": "https://www.laprovence.com/article/economie/4098727414232414/marseille-la-bouillabaisse-va-conquerir-singapour-avant-un-championnat-de-france-l-an-prochain-dans-la-cite-phoceenne",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux",
+          "label": "Taux/Financement",
           "cls": "tt"
         },
         {
-          "label": "Financement",
-          "cls": "ti2"
+          "label": "Énergie",
+          "cls": "tg"
         }
       ]
     }

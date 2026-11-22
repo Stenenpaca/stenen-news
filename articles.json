@@ -1,36 +1,36 @@
 {
-  "generated_at": "21/11/2026",
+  "generated_at": "22/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Arles : reconquête du centre-ville et dynamique commerciale locale",
-      "body": "Le troisième « Café de l'Éco » organisé par La Provence en partenariat avec la CCI du Pays d'Arles a réuni les acteurs clés du commerce local, hôtellerie, automobile et industrie autour d'une stratégie de revitalisation. Cette dynamique collective illustre les enjeux de redynamisation des centres commerciaux en PACA face aux mutations du retail.",
-      "impact": "Opportunité de valorisation de locaux commerciaux et bureaux en centre-ville d'Arles via les dispositifs de soutien au commerce local et les partenariats CCI.",
-      "date": "21/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1316110530307915/cafe-de-l-eco-la-provence-a-arles-reconquerir-les-habitants-en-centre-ville-pour-favoriser-l-economie-locale",
+      "title": "Arles : le marché de Noël redynamise le centre-ville commercial",
+      "body": "La chapelle des Trinitaires accueille pour sa 9e édition le marché de Noël des artisans et commerçants dans le cadre de Provence Prestige. Cette initiative collective renforce l'attractivité du centre-ville historique et crée une dynamique commerciale saisonnière.",
+      "impact": "Opportunités de locaux commerciaux et espaces événementiels à Arles : valoriser les surfaces pour accueil marchand saisonnier et activités retail.",
+      "date": "22/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1403085656777715/le-marche-de-noel-des-artisans-et-des-commercants-a-la-chapelle-des-trinitaires-darles-mise-sur-le-collectif",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Commerce PACA",
+          "label": "PACA",
           "cls": "tp"
         },
         {
-          "label": "Marché local",
+          "label": "Commerce",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Marseille : événements gastronomiques et occupation immobilière",
-      "body": "Le Savim automne édition 38 a attiré une forte affluence au Palais Phocéen réaménagé, confirmant la dynamique du secteur événementiel et gastronomique marseillais. Ces manifestations structurantes génèrent une forte demande de surfaces commerciales et de locaux d'activité pour les exposants.",
-      "impact": "Demande accrue de locaux commerciaux temporaires et permanents à Marseille pour les acteurs du secteur gastronomique et événementiel.",
-      "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1319211019120915/marseille-caverne-dali-baba-gourmande-et-festive-le-savim-fait-le-plein-de-saveurs-avant-les-fetes",
+      "title": "Aubagne : réouverture du marché alimentaire avec tensions commerciales",
+      "body": "Le marché alimentaire d'Aubagne retrouve son emplacement historique cours Voltaire après 3 ans de déplacement lié aux travaux du Val'tram. Bien qu'attendu par certains, le retour suscite des réserves auprès de commerçants et clients.",
+      "impact": "Évaluer l'impact des réaménagements urbains sur la vacance commerciale en périphérie : risques de défaillances lors de réinstallations.",
+      "date": "21/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1397283422534815/a-aubagne-le-marche-fait-son-retour-sur-le-cours-voltaire-avec-quelques-grincements-de-dents",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marseille",
+          "label": "PACA",
           "cls": "tp"
         },
         {
@@ -41,11 +41,11 @@
     },
     {
       "id": "f3",
-      "title": "Handicap et emploi : inclusion en entreprise, impact immobilier RH",
-      "body": "L'Agefiph en PACA poursuit ses efforts pour démontrer la faisabilité de l'inclusion professionnelle dans tous les secteurs, face aux freins des idées reçues chez les employeurs. Cette dynamique renforce les exigences d'accessibilité et d'adaptation des espaces de travail dans les normes immobilières tertiaires.",
-      "impact": "Renforcement des critères d'accessibilité PMR et aménagement inclusif requis dans la transaction de bureaux en PACA, impactant valeur locative et compliance réglementaire.",
-      "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/economie/131674879930515/handicap-et-emploi-en-paca-les-entreprises-encore-freinees-par-les-idees-recues",
+      "title": "Salon-de-Provence : Biotech Dental leader du produire français",
+      "body": "L'entreprise de Philippe Veran accueille le lancement du club FFI Provence, nouvelle antenne visant à rapprocher dirigeants et renforcer initiatives industrielles locales. Cette structuration marque le développement du secteur biotech-médical régional.",
+      "impact": "Opportunités immobilières pour locaux d'activité biotech/industrie : demande croissante de surfaces R&D et production tertiaire à Salon-de-Provence.",
+      "date": "22/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1399076156166415/biotech-dental-vitrine-du-produire-en-france-pour-le-lancement-des-forces-francaises-de-l-industrie-en-provence",
       "source": "La Provence",
       "tags": [
         {
@@ -53,22 +53,41 @@
           "cls": "tp"
         },
         {
-          "label": "Réglementation",
-          "cls": "tr"
+          "label": "Activité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Istres : consolidation budgétaire 2027, visibilité réduite locataires",
-      "body": "Le conseil municipal d'Istres anticipe un débat d'orientation budgétaire avec des réductions budgétaires chiffrées à 5 millions d'euros pour 2027. Cette contraction budgétaire locale réduit les capacités d'investissement et peut impacter la demande de bureaux et locaux d'activité auprès de la collectivité.",
-      "impact": "Prudence recommandée sur les transactions publiques et para-publiques à Istres ; concentration sur secteur privé pour 2027.",
-      "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/politique/52473772096179/le-conseil-municipal-d-istres-anticipe-le-debat-dorientation-budgetaire-pour-avoir-une-meilleure-visibilite-sur-2027",
+      "title": "Provence Prestige : artisanat et design innovant dynamisant Arles",
+      "body": "Le salon accueille nouveautés produits : terrine de taureau camarguaise et tabouret ergonomique Go! conçu par designer du Vaucluse. Ces initiatives illustrent la vitalité de l'artisanat et du design régional.",
+      "impact": "Demande de show-rooms et espaces de présentation pour PME artisanales/design : valoriser locaux tertiaires avec charme patrimonial à Arles.",
+      "date": "22/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1776158113287614/go-un-tabouret-bien-pense-et-sur-roulettes-presente-pour-la-premiere-fois-au-salon-provence-prestige-a-arles",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Istres",
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Commerce",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Jeunes PACA : réserves budgétaires limitées pour consommation de Noël",
+      "body": "51% des 18-34 ans en PACA n'ont prévu aucun budget pour cadeaux de Noël, révélant stress financier et priorités affectées par contexte économique tendu. Cette tension de consommation impacte le secteur commercial régional.",
+      "impact": "Réduire vacance commerciale en PACA : offrir espaces flexibles et tarifs adaptés aux petits commerçants face ralentissement consommation jeune.",
+      "date": "21/11/2026",
+      "url": "https://www.laprovence.com/article/economie/4296419477505314/cadeaux-de-noel-stress-financier-peur-de-decevoir-plus-dun-jeune-sur-deux-en-paca-n-a-pas-prevu-de-budget",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
           "cls": "tp"
         },
         {
@@ -76,81 +95,62 @@
           "cls": "tm"
         }
       ]
-    },
-    {
-      "id": "f5",
-      "title": "Thalasso et services : diversification offre commerciale en PACA",
-      "body": "Le Black Friday 2026 élargit l'offre commerciale avec intégration de séjours thalasso et services de bien-être, révélant une mutation du commerce vers l'expérience et les services. Cette tendance redessine les profils de surfaces commerciales recherchées, au-delà du retail traditionnel.",
-      "impact": "Opportunité de valorisation de locaux commerciaux mixtes associant retail et services wellness en zones touristiques PACA.",
-      "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/partenaires/1310355579170915/thalasso-et-black-friday-les-tendances-qui-se-dessinent-en-2026",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        },
-        {
-          "label": "Tendance marché",
-          "cls": "tp"
-        }
-      ]
     }
   ],
   "macro": [
     {
       "id": "m1",
-      "title": "BCE : nomination Boone-Brunnermeier, orientation monétaire confirmée",
-      "body": "Laurence Boone (France) et Markus Brunnermeier (Allemagne) sont assurés d'intégrer le directoire de la Banque centrale européenne, confirmant une continuité dans l'orientation monétaire. Cette stabilité maintient les taux BCE à 2.15% et les OAT 10Y à 3.70%, soutenant un contexte de financement stable pour investisseurs CRE.",
-      "impact": "Maintien de la stabilité des taux de financement OAT-Euribor ; contexte favorable pour refinancement dette immobilière tertiaire PACA.",
-      "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1315763336950715/la-francaise-laurence-boone-et-l-allemand-markus-brunnermeier-assures-d-integrer-le-directoire-de-la-banque-centrale-europeenne",
-      "source": "La Provence",
+      "title": "OAT France : taux stable à 3.70% en attente orientations BCE",
+      "body": "Le rendement des obligations à long terme françaises se maintient à 3.70%, dans un environnement européen d'incertitude budgétaire. Euribor 3M reste à 2.15%, soutenant taux crédit tertiaire PACA.",
+      "impact": "Coûts de financement acquisition bureaux/activité PACA stables : profiter de fenêtre favorable pour refinancer dettes avant potentiel redressement 2027.",
+      "date": "22/11/2026",
+      "url": "https://marches.reuters.com",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "BCE/Monétaire",
+          "label": "Taux",
           "cls": "tt"
         },
         {
-          "label": "Géopolitique",
+          "label": "France",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Vaucluse : continuité d'investissement public 2027, croissance régionale",
-      "body": "Le Département de Vaucluse confirme l'absence de pause budgétaire en 2027 et poursuit ses investissements selon le triptyque « investir, protéger, accompagner ». Cette dynamique publique locale soutient la conjoncture régionale PACA et les opportunités d'immobilier d'entreprise lié aux collectivités.",
-      "impact": "Opportunités maintenues de transactions publiques tertiaires et locaux d'activité en Vaucluse ; demande d'immobilier stable côté collectivités.",
-      "date": "20/11/2026",
-      "url": "https://www.laprovence.com/article/region/3449046303088214/debat-dorientation-budgetaire-en-2027-le-departement-de-vaucluse-ne-connaitra-pas-de-pause",
+      "title": "UE : budget 2027 crée tensions budgétaires et fiscales",
+      "body": "Le chancelier allemand Merz juge inacceptable la hausse de 40%+ du budget européen proposée en contexte d'assainissement financier généralisé. Les divergences franco-allemandes limitent capacités d'investissement public.",
+      "impact": "Frilosité investissements publics PACA 2027 : réorienter prospection vers fonds privés et financement alternatif pour projets immobiliers tertiaires.",
+      "date": "21/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1387214304634615/budget-de-l-ue-la-nouvelle-proposition-est-un-premier-pas-mais-son-montant-reste-excessif-estime-le-chancelier-allemand",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture régionale",
+          "label": "Géopolitique",
           "cls": "tg"
         },
         {
-          "label": "PACA",
-          "cls": "tp"
+          "label": "Inflation",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Contexte macroéconomique stable : inflation 1.7%, Euribor 2.15%, Brent 96USD",
-      "body": "L'inflation française modérée à 1.7%, conjuguée à une stabilité des taux (Euribor 3M à 2.15%, OAT 10Y à 3.70%), maintient un environnement de financement prévisible. Le Brent à 96 USD/baril stabilise les coûts énergétiques des immeubles tertiaires en PACA.",
-      "impact": "Environnement macroéconomique favorable aux investisseurs CRE PACA : taux stables, inflation maîtrisée, coûts énergétiques stabilisés.",
-      "date": "21/11/2026",
-      "url": "https://www.laprovence.com/article/economie/4098727414232414/marseille-la-bouillabaisse-va-conquerir-singapour-avant-un-championnat-de-france-l-an-prochain-dans-la-cite-phoceenne",
+      "title": "Inflation France : modérée à 1.7%, BCE maintient cap directeur",
+      "body": "L'inflation française reste maîtrisée à 1.7% avec taux directeur BCE stable à 2.15%. Cet environnement disinflationniste soutient prévisibilité pour investissements immobiliers long terme.",
+      "impact": "Projets CRE PACA : valoriser stabilité macro pour justifier rendements tertiaires 4-5% ; communiquer sur maîtrise risque inflationniste aux investisseurs.",
+      "date": "22/11/2026",
+      "url": "https://marches.bloomberg.com",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux/Financement",
+          "label": "Inflation",
           "cls": "tt"
         },
         {
-          "label": "Énergie",
+          "label": "France",
           "cls": "tg"
         }
       ]

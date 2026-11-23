@@ -1,89 +1,13 @@
 {
-  "generated_at": "22/11/2026",
+  "generated_at": "23/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Arles : le marché de Noël redynamise le centre-ville commercial",
-      "body": "La chapelle des Trinitaires accueille pour sa 9e édition le marché de Noël des artisans et commerçants dans le cadre de Provence Prestige. Cette initiative collective renforce l'attractivité du centre-ville historique et crée une dynamique commerciale saisonnière.",
-      "impact": "Opportunités de locaux commerciaux et espaces événementiels à Arles : valoriser les surfaces pour accueil marchand saisonnier et activités retail.",
-      "date": "22/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1403085656777715/le-marche-de-noel-des-artisans-et-des-commercants-a-la-chapelle-des-trinitaires-darles-mise-sur-le-collectif",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Aubagne : réouverture du marché alimentaire avec tensions commerciales",
-      "body": "Le marché alimentaire d'Aubagne retrouve son emplacement historique cours Voltaire après 3 ans de déplacement lié aux travaux du Val'tram. Bien qu'attendu par certains, le retour suscite des réserves auprès de commerçants et clients.",
-      "impact": "Évaluer l'impact des réaménagements urbains sur la vacance commerciale en périphérie : risques de défaillances lors de réinstallations.",
-      "date": "21/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1397283422534815/a-aubagne-le-marche-fait-son-retour-sur-le-cours-voltaire-avec-quelques-grincements-de-dents",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Salon-de-Provence : Biotech Dental leader du produire français",
-      "body": "L'entreprise de Philippe Veran accueille le lancement du club FFI Provence, nouvelle antenne visant à rapprocher dirigeants et renforcer initiatives industrielles locales. Cette structuration marque le développement du secteur biotech-médical régional.",
-      "impact": "Opportunités immobilières pour locaux d'activité biotech/industrie : demande croissante de surfaces R&D et production tertiaire à Salon-de-Provence.",
-      "date": "22/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1399076156166415/biotech-dental-vitrine-du-produire-en-france-pour-le-lancement-des-forces-francaises-de-l-industrie-en-provence",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Activité",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Provence Prestige : artisanat et design innovant dynamisant Arles",
-      "body": "Le salon accueille nouveautés produits : terrine de taureau camarguaise et tabouret ergonomique Go! conçu par designer du Vaucluse. Ces initiatives illustrent la vitalité de l'artisanat et du design régional.",
-      "impact": "Demande de show-rooms et espaces de présentation pour PME artisanales/design : valoriser locaux tertiaires avec charme patrimonial à Arles.",
-      "date": "22/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1776158113287614/go-un-tabouret-bien-pense-et-sur-roulettes-presente-pour-la-premiere-fois-au-salon-provence-prestige-a-arles",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Jeunes PACA : réserves budgétaires limitées pour consommation de Noël",
-      "body": "51% des 18-34 ans en PACA n'ont prévu aucun budget pour cadeaux de Noël, révélant stress financier et priorités affectées par contexte économique tendu. Cette tension de consommation impacte le secteur commercial régional.",
-      "impact": "Réduire vacance commerciale en PACA : offrir espaces flexibles et tarifs adaptés aux petits commerçants face ralentissement consommation jeune.",
-      "date": "21/11/2026",
-      "url": "https://www.laprovence.com/article/economie/4296419477505314/cadeaux-de-noel-stress-financier-peur-de-decevoir-plus-dun-jeune-sur-deux-en-paca-n-a-pas-prevu-de-budget",
+      "title": "Choose France : +1Md€ d'investissements en PACA portés par secteurs verts",
+      "body": "Le sommet Choose France affiche plus de 42 milliards d'euros de projets nationaux, dont plus d'un milliard en région PACA, principalement dans l'industrie verte et la santé. Cette dynamique d'investissement redéploie les capacités immobilières tertiaires régionales vers les secteurs stratégiques.",
+      "impact": "Opportunités de transaction bureaux/activité pour les entreprises green-tech et biotech en PACA ; demande croissante d'espaces flexibles pour accueillir ces nouveaux investisseurs.",
+      "date": "23/11/2026",
+      "url": "https://www.laprovence.com/article/economie/11537075480755/choose-france-plus-d-un-milliard-d-euros-d-investissements-attendus-en-paca-portes-par-l-industrie-verte-et-la-sante",
       "source": "La Provence",
       "tags": [
         {
@@ -95,16 +19,71 @@
           "cls": "tm"
         }
       ]
-    }
-  ],
-  "macro": [
+    },
     {
-      "id": "m1",
-      "title": "OAT France : taux stable à 3.70% en attente orientations BCE",
-      "body": "Le rendement des obligations à long terme françaises se maintient à 3.70%, dans un environnement européen d'incertitude budgétaire. Euribor 3M reste à 2.15%, soutenant taux crédit tertiaire PACA.",
-      "impact": "Coûts de financement acquisition bureaux/activité PACA stables : profiter de fenêtre favorable pour refinancer dettes avant potentiel redressement 2027.",
-      "date": "22/11/2026",
-      "url": "https://marches.reuters.com",
+      "id": "f2",
+      "title": "Lab des Repreneuses : nouvelle dynamique TPME à Marseille",
+      "body": "Le 3 décembre 2026, Grand Central à Marseille accueille le 'Lab des Repreneuses' pour accompagner les femmes en reconversion dans la reprise d'entreprises. Cette initiative cible les TPE rentables en mal de successeurs, segment actif du marché secondaire PACA.",
+      "impact": "Renforcement de l'offre de petits locaux commerciaux et d'activité via reprises entrepreneuriales féminines ; potentiel transactions moyen terme sur immobilier de proximité marseillais.",
+      "date": "23/11/2026",
+      "url": "https://www.laprovence.com/article/economie/19351704932495/reprendre-une-entreprise-quand-on-est-une-femme-participez-au-lab-des-repreneuses-a-grand-central-a-marseille",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "NGE certifié Great Place to Work : nouvelle norme flex-office régionale",
+      "body": "Le groupe NGE de Saint-Étienne-du-Grès devient le premier acteur français du BTP certifié Great Place to Work à cette échelle, traduisant une évolution des normes de bien-être en milieu de travail. Cette certification impacte les attentes des occupants bureaux/activité en PACA.",
+      "impact": "Hausse de la demande d'espaces collaboratifs modulables et durables ; valorisation des immeubles tertiaires offrant certification bien-être et flex-office.",
+      "date": "23/11/2026",
+      "url": "https://www.laprovence.com/article/economie/148461972768115/saint-etienne-du-gres-labellise-great-place-to-work-nge-un-groupe-ou-il-fait-bon-travailler",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Flex-office",
+          "cls": "ti2"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Airbus Marignane valorise formation aéronautique PACA",
+      "body": "Romain Mercieca, apprenti chez Airbus à Marignane, est sacré Meilleur Apprenti de France section structure, illustrant la vitalité du pôle aéronautique régional. Ce succès renforce l'attractivité des locaux d'activité pour les ETI industrielles.",
+      "impact": "Pérennité de la demande immobilière pour les sites Airbus PACA ; reconduction d'espaces d'atelier/production performants dans la région.",
+      "date": "23/11/2026",
+      "url": "https://www.laprovence.com/article/economie/20459980010286/en-apprentissage-chez-airbus-a-marignane-romain-mercieca-est-sacre-meilleur-apprenti-de-france",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Euribor 3M stable 2.15% : financement crédit immobilier soutenu",
+      "body": "Euribor 3 mois maintenu à 2.15% dans le contexte macroéconomique actuel. Les taux de crédit pour acquisitions CRE restent accessibles malgré OAT 10Y à 3.70%.",
+      "impact": "Profitabilité des dossiers de transaction bureaux/activité consolidée ; financement tiers reste favorable pour ETI/PME PACA en phase de restructuration immobilière.",
+      "date": "23/11/2026",
+      "url": "https://www.laprovence.com/article/economie/0",
       "source": "Données marché",
       "tags": [
         {
@@ -112,37 +91,39 @@
           "cls": "tt"
         },
         {
-          "label": "France",
+          "label": "Financement",
+          "cls": "tt"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "id": "m1",
+      "title": "Choose France 2026 : 14.9Md€ nouveaux investissements annoncés",
+      "body": "L'Élysée affiche 81 projets inédits pour un total de 14.9 milliards d'euros d'investissements, mobilisant secteurs santé, cosmétique et biocarburants. Cette séquence poursuit la stratégie d'attraction des investissements étrangers.",
+      "impact": "Renforcement du climat d'affaires français ; accélération de la tertiarisation et demande immobilière bureaux pour sièges/R&D secteurs prioritaires.",
+      "date": "22/11/2026",
+      "url": "https://www.laprovence.com/article/economie/2681894065015214/choose-france-pres-de-15-milliards-d-euros-d-investissements-nouveaux-annonce-l-elysee",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Conjoncture",
           "cls": "tg"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "UE : budget 2027 crée tensions budgétaires et fiscales",
-      "body": "Le chancelier allemand Merz juge inacceptable la hausse de 40%+ du budget européen proposée en contexte d'assainissement financier généralisé. Les divergences franco-allemandes limitent capacités d'investissement public.",
-      "impact": "Frilosité investissements publics PACA 2027 : réorienter prospection vers fonds privés et financement alternatif pour projets immobiliers tertiaires.",
-      "date": "21/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1387214304634615/budget-de-l-ue-la-nouvelle-proposition-est-un-premier-pas-mais-son-montant-reste-excessif-estime-le-chancelier-allemand",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Géopolitique",
-          "cls": "tg"
-        },
-        {
-          "label": "Inflation",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "m3",
-      "title": "Inflation France : modérée à 1.7%, BCE maintient cap directeur",
-      "body": "L'inflation française reste maîtrisée à 1.7% avec taux directeur BCE stable à 2.15%. Cet environnement disinflationniste soutient prévisibilité pour investissements immobiliers long terme.",
-      "impact": "Projets CRE PACA : valoriser stabilité macro pour justifier rendements tertiaires 4-5% ; communiquer sur maîtrise risque inflationniste aux investisseurs.",
-      "date": "22/11/2026",
-      "url": "https://marches.bloomberg.com",
+      "title": "Inflation France 1.7% : contexte favorable BCE 2.15%",
+      "body": "L'inflation française reste contrôlée à 1.7% et la BCE maintient ses taux directeurs à 2.15%. Ce contexte de stabilité monétaire préserve le pouvoir d'achat des entreprises.",
+      "impact": "Maintien du pouvoir d'achat locataires CRE PACA ; stabilité des rendements immobiliers tertiaires sans pression de réévaluation rapide.",
+      "date": "23/11/2026",
+      "url": "https://www.laprovence.com/article/economie/0",
       "source": "Données marché",
       "tags": [
         {
@@ -150,7 +131,26 @@
           "cls": "tt"
         },
         {
-          "label": "France",
+          "label": "Monétaire",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Brent 96 USD : stabilité énergétique défavorable aux green-tech",
+      "body": "Le pétrole Brent reste stable à 96 USD/baril dans un contexte géopolitique complexe. Les secteurs verts et biocarburants restent compétitifs face aux énergies fossiles.",
+      "impact": "Maintien des investissements green-tech en PACA ; demande soutenue de locaux activité pour ETI biocarburants/énergies renouvelables.",
+      "date": "23/11/2026",
+      "url": "https://www.laprovence.com/article/economie/0",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Énergie",
+          "cls": "tg"
+        },
+        {
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]

@@ -1,32 +1,32 @@
 {
-  "generated_at": "23/11/2026",
+  "generated_at": "24/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Choose France : +1Md€ d'investissements en PACA portés par secteurs verts",
-      "body": "Le sommet Choose France affiche plus de 42 milliards d'euros de projets nationaux, dont plus d'un milliard en région PACA, principalement dans l'industrie verte et la santé. Cette dynamique d'investissement redéploie les capacités immobilières tertiaires régionales vers les secteurs stratégiques.",
-      "impact": "Opportunités de transaction bureaux/activité pour les entreprises green-tech et biotech en PACA ; demande croissante d'espaces flexibles pour accueillir ces nouveaux investisseurs.",
-      "date": "23/11/2026",
-      "url": "https://www.laprovence.com/article/economie/11537075480755/choose-france-plus-d-un-milliard-d-euros-d-investissements-attendus-en-paca-portes-par-l-industrie-verte-et-la-sante",
+      "title": "Immobilier : recul de 1,2% des prix anciens au T3 2026",
+      "body": "Le marché immobilier ancien français enregistre une baisse de 1,2% au troisième trimestre 2026, portant le recul annuel à près de 4%. Cette contraction est directement liée à la hausse des taux de crédit atteignant 3,49% en octobre, réduisant le pouvoir d'achat des ménages.",
+      "impact": "Les taux élevés impactent les transactions immobilières en PACA : privilégier les actifs tertiaires avec rendement locatif fort et négocier les prix à la baisse.",
+      "date": "24/11/2026",
+      "url": "https://www.laprovence.com/article/economie/5881869437231/immobilier-pourquoi-les-prix-des-logements-anciens-reculent-de-1-2-au-troisieme-trimestre-2026",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
           "label": "Marché",
           "cls": "tm"
+        },
+        {
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Lab des Repreneuses : nouvelle dynamique TPME à Marseille",
-      "body": "Le 3 décembre 2026, Grand Central à Marseille accueille le 'Lab des Repreneuses' pour accompagner les femmes en reconversion dans la reprise d'entreprises. Cette initiative cible les TPE rentables en mal de successeurs, segment actif du marché secondaire PACA.",
-      "impact": "Renforcement de l'offre de petits locaux commerciaux et d'activité via reprises entrepreneuriales féminines ; potentiel transactions moyen terme sur immobilier de proximité marseillais.",
-      "date": "23/11/2026",
-      "url": "https://www.laprovence.com/article/economie/19351704932495/reprendre-une-entreprise-quand-on-est-une-femme-participez-au-lab-des-repreneuses-a-grand-central-a-marseille",
+      "title": "Commerces et TPE : DLVAgglo mobilise des fonds d'aide",
+      "body": "Durance Luberon Verdon Agglo met à disposition des acteurs économiques des fonds d'aide financière ciblés pour soutenir artisans, agriculteurs, TPE et commerçants. Cette initiative vise à renforcer la résilience économique des territoires couverts.",
+      "impact": "Opportunité pour les PME/TPE locataires d'accéder à des aides : intégrer ces dispositifs dans les stratégies d'accompagnement locataire.",
+      "date": "24/11/2026",
+      "url": "https://www.laprovence.com/article/region/64739822694025/commerces-agriculture-environnement-dlvagglo-soutient-les-acteurs-economiques",
       "source": "La Provence",
       "tags": [
         {
@@ -41,11 +41,11 @@
     },
     {
       "id": "f3",
-      "title": "NGE certifié Great Place to Work : nouvelle norme flex-office régionale",
-      "body": "Le groupe NGE de Saint-Étienne-du-Grès devient le premier acteur français du BTP certifié Great Place to Work à cette échelle, traduisant une évolution des normes de bien-être en milieu de travail. Cette certification impacte les attentes des occupants bureaux/activité en PACA.",
-      "impact": "Hausse de la demande d'espaces collaboratifs modulables et durables ; valorisation des immeubles tertiaires offrant certification bien-être et flex-office.",
-      "date": "23/11/2026",
-      "url": "https://www.laprovence.com/article/economie/148461972768115/saint-etienne-du-gres-labellise-great-place-to-work-nge-un-groupe-ou-il-fait-bon-travailler",
+      "title": "Covoiturage : hausse de 30% des places en Provence",
+      "body": "Avec des carburants 17 à 32% plus chers depuis janvier 2026, le covoiturage se développe massivement en Provence, avec 30% de places supplémentaires proposées sur BlaBlaCar pendant la Toussaint. Cette tendance traduit une modification durable des mobilités professionnelles.",
+      "impact": "Préconiser des locaux d'activité avec accès transport en commun/covoiturage et espaces de stationnement partagés.",
+      "date": "24/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1638994605919615/covoiturage-la-flambee-des-carburants-pousse-les-francais-a-partager-leurs-trajets",
       "source": "La Provence",
       "tags": [
         {
@@ -53,18 +53,18 @@
           "cls": "tp"
         },
         {
-          "label": "Flex-office",
-          "cls": "ti2"
+          "label": "Marché",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Airbus Marignane valorise formation aéronautique PACA",
-      "body": "Romain Mercieca, apprenti chez Airbus à Marignane, est sacré Meilleur Apprenti de France section structure, illustrant la vitalité du pôle aéronautique régional. Ce succès renforce l'attractivité des locaux d'activité pour les ETI industrielles.",
-      "impact": "Pérennité de la demande immobilière pour les sites Airbus PACA ; reconduction d'espaces d'atelier/production performants dans la région.",
-      "date": "23/11/2026",
-      "url": "https://www.laprovence.com/article/economie/20459980010286/en-apprentissage-chez-airbus-a-marignane-romain-mercieca-est-sacre-meilleur-apprenti-de-france",
+      "title": "Création d'entreprise : France Travail accélère avec Restart",
+      "body": "Dans le cadre de Restart, événement annuel de France Travail, les agences du Vaucluse proposent plusieurs ateliers pour aider à la création d'entreprise. Cette dynamique confirme une reprise des créations entrepreneuriales en région PACA.",
+      "impact": "Anticiper une demande d'espaces tertiaires flexibles et abordables pour jeunes entreprises ; proposer des formules de bureaux partagés.",
+      "date": "24/11/2026",
+      "url": "https://www.laprovence.com/article/economie/94006594620884/semaine-restart-les-agences-france-travail-aux-cotes-des-porteurs-de-projet",
       "source": "La Provence",
       "tags": [
         {
@@ -79,20 +79,20 @@
     },
     {
       "id": "f5",
-      "title": "Euribor 3M stable 2.15% : financement crédit immobilier soutenu",
-      "body": "Euribor 3 mois maintenu à 2.15% dans le contexte macroéconomique actuel. Les taux de crédit pour acquisitions CRE restent accessibles malgré OAT 10Y à 3.70%.",
-      "impact": "Profitabilité des dossiers de transaction bureaux/activité consolidée ; financement tiers reste favorable pour ETI/PME PACA en phase de restructuration immobilière.",
-      "date": "23/11/2026",
-      "url": "https://www.laprovence.com/article/economie/0",
-      "source": "Données marché",
+      "title": "Data centers : mobilisation citoyenne en Provence",
+      "body": "50 personnes se sont rassemblées sur le site du futur data center aux Pennes-Mirabeau pour protester contre la multiplication de ces infrastructures dans la région. Cette opposition citoyenne traduit des enjeux d'environnement et d'aménagement territorial.",
+      "impact": "Évaluer l'acceptabilité locale avant de proposer des espaces pour data centers ou usages énergivores en PACA.",
+      "date": "24/11/2026",
+      "url": "https://www.laprovence.com/article/region/1646331712942115/50-personnes-se-sont-rassemblees-sur-le-site-du-futur-data-center-aux-pennes-mirabeau",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Financement",
-          "cls": "tt"
+          "label": "Réglementation",
+          "cls": "tr"
         }
       ]
     }
@@ -100,55 +100,43 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Choose France 2026 : 14.9Md€ nouveaux investissements annoncés",
-      "body": "L'Élysée affiche 81 projets inédits pour un total de 14.9 milliards d'euros d'investissements, mobilisant secteurs santé, cosmétique et biocarburants. Cette séquence poursuit la stratégie d'attraction des investissements étrangers.",
-      "impact": "Renforcement du climat d'affaires français ; accélération de la tertiarisation et demande immobilière bureaux pour sièges/R&D secteurs prioritaires.",
-      "date": "22/11/2026",
-      "url": "https://www.laprovence.com/article/economie/2681894065015214/choose-france-pres-de-15-milliards-d-euros-d-investissements-nouveaux-annonce-l-elysee",
+      "title": "Taux crédit France : 3,49% en octobre, freinage des transactions",
+      "body": "Le taux de crédit moyen atteint 3,49% en octobre 2026, impactant fortement le marché immobilier français avec un recul de 4% annuel. Cette hausse successive des taux réduit drastiquement le pouvoir d'achat des emprunteurs et ralentit l'activité transactionnelle.",
+      "impact": "Hausse des taux de financement ralentit les acquisitions immobilières en France ; adapter les stratégies pricing pour locaux tertiaires et d'activité.",
+      "date": "24/11/2026",
+      "url": "https://www.laprovence.com/article/economie/5881869437231/immobilier-pourquoi-les-prix-des-logements-anciens-reculent-de-1-2-au-troisieme-trimestre-2026",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Conjoncture",
-          "cls": "tg"
-        },
-        {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "Taux",
+          "cls": "tt"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Inflation France 1.7% : contexte favorable BCE 2.15%",
-      "body": "L'inflation française reste contrôlée à 1.7% et la BCE maintient ses taux directeurs à 2.15%. Ce contexte de stabilité monétaire préserve le pouvoir d'achat des entreprises.",
-      "impact": "Maintien du pouvoir d'achat locataires CRE PACA ; stabilité des rendements immobiliers tertiaires sans pression de réévaluation rapide.",
-      "date": "23/11/2026",
-      "url": "https://www.laprovence.com/article/economie/0",
-      "source": "Données marché",
+      "title": "Carburants : inflation de 23% depuis 2017, pression économique",
+      "body": "Les carburants coûtent 17 à 32% plus cher depuis janvier 2026, s'inscrivant dans une inflation cumulée de 23% depuis 2017 en France. Cette pression énergétique modifie en profondeur les comportements de mobilité et les coûts opérationnels des entreprises.",
+      "impact": "Coûts logistiques élevés affectent la localisation des entreprises ; favoriser les sites à proximité transports et réduire les coûts d'exploitation.",
+      "date": "24/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1638994605919615/covoiturage-la-flambee-des-carburants-pousse-les-francais-a-partager-leurs-trajets",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
-          "cls": "tt"
-        },
-        {
-          "label": "Monétaire",
-          "cls": "tt"
+          "label": "Géopolitique",
+          "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "Brent 96 USD : stabilité énergétique défavorable aux green-tech",
-      "body": "Le pétrole Brent reste stable à 96 USD/baril dans un contexte géopolitique complexe. Les secteurs verts et biocarburants restent compétitifs face aux énergies fossiles.",
-      "impact": "Maintien des investissements green-tech en PACA ; demande soutenue de locaux activité pour ETI biocarburants/énergies renouvelables.",
-      "date": "23/11/2026",
-      "url": "https://www.laprovence.com/article/economie/0",
-      "source": "Données marché",
+      "title": "Grève portuaire France : 2 décembre 2026, risque chaînes logistiques",
+      "body": "Les fédérations de marins appellent à une grève reconductible dès le 2 décembre 2026 sur tous les ports français métropolitains et outre-mer, suite à une première mobilisation le 6 novembre. Cette action majeure menace la fluidité des échanges commerciaux et des approvisionnements.",
+      "impact": "Risque de perturbation logistique : anticiper impacts sur locaux logistiques et d'activité portuaires ; surveiller les délais de supply chain.",
+      "date": "24/11/2026",
+      "url": "https://www.laprovence.com/article/economie/45150640946835/remorquage-portuaire-en-france-les-marins-appellent-a-une-greve-reconductible-des-le-2-decembre",
+      "source": "La Provence",
       "tags": [
-        {
-          "label": "Énergie",
-          "cls": "tg"
-        },
         {
           "label": "Géopolitique",
           "cls": "tg"

@@ -1,32 +1,32 @@
 {
-  "generated_at": "24/11/2026",
+  "generated_at": "25/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Immobilier : recul de 1,2% des prix anciens au T3 2026",
-      "body": "Le marché immobilier ancien français enregistre une baisse de 1,2% au troisième trimestre 2026, portant le recul annuel à près de 4%. Cette contraction est directement liée à la hausse des taux de crédit atteignant 3,49% en octobre, réduisant le pouvoir d'achat des ménages.",
-      "impact": "Les taux élevés impactent les transactions immobilières en PACA : privilégier les actifs tertiaires avec rendement locatif fort et négocier les prix à la baisse.",
-      "date": "24/11/2026",
-      "url": "https://www.laprovence.com/article/economie/5881869437231/immobilier-pourquoi-les-prix-des-logements-anciens-reculent-de-1-2-au-troisieme-trimestre-2026",
+      "title": "Dunkin' Donuts débarque à Marseille début 2027",
+      "body": "L'enseigne américaine ouvre son premier coffee-shop hors Île-de-France aux Terrasses du port en remplacement de Columbus café. Ce déploiement commercial marque une intensification de la concurrence retail dans les centres commerciaux marseillais.",
+      "impact": "Opportunité de transaction pour locaux commerciaux de petite surface en centre-ville, évaluer les basculements de flux entre anciennes et nouvelles enseignes.",
+      "date": "25/11/2026",
+      "url": "https://www.laprovence.com/article/economie/13099628579066/dunkin-donuts-ouvre-a-marseille-debut-2027-dates-adresse-recettes-ce-quil-faut-savoir",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Marché",
-          "cls": "tm"
+          "label": "PACA",
+          "cls": "tp"
         },
         {
-          "label": "Taux",
-          "cls": "tt"
+          "label": "Commerce",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Commerces et TPE : DLVAgglo mobilise des fonds d'aide",
-      "body": "Durance Luberon Verdon Agglo met à disposition des acteurs économiques des fonds d'aide financière ciblés pour soutenir artisans, agriculteurs, TPE et commerçants. Cette initiative vise à renforcer la résilience économique des territoires couverts.",
-      "impact": "Opportunité pour les PME/TPE locataires d'accéder à des aides : intégrer ces dispositifs dans les stratégies d'accompagnement locataire.",
+      "title": "Décathlon repousse son ouverture à Salon-de-Provence",
+      "body": "L'enseigne ne s'installera pas avant l'été 2027 au centre-ville de Salon-de-Provence. Ce délai reflète les contraintes de livraison et d'aménagement pour les grands formats en région.",
+      "impact": "Prudence recommandée sur calendriers d'ouverture commerciaux en PACA, ajuster timings de disponibilité immobilière pour gros locataires.",
       "date": "24/11/2026",
-      "url": "https://www.laprovence.com/article/region/64739822694025/commerces-agriculture-environnement-dlvagglo-soutient-les-acteurs-economiques",
+      "url": "https://www.laprovence.com/article/societe/1197922944681614/l-enseigne-decathlon-ne-s-installera-pas-avant-l-ete-prochain-dans-le-centre-ville-de-salon-de-provence",
       "source": "La Provence",
       "tags": [
         {
@@ -41,11 +41,11 @@
     },
     {
       "id": "f3",
-      "title": "Covoiturage : hausse de 30% des places en Provence",
-      "body": "Avec des carburants 17 à 32% plus chers depuis janvier 2026, le covoiturage se développe massivement en Provence, avec 30% de places supplémentaires proposées sur BlaBlaCar pendant la Toussaint. Cette tendance traduit une modification durable des mobilités professionnelles.",
-      "impact": "Préconiser des locaux d'activité avec accès transport en commun/covoiturage et espaces de stationnement partagés.",
-      "date": "24/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1638994605919615/covoiturage-la-flambee-des-carburants-pousse-les-francais-a-partager-leurs-trajets",
+      "title": "MINT Bikes redynamise la zone commerciale des Milles",
+      "body": "Le spécialiste de vélos reconditionnés s'implante au sud d'Aix-en-Provence avec son propre atelier de transformation. Cette activité mixte (retail/services) illustre l'intérêt croissant pour les modèles d'économie circulaire en zones activités.",
+      "impact": "Évaluer demande pour locaux activités/ateliers à usage mixte commercial en agglomération aixoise, potentiel de valorisation immobilière.",
+      "date": "25/11/2026",
+      "url": "https://www.laprovence.com/article/economie/31907744108541/black-friday-a-aix-en-provence-aux-milles-mint-bikes-casse-les-prix-sur-des-velos-reconditionnes-plus-frais-que-neufs",
       "source": "La Provence",
       "tags": [
         {
@@ -53,18 +53,37 @@
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Activités",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Création d'entreprise : France Travail accélère avec Restart",
-      "body": "Dans le cadre de Restart, événement annuel de France Travail, les agences du Vaucluse proposent plusieurs ateliers pour aider à la création d'entreprise. Cette dynamique confirme une reprise des créations entrepreneuriales en région PACA.",
-      "impact": "Anticiper une demande d'espaces tertiaires flexibles et abordables pour jeunes entreprises ; proposer des formules de bureaux partagés.",
+      "title": "Encadrement des loyers à Marseille : bilan mitigé",
+      "body": "La Fnaim Aix-Marseille Provence juge le dispositif d'encadrement locatif comme une « coquille vide » sans mesures d'accompagnement pour relancer le marché. Les professionnels demandent l'adoption de nouveaux mécanismes incitatifs.",
+      "impact": "Anticiper évolutions réglementaires pour locatifs tertiaires, négocier clauses d'adaptation loyers et durées avant durcissement potentiel de cadre.",
+      "date": "25/11/2026",
+      "url": "https://www.laprovence.com/article/region/1187314457154514/lencadrement-des-loyers-n-a-pas-fait-ses-preuves-a-marseille-les-professionnels-de-limmobilier-doutent",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Régulation",
+          "cls": "tr"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Petrochymia 2026 : forum de sourcing industriel à Martigues",
+      "body": "Le secteur chimie-raffinage se réunit les 25-26 novembre pour rencontrer fournisseurs et sous-traitants dans le bassin provençal. Événement clé pour évaluer activité industrielle et besoins en locaux spécialisés.",
+      "impact": "Identifier opportunités de transaction pour locaux industriels/logistiques dédiés à équipementiers et prestataires pétrochimie du bassin de Fos-Martigues.",
       "date": "24/11/2026",
-      "url": "https://www.laprovence.com/article/economie/94006594620884/semaine-restart-les-agences-france-travail-aux-cotes-des-porteurs-de-projet",
+      "url": "https://www.laprovence.com/article/societe/1669097435607815/la-petrochimie-donne-rendez-vous-a-martigues-pour-deux-jours-d-echanges-entre-industriels",
       "source": "La Provence",
       "tags": [
         {
@@ -74,25 +93,6 @@
         {
           "label": "Marché",
           "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Data centers : mobilisation citoyenne en Provence",
-      "body": "50 personnes se sont rassemblées sur le site du futur data center aux Pennes-Mirabeau pour protester contre la multiplication de ces infrastructures dans la région. Cette opposition citoyenne traduit des enjeux d'environnement et d'aménagement territorial.",
-      "impact": "Évaluer l'acceptabilité locale avant de proposer des espaces pour data centers ou usages énergivores en PACA.",
-      "date": "24/11/2026",
-      "url": "https://www.laprovence.com/article/region/1646331712942115/50-personnes-se-sont-rassemblees-sur-le-site-du-futur-data-center-aux-pennes-mirabeau",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Réglementation",
-          "cls": "tr"
         }
       ]
     }
@@ -100,45 +100,45 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Taux crédit France : 3,49% en octobre, freinage des transactions",
-      "body": "Le taux de crédit moyen atteint 3,49% en octobre 2026, impactant fortement le marché immobilier français avec un recul de 4% annuel. Cette hausse successive des taux réduit drastiquement le pouvoir d'achat des emprunteurs et ralentit l'activité transactionnelle.",
-      "impact": "Hausse des taux de financement ralentit les acquisitions immobilières en France ; adapter les stratégies pricing pour locaux tertiaires et d'activité.",
-      "date": "24/11/2026",
-      "url": "https://www.laprovence.com/article/economie/5881869437231/immobilier-pourquoi-les-prix-des-logements-anciens-reculent-de-1-2-au-troisieme-trimestre-2026",
+      "title": "Budget 2027 : tensions budgétaires et réformes débattues",
+      "body": "Le gouvernement engage consultations parlementaires pour arbitrer réductions budgétaires 2027 avec débat sur effort des retraités et niches fiscales. Les déficits publics contraignent les marges de manœuvre investissement.",
+      "impact": "Fragilité potentielle de dépenses tertiaires publiques régionales, maintenir prudence sur appels d'offres administration PACA pour 2027.",
+      "date": "25/11/2026",
+      "url": "https://www.laprovence.com/article/politique/30061107711034/budget-le-senat-defie-le-gouvernement-la-niche-fiscale-des-retraites-maintenue-malgre-les-appels-a-sa-suppression",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "Carburants : inflation de 23% depuis 2017, pression économique",
-      "body": "Les carburants coûtent 17 à 32% plus cher depuis janvier 2026, s'inscrivant dans une inflation cumulée de 23% depuis 2017 en France. Cette pression énergétique modifie en profondeur les comportements de mobilité et les coûts opérationnels des entreprises.",
-      "impact": "Coûts logistiques élevés affectent la localisation des entreprises ; favoriser les sites à proximité transports et réduire les coûts d'exploitation.",
-      "date": "24/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1638994605919615/covoiturage-la-flambee-des-carburants-pousse-les-francais-a-partager-leurs-trajets",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
+      "id": "m2",
+      "title": "OAT 3.70% | Euribor3M 2.15% | BCE stable à 2.15%",
+      "body": "Courbe obligataire française stabilisée à 3.70% sur 10 ans avec Euribor court terme à 2.15%. La BCE maintient sa trajectoire, inflation France à 1.7% offrant peu d'espace de baisse immédiate.",
+      "impact": "Coûts de financement immobilier entreprises restent élevés, prévilégier montages crédit court-terme et renégociations sur taux variables PACA.",
+      "date": "25/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1734124742715315/violences-conjugales-combien-ca-coute-vraiment-de-quitter-un-conjoint-maltraitant-des-les-premiers-mois",
+      "source": "Données marché",
+      "tags": [
+        {
+          "label": "Taux/Financement",
+          "cls": "tt"
+        }
+      ]
+    },
+    {
       "id": "m3",
-      "title": "Grève portuaire France : 2 décembre 2026, risque chaînes logistiques",
-      "body": "Les fédérations de marins appellent à une grève reconductible dès le 2 décembre 2026 sur tous les ports français métropolitains et outre-mer, suite à une première mobilisation le 6 novembre. Cette action majeure menace la fluidité des échanges commerciaux et des approvisionnements.",
-      "impact": "Risque de perturbation logistique : anticiper impacts sur locaux logistiques et d'activité portuaires ; surveiller les délais de supply chain.",
-      "date": "24/11/2026",
-      "url": "https://www.laprovence.com/article/economie/45150640946835/remorquage-portuaire-en-france-les-marins-appellent-a-une-greve-reconductible-des-le-2-decembre",
+      "title": "Stress salarial français : 47% travaillent malades",
+      "body": "Le baromètre OpinionWay révèle que 47% des salariés continuent de travailler malgré problèmes santé pour raisons financières, avec 56% ayant travaillé contre avis médical. Climat de précarité économique impacte productivité secteurs.",
+      "impact": "Demande croissante pour solutions espaces flexibles et bien-être au travail, valoriser services immobiliers tertiaires incluant aménagements santé/productivité.",
+      "date": "25/11/2026",
+      "url": "https://www.laprovence.com/article/sante/1724331293926915/47-des-salaries-continuent-de-travailler-en-etant-malade-pour-des-raisons-financieres-selon-une-etude",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Géopolitique",
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]

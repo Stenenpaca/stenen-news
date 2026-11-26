@@ -1,97 +1,97 @@
 {
-  "generated_at": "25/11/2026",
+  "generated_at": "26/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Dunkin' Donuts débarque à Marseille début 2027",
-      "body": "L'enseigne américaine ouvre son premier coffee-shop hors Île-de-France aux Terrasses du port en remplacement de Columbus café. Ce déploiement commercial marque une intensification de la concurrence retail dans les centres commerciaux marseillais.",
-      "impact": "Opportunité de transaction pour locaux commerciaux de petite surface en centre-ville, évaluer les basculements de flux entre anciennes et nouvelles enseignes.",
-      "date": "25/11/2026",
-      "url": "https://www.laprovence.com/article/economie/13099628579066/dunkin-donuts-ouvre-a-marseille-debut-2027-dates-adresse-recettes-ce-quil-faut-savoir",
+      "title": "Provence Hub Global : 132 exposants industriels à Martigues",
+      "body": "L'événement majeur de Martigues (25-26 novembre 2026) a rassemblé 132 exposants dont 10% d'étrangers, confirmant la dynamique du secteur industriel en région. Cette concentration d'acteurs technologiques renforce les opportunités de locaux d'activité spécialisés en PACA.",
+      "impact": "Opportunité de valorisation immobilière pour des locaux d'activité/atelier près de Martigues auprès des PME-PMI industrielles et leurs fournisseurs.",
+      "date": "26/11/2026",
+      "url": "https://www.laprovence.com/article/economie/83991725642959/les-fournisseurs-des-industriels-a-la-pointe-de-la-technologie-au-provence-hub-global-de-martigues",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Martigues",
           "cls": "tp"
         },
         {
-          "label": "Commerce",
+          "label": "Marché activité",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f2",
-      "title": "Décathlon repousse son ouverture à Salon-de-Provence",
-      "body": "L'enseigne ne s'installera pas avant l'été 2027 au centre-ville de Salon-de-Provence. Ce délai reflète les contraintes de livraison et d'aménagement pour les grands formats en région.",
-      "impact": "Prudence recommandée sur calendriers d'ouverture commerciaux en PACA, ajuster timings de disponibilité immobilière pour gros locataires.",
-      "date": "24/11/2026",
-      "url": "https://www.laprovence.com/article/societe/1197922944681614/l-enseigne-decathlon-ne-s-installera-pas-avant-l-ete-prochain-dans-le-centre-ville-de-salon-de-provence",
+      "title": "CODA inaugure son campus numérique à Avignon",
+      "body": "L'école d'informatique CODA a lancé son nouveau campus avignonnais le 24 novembre 2026, attendant 150 élèves dès 2027. Cette implantation renforce l'attractivité immobilière du secteur tertiaire avignonnais pour les services et formations numériques.",
+      "impact": "Demande croissante de bureaux et locaux pédagogiques à Avignon : étudier les opportunités locatives pour secteur formation/tech.",
+      "date": "25/11/2026",
+      "url": "https://www.laprovence.com/article/gaming/40281167551728/150-eleves-des-2027-l-ecole-d-informatique-coda-inaugure-son-nouveau-campus-a-avignon",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Avignon",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Marché bureaux",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f3",
-      "title": "MINT Bikes redynamise la zone commerciale des Milles",
-      "body": "Le spécialiste de vélos reconditionnés s'implante au sud d'Aix-en-Provence avec son propre atelier de transformation. Cette activité mixte (retail/services) illustre l'intérêt croissant pour les modèles d'économie circulaire en zones activités.",
-      "impact": "Évaluer demande pour locaux activités/ateliers à usage mixte commercial en agglomération aixoise, potentiel de valorisation immobilière.",
-      "date": "25/11/2026",
-      "url": "https://www.laprovence.com/article/economie/31907744108541/black-friday-a-aix-en-provence-aux-milles-mint-bikes-casse-les-prix-sur-des-velos-reconditionnes-plus-frais-que-neufs",
+      "title": "Relocalisation CCI Bas-Alpine : déménagement Sainte-Tulle",
+      "body": "La CCI Bas-Alpine quitte l'Éco Campus de Sainte-Tulle à l'été 2027, avec transfert des formations à Manosque. Cette restructuration libère des surfaces tertiaires à Sainte-Tulle et génère demande à Manosque.",
+      "impact": "Profiter de la libération du campus à Sainte-Tulle pour proposer des solutions de bureaux/locaux transformation auprès de nouveaux acteurs.",
+      "date": "26/11/2026",
+      "url": "https://www.laprovence.com/article/societe/7834015149006414/la-cci-bas-alpine-quittera-leco-campus-de-sainte-tulle-a-lete-2027-les-formations-transferees-a-manosque",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA BdRP",
           "cls": "tp"
         },
         {
-          "label": "Activités",
+          "label": "Marché bureaux",
           "cls": "tm"
         }
       ]
     },
     {
       "id": "f4",
-      "title": "Encadrement des loyers à Marseille : bilan mitigé",
-      "body": "La Fnaim Aix-Marseille Provence juge le dispositif d'encadrement locatif comme une « coquille vide » sans mesures d'accompagnement pour relancer le marché. Les professionnels demandent l'adoption de nouveaux mécanismes incitatifs.",
-      "impact": "Anticiper évolutions réglementaires pour locatifs tertiaires, négocier clauses d'adaptation loyers et durées avant durcissement potentiel de cadre.",
+      "title": "MINT Bikes aux Milles : reconversion locaux commerciaux",
+      "body": "MINT Bikes, installée dans la zone des Milles au sud d'Aix-en-Provence, reconditionne des vélos haut de gamme en atelier depuis 2026. Ce modèle illustre la valorisation des locaux d'activité pour l'économie circulaire.",
+      "impact": "Identifier aux Milles des locaux d'activité avec ateliers pour secteur économie circulaire/reconditionnement : marché de niche en croissance.",
       "date": "25/11/2026",
-      "url": "https://www.laprovence.com/article/region/1187314457154514/lencadrement-des-loyers-n-a-pas-fait-ses-preuves-a-marseille-les-professionnels-de-limmobilier-doutent",
+      "url": "https://www.laprovence.com/article/economie/31907744108541/black-friday-a-aix-en-provence-aux-milles-mint-bikes-casse-les-prix-sur-des-velos-reconditionnes-plus-frais-que-neufs",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA Aix",
           "cls": "tp"
         },
         {
-          "label": "Régulation",
-          "cls": "tr"
+          "label": "Commerce/activité",
+          "cls": "tm"
         }
       ]
     },
     {
       "id": "f5",
-      "title": "Petrochymia 2026 : forum de sourcing industriel à Martigues",
-      "body": "Le secteur chimie-raffinage se réunit les 25-26 novembre pour rencontrer fournisseurs et sous-traitants dans le bassin provençal. Événement clé pour évaluer activité industrielle et besoins en locaux spécialisés.",
-      "impact": "Identifier opportunités de transaction pour locaux industriels/logistiques dédiés à équipementiers et prestataires pétrochimie du bassin de Fos-Martigues.",
-      "date": "24/11/2026",
-      "url": "https://www.laprovence.com/article/societe/1669097435607815/la-petrochimie-donne-rendez-vous-a-martigues-pour-deux-jours-d-echanges-entre-industriels",
+      "title": "Immobilier Côte Bleue : micro-marché résidentiel premium",
+      "body": "Le marché immobilier de la Côte Bleue forme un micro-marché de prestige selon le président de la chambre des notaires BdR (podcast 26/11/2026). Les prix d'habitation au bord de mer négociables révèlent une segmentation claire.",
+      "impact": "Comprendre la segmentation prix Côte Bleue pour calibrer offres commerciales régionales et valoriser segments premium immobiliers.",
+      "date": "26/11/2026",
+      "url": "https://www.laprovence.com/article/videos/20816409432320/podcast-video-immobilier-sur-la-cote-bleue-combien-ca-coute-dhabiter-au-bord-de-la-mer",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA",
+          "label": "PACA BdR",
           "cls": "tp"
         },
         {
-          "label": "Marché",
+          "label": "Marché premium",
           "cls": "tm"
         }
       ]
@@ -100,46 +100,58 @@
   "macro": [
     {
       "id": "m1",
-      "title": "Budget 2027 : tensions budgétaires et réformes débattues",
-      "body": "Le gouvernement engage consultations parlementaires pour arbitrer réductions budgétaires 2027 avec débat sur effort des retraités et niches fiscales. Les déficits publics contraignent les marges de manœuvre investissement.",
-      "impact": "Fragilité potentielle de dépenses tertiaires publiques régionales, maintenir prudence sur appels d'offres administration PACA pour 2027.",
-      "date": "25/11/2026",
-      "url": "https://www.laprovence.com/article/politique/30061107711034/budget-le-senat-defie-le-gouvernement-la-niche-fiscale-des-retraites-maintenue-malgre-les-appels-a-sa-suppression",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Conjoncture",
-          "cls": "tg"
-        }
-      ]
-    },
-    {
-      "id": "m2",
-      "title": "OAT 3.70% | Euribor3M 2.15% | BCE stable à 2.15%",
-      "body": "Courbe obligataire française stabilisée à 3.70% sur 10 ans avec Euribor court terme à 2.15%. La BCE maintient sa trajectoire, inflation France à 1.7% offrant peu d'espace de baisse immédiate.",
-      "impact": "Coûts de financement immobilier entreprises restent élevés, prévilégier montages crédit court-terme et renégociations sur taux variables PACA.",
-      "date": "25/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1734124742715315/violences-conjugales-combien-ca-coute-vraiment-de-quitter-un-conjoint-maltraitant-des-les-premiers-mois",
+      "title": "Euribor 3M stable à 2.15% : financement OAT inchangé",
+      "body": "Le taux Euribor 3 mois demeure à 2.15% et l'OAT française à 3.70% (données marché 26/11/2026). La stabilité des conditions de financement court terme maintient les emprunts tertiaires dans une enveloppe prévisible.",
+      "impact": "Taux de financement PACA stables : opportunité pour verrouiller des conditions crédit sur transactions bureaux/locaux avant variation BCE.",
+      "date": "26/11/2026",
+      "url": "https://www.laprovence.com/marche-taux",
       "source": "Données marché",
       "tags": [
         {
-          "label": "Taux/Financement",
+          "label": "Taux Euribor",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
           "cls": "tt"
         }
       ]
     },
     {
-      "id": "m3",
-      "title": "Stress salarial français : 47% travaillent malades",
-      "body": "Le baromètre OpinionWay révèle que 47% des salariés continuent de travailler malgré problèmes santé pour raisons financières, avec 56% ayant travaillé contre avis médical. Climat de précarité économique impacte productivité secteurs.",
-      "impact": "Demande croissante pour solutions espaces flexibles et bien-être au travail, valoriser services immobiliers tertiaires incluant aménagements santé/productivité.",
-      "date": "25/11/2026",
-      "url": "https://www.laprovence.com/article/sante/1724331293926915/47-des-salaries-continuent-de-travailler-en-etant-malade-pour-des-raisons-financieres-selon-une-etude",
-      "source": "La Provence",
+      "id": "m2",
+      "title": "Inflation France 1.7% : contexte macro favorable tertiaire",
+      "body": "L'inflation française modérée à 1.7% (26/11/2026) reflète une conjoncture maîtrisée. Ce contexte limite la pression inflationniste sur les coûts de transaction immobilière tertiaire.",
+      "impact": "Climat macro favorable pour négocier des transactions PACA : inflation contenue permet stabilité des prix et pouvoir d'achat locataires.",
+      "date": "26/11/2026",
+      "url": "https://www.laprovence.com/marche-inflation",
+      "source": "Conjoncture France",
       "tags": [
+        {
+          "label": "Inflation",
+          "cls": "tg"
+        },
         {
           "label": "Conjoncture",
           "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "BCE 2.15% : politique monétaire restrictive persiste",
+      "body": "Le taux directeur BCE à 2.15% (26/11/2026) maintient un cadre restrictif prolongé. La trajectoire de taux européens impacte les décisions d'investissement immobilier institutionnel en PACA.",
+      "impact": "Cadre BCE restrictif : vérifier les arbitrages des investisseurs SCPI/fonds immobiliers tertiaires pour ajuster stratégie commerciale.",
+      "date": "26/11/2026",
+      "url": "https://www.laprovence.com/marche-bce",
+      "source": "Politique monétaire",
+      "tags": [
+        {
+          "label": "BCE",
+          "cls": "tt"
+        },
+        {
+          "label": "Investissement",
+          "cls": "ti2"
         }
       ]
     }

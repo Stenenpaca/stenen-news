@@ -1,115 +1,18 @@
 {
-  "generated_at": "26/11/2026",
+  "generated_at": "27/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Provence Hub Global : 132 exposants industriels à Martigues",
-      "body": "L'événement majeur de Martigues (25-26 novembre 2026) a rassemblé 132 exposants dont 10% d'étrangers, confirmant la dynamique du secteur industriel en région. Cette concentration d'acteurs technologiques renforce les opportunités de locaux d'activité spécialisés en PACA.",
-      "impact": "Opportunité de valorisation immobilière pour des locaux d'activité/atelier près de Martigues auprès des PME-PMI industrielles et leurs fournisseurs.",
-      "date": "26/11/2026",
-      "url": "https://www.laprovence.com/article/economie/83991725642959/les-fournisseurs-des-industriels-a-la-pointe-de-la-technologie-au-provence-hub-global-de-martigues",
+      "title": "Revolut s'impose en France avec 8M clients et agrément bancaire",
+      "body": "Revolut vise la place de numéro un face à BoursoBank grâce à l'IA et de nouveaux services d'épargne. La fintech enregistre une forte percée à Marseille et dans tout le Sud.",
+      "impact": "Renforcement de la concurrence bancaire régionale impactant les conditions de financement des transactions CRE PACA et les taux de crédit court terme.",
+      "date": "27/11/2026",
+      "url": "https://www.laprovence.com/article/economie/8708307669362714/de-carte-de-voyage-a-banque-du-quotidien-comment-revolut-s-impose-en-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "PACA Martigues",
+          "label": "Marché PACA",
           "cls": "tp"
-        },
-        {
-          "label": "Marché activité",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "CODA inaugure son campus numérique à Avignon",
-      "body": "L'école d'informatique CODA a lancé son nouveau campus avignonnais le 24 novembre 2026, attendant 150 élèves dès 2027. Cette implantation renforce l'attractivité immobilière du secteur tertiaire avignonnais pour les services et formations numériques.",
-      "impact": "Demande croissante de bureaux et locaux pédagogiques à Avignon : étudier les opportunités locatives pour secteur formation/tech.",
-      "date": "25/11/2026",
-      "url": "https://www.laprovence.com/article/gaming/40281167551728/150-eleves-des-2027-l-ecole-d-informatique-coda-inaugure-son-nouveau-campus-a-avignon",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA Avignon",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché bureaux",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "Relocalisation CCI Bas-Alpine : déménagement Sainte-Tulle",
-      "body": "La CCI Bas-Alpine quitte l'Éco Campus de Sainte-Tulle à l'été 2027, avec transfert des formations à Manosque. Cette restructuration libère des surfaces tertiaires à Sainte-Tulle et génère demande à Manosque.",
-      "impact": "Profiter de la libération du campus à Sainte-Tulle pour proposer des solutions de bureaux/locaux transformation auprès de nouveaux acteurs.",
-      "date": "26/11/2026",
-      "url": "https://www.laprovence.com/article/societe/7834015149006414/la-cci-bas-alpine-quittera-leco-campus-de-sainte-tulle-a-lete-2027-les-formations-transferees-a-manosque",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA BdRP",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché bureaux",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "MINT Bikes aux Milles : reconversion locaux commerciaux",
-      "body": "MINT Bikes, installée dans la zone des Milles au sud d'Aix-en-Provence, reconditionne des vélos haut de gamme en atelier depuis 2026. Ce modèle illustre la valorisation des locaux d'activité pour l'économie circulaire.",
-      "impact": "Identifier aux Milles des locaux d'activité avec ateliers pour secteur économie circulaire/reconditionnement : marché de niche en croissance.",
-      "date": "25/11/2026",
-      "url": "https://www.laprovence.com/article/economie/31907744108541/black-friday-a-aix-en-provence-aux-milles-mint-bikes-casse-les-prix-sur-des-velos-reconditionnes-plus-frais-que-neufs",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA Aix",
-          "cls": "tp"
-        },
-        {
-          "label": "Commerce/activité",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Immobilier Côte Bleue : micro-marché résidentiel premium",
-      "body": "Le marché immobilier de la Côte Bleue forme un micro-marché de prestige selon le président de la chambre des notaires BdR (podcast 26/11/2026). Les prix d'habitation au bord de mer négociables révèlent une segmentation claire.",
-      "impact": "Comprendre la segmentation prix Côte Bleue pour calibrer offres commerciales régionales et valoriser segments premium immobiliers.",
-      "date": "26/11/2026",
-      "url": "https://www.laprovence.com/article/videos/20816409432320/podcast-video-immobilier-sur-la-cote-bleue-combien-ca-coute-dhabiter-au-bord-de-la-mer",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "PACA BdR",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché premium",
-          "cls": "tm"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "id": "m1",
-      "title": "Euribor 3M stable à 2.15% : financement OAT inchangé",
-      "body": "Le taux Euribor 3 mois demeure à 2.15% et l'OAT française à 3.70% (données marché 26/11/2026). La stabilité des conditions de financement court terme maintient les emprunts tertiaires dans une enveloppe prévisible.",
-      "impact": "Taux de financement PACA stables : opportunité pour verrouiller des conditions crédit sur transactions bureaux/locaux avant variation BCE.",
-      "date": "26/11/2026",
-      "url": "https://www.laprovence.com/marche-taux",
-      "source": "Données marché",
-      "tags": [
-        {
-          "label": "Taux Euribor",
-          "cls": "tt"
         },
         {
           "label": "Financement",
@@ -118,40 +21,137 @@
       ]
     },
     {
-      "id": "m2",
-      "title": "Inflation France 1.7% : contexte macro favorable tertiaire",
-      "body": "L'inflation française modérée à 1.7% (26/11/2026) reflète une conjoncture maîtrisée. Ce contexte limite la pression inflationniste sur les coûts de transaction immobilière tertiaire.",
-      "impact": "Climat macro favorable pour négocier des transactions PACA : inflation contenue permet stabilité des prix et pouvoir d'achat locataires.",
+      "id": "f2",
+      "title": "Black Friday 2026 : offensives commerciales face baisse pouvoir achat",
+      "body": "Les enseignes de Plan de Campagne affichent des promotions jusqu'à -70% pour dynamiser la consommation. Cette agressivité tarifaire reflète les difficultés à maintenir les volumes face à l'érosion du pouvoir d'achat.",
+      "impact": "Pression accrue sur les loyers commerciaux PACA nécessitant une flexibilité accrue des contrats et des négociations de réduction de charges locatives.",
       "date": "26/11/2026",
-      "url": "https://www.laprovence.com/marche-inflation",
-      "source": "Conjoncture France",
+      "url": "https://www.laprovence.com/article/economie/34948726691979/un-black-friday-agressif-face-a-la-baisse-du-pouvoir-d-achat-les-enseignes-de-plan-de-campagne-passent-a-loffensive",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "Inflation",
+          "label": "Commerce",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "École d'ingénieur Toulon 2027 : nouvelle demande locaux spécialisés",
+      "body": "L'École des industries avancées ouvrira ses portes à la rentrée 2027 avec 40 places initiales, spécialisée en robotique et systèmes embarqués marins. Ce nouvel établissement générera une demande structurelle en locaux d'activité et services.",
+      "impact": "Opportunité d'offre en locaux d'activité/recherche près de Toulon pour les 3-5 ans auprès d'étudiants et start-ups technologiques du secteur maritime.",
+      "date": "27/11/2026",
+      "url": "https://www.laprovence.com/article/societe/1908397885892615/formation-robotique-innovations-maritimes-la-nouvelle-ecole-d-ingenieur-de-toulon-ouvrira-ses-portes-en-2027",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Activité PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Recycling Vitrolles : centre agrégé traite 3000 deux-roues/an",
+      "body": "Provence Moto à Vitrolles est l'unique centre agréé des Bouches-du-Rhône pour le recyclage de deux et trois roues. L'activité de dépollution-revente représente un secteur d'activité stratégique régional.",
+      "impact": "Référence pour transaction de locaux d'activité/industriels en PACA avec modèle économique durable et circuit de certification croissant.",
+      "date": "26/11/2026",
+      "url": "https://www.laprovence.com/article/economie/8667632312972314/deux-roues-hors-dusage-la-casse-provence-moto-a-vitrolles-fait-face-au-defi-des-circuits-illegaux",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Activité PACA",
+          "cls": "tp"
+        },
+        {
+          "label": "Marché",
+          "cls": "tm"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Euribor 3M: 2.15% | OAT 10Y: 3.70% | Financement CRE stable",
+      "body": "Les conditions de financement long terme restent relativement stables avec Euribor 3M à 2.15% et OAT 10 ans à 3.70%. L'accès au crédit bancaire pour les transactions CRE PACA demeure encadré mais disponible.",
+      "impact": "Maintien de la capacité d'investissement des bailleurs PACA avec taux d'emprunt nets autour de 5.0-5.5% selon profil crédit, recommandé de sécuriser avant fin Q4.",
+      "date": "27/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1757956015012814/les-chiffres-de-l-insee-montrent-une-legere-recession-en-france-depuis-le-deuxieme-trimestre",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Taux",
+          "cls": "tt"
+        },
+        {
+          "label": "Financement",
+          "cls": "tt"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "id": "m1",
+      "title": "Récession technique France Q2-Q3 2026 : baisse PIB consécutive",
+      "body": "L'Insee confirme une légère récession technique depuis le deuxième trimestre 2026, caractérisée par deux trimestres consécutifs de baisse du PIB. Cette contraction économique affecte la demande de bureaux et locaux d'activité.",
+      "impact": "Anticipation d'une stagnation des valeurs locatives bureaux/activité PACA et ralentissement des appels d'offres de prise de position pour 2027.",
+      "date": "27/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1757956015012814/les-chiffres-de-l-insee-montrent-une-legere-recession-en-france-depuis-le-deuxieme-trimestre",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Conjoncture",
           "cls": "tg"
         },
         {
-          "label": "Conjoncture",
+          "label": "France",
+          "cls": "tg"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Brent 96 USD/bl : crise aérienne Norse Atlantic faillite",
+      "body": "La compagnie aérienne norvégienne Norse Atlantic a déposé bilan suite à la flambée des prix du kérosène liée à la guerre au Moyen-Orient. Les bailleurs ont résilié les contrats de location d'avions.",
+      "impact": "Instabilité géopolitique-énergétique affectant les taux de transport et les coûts logistiques de transition locaux d'activité PACA avec risques inflationnistes court terme.",
+      "date": "27/11/2026",
+      "url": "https://www.laprovence.com/article/economie/13525467441778/la-compagnie-aerienne-norvegienne-norse-atlantic-en-faillite-a-cause-de-la-flambee-des-prix-du-kerosene",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Énergie",
+          "cls": "tg"
+        },
+        {
+          "label": "Géopolitique",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m3",
-      "title": "BCE 2.15% : politique monétaire restrictive persiste",
-      "body": "Le taux directeur BCE à 2.15% (26/11/2026) maintient un cadre restrictif prolongé. La trajectoire de taux européens impacte les décisions d'investissement immobilier institutionnel en PACA.",
-      "impact": "Cadre BCE restrictif : vérifier les arbitrages des investisseurs SCPI/fonds immobiliers tertiaires pour ajuster stratégie commerciale.",
-      "date": "26/11/2026",
-      "url": "https://www.laprovence.com/marche-bce",
-      "source": "Politique monétaire",
+      "title": "BCE 2.15% | Inflation 1.7% | Stabilité monétaire acquise",
+      "body": "La Banque centrale européenne maintient son taux directeur à 2.15% dans un contexte d'inflation modérée à 1.7% en France. Cette stabilité de la politique monétaire offre un cadre prévisible pour les investissements immobiliers.",
+      "impact": "Conditions favorables aux SCPI et investissements tertiaires PACA avec taux réels positifs et absence de risque de hausse BCE imminente avant 2027.",
+      "date": "27/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1757956015012814/les-chiffres-de-l-insee-montrent-une-legere-recession-en-france-depuis-le-deuxieme-trimestre",
+      "source": "La Provence",
       "tags": [
         {
-          "label": "BCE",
+          "label": "Taux",
           "cls": "tt"
         },
         {
-          "label": "Investissement",
-          "cls": "ti2"
+          "label": "BCE",
+          "cls": "tt"
         }
       ]
     }

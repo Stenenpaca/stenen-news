@@ -1,110 +1,13 @@
 {
-  "generated_at": "27/11/2026",
+  "generated_at": "28/11/2026",
   "feed": [
     {
       "id": "f1",
-      "title": "Revolut s'impose en France avec 8M clients et agrément bancaire",
-      "body": "Revolut vise la place de numéro un face à BoursoBank grâce à l'IA et de nouveaux services d'épargne. La fintech enregistre une forte percée à Marseille et dans tout le Sud.",
-      "impact": "Renforcement de la concurrence bancaire régionale impactant les conditions de financement des transactions CRE PACA et les taux de crédit court terme.",
-      "date": "27/11/2026",
-      "url": "https://www.laprovence.com/article/economie/8708307669362714/de-carte-de-voyage-a-banque-du-quotidien-comment-revolut-s-impose-en-france",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Marché PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Financement",
-          "cls": "tt"
-        }
-      ]
-    },
-    {
-      "id": "f2",
-      "title": "Black Friday 2026 : offensives commerciales face baisse pouvoir achat",
-      "body": "Les enseignes de Plan de Campagne affichent des promotions jusqu'à -70% pour dynamiser la consommation. Cette agressivité tarifaire reflète les difficultés à maintenir les volumes face à l'érosion du pouvoir d'achat.",
-      "impact": "Pression accrue sur les loyers commerciaux PACA nécessitant une flexibilité accrue des contrats et des négociations de réduction de charges locatives.",
-      "date": "26/11/2026",
-      "url": "https://www.laprovence.com/article/economie/34948726691979/un-black-friday-agressif-face-a-la-baisse-du-pouvoir-d-achat-les-enseignes-de-plan-de-campagne-passent-a-loffensive",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Commerce",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f3",
-      "title": "École d'ingénieur Toulon 2027 : nouvelle demande locaux spécialisés",
-      "body": "L'École des industries avancées ouvrira ses portes à la rentrée 2027 avec 40 places initiales, spécialisée en robotique et systèmes embarqués marins. Ce nouvel établissement générera une demande structurelle en locaux d'activité et services.",
-      "impact": "Opportunité d'offre en locaux d'activité/recherche près de Toulon pour les 3-5 ans auprès d'étudiants et start-ups technologiques du secteur maritime.",
-      "date": "27/11/2026",
-      "url": "https://www.laprovence.com/article/societe/1908397885892615/formation-robotique-innovations-maritimes-la-nouvelle-ecole-d-ingenieur-de-toulon-ouvrira-ses-portes-en-2027",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Activité PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f4",
-      "title": "Recycling Vitrolles : centre agrégé traite 3000 deux-roues/an",
-      "body": "Provence Moto à Vitrolles est l'unique centre agréé des Bouches-du-Rhône pour le recyclage de deux et trois roues. L'activité de dépollution-revente représente un secteur d'activité stratégique régional.",
-      "impact": "Référence pour transaction de locaux d'activité/industriels en PACA avec modèle économique durable et circuit de certification croissant.",
-      "date": "26/11/2026",
-      "url": "https://www.laprovence.com/article/economie/8667632312972314/deux-roues-hors-dusage-la-casse-provence-moto-a-vitrolles-fait-face-au-defi-des-circuits-illegaux",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Activité PACA",
-          "cls": "tp"
-        },
-        {
-          "label": "Marché",
-          "cls": "tm"
-        }
-      ]
-    },
-    {
-      "id": "f5",
-      "title": "Euribor 3M: 2.15% | OAT 10Y: 3.70% | Financement CRE stable",
-      "body": "Les conditions de financement long terme restent relativement stables avec Euribor 3M à 2.15% et OAT 10 ans à 3.70%. L'accès au crédit bancaire pour les transactions CRE PACA demeure encadré mais disponible.",
-      "impact": "Maintien de la capacité d'investissement des bailleurs PACA avec taux d'emprunt nets autour de 5.0-5.5% selon profil crédit, recommandé de sécuriser avant fin Q4.",
-      "date": "27/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1757956015012814/les-chiffres-de-l-insee-montrent-une-legere-recession-en-france-depuis-le-deuxieme-trimestre",
-      "source": "La Provence",
-      "tags": [
-        {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "Financement",
-          "cls": "tt"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "id": "m1",
-      "title": "Récession technique France Q2-Q3 2026 : baisse PIB consécutive",
-      "body": "L'Insee confirme une légère récession technique depuis le deuxième trimestre 2026, caractérisée par deux trimestres consécutifs de baisse du PIB. Cette contraction économique affecte la demande de bureaux et locaux d'activité.",
-      "impact": "Anticipation d'une stagnation des valeurs locatives bureaux/activité PACA et ralentissement des appels d'offres de prise de position pour 2027.",
-      "date": "27/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1757956015012814/les-chiffres-de-l-insee-montrent-une-legere-recession-en-france-depuis-le-deuxieme-trimestre",
+      "title": "Récession technique : impact sur la demande tertiaire PACA",
+      "body": "L'Insee confirme l'entrée en récession technique de la France avec deux baisses consécutives du PIB depuis Q2 2026. Cette contraction économique risque de réduire les investissements immobiliers d'entreprise et les relocalisations de sièges sociaux en région PACA.",
+      "impact": "Anticipez une baisse des transactions bureaux/activité PACA et durcissement des négociations commerciales sur les 12 prochains mois.",
+      "date": "28/11/2026",
+      "url": "https://www.laprovence.com/article/economie/9990048906456414/economie-a-larret-que-signifie-lannonce-de-lentree-en-recession-de-la-france",
       "source": "La Provence",
       "tags": [
         {
@@ -112,23 +15,116 @@
           "cls": "tg"
         },
         {
-          "label": "France",
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Dégradation perspective France : impact coûts emprunt immobilier",
+      "body": "S&P Global maintient la note A+ mais abaisse la perspective à négative, menaçant une dégradation future. Cette décision intervient alors que le gouvernement vise un déficit ramené à 5%, un objectif crucial pour éviter la hausse des coûts d'emprunt.",
+      "impact": "Profitez de l'accalmie actuelle pour refinancer les acquisitions tertiaires PACA avant une possible augmentation des taux d'intérêt.",
+      "date": "27/11/2026",
+      "url": "https://www.laprovence.com/article/economie/98391826915763/lagence-de-notation-s-p-global-ouvre-la-porte-a-une-prochaine-degradation-de-la-note-de-la-france",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Taux OAT",
+          "cls": "tt"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Infra routière Bonpas : amélioration accessibilité zones activité",
+      "body": "L'inauguration de l'échangeur Bonpas le 27 novembre libère enfin l'axe Avignon-Cavaillon-Apt, résorbing un point noir du trafic. Cette amélioration renforce l'attractivité des zones d'activité et commerciales du Vaucluse.",
+      "impact": "Valorisez les actifs locaux d'activité/commerce du couloir Avignon-Apt auprès des occupants sensibles à la logistique.",
+      "date": "28/11/2026",
+      "url": "https://www.laprovence.com/article/economie/1925152041322115/chantier-de-l-echangeur-bonpas-l-axe-avignon-cavaillon-apt-enfin-libere",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Infrastructure",
+          "cls": "tm"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Treely : flex-work et cohésion collaborateurs, nouveau modèle",
+      "body": "Basée à Marseille depuis 2022, Treely organise des défis de marche connectés pour renforcer la cohésion des équipes. Cette approche innovante répond à la demande croissante de flex-office et d'espaces collaboratifs modulables en PACA.",
+      "impact": "Proposez des espaces bureau PACA avec services well-being intégrés pour séduire les PME marseillaises adoptant le flex-work.",
+      "date": "27/11/2026",
+      "url": "https://www.laprovence.com/article/economie/9545369783117114/treely-mise-sur-la-marche-pour-rapprocher-les-salaries-et-soutenir-des-causes",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Flex-office",
+          "cls": "tm"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "IA et accessibilité : nouvelle demande d'espaces innovants",
+      "body": "Les lunettes connectées Meta équipées de la solution Oorion pour l'autonomie des malvoyants ont été présentées aux Rencontres de l'IA à Marseille le 28 novembre. Cette tendance montre l'émergence d'une demande pour des locaux tertiaires aux normes handicap et dotés de technologies inclusives.",
+      "impact": "Référencez les immeubles bureaux/activité PACA certifiés accessibilité et équipés en infrastructures numériques pour cibler les entreprises tech et RSE.",
+      "date": "28/11/2026",
+      "url": "https://www.laprovence.com/article/economie/20103253294850/oorion-et-lunettes-meta-lia-au-service-de-lautonomie-des-malvoyants-a-marseille",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Innovation",
+          "cls": "tm"
+        },
+        {
+          "label": "PACA",
+          "cls": "tp"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "id": "m1",
+      "title": "France en récession : contraction PIB confirmée par l'Insee",
+      "body": "L'Insee valide l'entrée en récession technique avec deux baisses consécutives du PIB depuis Q2 2026. Cette situation détériore les prévisions de croissance et augmente les risques de hausse du chômage et de réduction des investissements d'entreprise.",
+      "impact": "Anticipez une compression des budgets d'expansion immobilière des groupes PACA et une prudence accrue des locataires.",
+      "date": "28/11/2026",
+      "url": "https://www.laprovence.com/article/economie/9990048906456414/economie-a-larret-que-signifie-lannonce-de-lentree-en-recession-de-la-france",
+      "source": "La Provence",
+      "tags": [
+        {
+          "label": "Conjoncture",
           "cls": "tg"
         }
       ]
     },
     {
       "id": "m2",
-      "title": "Brent 96 USD/bl : crise aérienne Norse Atlantic faillite",
-      "body": "La compagnie aérienne norvégienne Norse Atlantic a déposé bilan suite à la flambée des prix du kérosène liée à la guerre au Moyen-Orient. Les bailleurs ont résilié les contrats de location d'avions.",
-      "impact": "Instabilité géopolitique-énergétique affectant les taux de transport et les coûts logistiques de transition locaux d'activité PACA avec risques inflationnistes court terme.",
+      "title": "S&P Global dégrade perspective France : risque de dégradation de note",
+      "body": "L'agence S&P Global abaisse sa perspective sur la France de stable à négative malgré le maintien de la note A+, ouvrant la porte à une dégradation future. Le gouvernement cherche à ramener le déficit public à 5% pour rassurer les marchés et éviter une hausse des coûts d'emprunt.",
+      "impact": "Une dégradation de note augmenterait les rendements OAT (actuellement 3.70%) et les taux Euribor3M (2.15%), renchérissant le financement de projets immobiliers.",
       "date": "27/11/2026",
-      "url": "https://www.laprovence.com/article/economie/13525467441778/la-compagnie-aerienne-norvegienne-norse-atlantic-en-faillite-a-cause-de-la-flambee-des-prix-du-kerosene",
+      "url": "https://www.laprovence.com/article/economie/98391826915763/lagence-de-notation-s-p-global-ouvre-la-porte-a-une-prochaine-degradation-de-la-note-de-la-france",
       "source": "La Provence",
       "tags": [
         {
-          "label": "Énergie",
-          "cls": "tg"
+          "label": "Taux/Financement",
+          "cls": "tt"
         },
         {
           "label": "Géopolitique",
@@ -138,19 +134,15 @@
     },
     {
       "id": "m3",
-      "title": "BCE 2.15% | Inflation 1.7% | Stabilité monétaire acquise",
-      "body": "La Banque centrale européenne maintient son taux directeur à 2.15% dans un contexte d'inflation modérée à 1.7% en France. Cette stabilité de la politique monétaire offre un cadre prévisible pour les investissements immobiliers.",
-      "impact": "Conditions favorables aux SCPI et investissements tertiaires PACA avec taux réels positifs et absence de risque de hausse BCE imminente avant 2027.",
-      "date": "27/11/2026",
-      "url": "https://www.laprovence.com/article/economie/1757956015012814/les-chiffres-de-l-insee-montrent-une-legere-recession-en-france-depuis-le-deuxieme-trimestre",
-      "source": "La Provence",
+      "title": "Contexte macro : taux stables avant possible réévaluation BCE",
+      "body": "Avec l'inflation France à 1.7%, les taux OAT à 3.70% et Euribor3M à 2.15%, la BCE maintient son action clé à 2.15%. L'incertitude récessive redéfinit les attentes de politique monétaire pour 2027.",
+      "impact": "Les taux de financement immobilier restent relativement stables court-terme mais une possible baisse BCE pourrait améliorer l'accès crédit pour les projets tertiaires PACA.",
+      "date": "28/11/2026",
+      "url": "https://www.laprovence.com/article/economie/9990048906456414/economie-a-larret-que-signifie-lannonce-de-lentree-en-recession-de-la-france",
+      "source": "Données marché",
       "tags": [
         {
-          "label": "Taux",
-          "cls": "tt"
-        },
-        {
-          "label": "BCE",
+          "label": "BCE/Inflation",
           "cls": "tt"
         }
       ]
